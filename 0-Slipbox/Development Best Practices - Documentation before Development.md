@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Development Best Practices - Documentation before Development
 
 ![Pasted image 20220729153813.png](_assets/Pasted%20image%2020220729153813.png)
@@ -48,3 +60,11 @@ Keeping documents electronically does not cost you. So let's start maintaining r
 ````dataview
 list from [[Development Best Practices - Documentation before Development]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

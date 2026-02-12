@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package - imaginator
 
 *Source: [casact/imaginator: Randomly simulate inception and settlement of general insurance losses](https://github.com/casact/imaginator)*
@@ -24,3 +36,11 @@ Future developments may include multiple payments per claim, simulated case rese
 ````dataview
 list from [[R Package - imaginator]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

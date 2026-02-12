@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_020",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-06.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-05.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-04.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-03.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-02.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Windows Run.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - Startup.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - Resource Monitor.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - Obsidian Vault Launcher.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - GodMode All Tasks.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - Cleanup.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/Run - Check for Windows Store App Updates.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Run/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Web Browsers/Firefox/Firefox.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Web Browsers/Firefox/Firefox Developer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Ten Step GTD Setup List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/SQL Server List of Tools and Scripts.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/REST API Resources List.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/R Shiny Packages List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

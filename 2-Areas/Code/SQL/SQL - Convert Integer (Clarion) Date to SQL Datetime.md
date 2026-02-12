@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Convert Integer (Clarion) Date to SQL Datetime
 
 *Source: [Convert Integer (Clarion) Date to SQL DateTime | thiscodeWorks](https://www.thiscodeworks.com/61faf4d2b783be0015bbaf87)*
@@ -39,3 +51,11 @@ The DATE data type is a data format used in the Btrieve Record Manager and some 
 ````dataview
 list from [[SQL - Convert Integer (Clarion) Date to SQL Datetime]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

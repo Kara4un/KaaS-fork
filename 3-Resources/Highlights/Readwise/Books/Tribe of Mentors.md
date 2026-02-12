@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tribe of Mentors
 
 ## Metadata
@@ -24,3 +36,11 @@
   Greg: 
   First, I yell "FUCK!" as loud as I can! Then, I compartmentalize and DIN and DIP ("do it now" and "do it proper"). (Page 285)
   * Note: Greg Norman
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

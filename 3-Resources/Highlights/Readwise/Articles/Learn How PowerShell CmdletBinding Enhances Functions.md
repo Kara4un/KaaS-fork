@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Learn How PowerShell CmdletBinding Enhances Functions
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Creating a Basic Function to Organize Files with PowerShell
 * A basic PowerShell function is not defined as having just a few lines of code. “Basic” in this context means that the function lacks the features of a PowerShell cmdlet. The function doesn’t have common parameters, and there’s no full control over the parameters available.
 * Gaining Access to Common Parameters with the CmdletBinding Attribute
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

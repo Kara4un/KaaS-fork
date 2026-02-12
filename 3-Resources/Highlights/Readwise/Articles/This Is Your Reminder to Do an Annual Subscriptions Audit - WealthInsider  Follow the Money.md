@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # This Is Your Reminder to Do an Annual Subscriptions Audit - WealthInsider | Follow the Money
 
 ## Metadata
@@ -16,3 +28,11 @@
 * How you check on your recurring bills will depend on what kind of bill or recurring payment it is. In some cases your only decision will be to decide to cancel or not. ([View Highlight](https://instapaper.com/read/1481383883/18721567))
 * If renegotiating your bill sounds like too much of a chore, you’re in luck, the Mint app has a new bill negotiation feature with BillShark. They’ll negotiate for you and if they don’t save you money, you won’t give them a thing. ([View Highlight](https://instapaper.com/read/1481383883/18721569))
 * Being aware of all of your finances can help you keep your expenses low and put you on the road to a solid financial footing. ([View Highlight](https://instapaper.com/read/1481383883/18721570))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

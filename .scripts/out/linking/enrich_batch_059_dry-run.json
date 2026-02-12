@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_059",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/I Built Docker Like Executable .Exe for RShiny!.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to ‘DevOps’ as a Software Developer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Write Programming Notes Like a PRO.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use Your Calendar to Make Every Day Your Ideal Day.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Take Notes While Reading on the Web With Obsidian.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Structure Your Data Science Workflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Properly Organize Your Hard (Boot) Drive.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Partition a Hard Drive in 2020.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Organize Your Writing With Markdown - Redeeming Productivity.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Organize Your Files An Introduction to Personal File Management - The Mac Observer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Organize Computer Files on Your Home Computer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

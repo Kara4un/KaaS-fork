@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Unix Philosophy
 
 *Source: [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)*
@@ -43,3 +55,11 @@ He provides a series of design rules:
 ````dataview
 list from [[Unix Philosophy]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

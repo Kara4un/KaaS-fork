@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Getting Things Done: Clarify
 
 ## Metadata
@@ -82,3 +94,11 @@
   Getting Things Done: Reflect
   Getting Things Done: Engage
   Getting Things Done: A Day in the Life
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

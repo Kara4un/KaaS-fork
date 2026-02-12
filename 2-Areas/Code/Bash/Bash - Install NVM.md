@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - Install NVM
 
 *Source: https://gist.github.com/7f7065d9a2e153db86cf082841db3ee1#file-install-nvm-sh*
@@ -5,7 +17,6 @@
 ````bash
 # Install via: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 # Source File: https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh
-
 
 #!/usr/bin/env bash
 
@@ -483,3 +494,11 @@ nvm_reset() {
 ````dataview
 list from [[Bash - Install NVM]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

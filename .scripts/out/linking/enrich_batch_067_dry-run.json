@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_067",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Building a Digital Garden.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Building a Data Pipeline From Scratch on AWS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Building a Data Pipeline From Scratch - The Data Experience - Medium.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Build Data Warehouse Using Talend.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Blog  Filterize.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Bits vs Bytes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Bioconductor - Package Guidelines.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Best Practices for Outlook.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done)..md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Become a Better Developer Through Blogging - Steve Gordon - Code With Steve.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Backup 101 Windows Files and Folders You Should Always Back Up.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Back to Basics Your Weekly Review.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Auto Documentation System for R Shiny - Stack Overflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Audiobook Review David Allen's GTD  Weekly Review.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

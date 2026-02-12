@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Problems with No-Code and Low-Code Tools
 
 *Source: [The Good, Bad, And Ugly Of Low-Code](https://www.forbes.com/sites/servicenow/2021/10/29/the-good-bad-and-ugly-of-low-code/?sh=279114807fd0)*
@@ -42,7 +54,7 @@ There is a bit of overhead it requires to run it also has issues with multi-thre
 
 As far as speeding things up, make sure to enable the AMP engine in global settings to turn on multi-threading. 
 
-[Caching](Caching.md) the workflow after long running processes is probably the best thing you can do to make things run faster - this just writes the data to a temp file, then starts the workflow by reading from the temp file instead of running everything (similar the [Memoization](Memoization.md)). 
+[[[Caching]]]([[Caching]].md) the workflow after long running processes is probably the best thing you can do to make things run faster - this just writes the data to a temp file, then starts the workflow by reading from the temp file instead of running everything (similar the [Memoization](Memoization.md)). 
 
 You can also bump up the sort/join memory (controls how much is stored in RAM before it starts writing to temp files) and limit the use of browse tools to help speed things up.
 
@@ -69,3 +81,11 @@ One last word of warning, Alteryx does tend to have a fairly high pressure sales
 ````dataview
 list from [[Problems with No-Code and Low-Code Tools]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

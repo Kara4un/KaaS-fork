@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Build a Personal Knowledge Management System - Cultivated Management
 
 ## Metadata
@@ -86,3 +98,11 @@
   The key to a successful PKMS is to keep iterating until it feels right. I doubt you’ll ever get it spot on, but you can get close. Close is good. But as soon as it doesn’t feel right again, try something different.
   Having control of your own learning is the best way to succeed as a manager. Managers need to learn their way to success and they need to help others learn their way too. Becoming a life long learner opens doors, helps you solve problems and really can boost your career. And the best way to ensure success as a learner is to have a personal knowledge management system that works for you.
   I do hope you enjoyed this post.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

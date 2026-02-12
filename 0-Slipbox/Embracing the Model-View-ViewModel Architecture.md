@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Embracing the Model-View-ViewModel Architecture
 
 *Source: [Model–view–viewmodel - Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) | [Home · rubberduck-vba/MVVM Wiki · GitHub](https://github.com/rubberduck-vba/MVVM/wiki)*
@@ -31,3 +43,11 @@ The *Model* is an abstraction representing the object(s) responsible for retriev
 ````dataview
 list from [[Embracing the Model-View-ViewModel Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

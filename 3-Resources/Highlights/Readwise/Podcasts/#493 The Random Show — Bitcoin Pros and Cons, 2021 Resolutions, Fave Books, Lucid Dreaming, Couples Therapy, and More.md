@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#493: The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More
 
 ## Metadata
@@ -16,3 +28,11 @@
   Speaker 0: keep my love that, like the the AI is gonna look at your feet And like, I think Tim would like this. They're like, Oh, shit! He posted a yellow pony. What does he like now? Oh, damn it. You keep them on their toes. Well, I want 
   Speaker 1: to keep myself guessing too, right? Like I don't Yeah, follow less ([Time 1:53:23](https://www.airr.io/quote/600fd174be59656548dab643))
   * Note: The perils of social media.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

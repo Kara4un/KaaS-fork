@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Histogram Bins
 
 *Source: [sql-snippets/histogram-bins.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/histogram-bins.md)*
@@ -77,3 +89,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Histogram Bins]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

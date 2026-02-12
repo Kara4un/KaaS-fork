@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Window Function
 
 ---
@@ -14,3 +26,11 @@
 ````dataview
 list from [[Window Function]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

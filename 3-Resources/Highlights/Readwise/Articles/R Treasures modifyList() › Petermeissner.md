@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Treasures: modifyList() › Petermeissner
 
 ## Metadata
@@ -23,3 +35,11 @@
   (1) which have a default set of values and (2) might get extended in the future.
   That way I can always add options while older versions of options will still work by extending the default options and later on updating the default values with those values I specifiacally want to differ from the defaults.
   * Note: This is tight. Can have say a default config represented in a list + a more specific config and utilize modifyList to overwrite default with specific scenario.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

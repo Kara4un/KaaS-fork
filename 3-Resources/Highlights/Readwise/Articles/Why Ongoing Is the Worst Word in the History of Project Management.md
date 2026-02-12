@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Why "Ongoing" Is the Worst Word in the History of Project Management
 
 ## Metadata
@@ -19,3 +31,11 @@
   Use a work breakdown structure: Once your team completes its brainstorm, build a work breakdown structure (WBS). For a WBS, build a structured tree diagram of all the tasks you need to do, from onset to the eventual goal. This structured approach quickly reveals if you and your team missed anything.
   Finally, double-check your list with others: Once you’ve completed your list of tasks, compare that list to others, either by doing research or asking other people who ran similar projects. The more input you can get here, particularly from people with experience running similar projects, the better.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

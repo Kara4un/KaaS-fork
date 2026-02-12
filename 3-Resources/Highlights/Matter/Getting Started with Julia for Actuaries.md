@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-loudenback-vanguelov/](https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-loudenback-vanguelov/)
@@ -27,3 +39,11 @@
 * the Tidyverse in R has a tightly coupled set of packages that works well together but has limitations with some other R packages.
 * Julia also has language-level support for documentation, so packages can follow a consistent style of help-text and have the docs be auto-generated into web pages available locally or online.
 * Test is a built-in package for performing testsets, while Documenter.jl will build high-quality documentation based on your inline documentation.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_025",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 19,
+  "details": [
+    {
+      "file": "3-Resources/Tools/Web Browsers/Edge/Edge.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/MarkDownloads/Tip Special Frontmatter Fields · coddingtonbearobsidian-web Wiki.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/MarkDownloads/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/MarkDownloads/MarkDownloads.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/MarkDownloads/Getting Started with SwaggerHub.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/MarkDownloads/Design First or Code First API Development.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/Mark Down Cheatsheet.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Batch/Windows Batch.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Batch/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Batch/Batch - Python Virtual Environment.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Batch/Batch - MediaCreationTool.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Windows Batch/Batch - Magic Variables.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Weekly-Review-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/MOC-Template.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Mindsweep-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Meta-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Log-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Guide-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Daily-Note-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Areas-Templates/Blog-Post-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

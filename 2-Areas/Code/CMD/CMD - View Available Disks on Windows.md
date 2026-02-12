@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # View Available Disks on Windows
 
 \*Source: *
@@ -22,3 +34,11 @@ wmic diskdrive list brief
 ````dataview
 list from [[View Available Disks on Windows]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

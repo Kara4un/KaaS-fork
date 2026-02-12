@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Action Items Template for Excel
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * What is an Action Item?
   Action Item is a task that is assigned to a specific individual generally with an end date. Action items are typically a result of discussions between various parties in a meeting. An action item can also arise from a situation such as incidents or emergencies within the organization. Actions are used effectively in Project Management and Day-to-day operations (BAU).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

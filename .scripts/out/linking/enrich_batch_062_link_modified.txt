@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/How to Be Mentally Strong - James Altucher.md
+3-Resources/Highlights/Readwise/Articles/How to Be a 10x Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How to Automate Your Project and Github Repo Setup From the Command Line.md
+3-Resources/Highlights/Readwise/Articles/How to Achieve Your Daily Goals.md
+3-Resources/Highlights/Readwise/Articles/How the Web Works.md
+3-Resources/Highlights/Readwise/Articles/How I Use Evernote to Organize Client Projects.md
+3-Resources/Highlights/Readwise/Articles/How I Structure My Software Design Document.md
+3-Resources/Highlights/Readwise/Articles/How I Organize My Knowledge as a Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How I Do My Weekly Review in Obsidian.md
+3-Resources/Highlights/Readwise/Articles/How a Single Freelancer Outperforms a Whole Team.md
+3-Resources/Highlights/Readwise/Articles/Home - How to Write a Good Documentation - Library Guides at UC Berkeley.md
+3-Resources/Highlights/Readwise/Articles/Habits You Must Have to Be a Highly Effective Programmers.md
+3-Resources/Highlights/Readwise/Articles/Guest Post Using Todoist With MYN and 1MTD by Charles Olsen.md
+3-Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md
+3-Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH.md
+3-Resources/Highlights/Readwise/Articles/GTD Refresh, Part 5 Building the Weekly Review Habit.md
+3-Resources/Highlights/Readwise/Articles/GTD Reference The Best Filing System for Busy Lives  Shortform Books.md
+3-Resources/Highlights/Readwise/Articles/Grant Ammons - How to Efficiently Manage Your Dotfiles.md
+3-Resources/Highlights/Readwise/Articles/Git Process for Small Organizations to Begin With.md
+3-Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md

@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/Procedural Languages.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/PLPGSQL.md
+3-Resources/Tools/Developer Tools/Languages/Languages.md
+3-Resources/Tools/Developer Tools/Languages/README.md
+2-Areas/Code/Cloud SDKs/Azure/Azure CLI - Whitelist IP for SQL Server.md
+3-Resources/Tools/Developer Tools/Data Stack/Data Stack.md
+3-Resources/Tools/Developer Tools/IDE/Visual Studio.md
+3-Resources/Tools/Developer Tools/IDE/Visual Studio Code.md
+3-Resources/Tools/Developer Tools/IDE/RStudio.md
+3-Resources/Tools/Developer Tools/IDE/README.md
+3-Resources/Tools/Developer Tools/IDE/PyCharm.md
+3-Resources/Tools/Developer Tools/IDE/IDE.md
+2-Areas/Code/Cloud SDKs/AWS/README.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - Validate and Verify Credential Setup.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - DynamoDB Queries.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - Authentication and Configuration.md
+3-Resources/Tools/Developer Tools/Cloud Services/Cloud Services.md
+3-Resources/Tools/Developer Tools/Package Managers/Scoop/Scoop.md
+3-Resources/Tools/Developer Tools/Package Managers/Rust - Cargo.md

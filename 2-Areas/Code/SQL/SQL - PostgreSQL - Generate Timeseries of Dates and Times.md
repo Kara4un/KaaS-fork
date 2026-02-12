@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Generate Timeseries of Dates and Times
 
 *Source: [sql-snippets/generate-timeseries.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/generate-timeseries.md)*
@@ -57,3 +69,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Generate Timeseries of Dates and Times]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

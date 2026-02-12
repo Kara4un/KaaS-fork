@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Find your finish line
 
 ## Metadata
@@ -44,3 +56,11 @@
   Now you've got a real dead line of late november to
   Speaker 3
   get it all done. ([Time 0:01:41](https://share.snipd.com/snip/94c9c662-7327-43ea-85a1-80a4d9c985bc))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

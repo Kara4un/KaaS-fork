@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems | DEEP QUESTIONS
 
 ## Metadata
@@ -15,3 +27,11 @@
   * Note: About master
 * Speaker 1: of what you're trying to do and feel less guilty about not being able to maybe be as fast to get on with the sort of shallow stuff that most people spend most of their days with. Your basically a surgeon who's being demanded to also answer 100 emails a day. It's almost untenable. So you know, you have my empathy and respect there. All right, Tim asks. I want to get out of the digital marketing industry and move to a field that rewards depth. Such a psychology, research or writing or podcasting, etcetera. Do you think going back and getting a master's in psychology is the best route, or is there a different route you would suggest? Tim? Randomly Getting master's degrees is not an effective career capital acquisition strategy. I think I I feel like I say this maybe every ([Time 0:16:44](https://www.airr.io/quote/600fd131be59653d93dab633))
   * Note: About master
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://hosting.analythium.io/we-need-to-talk-about-docker-registries/](https://hosting.analythium.io/we-need-to-talk-about-docker-registries/)
@@ -18,3 +30,11 @@
 * GitHub container registry (the ghcr.io URL from above) is available as part of GitHub Packages for free and paid plans, even for private repositories under the free plan. This registry requires authentication using your GitHub token.
 * Heroku comes with a Docker registry (registry.heroku.com) where the Docker-based deploys push the images to.
 * Of course, every major cloud provider offers a Docker container registry that is often integrated with their other offerings. Latency should be minimal due to network proximity to the servers:
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

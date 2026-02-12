@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Everything About Software Architecture
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Sinkhole Problem
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

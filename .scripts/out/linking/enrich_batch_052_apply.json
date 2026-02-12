@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_052",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Data Science Workflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Data Science Landscape.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Clean Architecture — Beginner’s Guide.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Checklist Manifesto - By Atul Gawande  Derek Sivers.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Way to Organize Your To-Dos.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Tools for Capturing Your Many Different Notes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Productivity System There Is - Personal Excellence.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best PC Software for Your Windows Computer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Microsoft Store Apps for Windows 10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best Free Software of 2020.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Best  Git Workflow for Your Software Engineering Team.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The Actuary of the Future.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 35 Best Productivity Apps for 2020.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 2 Types of Technical Documentation That  Developers Love.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Big Long - An Interactive Actuarial Simulation R Shiny App
 
 *Source: [casact/shiny_big_long](https://github.com/casact/shiny_big_long)*
@@ -57,3 +69,11 @@ The lapse probability will vary by class. This may be randomly assigned using a 
 ````dataview
 list from [[R Shiny - The Big Long - An Interactive Actuarial Simulation]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

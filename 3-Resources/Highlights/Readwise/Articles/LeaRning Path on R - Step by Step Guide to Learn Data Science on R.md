@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # LeaRning Path on R - Step by Step Guide to Learn Data Science on R
 
 ## Metadata
@@ -81,3 +93,11 @@
   Advanced R by Hadley Wickham
   Using R together with Hadoop, MongoDB or NoSQL
   The RevoScaleR package by Microsoft (formerly Revolution Analytics)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - Check for Broken Links in Workbook
 
 *Source: [Excel: How to find broken links and get them fixed - Ablebits.com](https://www.ablebits.com/office-addins-blog/2021/02/03/excel-find-fix-broken-links/)*
@@ -115,3 +127,11 @@ You can [insert the code](https://www.ablebits.com/office-addins-blog/2013/12/06
 ````dataview
 list from [[VBA - Check for Broken Links in Workbook]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

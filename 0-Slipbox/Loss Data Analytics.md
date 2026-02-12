@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Loss Data Analytics
 
 **Structure**. A working model is the "[Online Statistics Education](http://onlinestatbook.com/)" project put together by Rice University and others. This site provides a free online text that provides an introduction to probability and statistics. With NSF funding, it was written by over 20 authors. Online versions, both web and IBook formats, provide a full suite of interactive learning experiences. See the [Structure and Scope](https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/structure-and-scope) sub-page for more thoughts.
@@ -68,3 +80,11 @@ Source: https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/st
 ````dataview
 list from [[Loss Data Analytics]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

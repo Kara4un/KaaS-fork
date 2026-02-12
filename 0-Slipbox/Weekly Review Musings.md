@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Weekly Review Musings
 
 ## Notes
@@ -33,3 +45,11 @@
 ````dataview
 list from [[Weekly Review Musings]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

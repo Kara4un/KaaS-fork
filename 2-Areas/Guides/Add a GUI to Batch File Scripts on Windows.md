@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Add a GUI to Batch File Scripts on Windows
 
 Callback: *3-Resources/Highlights/Readwise 1/Articles/How to Enhance Your Windows Batch Files by Adding GUI*
@@ -122,3 +134,11 @@ See Also: [mohabouje/WinToast (github.com)](https://github.com/mohabouje/WinToas
 ````dataview
 list from [[Add a GUI to Batch File Scripts on Windows]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Map Network Drive
 
 *Source: https://powershellmagazine.com/2014/07/21/pstip-create-mapped-network-drive-using-wscript-network/*
@@ -72,3 +84,11 @@ For more details about these two methods and available arguments see the followi
 ````dataview
 list from [[PowerShell - Map Network Drive]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

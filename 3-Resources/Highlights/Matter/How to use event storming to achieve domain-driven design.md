@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://techbeacon.com/app-dev-testing/introduction-event-storming-easy-way-achieve-domain-driven-design](https://techbeacon.com/app-dev-testing/introduction-event-storming-easy-way-achieve-domain-driven-design)
@@ -11,3 +23,11 @@
 * When and where to use event storming
 * The most obvious time to use event storming is at a project's inception, so the team can start with a common understanding of the domain model.
 * Another high-payoff time to use event storming is as part of a project's close, to capture and share what the team learned in the process of building the software.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

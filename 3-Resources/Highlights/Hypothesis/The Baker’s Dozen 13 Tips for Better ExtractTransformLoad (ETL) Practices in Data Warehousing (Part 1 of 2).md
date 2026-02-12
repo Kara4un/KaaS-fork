@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # The Baker’s Dozen: 13 Tips for Better Extract/Transform/Load (ETL) Practices in Data Warehousing (Part 1 of 2)
 
 ## Metadata
@@ -94,3 +106,11 @@ As much as possible, stop and think about all the times you might want to go bac
 * Keep a log of every time you stopped to make sure an ETL process ran correctly. Additionally, keep a log of every time you had to fix a bug/mistake that you realistically could have prevented. Add up the number of instances and minutes/hours over the course of a month. I'm not saying that it should be zero every month, but more than a handful means that you should look at system checks and notifications. Good systems don't require babysitting, and watching over late-night processes like Batman keeping an eye on Gotham isn't heroic. It's ultimately harmful. Yes, you might need to take days or even weeks to come up with better solutions. You might even need to fight a manager or team lead who balks at committing time. Here's where you fight them at their own game, by documenting the hours of lost productivity. — [Updated on 2021-12-16 16:33:15](https://hyp.is/xyyuGF63EeyNzB9uFHoq7Q/www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2)  — Group: #Topic/Dev
 
 * Never assume that you're extracting/receiving data during ETL processes in a timely fashion. The source data might contain effective dates, and you might be receiving “late-arriving data.” If your ETL processes include logic for effective dates and you receive data later than the effective date, your ETL might need to make adjustments. I recommend doing some Web searches on “Type 2 changing dimensions” and “late-arriving data” for more information on this specific ETL pattern. — [Updated on 2021-12-16 16:33:16](https://hyp.is/x_1l0F63Eeyuk8M7ar_ifw/www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2)  — Group: #Topic/Dev
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

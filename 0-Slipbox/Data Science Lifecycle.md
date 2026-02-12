@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Science Lifecycle
 
 The Data Science Lifecycle Process is a set of prescriptive steps and best practices to enable data science teams to consistently deliver value. It includes issue templates for common data science work types, a branching strategy that fits the data science development flow, and prescriptive guidance on how to piece together all the various tools and workflows required to make data science work.
@@ -15,3 +27,11 @@ The Data Science Lifecycle Process is a set of prescriptive steps and best pract
 ````dataview
 list from [[Data Science Lifecycle]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

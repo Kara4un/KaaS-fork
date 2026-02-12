@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/05/08/pkg-news/](https://blog.r-hub.io/2020/05/08/pkg-news/)
@@ -16,3 +28,11 @@
 * Limits to NEWS as a communication channel Now, no matter as good your NEWS.md file is, you need to keep in mind that some (most?) users will never read it. 😉 How to be sure they are informed, in that case? On the one hand, communicating widely about executed or planned releases in blog posts for users and for developers can be useful. If your blog post RSS feed is not a part of R Weekly, you can submit such links via a PR to the R Weekly repo (“Updated packages” category) or via R Weekly webform. Maybe you even have a mailing list for users? And to come back to pkgdown websites, you can tweak the changelog to have it display one page per major version and related minor versions, and to have the navbar feature release blog posts.
 * On the other hand, you can add information about changes inside the package manual! For instance, in tidyr docs there are lifecycle badges and explanatory text: compare the page of tidyr::gather() (retired) and tidyr::pivot_longer() (maturing).
 * Now, in terms of workflow, you could * update the changelog for each contribution; * only update the changelog before releases, by looking at version control history and the issue tracker, potentially using something like GitHub milestones; * use fledge that “has been designed to streamline the process of versioning R packages on Git, with the functionality to automatically update NEWS.md and DESCRIPTION with relevant information from recent commit messages”.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

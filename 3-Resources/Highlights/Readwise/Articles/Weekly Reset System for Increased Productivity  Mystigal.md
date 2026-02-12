@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Weekly Reset System for Increased Productivity | Mystigal
 
 ## Metadata
@@ -22,3 +34,11 @@
 * Weekly rituals such as laundry, car wash, bathroom cleaning, etc.
   Pending or postponed tasks such as paying the phone bill, getting a new notebook, booking a flight ticket, etc.
   Making calls to loved ones, taking appointments, etc.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

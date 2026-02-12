@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 4 Modern Tools to Automate Manual Spreadsheet Work
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Cleaning data: Before we can even start to aggregate data, there is the tedious cleaning and enhancing step. When columns have bad and inconsistent data, this process can take quite a while.
 * Hard to scale: As you start working with larger spreadsheets, querying or editing information becomes quite difficult. Just running some basic operations in Excel with a few thousand rows can be a lot to handle for your computer.
 * Disconnected from BI tools: Many BI tools work with databases and not spreadsheets. If you are always working with spreadsheets, using a CSV to SQL tool every time can get pretty annoying.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

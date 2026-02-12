@@ -1,9 +1,18 @@
 ---
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Date: 2022-03-23
-Tags: ["#Type/Clipping"]
+Date: 2022-03-23T00:00:00.000Z
+Tags:
+  - '#Type/Clipping'
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
-
 
 *Source: [Table Loading Strategies in Data warehousing](https://tanajisutar31.medium.com/table-loading-strategies-in-data-warehousing-458c42a639d3)*
 
@@ -107,3 +116,11 @@ Here, we use the MERGE clause from SQL to perform this operation as below:
 ![](https://miro.medium.com/max/1400/1*kS9f0HG_kD8oXSINcK2EPQ.png)
 
 These approaches are based on what we implemented in the past, but yes there are certain areas to improve them further. Happy to hear suggestions, recommendations and corrections to them.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

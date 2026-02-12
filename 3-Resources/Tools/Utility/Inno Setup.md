@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Inno Setup
 
 [Inno Setup](https://jrsoftware.org/isinfo.php) is a *free* installer for Windows Programs created by [Jordan Russell | Jordan Russell's Software](https://jrsoftware.org/) (and Martign Laan) back in 1997.
@@ -64,3 +76,11 @@ To give you an idea of how this all works, start the Compiler IDE, click *File |
 ````dataview
 list from [[Tool-Template]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

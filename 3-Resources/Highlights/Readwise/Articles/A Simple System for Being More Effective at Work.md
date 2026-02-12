@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Simple System for Being More Effective at Work
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * It’s easy to fall into the trap of working on whatever feels most urgent. The problem is that the most urgent is rarely the most important.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

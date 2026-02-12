@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Using Todoist for GTD | GTD Method
 
 ## Metadata
@@ -37,3 +49,11 @@
   When a tickler item reminder shows up in your email, you need to process it and decided if you want to move forward on it, or not. If you don’t want to move forward on it at all, then just mark it done or delete it from your list. If you do want to move forward on it, then move it into one of you work or personal project/task lists. If you still want to wait and decide later, then just keep the tickler item in your “Ticklers” list but be sure to change the reminder/due date to the new day or time you want to again be reminded of it.
   You hardly ever need to process your ticklers or even look at your “Ticklers” list. Just drop your ticklers in the “Ticklers” list and let them work for you. I only process my Ticklers about 3 or 4 times per year. The reason you would process your “Ticklers” list, is to see if you’ve missed anything or changed your mind about anything. When processing your “Ticklers” list, you should make sure everything has a good reminder/due date and you should update any items with reminders or due dates that have already passed.
 * He recently released a book I look forward to reading called “Your Digital Life: Everything you need to know to get your life organized and put technology to work for you
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Consideration and Concerns Regarding AWS Data Architecture
 
 ## Contents
@@ -185,7 +197,7 @@ The true business advantage of having a data warehouse is that it offers a signi
 ## Appendix: Links
 
 * [Development](../2-Areas/MOCs/Development.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * *Databases*
 * [Data Warehouse](Data%20Warehouse.md)
 * [Data Lake](Data%20Lake.md)
@@ -205,3 +217,11 @@ See Also: [Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse](Compar
 ````dataview
 list from [[Consideration and Concerns Regarding AWS Data Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

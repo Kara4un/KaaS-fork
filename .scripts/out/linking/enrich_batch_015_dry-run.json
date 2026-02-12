@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_015",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "0-Slipbox/dplyr as a Database Interface for R.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Documenting PowerShell Modules.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Docker.md.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Dimensional Modeling.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Digital Garden.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Digital Declutter Musings.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Development Best Practices - Testing.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Development Best Practices - Staying Organized.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Development Best Practices - Follow Defined Standards.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Development Best Practices - Documentation before Development.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Development Best Practices - Document and Keep Tools and Techniques Handy.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Developing PowerShell Modules and Functions.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Developer Notebooks.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Designing Cloud Implementation.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Deployment.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Default Github Action Environment Variables.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/dbatools - Command Index.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Database Views vs Materialized Views.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Database Management System (DBMS).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

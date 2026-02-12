@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating.md
+3-Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md
+3-Resources/Highlights/Readwise/Articles/Unattended Install of the Latest SQL Server Management Studio Using PowerShell.md
+3-Resources/Highlights/Readwise/Articles/Unattended Install of 7-Zip Using PowerShell.md
+3-Resources/Highlights/Readwise/Articles/Ultimate Personal Management Systems - The Startup - Medium.md
+3-Resources/Highlights/Readwise/Articles/Traffic Director Explained!  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md
+3-Resources/Highlights/Readwise/Articles/Top 4 Tips to Get Organized for Efficient Software Development.md
+3-Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md
+3-Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md
+3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md
+3-Resources/Highlights/Readwise/Articles/This Is Your Reminder to Do an Annual Subscriptions Audit - WealthInsider  Follow the Money.md
+3-Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md
+3-Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md
+3-Resources/Highlights/Readwise/Articles/The Unsinkable Student Organization System - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md
+3-Resources/Highlights/Readwise/Articles/The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md
+3-Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System.md

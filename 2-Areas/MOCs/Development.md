@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Development
 
 *Development* *Map of Content* houses all notes related to [Development](Development.md) in general.
@@ -211,7 +223,7 @@
 
 * [Unified Architecture Framework](../../0-Slipbox/Unified%20Architecture%20Framework.md) | [Model Based Systems Engineering](../../0-Slipbox/Unified%20Architecture%20Framework.md)
 * [Business Process Model and Notation](../../0-Slipbox/Business%20Process%20Model%20and%20Notation.md)
-* [Web Application Architecture](../../0-Slipbox/Web%20Application%20Architecture.md)
+* [[[Web Application Architecture]]](../../0-Slipbox/Web%20Application%20Architecture.md)
 * 
 
 ## Development Links

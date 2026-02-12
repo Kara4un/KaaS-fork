@@ -1,9 +1,21 @@
-# System Design Basics: Load Balancer 101
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
+# [[System Design]] Basics: Load Balancer 101
 
 ## Metadata
 
 * Author: *Ashis Chakraborty*
-* Full Title: System Design Basics: Load Balancer 101
+* Full Title: [[System Design]] Basics: Load Balancer 101
 * Category: #Type/Highlight/Article
 * URL: https://medium.com/p/adc4f602d08f
 
@@ -14,3 +26,11 @@
 * The load balancer is a server that usually sits between client devices and a set of servers and distributes client requests across servers. Load balancers can be placed in various places of a system. The loads on the servers need to be distributed in a balanced way; that’s why they are called a load balancer
 * According to Wikipedia, “Load balancing refers to the process of distributing a set of tasks over a set of resources.”
 * Its primary purpose is to optimize the response time of each task. Now let’s assume a system has one server that is overloaded with the request of clients. The server has a limit of serving requests per second. So, we need to add more servers to handle large amounts of requests. But we may need a load balancer to balance the loads between the servers.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

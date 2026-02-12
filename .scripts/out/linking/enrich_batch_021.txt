@@ -1,0 +1,20 @@
+2-Areas/Lists/R Package Development Resources List.md
+2-Areas/Lists/R on the Web - List of Links.md
+2-Areas/Lists/R - Database Packages List.md
+2-Areas/Lists/R - Data Validation Packages List.md
+2-Areas/Lists/Productivity Apps List.md
+2-Areas/Lists/PostgreSQL Tools List.md
+2-Areas/Lists/Online Developer Tools List.md
+2-Areas/Lists/Obsidian Plugins List.md
+2-Areas/Lists/List of Python Flask Resources.md
+2-Areas/Lists/List of APIs I use Frequently.md
+2-Areas/Lists/Learn to Code Platforms Master List.md
+2-Areas/Lists/Global Inbox Zero Checklist.md
+2-Areas/Lists/Excel VBA Resource List.md
+2-Areas/Lists/Excel Automation Resources.md
+2-Areas/Lists/Database Modeling Tools.md
+2-Areas/Lists/Database GUIs List.md
+2-Areas/Lists/Data Engineering Master List of Resources.md
+2-Areas/Lists/CLI Tools List.md
+2-Areas/Lists/AWS Components Master List.md
+2-Areas/Lists/Awesome R Package Development List.md

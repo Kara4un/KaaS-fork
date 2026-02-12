@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Server - DBA MultiTool
 
 *Source: [LowlyDBA/dba-multitool (GitHub)](https://github.com/LowlyDBA/dba-multitool) | [Home | DBA MultiTool (dba-multitool.org)](https://dba-multitool.org/)*
@@ -33,3 +45,11 @@ EXEC [dbo].[sp_doc] @Database = N'<database name>'
 ````dataview
 list from [[Tool-Template]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

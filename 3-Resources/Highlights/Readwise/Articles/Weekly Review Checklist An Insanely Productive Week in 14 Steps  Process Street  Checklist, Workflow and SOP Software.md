@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software
 
 ## Metadata
@@ -30,3 +42,11 @@
   Now you’ve gone through a weekly review, and worked with your own systems for the past hour or so, you’ve got to ask yourself an important question: was this process optimized?
   If the inbox processing stage took you forever, it could be because you’re storing material in too many different apps. A quick solution is to zap all incoming content to one place using any number of different Zapier integrations.
   Are you taking too long getting items from your paper notebook to your digital one? How about using Evernote’s scanner app or OneNote’s amazing image-to-text feature to quickly rip handwriting into your computer.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

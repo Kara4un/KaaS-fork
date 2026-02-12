@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Using Tables as Templates
 
 *Source: [Using tables as templates in Azure Database for PostgreSQL - sqlshack](https://www.sqlshack.com/using-tables-as-templates-in-azure-database-for-postgresql/)*
@@ -62,3 +74,11 @@ In this way, by using two simple keywords **LIKE** and **INCLUDING** we can use 
 ````dataview
 list from [[SQL - PostgreSQL - Using Tables as Templates]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

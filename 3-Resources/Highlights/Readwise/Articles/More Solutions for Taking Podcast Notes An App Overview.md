@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # More Solutions for Taking Podcast Notes: An App Overview
 
 ## Metadata
@@ -30,3 +42,11 @@
   Notes should be exportable as a plaintext or markdown file. I need my notes to be portable from one app to another.
   Full-text transcripts. I know it's still a challenge to generate the transcripts from a cost, quality, and automation standpoint, but text transcripts are critical to better podcast note-taking. I hope hope others will follow the lead of Airr and Notecast to expand on this feature.
   In the words of U2, “I still haven’t found what I’m looking for.” That’s ok; I recognize this is a niche feature. Nevertheless, I appreciate the efforts of the developers highlighted above and am looking forward to how this feature evolves in the future podcast app ecosystem.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

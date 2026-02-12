@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA Classes and Solid Programming Principles
 
 *Source: [VBA Class Modules: gateway to SOLID code – Rubberduck News (wordpress.com)](https://rubberduckvba.wordpress.com/2020/02/27/vba-classes-gateway-to-solid/)*
@@ -82,3 +94,11 @@ End Property
 ````dataview
 list from [[VBA Classes and Solid Programming Principles]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

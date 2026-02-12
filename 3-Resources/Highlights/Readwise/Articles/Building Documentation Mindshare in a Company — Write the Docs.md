@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building Documentation Mindshare in a Company — Write the Docs
 
 ## Metadata
@@ -28,3 +40,11 @@
 * Build templates
   It should take about 5 seconds to get a basic outline of the documentation for a project started.
   Also have a standard hierarchy for the docs, so that people know where to look for things in any project. ([View Highlight](https://instapaper.com/read/1353732515/14361615))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

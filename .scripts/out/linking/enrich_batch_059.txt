@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/I Built Docker Like Executable .Exe for RShiny!.md
+3-Resources/Highlights/Readwise/Articles/How to ‘DevOps’ as a Software Developer.md
+3-Resources/Highlights/Readwise/Articles/How to Write Programming Notes Like a PRO.md
+3-Resources/Highlights/Readwise/Articles/How to Use Your Calendar to Make Every Day Your Ideal Day.md
+3-Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md
+3-Resources/Highlights/Readwise/Articles/How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File.md
+3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md
+3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md
+3-Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021.md
+3-Resources/Highlights/Readwise/Articles/How to Take Notes While Reading on the Web With Obsidian.md
+3-Resources/Highlights/Readwise/Articles/How to Structure Your Data Science Workflow.md
+3-Resources/Highlights/Readwise/Articles/How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering.md
+3-Resources/Highlights/Readwise/Articles/How to Properly Organize Your Hard (Boot) Drive.md
+3-Resources/Highlights/Readwise/Articles/How to Partition a Hard Drive in 2020.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Writing With Markdown - Redeeming Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Files An Introduction to Personal File Management - The Mac Observer.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Computer Files on Your Home Computer.md
+3-Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md

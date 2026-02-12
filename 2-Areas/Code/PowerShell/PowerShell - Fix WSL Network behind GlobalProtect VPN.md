@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Fix WSL Network behind GlobalProtect VPN
 
 *Source: https://live.paloaltonetworks.com/t5/globalprotect-discussions/globalprotect-blocks-the-network-traffic-of-wsl2/td-p/354962*
@@ -29,3 +41,11 @@ Get-NetAdapter | Where-Object {$_.InterfaceDescription -Match "PANGP Virtual Eth
 ````dataview
 list from [[PowerShell - Fix WSL Network behind GlobalProtect VPN]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

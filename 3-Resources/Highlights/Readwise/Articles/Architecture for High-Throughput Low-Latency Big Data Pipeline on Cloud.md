@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud
 
 ## Metadata
@@ -12,3 +24,11 @@
 * Batch Layer: offers high throughput, comprehensive, economical map-reduce batch processing, but higher latency.
 * Speed Layer: offers low latency real-time stream processing, but costlier and may overshoot memory limit when data volume is high.
 * Serving Layer: The output from high throughput batch processing, when ready, is merged with the output of the stream processing to provide comprehensive results in the form of pre-computed views or ad-hoc queries.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

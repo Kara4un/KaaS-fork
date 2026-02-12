@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # dbatools Command Index
 
 *Source: https://dbatools.io/commands/*
@@ -909,3 +921,11 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

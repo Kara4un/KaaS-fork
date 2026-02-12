@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # VBA - Create and Run a SQL Query
 
 \*Source: *
@@ -132,3 +144,11 @@ End Sub
 ````dataview
 list from [[VBA - Create and Run a SQL Query]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

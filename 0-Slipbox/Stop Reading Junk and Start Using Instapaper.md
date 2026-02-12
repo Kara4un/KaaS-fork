@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Stop Reading Junk and Start Using Instapaper
 
 *Source: https://blog.readwise.io/stop-reading-junk-and-start-using-instapaper/*
@@ -89,3 +101,11 @@ If you haven't already, [sign up for Readwise](https://readwise.io/) today and s
 ````dataview
 list from [[Stop Reading Junk and Start Using Instapaper]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

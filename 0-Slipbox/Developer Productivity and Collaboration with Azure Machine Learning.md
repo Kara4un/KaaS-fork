@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Developer Productivity and Collaboration with Azure Machine Learning
 
 *Source: [TechNet - Developer Productivity and Collaboration with Azure Machine Learning](https://techcommunity.microsoft.com/t5/azure-ai/improving-collaboration-and-productivity-in-azure-machine/ba-p/2160906)*
@@ -44,3 +56,11 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-noteb
 ````dataview
 list from [[Developer Productivity and Collaboration with Azure Machine Learning]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

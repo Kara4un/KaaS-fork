@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # QuickSight IAM Permissions
 
 ## Contents
@@ -193,7 +205,7 @@ The following example for Amazon QuickSight Enterprise and Standard editions sho
 ## Appendix: Links
 
 * [Development](../2-Areas/MOCs/Development.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [AWS QuickSight](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20QuickSight.md)
 * *AWS*
 
@@ -202,3 +214,11 @@ The following example for Amazon QuickSight Enterprise and Standard editions sho
 ````dataview
 list from [[QuickSight IAM Permissions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

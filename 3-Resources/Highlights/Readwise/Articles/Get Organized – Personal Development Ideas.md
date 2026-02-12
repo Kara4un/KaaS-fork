@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Get Organized – Personal Development Ideas
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Any plan or strategy to get organized will not be easy to implement. It will take continued research and diligence in application to be successful. But if personal development were easy and intuitive we would not need all the books, blogs, and websites that are available offering us assistance. ([View Highlight](https://instapaper.com/read/1355684429/14403488))
 * In fact, by having too much on the go at once we run the risk of doing a maintenance job on many items rather than a quality job on fewer, but prioritized goals. If you use the 80/20 principle, 80 percent of the tasks are likely to be not all that important compared with the 20 percent that can really make a difference in improving our lives. Again, this principle is not new but it is easy to get sidetracked in trying to organize too many things at once. I struggle with this myself, as I tend to be eclectic by nature and have to work at remaining focused on activities that can “make a difference.” ([View Highlight](https://instapaper.com/read/1355684429/14403492))
 * It is also hard to become organized if we confuse efficiency with effectiveness. The two are vastly different. I can be efficient at accomplishing a vast number of tasks in my work, for example, or in managing a household, but if I have too many tasks, I am not necessarily being effective. Better to be effective in getting organized with a lesser number of goals, for example, than being efficient in handling a larger number of low priority matters. ([View Highlight](https://instapaper.com/read/1355684429/14403493))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

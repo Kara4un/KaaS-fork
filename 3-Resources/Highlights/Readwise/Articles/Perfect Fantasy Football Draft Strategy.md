@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Perfect Fantasy Football Draft Strategy
 
 ## Metadata
@@ -25,3 +37,11 @@
   If I don’t have a QB yet, I’m getting one in this portion of the draft.
   If I don’t have a TE yet, I’m (probably) getting one in this portion of the draft.
   I’m probably grabbing another RB in this range and throwing another log on the WR fire.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

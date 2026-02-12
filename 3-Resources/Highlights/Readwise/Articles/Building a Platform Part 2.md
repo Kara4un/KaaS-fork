@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building a Platform: Part 2
 
 ## Metadata
@@ -64,3 +76,11 @@
 * Avoid public functions on implementations when not defined on the abstraction. Instead use internal scope when required by other classes within the assembly.
 * (Obvious) Keep methods reasonably small, less than 80 lines (at most).
 * Document your Architecture. There are a million and one ways to document architecture. Figure out what is best for you and the team and put it in your docs/ folder, so folks understand the expectations.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 6 Key Lessons From August Bradley's Notion — Keep Productive
 
 ## Metadata
@@ -15,3 +27,11 @@
 * Set your mind in a framework The Mindset section of the planner will help you to visualize yourself going through your day and executing your tasks, building mental models to guide you by giving you the sense that you've done these things before even if it's something new. ([View Highlight](https://instapaper.com/read/1481399974/18722176))
 * Assess what worked and what didn't. At the end of your day, you should complete the table with your habits and routines and list your daily wins. Ideally, they would be the same listed in the morning when you identified what would have made your day better. Finally, you should list one or two things that can be improved the following day, based on your habit tracking and your wins. ([View Highlight](https://instapaper.com/read/1481399974/18722177))
 * Do it day after day. Implementing your daily habits and tracking them will allow you to see improvements and assess your progress, avoiding to get yourself lost without achieving your goals. ([View Highlight](https://instapaper.com/read/1481399974/18722178))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

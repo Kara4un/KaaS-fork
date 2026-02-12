@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The R Code Optimizer • Rco
 
 ## Metadata
@@ -28,3 +40,11 @@
   optimize_text(code)
   Optimize all .R code files into a folder
   optimize_folder("~/myfolder_to_optimize", recursive = FALSE)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

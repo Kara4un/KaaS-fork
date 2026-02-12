@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 2022 Areas of Focus and Goal Planning
 
 *Source: Personal Notebook*
@@ -19,7 +31,7 @@ I strive to become a modern-age [Polymath](../../3-Resources/Dictionary/Polymath
 * Software Engineering
 * Web Application Development
 * Database Design and Administration
-* Cloud Computing
+* [[Cloud Computing]]
 * Serverless Architecture
 * Open Source Development
 * Personal Knowledge Management
@@ -85,7 +97,7 @@ I strive to become a modern-age [Polymath](../../3-Resources/Dictionary/Polymath
 * Fly.io
 * Spawnctl
 * Computer Science
-* System Design
+* [[System Design]]
 * REST API Development
 * OpenAPI Specification
 * Swagger
@@ -111,3 +123,11 @@ See Also: *Mind_Sweep_Trigger_List.pdf*
 ````dataview
 list from [[2022 Areas of Focus and Goal Planning]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

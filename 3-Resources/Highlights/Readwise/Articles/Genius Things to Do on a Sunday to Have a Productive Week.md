@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Genius Things to Do on a Sunday to Have a Productive Week
 
 ## Metadata
@@ -129,3 +141,11 @@
   If you feel like you aren’t making any progress forward, try something new on your next Sunday. Or if you notice a difference for the better, keep doing what you’re doing!
   It’s all about experimenting to find what works best for you.
   That said, moving forward be sure to utilize your Sunday to the fullest so that you set your week up on a positive note and make progress towards your goals.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

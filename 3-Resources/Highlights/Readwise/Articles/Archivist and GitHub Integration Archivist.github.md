@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Archivist and GitHub Integration: Archivist.github
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * The archivist is an R package for data analysis results management, which helps in managing, sharing, storing, linking and searching for R objects. The archivist package automatically retrieves the object’s meta-data and creates a rich structure that allows for easy management of calculated R objects. It also extends the reproducible research paradigm by creating new ways to retrieve and validate previously calculated objects.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

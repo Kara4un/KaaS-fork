@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Nuances of Processing and Organizing with GTD
 
 ## Overview
@@ -46,3 +58,11 @@ While GTD requires an upfront investment in time and energy to set up, it pays o
 ````dataview
 list from [[The Nuances of Processing and Organizing with GTD]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

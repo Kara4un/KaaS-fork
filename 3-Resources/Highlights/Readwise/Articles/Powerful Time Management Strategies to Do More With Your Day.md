@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Powerful Time Management Strategies to Do More With Your Day
 
 ## Metadata
@@ -92,3 +104,11 @@
   There are normally countless tasks that you could be doing at any given moment – they won’t necessarily add value to your life or help you achieve your goals though.
   Much of it is probably unimportant busy work.
   So get your priorities in order and determine how your time should be best spent. Remove unimportant items from your to-do list and work towards something that matters.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

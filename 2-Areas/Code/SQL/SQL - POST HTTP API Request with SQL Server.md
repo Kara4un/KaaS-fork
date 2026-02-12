@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - POST HTTP API Request with SQL Server
 
 *Source: [Send POST HTTP API Request with SQL Server | thiscodeWorks](https://www.thiscodeworks.com/61faf47fb783be0015bbaf85)*
@@ -39,3 +51,11 @@ EXEC sp_OADestroy @Object
 ````dataview
 list from [[SQL - POST HTTP API Request with SQL Server]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

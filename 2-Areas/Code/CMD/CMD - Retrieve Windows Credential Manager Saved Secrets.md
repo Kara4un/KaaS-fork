@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Retrieve Windows Credential Manager Saved Secrets
 
 \*Source: *
@@ -24,3 +36,11 @@ cmdkey.exe /list
 ````dataview
 list from [[Retrieve Windows Credential Manager Saved Secrets]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

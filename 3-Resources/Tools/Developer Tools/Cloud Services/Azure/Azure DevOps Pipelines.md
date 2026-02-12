@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Azure DevOps Pipelines
 
 ## Configuration
@@ -94,3 +106,11 @@ In this tutorial, we showed that Azure SQL databases can be version controlled u
 ````dataview
 list from [[Azure DevOps Pipelines]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

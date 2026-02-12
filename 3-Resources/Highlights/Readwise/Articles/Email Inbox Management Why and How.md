@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Email Inbox Management: Why and How?
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Other emails: start answering from most recent to oldest. Depending on how many emails are unanswered, divide the total, and just do few a day. It will always be better than none at all.
 * Find a time when it’s best in the day for your to answer your emails. Usually, for most of the people it is in the morning, before starting the day, and at the end of the day
 * Set a strategy that works for you, and stick to it. Easier said than done, but once you have seen the benefits of it, it should be easier.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

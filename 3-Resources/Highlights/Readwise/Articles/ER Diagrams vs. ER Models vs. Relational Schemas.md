@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # ER Diagrams vs. ER Models vs. Relational Schemas
 
 ## Metadata
@@ -27,3 +39,11 @@
 * One-to-Many (1:M): When one instance of entity 1 is related to more than one instance of entity 2, the relationship is referred to as “one-to-many.” For example, an employee is supervised by only one manager at a time. However, a manager can manage many employees at the same time.
 * Many-to-One (M:1): If multiple instances of entity 1 are connected to only a single instance of entity 2, we have a “many-to-one relationship.” For example, in a classroom, many students are taught by a single teacher simultaneously. Hence, the student-teacher relationship is many-to-one.
 * Many-to-Many (M:N): When multiple instances of entity 1 are linked to multiple instances of entity 2, we have a “many-to-many” relationship. Imagine a scenario where an employee is assigned more than one project. If you look at the relationship from the other end, a project can have many employees as well. Thus, it is a many-to-many relationship.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Make a To-Do List and Get Sh!t Done
 
 ## Metadata
@@ -52,3 +64,11 @@
   15. Be flexible
       Pro tip: Always leave about 15 minutes of “cushion time” in between items on the to-do list or calendar.
       This leaves you wiggle room. Yes, we know we drummed home the importance of not sleeping at the laundromat to get your washing finished, but you shouldn’t stress yourself out to meet self-imposed timings.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

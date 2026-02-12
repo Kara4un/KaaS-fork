@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Building a Data Pipeline From Scratch on AWS
 
 ## Metadata
@@ -20,3 +32,11 @@
 * Now that your data is already on your data lake, transformed and enriched, it is time to send it to a data warehouse! I have been using Redshift for a while now and I have been having a great experience with it. It is a very performing and reliable solution with a fair price. Redshift also provides a very great resource, called Redshift Spectrum, that makes it possible to query data directly from your data lake on S3.
 * What is data worth for if people cannot access it? As the last step, you will need to integrate a visualization tool to your pipeline. The tool I chose to use for that was Metabase.
 * Metabase is a great open source visualization tool. It offers an intuitive and user-friendly interface so that users with no knowledge of queries, SQL and those stuffs will be able to explore data and create graphs and dashboards to visualize their results. Metabase also allows users to define notifications via email and slack, to receive scheduled emails informing about defined metrics or analysis, to create collections where you can group data by company’s divisions, to create panels to present your analysis to restrain access to user groups and so on.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

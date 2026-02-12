@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Planning a Lot | Yujun Zhou's Website
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Horizontal focus” is essentially the day-to-day task assignment. For example, you might get a message on Slack from your advisor, saying “hey, can you send me a quick summary stats about the price data ?” Or an email on the deadline for submitting your paper to a conference in July. Instead of stockpiling them onto an existing to-do list and forget about them until the deadline is coming up. The tasks need to be put into the system under different projects and assign the time, priorities, and its linkages to other jobs.
 * I use a free software called freedcamp and below is a picture of one week on my calendar: tasks are divided into different projects, highlighted by priorities and deadlines. The weekly overview gives a clear view of every single step that you need to do every day, and you can start off your day without wondering about what to do today.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

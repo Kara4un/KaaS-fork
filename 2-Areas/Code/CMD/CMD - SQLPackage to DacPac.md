@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # CMD - SQLPackage to DacPac
 
 \*Source: *
@@ -29,3 +41,11 @@ SqlPackage /a:extract /of:true /sdn:db /sp:pw /ssn:server /su:user /tf:outfile;
 ````dataview
 list from [[CMD - SQLPackage to DacPac]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

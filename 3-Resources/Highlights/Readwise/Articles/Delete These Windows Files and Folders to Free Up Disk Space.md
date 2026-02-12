@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Delete These Windows Files and Folders to Free Up Disk Space
 
 ## Metadata
@@ -40,3 +52,11 @@
   The LiveKernelReports folder is another directory which likely comes up when you’re scanning for large files on your computer. This folder is home to dump files, which are ongoing information logs that Windows keeps. If your computer runs into an issue, you can analyze the contents of these files to start troubleshooting your problem.
   Any huge files ending with the DMP file extension in this folder are safe to delete. Like the above locations, we recommend using Disk Cleanup instead of deleting the file yourself.
   When Windows crashes or you have other major computer problems, don’t delete these dump files right away. You can use a program like WhoCrashed to get more info from them.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

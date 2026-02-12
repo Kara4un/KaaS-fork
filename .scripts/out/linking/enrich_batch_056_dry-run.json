@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_056",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Powerful Time Management Strategies to Do More With Your Day.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/PLSQL for Data Engineers.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Planning a Lot  Yujun Zhou's Website.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
+      "changed": true,
+      "term_changes": 3,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Perfect Fantasy Football Draft Strategy.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Pay Off Your Debt Tools and Tips.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Part I-I  Data Warehouse Modelling Concept.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Paperless The One Notebook and Pen I’m Never Giving Up.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Optimized Workflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/One Productivity System to Rule Them All.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/One Observer for All Buttons in Shiny Using JavaScript  jQuery.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Onboarding New Developers.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/On Confronting the Productivity Dragon.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

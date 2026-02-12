@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Warehousing Concepts and Definitions
 
 *Primary Source: [Data warehouse - Wikipedia](https://en.wikipedia.org/wiki/Data_warehouse)*
@@ -43,3 +55,11 @@ Data can be separated into *dimensions* and *measures* where dimensions are idea
 ````dataview
 list from [[Data Warehousing Concepts and Definitions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Export SQL Server Table to CSV
 
 \*Source: *
@@ -37,7 +49,6 @@ explorer.exe $outputPath
 
 # TODO: Add a log output txt file with CSVs
 
-
 ````
 
 ---
@@ -73,3 +84,11 @@ list from [[PowerShell - Export SQL Server Table to CSV]] AND -"Changelog"
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
 ---
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

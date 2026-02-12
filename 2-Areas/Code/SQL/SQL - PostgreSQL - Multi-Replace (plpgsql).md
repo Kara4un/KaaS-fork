@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Multi-Replace (plpgsql)
 
 *Source: https://wiki.postgresql.org/wiki/Multi_Replace_plpgsql*
@@ -81,3 +93,11 @@ $$ LANGUAGE plpgsql strict immutable;
 ````dataview
 list from [[SQL - Multi-Replace (plpgsql)]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

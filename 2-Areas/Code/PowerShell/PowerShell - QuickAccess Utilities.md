@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - QuickAccess Utilities
 
 *Source: https://gist.github.com/014f18d00bea1c63ca5da34fa66a71e0#file-quickaccess-psm1*
@@ -128,3 +140,11 @@ https://gallery.technet.microsoft.com/Set-QuickAccess-117e9a89
 ````dataview
 list from [[PowerShell - QuickAccess Utilities]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

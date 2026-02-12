@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Scoop Import
 
 *Source: https://gist.github.com/6f2a2368954e3df126a36da6684448cd#file-scoop-import-ps1*
@@ -36,3 +48,11 @@ Invoke-Expression $cmd
 ````dataview
 list from [[PowerShell - Scoop Import]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

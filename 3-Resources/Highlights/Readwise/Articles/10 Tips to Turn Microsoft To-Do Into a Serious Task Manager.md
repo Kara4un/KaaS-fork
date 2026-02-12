@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager
 
 ## Metadata
@@ -34,3 +46,11 @@
 * A recent update brought a new smart list to the app: Planned.
   The Planned section is split into two parts: Overdue and Later. Later shows any tasks in your calendar for the upcoming five days; Overdue displays tasks that you should have already completed but which have not yet been marked as such.
   To turn on the smart lists, open the To-Do app on your desktop, then click on your profile picture and go to Settings > Smart Lists. Toggle the sliders next to the lists you want to enable.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

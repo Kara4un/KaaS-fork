@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/Data Warehousing for Data Engineering.md
+3-Resources/Highlights/Readwise/Articles/Data Warehouse Tips and Best Practices I Wish I Knew Earlier.md
+3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md
+3-Resources/Highlights/Readwise/Articles/Data Quality and Reliability.md
+3-Resources/Highlights/Readwise/Articles/Data Platform — What Does It Take to Build One.md
+3-Resources/Highlights/Readwise/Articles/Data Ingestion — Demystified.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering — ETL or ELT.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering Explained Data Models.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md
+3-Resources/Highlights/Readwise/Articles/Data Ecosystem.md
+3-Resources/Highlights/Readwise/Articles/Data Dictionary A How to and Best Practices.md
+3-Resources/Highlights/Readwise/Articles/Data Build Tool (DBT) SQL on Steroids.md
+3-Resources/Highlights/Readwise/Articles/Dashboard++ — a Simple Organization and Navigation Method for Obsidian Vaults.md
+3-Resources/Highlights/Readwise/Articles/Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!.md
+3-Resources/Highlights/Readwise/Articles/Creating a Metadata Architecture From the Ground Up.md
+3-Resources/Highlights/Readwise/Articles/Create Your Own Delicious Slice of Text-Based Productivity in Obsidian—A Step-By-Step Guide.md
+3-Resources/Highlights/Readwise/Articles/Create Your DB Without a Single CREATE Statement!.md
+3-Resources/Highlights/Readwise/Articles/Create a Productivity Workflow That Works for You.md
+3-Resources/Highlights/Readwise/Articles/Craig Sturgis Dot Com.md
+3-Resources/Highlights/Readwise/Articles/Consolidate and Unify - Tandem Vault  Digital Asset Management.md

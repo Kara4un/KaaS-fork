@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Modernize Your ETL Processes to Unleash Better Business Intelligence
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Azure Databricks is a fast, easy, and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks provides the latest versions of Apache Spark and allows you to seamlessly integrate with open source libraries. Clusters are set up, configured, and fine-tuned to ensure reliability and performance without the need for monitoring.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

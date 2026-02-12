@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 69 —  How Do I Find Joy in Leisure?
 
 ## Metadata
@@ -28,3 +40,11 @@
   Your weekly plan is where those quad toos get put in. But
   Speaker 1
   just in general, when you're trying to make sense of all the stuff on your plate, so when you're doing what we would call the configure step of capture, canfigure control, that's where that important row really gets handled. You really say this thing here, you know, i'm processig my to do lis. I'm geting stuff ut of my in box. I'm doing configure stuff. This is not important. This is not urgent. I'm just going to get rid of it. Im goig to get out of this responsibilit i just not going to do it. I'm going to tell the people i'm sorry. I don't have time. I'm going to ignore it. Whatever. This is also during that configure step where you might say, this is urgent, but it's not really best for me to do. It's not important to me. ([Time 0:59:59](https://share.snipd.com/snip/e51e95d5-ccee-4220-a4ed-6eb9af281adf))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

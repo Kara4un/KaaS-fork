@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Evernote and Todoist: REALLY Getting Things Done
 
 ## Metadata
@@ -18,3 +30,11 @@
   If necessary, it should let me collaborate with others
   An ability to help me file and tag things and also prioritize tasks
   Have a safe and reliable sync system across everywhere I used the tool
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

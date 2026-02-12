@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Templates for R Markdown | Jianghao
 
 ## Metadata
@@ -20,3 +32,11 @@
 * manuscriptPackage Template for writing manuscripts as an R package https://github.com/jhollist/manuscriptPackage
 * template A template for my research projects, based on the R package structure https://github.com/cboettig/template
 * rmarkdown-website-template: Template for creating your website with R markdown. https://github.com/privefl/rmarkdown-website-template
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

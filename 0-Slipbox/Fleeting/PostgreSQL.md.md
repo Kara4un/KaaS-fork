@@ -1,7 +1,18 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # PostgreSQL
 
 <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">
-
 
  > 
  > [PostgreSQL](https://www.postgresql.org/) software, libraries, tools and resources.
@@ -293,3 +304,11 @@
 
 Links: 
 Source:
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

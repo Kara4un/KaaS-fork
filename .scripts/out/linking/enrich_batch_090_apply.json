@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_090",
+  "mode": "apply",
+  "total": 20,
+  "modified": 19,
+  "details": [
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/PowerShell/Windows PowerShell.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Storage.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Services Table.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Instance Groups.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP API Service Accounts.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP - Google Cloud SDK - gcloud.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Cloud SDK.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Cloud BigQuery.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Colaboratory.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/GCP/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/Python/Python.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/Python/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdbr.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdb.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - implyr.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ibmdbR.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

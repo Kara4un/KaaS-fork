@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 *Source: [RODBC — ODBC Database Access - cran/RODBC - (github.com)](https://github.com/cran/RODBC)*
 
 *Source: [The RODBC package - IBM Documentation](https://www.ibm.com/docs/en/db2woc?topic=packages-rodbc-package)*
@@ -69,3 +81,11 @@ odbcClose(con)
 ````dataview
 list from [[R Package - RODBC]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+0-Slipbox/Azure Terraform Bootstrap Walkthrough.md
+0-Slipbox/AWS S3 Data Lake Layers and Buckets Best Practices.md
+0-Slipbox/Authentication in Azure Key Vault.md
+0-Slipbox/Atomic Notes.md
+0-Slipbox/API Design.md
+0-Slipbox/API Authentication.md
+0-Slipbox/API Architecture - Performance Best Practices.md
+0-Slipbox/Annual Goals and Life Domains.md
+0-Slipbox/An Overview of HTML CSS and JavaScript.md
+0-Slipbox/Alteryx vs Code.md
+0-Slipbox/Agile Development.md
+0-Slipbox/Actuarial Science - Life Insurance Terms - Topsides.md
+0-Slipbox/Actuarial Property Casualty Data Thoughts.md
+0-Slipbox/Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain.md
+0-Slipbox/Actuarial Experience Studies.md
+0-Slipbox/Actuarial Exams.md
+0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md
+0-Slipbox/About Data Requirements.md
+0-Slipbox/0-Slipbox.md
+2-Areas/Logs/README.md

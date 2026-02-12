@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Struggling To See The Big Picture As You Work? The Horizons Of Focus Model Is For You # 53
 
 ## Metadata
@@ -28,3 +40,11 @@
   say when they, you know, consider the question again in two or three years time, what are your five year goals? That will still be a five year goal, right? They will not have made much progress toward it. So, i think it's a, in our world, where the world is coming at us so fast, where the technologies are evolving to allow us to be reminded at, you know, all times of day and night about various things that are happening, a, i think the need for this model, again, for people who are, who are not content simply to be, you know, just kind of driven by their email inbox s. O say that, they say, i'm i some one say this to me in a similar one time. I'm very happy to be driven by my amal in box. It's absolutely fine, as i see it. That's my job. I do emal. And if that's your attitude, then there's not a lot, now, then what we're offering here is probably not a lod attractive. But if your goal is that that these, as i say, that these these longer turm things that are important to you, get enough attention in your world, en spending some time with the horizons of focus model i think, can be very beneficial. That's, that's coing of mya as count im mi take. Wt, what would you reckon? It's a
   Speaker 2
   really a god point, you know? It'. It's such a good point. And the horizon's a focus to me, is where getting things done, as you said, et, gets to be about getting the right things done and getting pro active about what you want. Just a, mean, just recognizing that you have desired outcomes, things that you want to be true that aren't true, is a revelation for some people who who relate to ther their various problems in life, this is a problem, and i need to figure out what, you know, i need to deal with the problem. And we say, what's your desired outcome? And they go, oh, oh, i could have a desired outcome. But again, that's reactive. That's reactive to a problem or a situation that's come, in a sense, to you. And as you say, you know, there's a lot of things, hopes, dreams, goals, ideas that we have, that just acknowledging them and starting to review them regularly changes, in my experience, the orientation of your brain toward that topic. You start to see things differently. You start to experience things differently in relation to that as a stated goal, as opposed to unconscious goal. So, very, very powerful model a, you know, maybe a bit of, a bit of an unsung hero of g t d, and something that that really am i think, you know, any one can start to do with the right prompt and the right, you know, the right sort of inroad to starting to create these horizons of focus for themselves. When you go to do this, i'm curious what is, what is your, what is your process for getting your own horizons of focus exteriorized? Where do you, where do you out? First of all, how do you kind of mind that out for yourself? And then where do you store it? Where do you keep it? How do you review it? What's, what's tod's relationship to horizons of focus? ([Time 0:10:38](https://share.snipd.com/snip/a8e1dae6-b0fb-4172-b798-ee0863e76601))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

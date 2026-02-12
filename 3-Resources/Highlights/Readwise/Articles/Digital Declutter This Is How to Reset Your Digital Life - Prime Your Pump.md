@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital Declutter: This Is How to Reset Your Digital Life - Prime Your Pump
 
 ## Metadata
@@ -16,3 +28,11 @@
   (1) Define your technology rules.
   (2) Take a 30-day break.
   (3) Reintroduce optional technologies
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

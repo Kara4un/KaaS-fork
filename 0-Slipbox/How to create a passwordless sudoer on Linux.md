@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to create a passwordless `sudoer` on Linux
 
 *Source: [How to configure passwordless sudo in Linux](https://www.simplified.guide/linux/enable-passwordless-sudo#:~:text=Steps%20to%20setting%20up%20passwordless%20sudo%20in%20Linux%3A,visudo%20by%20saving%20the%20file.%20More%20items...%20)*
@@ -89,3 +101,11 @@ root    ALL=(ALL:ALL) ALL
 list from [[How to create a passwordless sudoer on Linux]] AND -"Changelog"
 ```
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Data Build Tool (DBT): SQL on Steroids
 
 ## Metadata
@@ -13,3 +25,11 @@
 * In layman's terms, DBT enables data analysts and engineers to write data transformation queries in a modular manner without having to maintain the execution order manually. It compiles all code into raw SQL queries that run against your data warehouse to use existing computing resources.
 * It also understands dependencies within your queries and runs them in the correct order. DBT code is a combination of SQL and Jinja; therefore, you can express logic such as conditional statements, loops, filters, and macros in your queries.
 * Macros are like functions — you can abstract commonly used snippets of SQL which can be reused anywhere.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

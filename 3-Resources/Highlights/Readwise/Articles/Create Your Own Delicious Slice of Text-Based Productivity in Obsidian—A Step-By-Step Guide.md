@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Create Your Own Delicious Slice of Text-Based Productivity in Obsidian—A Step-By-Step Guide
 
 ## Metadata
@@ -17,3 +29,11 @@
 * As the Drafts action conveniently teleports me directly to the target location in Obsidian, I try to add links to related pages while I’m there and add double square brackets to set up links to pages that might not exist yet, but probably should.
 * Finding in Obsidian is simply a matter of using the search bar, or following a link from my Maps Of Content pages, or pulling up a random note for serendipitous inspiration.
 * I’m no longer distracted by other shiny objects on my way to where I want my notes to go.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

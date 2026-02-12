@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Take Notes While Reading on the Web With Obsidian
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Quick capture: If you are reading on the web and a thought or idea pops up in your mind, you can quickly open the eloquent window and store your idea there.
 * Snippets and shortcuts: Shortcuts save time. You can use shortcuts and snippets in the eloquent tool for a better note-taking experience. You can see the shortcuts and snippets by clicking on the ‘?’ icon in the top right corner. My most used snippets are ‘URL’ and ‘title’. This helps to capture the source of notes without hassle.
 * Compatible with New note-taking applications: This tool was primarily built for Roam research but works pretty well for other tools as well. It supports the use of double brackets \[\[\]\], #tags, and nested bullets.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

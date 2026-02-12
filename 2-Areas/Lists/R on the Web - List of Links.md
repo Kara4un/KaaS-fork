@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R on the Web - List of Links
 
 Useful links for people interested in R.
@@ -198,3 +210,11 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 ````dataview
 list from [[R on the Web - List of Links]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

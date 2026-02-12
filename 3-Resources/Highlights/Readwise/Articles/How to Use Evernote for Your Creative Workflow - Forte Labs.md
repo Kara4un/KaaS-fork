@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Use Evernote for Your Creative Workflow - Forte Labs
 
 ## Metadata
@@ -36,3 +48,11 @@
 * spend more time/attention on things that interest and resonate with you.
 * As David Allen says,
   Simple, clear purposes and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

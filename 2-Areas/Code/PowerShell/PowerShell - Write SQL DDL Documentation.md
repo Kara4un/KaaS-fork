@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Write SQL DDL Documentation
 
 *Source: https://github.com/Phil-Factor/PowerShell-Utility-Cmdlets/blob/main/Write-DocumentationToSQLDDLFile/Write-DocumentationToSQLDDLFile.ps1*
@@ -41,3 +53,11 @@ list from [[PowerShell - Write SQL DDL Documentation]] AND -"Changelog"
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
 ---
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

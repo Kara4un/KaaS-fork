@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Monitor Query Plans
 
 *Source: [Monitor Query Plans | thiscodeWorks](https://www.thiscodeworks.com/61faf27fb783be0015bbaf7e)*
@@ -39,3 +51,11 @@ ORDER BY highest_cpu_queries.total_worker_time desc;
 ````dataview
 list from [[SQL - Monitor Query Plans]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

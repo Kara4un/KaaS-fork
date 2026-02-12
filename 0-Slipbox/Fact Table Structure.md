@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Fact Table Structure
 
 *Source: [Fact Table Structure | Kimball Dimensional Modeling Techniques (kimballgroup.com)](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/fact-table-structure/)*
@@ -12,3 +24,11 @@ A *fact table* contains the numeric measures produced by an operational measurem
 * [Ralph Kimball](../2-Areas/People/Ralph%20Kimball.md)
 * [The Kimball Lifecycle](The%20Kimball%20Lifecycle.md)
 * [Kimball Techniques for Data Warehousing](Kimball%20Techniques%20for%20Data%20Warehousing.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

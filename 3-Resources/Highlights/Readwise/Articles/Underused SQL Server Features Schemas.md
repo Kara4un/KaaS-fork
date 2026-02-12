@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Underused SQL Server Features: Schemas
 
 ## Metadata
@@ -19,3 +31,11 @@
 * EXEC sp_rename ‘Administration.Administration_Employees’, ‘Employees’;
 * Suppose a new application is written which is meant to manage the administration part of the house, without regard to any of the data related to the operations of the club (for example, an application that managers can use to coordinate employees efforts across the different office buildings).
 * Without schemas, instead of one single GRANT you should have executed one GRANT for each object related to administration. With schemas, you can manage all administration-related objects as a whole.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

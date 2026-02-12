@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Robert Myles McDonnell
 
 ## Metadata
@@ -49,3 +61,11 @@
   y\_{ij} = \beta_j\bf{x_i} - \alpha_jyij​=βj​xi​−αj
 * Like I mentioned above, you might need to change the paths to any images, depending on your setup. Images created from code chunks have a specific way of being in organised in RMarkdown. I source images in blog posts from a subfolder named, surprisingly, images/. So if I make something with ggplot2 in a code chunk, this will need to go into images/ so the .mdx will find it.
   So that's how you can use Gatsby for writing about R-related stuff if you're interested. I haven't written about the actual Gatsby/React/JS side of things and how it was for a data scientist to learn all that, but I might do that in the future.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

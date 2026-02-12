@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # CMD Overview
 
 %% Begin Waypoint %%
@@ -34,3 +46,11 @@ type: folder_brief_live
 ---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

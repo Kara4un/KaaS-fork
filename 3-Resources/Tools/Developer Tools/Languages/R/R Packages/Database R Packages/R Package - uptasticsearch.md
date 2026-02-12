@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - uptasticsearch
 
 *Source: [uptake/uptasticsearch: An Elasticsearch client tailored to data science workflows. (github.com)](https://github.com/uptake/uptasticsearch)*
@@ -229,3 +241,11 @@ In the example above, we used the [date_histogram](https://www.elastic.co/guide/
 ````dataview
 list from [[R Package - uptasticsearch]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

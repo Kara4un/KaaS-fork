@@ -1,0 +1,20 @@
+2-Areas/Code/SQL/SQL - PostgreSQL - Extensions.md
+2-Areas/Code/SQL/SQL - PostgreSQL - ETL Function Template.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dynamic Trigger.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dump Entire Database to CSV.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Date Dimension Table.md
+2-Areas/Code/SQL/SQL - PostgreSQL - DataDictionary.md
+2-Areas/Code/SQL/SQL - SQL Server - Find the First Row of Each Group.md
+2-Areas/Code/SQL/SQL - SQL Server - Cumulative Distribution Functions.md
+2-Areas/Code/SQL/SQL - SQL Server - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/SQL/SQL - SQL Server - Concatenate Strings.md
+2-Areas/Code/SQL/SQL - SQL Server - Check Size of DB Objects.md
+2-Areas/Code/SQL/SQL - SQL Server - Check if a Column is Accessible.md
+2-Areas/Code/SQL/SQL - Retrieve Who is Doing What.md
+2-Areas/Code/SQL/SQL - Retrieve Top Slow Requests.md
+2-Areas/Code/SQL/SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md
+2-Areas/Code/SQL/SQL - Re-build all Indexes.md
+2-Areas/Code/SQL/SQL - PostgreSQL String Manipulation.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Using Tables as Templates.md
+2-Areas/Code/SQL/SQL - PostgreSQL - UPSERT.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Strip Accents from Strings.md

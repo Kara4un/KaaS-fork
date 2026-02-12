@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Declutter Your Data With No Regrets
 
 ## Metadata
@@ -29,3 +41,11 @@
   Be sure to isolate those bits of information from the rest of your data to avoid accidental deletion and back them up in multiple places. Put the whole backup process on autopilot if you can.
   Of course, going on a data deletion spree is not the right approach for everyone. But you’re discerning enough to figure out if it’s the right one for you and how far you should take it.
   Now, ready to set free some of your data and never bother about it again? It’ll take time to go through all of it, but when you get to the other side it’ll feel liberating. You’ll be familiar with this feeling if you have given away physical possessions in bulk anytime. Bring it back by Kondoing your digital life.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

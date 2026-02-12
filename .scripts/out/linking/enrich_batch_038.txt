@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md
+3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md
+3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md
+3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md
+3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md
+3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md
+3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md
+3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md
+3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md
+3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md
+3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md
+3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md
+3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md
+3-Resources/Citations/Actuarial Science/files/98/Whitson - UNPAID LOSS & ALAE RANGES AND PERCENTILES-annotate.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Reverse an Array.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace Empty Strings with NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Validate an Email Address.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Parse URL String.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Refresh All Materialize Views.md

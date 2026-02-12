@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * AirrQuote ([Time 0:51:20](https://www.airr.io/quote/5f3724a0a7c7e0da4e99a887))
   * Note: Your brain needs to trust the plan
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

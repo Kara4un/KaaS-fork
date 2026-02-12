@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Decent-Code
 
 ## Metadata
@@ -169,3 +181,11 @@
   Fix the root cause. Fixing symptoms alone, or intermediate causes, is a workaround rather than a complete fix. They often involve adding code to work against something other code is doing.
   Understand why the fix works. A fix which appears to work, but cannot be explained why, may be unreliable or incomplete.
   Add test(s) which don’t pass without the fix. Tests will help prevent regression - the bug being reintroduced through later changes. Choose unit and/or integration tests as appropriate. Validate the test by checking that it fails against the unfixed code.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

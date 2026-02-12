@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media | DEEP QUESTIONS
 
 ## Metadata
@@ -13,3 +25,11 @@
   * Note: Three pillars of productivity systems - Capture, Configure, Control
 * AirrQuote ([Time 0:25:57](https://www.airr.io/quote/5f0426a7d1e72cded79035d5))
   * Note: Three pillars of productivity systems - Capture, Configure, Control
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Official Guide to Using Todoist: Build Your Perfect Productivity Workfl
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Split bigger tasks into sub-tasks
   Don’t be afraid to add smaller tasks to a project. For example, you’ll need plenty of little steps to take care of a task like “Write a video script”. Add sub-tasks for every step along the way to completing the bigger task.
   Let’s say you’re writing a script as part of your `#Video` project: You can add sub-tasks named First draft, Second draft, and Final draft. Breaking big tasks down into smaller ones makes it less daunting to get started, and checking things off along the way builds momentum to get to the finish.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

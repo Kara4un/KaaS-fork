@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # REST API Idempotence
 
 Idempotence is a funky word that often hooks people. Idempotence is sometimes a confusing concept, at least from the academic definition.
@@ -13,3 +25,11 @@ GET, HEAD, OPTIONS and TRACE methods are defined as safe, meaning they are only 
 ````dataview
 list from [[REST API Idempotence]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

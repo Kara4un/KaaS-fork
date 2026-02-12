@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/Learn From Silicon Valley’s Data Engineers Dimensional Data Modeling Is Dead.md
+3-Resources/Highlights/Readwise/Articles/Learn From Google’s Data Engineers Dimensional Data Modeling Is Dead.md
+3-Resources/Highlights/Readwise/Articles/Learn About Cloud Functions Events and Triggers  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Last-Minute Moving Tips How to Pack in a Pinch - Updater.md
+3-Resources/Highlights/Readwise/Articles/Kubernetes Explained to Product Managers.md
+3-Resources/Highlights/Readwise/Articles/Knoco Stories What's Unique About Knowledge Management.md
+3-Resources/Highlights/Readwise/Articles/Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter.md
+3-Resources/Highlights/Readwise/Articles/Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Jani’s Notes.md
+3-Resources/Highlights/Readwise/Articles/It’s Not You - It’s Your Knowledge Base.md
+3-Resources/Highlights/Readwise/Articles/It's Time to Audit Your Autopay Subscriptions.md
+3-Resources/Highlights/Readwise/Articles/It's the Programming Environment, Not the Programming Language  thesephist.com.md
+3-Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md
+3-Resources/Highlights/Readwise/Articles/Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow.md
+3-Resources/Highlights/Readwise/Articles/Information Strategy My Routine, Inputs – Interdependent Thoughts.md
+3-Resources/Highlights/Readwise/Articles/Inbox Master Get All Your Inboxes to Zero, and Have Fewer Inboxes  Zen Habits.md
+3-Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Implementing an Idea-Management System - LessWrong 2.0.md
+3-Resources/Highlights/Readwise/Articles/If You Want to Be a Great Programmer, Learn to Write.md

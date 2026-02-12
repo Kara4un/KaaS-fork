@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GTD Reference: The Best Filing System for Busy Lives | Shortform Books
 
 ## Metadata
@@ -36,3 +48,11 @@
   Many of your projects will include steps that require someone else’s input or action before you can take your next action. Any time you’re waiting on someone, add the item to your Waiting For list so you can keep track of everything and follow up when necessary in your office filing system.
   Additionally, if you’re invested in the outcome of an item you’ve delegated to someone else, add that item to your Waiting For list.
   The best filing system is subjective, but the GTD reference filing system offers order, organization, and mental clarity. What’s important is finding the best filing system for you. ([View Highlight](https://instapaper.com/read/1440582212/17329602))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

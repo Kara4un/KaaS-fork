@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # My Focus-Centric Work Day - Study Hacks - Cal Newport
 
 ## Metadata
@@ -18,3 +30,11 @@
   Why did I add this extra structure to my day? I was worried that I was increasingly losing my ability to focus on hard thinking for extended periods of time. Too much of my day would be interrupted by small tasks and inexplicably frantic inbox checking.
   I know, of course, that’s it’s fashionable to describe our current fixation on taking in huge amounts of simultaneous information as some sort of evolution of the human mind. Maybe this is true. But for the two fields I’ve devoted my young life to — academic research and writing — the ability to focus is everything. It’s also, I’ve discovered, incredibly rewarding.
 * I’m not recommending that you adopt my exact structure. It evolved, over time, to fit the particular demands of my particular situation. But you might want to consider the broader point and reflect on the role focus plays in your life. Ask yourself what efforts you’re making to keep this ability from whithering into vestigial disuse.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

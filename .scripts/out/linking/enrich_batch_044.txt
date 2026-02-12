@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md
+3-Resources/Highlights/Readwise/Books/Quick Passages.md
+3-Resources/Highlights/Readwise/Books/Free to Focus.md
+3-Resources/Highlights/Readwise/Books/Extend Your Mind.md
+3-Resources/Highlights/Readwise/Books/Design Your Work.md
+3-Resources/Highlights/Readwise/Books/Clean Up and Declutter Your Computer.md
+3-Resources/Highlights/Matter/⛔ Are You Doing Fake Work-.md
+3-Resources/Highlights/Matter/Write-Host vs Write-Output.md
+3-Resources/Highlights/Matter/Workflow automation tools for package developers.md
+3-Resources/Highlights/Matter/Why and how maintain a NEWS file for your R package-.md
+3-Resources/Highlights/Matter/We Need to Talk About Docker Registries.md
+3-Resources/Highlights/Matter/Using Partitioning to Optimize Performance During Data Ingestion.md
+3-Resources/Highlights/Matter/Using Inboxes To Manage Your Thoughts And Ideas.md
+3-Resources/Highlights/Matter/Tracking estimated required reserve changes for captives.md
+3-Resources/Highlights/Matter/The Fall of History as a Major–and as a Part of the Humanities.md
+3-Resources/Highlights/Matter/The Engineered Century.md
+3-Resources/Highlights/Matter/Spreadsheet Documentation (using only Excel's inbuilt tools).md
+3-Resources/Highlights/Matter/Restarting The Weekly Review Process.md
+3-Resources/Highlights/Matter/Rbitrary Standards.md
+3-Resources/Highlights/Matter/R Markdown Reporting Best Practices.md

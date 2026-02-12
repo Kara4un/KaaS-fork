@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#634: How to Design Conversations That Matter
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * AirrQuote ([Time 0:07:25](https://www.airr.io/quote/5f372da5a7c7e0db8299a8f3))
   * Note: Test
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_072",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Tools/Microsoft Office/Microsoft Office.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Microsoft Office/Microsoft Access.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Notes/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-28.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-26.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-18.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-07.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-06.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-05.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-04.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2021/2021-12/2021-12-01.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Pandoc/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Pandoc/Pandoc.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/Pandoc/Pandoc - Convert Word to Markdown.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Websites and Online Tools/Websites and Online Tools.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Websites and Online Tools/thiscodeWorks.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Websites and Online Tools/StackOverflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Websites and Online Tools/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

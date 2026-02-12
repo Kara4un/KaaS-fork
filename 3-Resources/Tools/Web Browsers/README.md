@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Web Browsers
 
 Sources:
@@ -78,3 +90,11 @@ Currently my primary web browsers are:
 * [Chromium - The Chromium Projects](https://www.chromium.org/Home)
 
 * [Microsoft Edge: The Browser for Business - Microsoft](https://www.microsoft.com/en-us/edge/business?form=MM13Y8&OCID=MM13Y8&OCID=AID2100873_SEM_469918d2b40c1c3bedab786890d18649:G:s&msclkid=469918d2b40c1c3bedab786890d18649)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

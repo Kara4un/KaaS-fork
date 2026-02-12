@@ -1,0 +1,20 @@
+2-Areas/Logs/Log - New Discoveries.md
+1-Projects/Professional/PwC/FAST - Factory for Actuarial Solution Technology.md
+1-Projects/Professional/PwC/FAST - Data Platforming Management Key Activities.md
+3-Resources/Clippings/using dacpac functions to clone sql server databases.md
+3-Resources/Clippings/Table Loading Strategies in Data warehousing.md
+3-Resources/Clippings/SQL Server PowerShell - SQL Server.md
+3-Resources/Clippings/SQL Command Prompt Utilities - SQL Server.md
+3-Resources/Clippings/Selectively modernizing and migrating applications to AWS.md
+3-Resources/Clippings/README.md
+3-Resources/Clippings/Obsidian-Clipper.md
+1-Projects/Personal/lossrx/Workflows.md
+1-Projects/Personal/lossrx/README.md
+1-Projects/Personal/lossrx/Functions.md
+1-Projects/Personal/lossrx/Data.md
+1-Projects/Personal/lossrx/Application and API.md
+1-Projects/1-Projects.md
+2-Areas/Content/Posts/Published/README.md
+2-Areas/Content/Posts/Published/Getting to know .Renviron.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-10.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-09.md

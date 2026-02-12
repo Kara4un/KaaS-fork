@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Software Roles and Titles
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Collaboration over competition
 * I like to reward initiative with increased responsibility, and if somebody has the skills and initiative to take on and outgrow the title they’re hired for, I like to promote rather than risk losing a rising star to another company or team.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

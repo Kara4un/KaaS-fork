@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Committing to Consistency with Your Blog
 
 ## Questions to Answer
@@ -43,3 +55,11 @@ When will I write my blog posts?
 *Shipping is important. Set yourself a time limit for writing a post and put it here. You will spend this amount of time on a post at max and then you will ship it no matter what.*
 
 #### Answer: One Hour
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

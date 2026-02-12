@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Use Todoist Tutorial
 
 ## Metadata
@@ -225,3 +237,11 @@
 * Third, make that commitment to review Todoist daily. Check off the tasks you’ve completed. Add new ones that you’d like to accomplish. And create a project whenever you start a new multistep activity.
   The one reason some people fail to get results with their to-do lists is they don’t fully commit to the process. So if you take five minutes daily to open Todoist, then you’ll eventually build a very powerful habit of reviewing your tasks. Once that happens, you’ll be 100% confident that anything stored in this app will be there when you need it.
   Finally, when you’re comfortable with the core features of Todoist, you can incorporate some of the 23 advanced strategies I just mentioned. Go to IFTTT.com to automate the other apps and programs that you typically use, like Evernote, Slack, or Gmail. If you’re someone who likes to systematize their life as much as possible, then these recipes can streamline many of the actions you do frequently.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

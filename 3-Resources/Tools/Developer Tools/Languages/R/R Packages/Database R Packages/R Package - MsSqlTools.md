@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - MsSqlTools
 
 *Source: [nathan-palmer/MsSqlTools: An R package that contains convenience functions for establishing ODBC connections to Microsoft SQL Server using either Microsoft's ODBC Driver 17 for SQL Server or the FreeTDS driver. (github.com)](https://github.com/nathan-palmer/MsSqlTools)*
@@ -116,7 +128,6 @@ connectMsSqlDomainLogin <- function(server,
     return()
 }
 
-
 #' Connects an R session to a running instance of Microsoft SQL Server 
 #' using a Windows login on a standalone (non-domain) server.  This only works
 #' with the FreeTDS driver.
@@ -180,3 +191,11 @@ connectMsSqlStandaloneLogin <- function(server,
 ````dataview
 list from [[R Package - MsSqlTools]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

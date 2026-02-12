@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_018",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "0-Slipbox/Azure Terraform Bootstrap Walkthrough.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/AWS S3 Data Lake Layers and Buckets Best Practices.md",
+      "changed": true,
+      "term_changes": 4,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Authentication in Azure Key Vault.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Atomic Notes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/API Design.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/API Authentication.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/API Architecture - Performance Best Practices.md",
+      "changed": true,
+      "term_changes": 4,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Annual Goals and Life Domains.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/An Overview of HTML CSS and JavaScript.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Alteryx vs Code.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Agile Development.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Science - Life Insurance Terms - Topsides.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Property Casualty Data Thoughts.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Experience Studies.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Exams.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/About Data Requirements.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/0-Slipbox.md",
+      "changed": true,
+      "term_changes": 7,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Logs/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

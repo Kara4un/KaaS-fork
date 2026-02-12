@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Miniature Insurance Economic Simulator - MIES
 
 *Source: [genedan/MIES: Miniature Insurance Economic Simulator](https://github.com/genedan/MIES)*
@@ -109,3 +121,11 @@ pricing_date = pricing_date.replace(pricing_date.year + 1)
 ````dataview
 list from [[Miniature Insurance Economic Simulator]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

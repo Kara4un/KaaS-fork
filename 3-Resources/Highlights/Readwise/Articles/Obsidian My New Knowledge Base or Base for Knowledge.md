@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Obsidian: My New Knowledge Base or Base for Knowledge
 
 ## Metadata
@@ -61,3 +73,11 @@
   If push comes to shove and I suddenly must use another system than Obsidian, I’ll use Zettlr, foam, Joplin, or Roam. I’ll just open my folder-and-file structure in one of those—or import my Markdown files—thank you very much. I sure as fuck won’t be going back to OneNote at any point. I’m very happy right now. ([View Highlight](https://instapaper.com/read/1358169334/14480710))
 * One more thing
   Don’t forget the web-browser extension MarkDownload – Markdown Web Clipper that allows you to visit a web page, think ‘I want this in my Obsidian’, select a button, copy the resulting test, and paste it into Obsidian: voilá, Markdown applied, good to go. Reckless fucking abandon. ([View Highlight](https://instapaper.com/read/1358169334/14480711))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

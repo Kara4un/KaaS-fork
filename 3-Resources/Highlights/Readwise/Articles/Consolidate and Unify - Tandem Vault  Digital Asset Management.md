@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Consolidate and Unify - Tandem Vault | Digital Asset Management
 
 ## Metadata
@@ -16,3 +28,11 @@
   Unifying your existing collection will also help you build practices for the future. It’s hard to get your policies exactly right until you have road tested them. And there’s no better road test than one you actually have to drive on (in the car you’ll be driving).
 * At the opening stage of consolidation, it’s best to make sure you are gathering at least one of everything, and not to worry too much about duplication. If there is duplication that is easy to identify, you can fix it as you go along, but you’ll also have the opportunity to fix it later, once your collection has been consolidated and cataloged.
 * you consolidate, it’s good to keep the 80-20 rule in mind. In most cases, there is a large percentage of media that can be gathered easily (80% perhaps) and a smaller percentage that will be hard to find (20% perhaps). Don’t let “perfect be the enemy of good” by delaying until 100% of media has been consolidated. Make a good faith effort to gather as much as you can, and get to work.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

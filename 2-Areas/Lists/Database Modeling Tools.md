@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Database Modeling Tools
 
 *Source: [23 Data modeling tools - DBMS Tools](https://dbmstools.com/categories/data-modeling-tools) | [Data and Database Tools Catalog - DBMS Tools](https://dbmstools.com/)*
@@ -29,3 +41,11 @@
 ````dataview
 list from [[Database Modeling Tools]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R at Scale on the Google Cloud Platform
 
 ## Metadata
@@ -91,3 +103,11 @@
   servicePort: 3838 ([View Highlight](https://instapaper.com/read/1362616169/14671755))
 * With the introduction of Cloud Run, the options get simpler for R APIs, although in all circumstances the first suggestion is “Use Docker!”. Cloud Run is a level of service built on top of Kubernetes, but if you can’t use that then “Use Kubernetes!” is the next byword for scale.
   In all cases, having that Docker container gives you the flexibility to swap once the new services comes along. Cloud Functions and App Engine in particular are the next step in managed services, and perhaps in the future you won’t even need to create the Docker image - just upload your code, it builds the Dockerfile for you then deploys. ([View Highlight](https://instapaper.com/read/1362616169/14671758))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

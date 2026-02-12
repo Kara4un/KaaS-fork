@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Oh my! Zsh.
 
 ## Metadata
@@ -30,3 +42,11 @@
   So now we're the default. But a lot at the time, it was just like, there were some cool little features we got with like h auto completion. And just beng be to wire that stuff into get kind at was still new at the time. And so beng able to do some things like show your kit branch in you're prompt. And sure you could figure how to do that in bashes, will the probems, you'd have to go and figureit out. Yes. That'swhat i love about
   Speaker 2
   omass hs. ([Time 0:10:32](https://share.snipd.com/snip/f7592a3d-08d4-42e8-8bbb-64c1a17a1c6b))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

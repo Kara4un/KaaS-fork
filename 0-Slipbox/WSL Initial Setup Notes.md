@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # WSL Initial Setup Notes
 
 1. [Passwordless sudoers](How%20to%20create%20a%20passwordless%20sudoer%20on%20Linux.md) & Remove required password for user to use `sudo`
@@ -19,7 +31,6 @@ jimmy@USQ2BZYWHI:~$ dpkg --get-selections | grep -v deinstall | awk '{print $1}'
 ````
 
 <details><summary>View Output</summary><p>
-
 
 ````bash
 accountsservice
@@ -777,3 +788,11 @@ zlib1g:amd64
 ````dataview
 list from [[WSL Initial Setup Notes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

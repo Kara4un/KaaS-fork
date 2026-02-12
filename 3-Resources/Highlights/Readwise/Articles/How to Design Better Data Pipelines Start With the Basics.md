@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # How to Design Better Data Pipelines? Start With the Basics
 
 ## Metadata
@@ -23,3 +35,11 @@
 * Data requirements:
 * Decide which minimum viable product could be deployed to production, and also define future iterations.
 * Specify which tools will you use and why. What pros have those tools in that scenario and what limitations can they have in the future. If we go back to the batch vs streaming scenario an MVP could be an hourly batch that with our current tools can be easily achieved. Future iterations imply adding pipeline streaming tools to reach the desired final project status.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

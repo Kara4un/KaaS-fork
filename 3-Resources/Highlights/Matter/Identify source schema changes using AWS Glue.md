@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 \<\<\<\<\<\<\< HEAD
@@ -50,3 +62,11 @@
 * Create an AWS Glue ETL job Now you create an AWS Glue ETL job to compare two schema versions of a table and list the changes in schemas. If there are no changes in the schema and the flag to delete older versions is set to true, the job also deletes any older versions. If there are changes in schema, the job lists changes in the CloudWatch logs and publishes an event in Amazon SNS to notify changes to the data team.
 * Test the solution
 * In this post, we showed you how to use AWS services together to detect schema changes in your source data, which you can then use to change your downstream data stores and run ETL jobs to avoid any failures in your data pipeline. We used AWS Glue to understand and catalog the source data schema, AWS Glue APIs to identify schema changes, and Amazon SNS to notify the team about the changes. We also showed you how to delete the older versions of your source data schema using AWS Glue APIs. We used Amazon S3 as our data lake storage tier. Here you can learn more about AWS Glue.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

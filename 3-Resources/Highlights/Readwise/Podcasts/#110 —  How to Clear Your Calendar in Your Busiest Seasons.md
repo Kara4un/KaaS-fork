@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#110 —  How to Clear Your Calendar in Your Busiest Seasons
 
 ## Metadata
@@ -20,3 +32,11 @@
   One of the best ways, when you're evaluating your commitments, what's on your calendar, you're going to see appointments and meetings. Some of those meetings will have been booked months ago. Sometime they're just recurring meetings. A question you can ask yourself is, if you are taking some time in a weekly previe for instance, to look ahead at the next week or two weeks, and just go, what is the key outcome i'm trying to get from that meeting? And why is that so important to have this week? Because sometimes you can eliminate a meeting, but you still need that outcome. And what i mean is, if you can identify that question. Oh, all i really need to is what my boss thinks about x process or something. Maybe that's something you can send ina in a quick novitio voice memo. Emal te, and just eliminate the meeting, cause you identify the key outcome, and what outcome is so important to have this week by that meeting, sometimes you, if you can identify it, then just volley it to the people you're matingwith. Belik a, do i need to be there you now? I'm kind of overloaded to have these other prioritie, so yea, consider, consider those commidments. Make sure you're clear on why you're doing it. And if it's like courtney said, if it's serving youy,
   Speaker 3
   i think that's good ([Time 0:12:44](https://share.snipd.com/snip/7b013370-f90f-4e23-83c7-92f77d76aa8a))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

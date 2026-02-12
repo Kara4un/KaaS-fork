@@ -1,0 +1,20 @@
+0-Slipbox/Data Cataloging.md
+0-Slipbox/Credibility Theory.md
+0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md
+0-Slipbox/Creating a data dictionary with SQL.md
+0-Slipbox/Create Custom Bootable Windows Media from Command Line.md
+0-Slipbox/Consideration and Concerns Regarding AWS Data Architecture.md
+0-Slipbox/Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse.md
+0-Slipbox/Collectors Fallacy.md
+0-Slipbox/Code Coverage.md
+0-Slipbox/Cloud Computing.md
+0-Slipbox/CHECK Constraints in Relational Databases.md
+0-Slipbox/CAS - Casualty Actuarial Society.md
+0-Slipbox/Caching.md
+0-Slipbox/Business Process Model and Notation.md
+0-Slipbox/Building a Second Brain.md
+0-Slipbox/Build a Lakehouse Architecture on AWS.md
+0-Slipbox/Boost your career as a software developer through blogging.md
+0-Slipbox/Bayesian Statistics.md
+0-Slipbox/Batch Scripting Tips and Tricks.md
+0-Slipbox/Base Package Hidden Gems in R.md

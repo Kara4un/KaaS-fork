@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # 10 Quick SQL Tips After Writing Daily in SQL for 3 Years
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * I can’t stress this enough, SQL is fundamental regardless of the specific data-role you aspire to get.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

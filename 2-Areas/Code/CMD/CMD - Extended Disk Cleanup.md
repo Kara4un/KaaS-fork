@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Windows CMD - Extended Disk Cleanup
 
 \*Source: *
@@ -24,3 +36,11 @@ cmd.exe /c Cleanmgr /sageset:65535 & Cleanmgr /sagerun:65535
 ````dataview
 list from [[Windows CMD - Extended Disk Cleanup]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_030",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Code/VBA/VBA - Refresh All.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Progress Bar in the Status Bar.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Page Setup and Print Macros.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Optimize Speed.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Notes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Module Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Make All Open Files Read Only.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - ListLinks Module.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Launch Edit Links Dialog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - GeneralSettings Module.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - File Dialog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - ExtractRibbonX.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Display Message on Status Bar.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Create and Run a SQL Query.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Copy Module from one Workbook to Another.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Compilation Arguments and Enabling Custom DevMode Runtime.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Check for Broken Links in Workbook.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Balloon Notification.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/VBA - Alert.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/VBA/Untitled.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Secret Power of Read It Later Apps
 
 *Source: https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps*
@@ -315,3 +327,11 @@ Join 50,000+ people receiving my best ideas on learning, productivity & knowledg
 ````dataview
 list from [[The Secret Power of Read It Later Apps]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

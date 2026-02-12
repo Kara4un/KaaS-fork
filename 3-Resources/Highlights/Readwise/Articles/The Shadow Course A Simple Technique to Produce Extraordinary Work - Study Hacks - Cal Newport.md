@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Shadow Course: A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport
 
 ## Metadata
@@ -13,3 +25,11 @@
   The shadow course, described below, is a simple optimization to the autopilot schedule that can generate huge benefits.
 * I recommend that you choose the most exotic possible location for your weekly shadow course time blocks
 * To make things even better, because this time is spread out across an autopilot schedule, these hours all maintain a high intensity of focus — a feat which would be impossible if this time was condensed into a small number of long study session.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

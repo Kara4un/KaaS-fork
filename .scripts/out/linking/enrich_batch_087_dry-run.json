@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_087",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DB Browser for SQLite - sqlitebrowser.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Database GUI.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/PgAdmin.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/SQL Server Management Studio.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS CLI.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Aurora.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Athena.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS - Amazon RedShift Serverless.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Redshift.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon OpenSearch Service.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis Data Firehose.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EMR.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EC2.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Athena.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Jekyll.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hugo.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hexo.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/GitBook.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Export SQL Server Tables to CSVs in Bulk
 
 *Source: Personal PowerShell Code*
@@ -138,3 +150,11 @@ Function Export-SQLTablesToCSV {
 ````dataview
 list from [[Export SQL Server Tables to CSVs in Bulk]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

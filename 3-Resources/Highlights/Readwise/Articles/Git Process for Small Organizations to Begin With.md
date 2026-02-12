@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Git Process for Small Organizations to Begin With
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Push the featuere branch to GitHub. Now your feature branch is available in GitHub. The branch will be exactly one commit ahead of the master.
 * Raise a PR against the master branch and leave it for code revie
 * On successful code review, it will get merged to the master. Now your master will be at n+2 commit assuming initially master was at commit n(1 commit for code + 1 merge commit)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

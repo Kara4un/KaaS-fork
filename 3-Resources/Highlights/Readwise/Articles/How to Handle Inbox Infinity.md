@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Handle Inbox Infinity
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Step 2: Out with the old Now that you've isolated all the emails older than one year, it's time for honesty. If I have not needed any of those emails by now — if I have not been bitten by ignoring them yet — then I will probably never need them. So I would declare bankruptcy and delete them all. Click the select-all box and then the trash can:
 * But this really freaks some people out. What if I delete something that's important that I end up needing later? Let me put on my "Dad voice" for a second: This is why you have to have good email hygiene in the first place. If you think that all that stuff might contain something important but don't know, realize this is a huge source of stress that you don't even realize is living in your head rent-free – until you get honest with yourself and have to click the trash can button.
 * But generally speaking, the idea here is to just delete the old stuff in a massive batch. This requires courage. However — in Gmail at least you can hedge your bets by choosing "Archive" instead of "Delete". This will put all those old emails out-of-sight/out-of-mind in an archive, out of your system but still accessible via a search later. (That's the basic rule of the internet today — nothing ever gets truly deleted.)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

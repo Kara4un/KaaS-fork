@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md
+3-Resources/Highlights/Readwise/Articles/10 Ways to Improve How You Manage Information.md
+3-Resources/Highlights/Readwise/Articles/10 Tips to Turn Microsoft To-Do Into a Serious Task Manager.md
+3-Resources/Highlights/Readwise/Articles/10 Quick SQL Tips After Writing Daily in SQL for 3 Years.md
+3-Resources/Highlights/Readwise/Articles/10 Killer Web Apps That Will Increase Your Productivity.md
+3-Resources/Highlights/Readwise/Articles/10 Guidelines to Better Table Design.md
+3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md
+3-Resources/Highlights/Readwise/Articles/'Mustashe' Explained  Joshua Cook.md
+3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV.md
+3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md
+2-Areas/Code/Registry/Registry.md
+2-Areas/Code/Registry/RegEdit - Take Ownership Context Menu.md
+2-Areas/Code/Registry/RegEdit - Restart Explorer and StartMenu Context Bar.md
+2-Areas/Code/Registry/RegEdit - Export Saved Registry Favorites.md
+2-Areas/Code/Registry/RegEdit - Enable Long Path Support on Windows.md
+2-Areas/Code/Registry/Regedit - Add Open in VSCode Insiders to Explorer Context Menu.md
+2-Areas/Code/README.md
+3-Resources/Highlights/Kindle/Bloggin Course Workbook.md
+3-Resources/Tools/Microsoft Office/Office RibbonX Editor.md
+3-Resources/Tools/Microsoft Office/Microsoft Visio.md

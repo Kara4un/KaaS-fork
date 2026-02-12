@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Exploring Terraform on Azure
 
 ## Authenticate Terraform with Azure
@@ -226,3 +238,11 @@ resource "azurerm_virtual_machine" "myterraformvm" {
 ````dataview
 list from [[Exploring Terraform on Azure]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

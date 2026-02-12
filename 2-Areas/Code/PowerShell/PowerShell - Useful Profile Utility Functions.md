@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Useful Profile Utility Functions
 
 *Source: [PowerShell/functions.ps1 at main · jimbrig/PowerShell (github.com)](https://github.com/jimbrig/PowerShell/blob/main/Profile/functions.ps1)*
@@ -41,3 +53,11 @@ Function Open-RProject { Rscript -e 'jimstools::open_project()' }
 ````dataview
 list from [[2-Areas/MOCs/PowerShell - Usefule Profile Utility Functions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

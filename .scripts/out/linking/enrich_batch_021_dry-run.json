@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_021",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Lists/R Package Development Resources List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/R on the Web - List of Links.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/R - Database Packages List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/R - Data Validation Packages List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Productivity Apps List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/PostgreSQL Tools List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Online Developer Tools List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Obsidian Plugins List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/List of Python Flask Resources.md",
+      "changed": true,
+      "term_changes": 3,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/List of APIs I use Frequently.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Learn to Code Platforms Master List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Global Inbox Zero Checklist.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Excel VBA Resource List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Excel Automation Resources.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Database Modeling Tools.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Database GUIs List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Data Engineering Master List of Resources.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/CLI Tools List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/AWS Components Master List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Lists/Awesome R Package Development List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Manage Your Time Effectively as a Software Engineer
 
 ## Metadata
@@ -24,3 +36,11 @@
 * Is there any news making the rounds that I need to be aware of?
 * Do I need to fill out that vacation form?
 * Don’t live inside your IDE bubble! Set yourself time to align with what’s going around you. Usually, the best time to do this is in the morning when your brain has been cleared of open loops and the cognitive load is low. I encourage you to create a 30-minute time block with a predefined checklist of things you need to catch up on:
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

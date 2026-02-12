@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Write Programming Notes Like a PRO
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Firstly, write down a small theory of the topic which you are studying and then draw its diagram. Yes, you must include a diagram in your notes. If you are learning Data structures then you must include Diagrams wherever necessary.
 * After this write down a small pseudo-code or function of the concept which you are learning.
 * Don’t write too much, less content is good to grasp
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

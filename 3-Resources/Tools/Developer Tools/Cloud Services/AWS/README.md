@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Amazon Web Services - AWS
 
 *See Also: [AWS Components Master List](../../../../../2-Areas/Lists/AWS%20Components%20Master%20List.md)*
@@ -39,3 +51,11 @@ list from [[_README]] AND -"Changelog"
 list from "3-Resources/Tools/AWS" AND !#Type/Readme
 ```
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

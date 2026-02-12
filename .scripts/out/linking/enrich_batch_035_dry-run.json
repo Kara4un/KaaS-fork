@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_035",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Create modified_at columns and triggers.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Count NULLs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Clone Schema.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Calculating the Median.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Basic Instance Information.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Audit Trigger.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - POST HTTP API Request with SQL Server.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Monitor Query Plans.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Get Number of Open Connections.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Find Unused Indexes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Crosstab Query.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Create Date Dimension with Fiscal Years.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Convert Integer (Clarion) Date to SQL Datetime.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - Check Size of DB Objects.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Find the First Row of Each Group
 
 *Source: [sql-snippets/first-row-of-group.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/mssql/first-row-of-group.md)*
@@ -62,3 +74,11 @@ select * from and_ranking where ranking = 1
 ````dataview
 list from [[SQL - SQL Server - First Row of Group]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

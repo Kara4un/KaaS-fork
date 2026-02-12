@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Data Dictionary
 
 *Source: [sql_scripts/data_dict_dump.sql at main · DataResearchLabs/sql_scripts (github.com)](https://github.com/DataResearchLabs/sql_scripts/blob/main/postgresql/data_dictionary/data_dict_dump.sql)*
@@ -131,3 +143,11 @@ ORDER BY md.SCHEMA_NM, md.TABLE_NM, md.ORD_POS
 ````dataview
 list from [[SQL - DataDictionary]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

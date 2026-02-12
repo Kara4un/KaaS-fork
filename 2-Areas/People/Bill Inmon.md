@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Bill Inmon
 
 *Source: [Bill Inmon - Wikipedia](https://en.wikipedia.org/wiki/Bill_Inmon)*
@@ -16,3 +28,11 @@
 
 * [Ralph Kimball](Ralph%20Kimball.md)
 * [Data Warehouse](../../0-Slipbox/Data%20Warehouse.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

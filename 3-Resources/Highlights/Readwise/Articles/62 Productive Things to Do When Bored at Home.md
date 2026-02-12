@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 62 Productive Things to Do When Bored at Home
 
 ## Metadata
@@ -210,3 +222,11 @@
   There are a lot of productive things to do when bored. Start working toward something amazing today and give one of the activities above a try.
   With each new experience, you’ll learn more about yourself. In time, you’ll formulate an even better understanding of what motivates and inspires you. And with those ideas in mind, you can create new goals and start building a better future off of that.
   So say goodbye to boredom and say hello to a more fulfilled life.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,18 @@
 ---
-page-title: "How I Capture Fleeting Notes In Obsidian | by Prakash Joshi Pax | Sep, 2022 | Medium"
+page-title: How I Capture Fleeting Notes In Obsidian | by Prakash Joshi Pax | Sep, 2022 | Medium
 url: https://medium.com/@beingpax/how-i-capture-fleeting-notes-without-obsidian-f1d61e8bd14a
-date: "2022-09-23 19:50:03"
+date: '2022-09-23 19:50:03'
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
+
 ## How I Capture Fleeting Notes In Obsidian
 
 ## Obsidian is not good for taking fleeting notes. Here’s my workflow
@@ -79,3 +89,11 @@ Yes, there are times when I can’t capture those ideas. When I’m neither on m
 If you liked this story, you will love the [medium subscription](https://beingpax.medium.com/membership). With only *$5 a month*(less than the price of a cup of coffee), you get unlimited access to the best stories and articles written on the web.
 
 This is [*my referral link*](https://beingpax.medium.com/membership)*.* If you sign up using this link, I earn a small commission with no additional charges to you.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

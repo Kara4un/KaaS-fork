@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What is Data Dictionary - Data terminology
 
 ## Metadata
@@ -22,3 +34,11 @@
 * Data Dictionary can be used as a tool to model data. This can be done with dedicated data modeling tool or plain spreadsheet or document. In this case data dictionary serves as a specification of entities and their fields and helps business analysts, subject matter experts and architects to gather requirements and model the domain. Physical database and application is then designed and implemented based on this document. — [Updated on 2022-09-02 16:33:23](https://hyp.is/fal91Cr-Ee2tDeN87XGIMQ/dataedo.com/kb/data-glossary/what-is-data-dictionary)  — Group: #Topic/Dev
 
 * Data dictionary can also be used as a reference and cataloging of existing data assets - tables in databases, spreadsheets, files and so on. This can be achieved with a few formats and tools: Read only HTML or PDF exports from DBMS with database tools Manually prepared and maintained spreadsheets, Data modeling tools with the use of reverse engineering, Database documentation tools, Metadata repositories/data catalogs — [Updated on 2022-09-02 16:33:27](https://hyp.is/gCFeBir-Ee2_VQ8QobUbBQ/dataedo.com/kb/data-glossary/what-is-data-dictionary)  — Group: #Topic/Dev
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

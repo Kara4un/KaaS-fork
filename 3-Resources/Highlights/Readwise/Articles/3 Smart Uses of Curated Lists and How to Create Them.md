@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 3 Smart Uses of Curated Lists and How to Create Them
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Curated List Manager Plugin
 * The curated list manager plugin lets users create a collection of similar links by category and display them as a helpful list or directory. This plugin is a great tool for content marketing and building a strong knowledge base. Each curated list can be shown on any page or post using a simple shortcode.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

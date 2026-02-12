@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Warehousing Concepts - Slowly Changing Dimensions
 
 There are six types (Type 1 thru Type 6) of *Slowly Changing Dimensions* (SCD) operations and transformers that enable you to handle and implement two common SCD Types: Type 1 and Type 2
@@ -90,3 +102,11 @@ SELECT * FROM products VERSION AS OF 0 where product_id = 1
 ````dataview
 list from [[Data Warehousing Concepts - Slowly Changing Dimensions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

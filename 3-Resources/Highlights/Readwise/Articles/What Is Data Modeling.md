@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What Is Data Modeling?
 
 ## Metadata
@@ -29,3 +41,11 @@
 * Data engineers transform data according to a different logic. Their objective is to build a solid data infrastructure, providing clean and reliable data for self-service analytics. Data engineers seek to transform and structure data in a way that makes it useful for business analysis, but that also makes it reusable for different use cases.
 * Analytics engineers have enough business context and experience with data tools to build reusable data models. They basically apply software engineering best practices to data analysis and bring a business-oriented mindset to data engineering efforts.
 * When analytics engineers are in charge of data transformations, organizations live in the best possible world: great data infrastructure, well-built and reusable databases in a self-service configuration, and perfect visibility across the data warehouse.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

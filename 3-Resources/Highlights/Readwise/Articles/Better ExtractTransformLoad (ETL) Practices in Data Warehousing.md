@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Better Extract/Transform/Load (ETL) Practices in Data Warehousing
 
 ## Metadata
@@ -40,3 +52,11 @@
   Producing good (and up-to-date) documentation can be especially difficult if the team constantly faces change/enhancement requests.
   Different team members can have reasonable disagreements about what constitutes good and useful documentation.
 * In some cases, I've been able to “cut to the chase” of hashing out business requirements by building prototypes and showing them to users. Without this approach, we might never have identified some of the more intricate details.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

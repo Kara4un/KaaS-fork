@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Best Practices
 
 ## Metadata
@@ -33,3 +45,11 @@
 * Best Practice — Lowercase
 * Group By — Numbers vs Explicit Fields
 * I almost always perform my group by with explicit field names as opposed to the position number in the select statement. While this doesn’t have any bering on the results I have found that it saves me time when when it comes to typing and debugging. Normally I’d prefer to just use the numbers because it’s less text on the page but it has caused too many issues and time spent chasing down run-time bugs.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

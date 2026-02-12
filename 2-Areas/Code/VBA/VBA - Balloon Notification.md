@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - Balloon Notification
 
 \*Source: *
@@ -60,7 +72,6 @@ Public Const NOTIFYICONDATA_V1_SIZE As Long = 88  'pre-5.0 structure size
 Public Const NOTIFYICONDATA_V2_SIZE As Long = 488 'pre-6.0 structure size
 Public Const NOTIFYICONDATA_V3_SIZE As Long = 504 '6.0+ structure size
 Public NOTIFYICONDATA_SIZE As Long
-
 
 Type NOTIFYICONDATA
     cbSize As Long
@@ -156,7 +167,6 @@ Private Function ExtractIcond(ByVal hInst As Long, ByVal lpszExeFileName As Stri
     ExtractIcond = ExtractIcon(hInst, lpszExeFileName, nIconIndex)
 End Function
 
-
 Public Sub DisplayNotification(ByVal Title As String, ByVal Message As String)
     Dim Me_hWnd As Long
     Dim Me_Icon As Long
@@ -193,3 +203,11 @@ End Sub
 ````dataview
 list from [[VBA - Balloon Notification]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

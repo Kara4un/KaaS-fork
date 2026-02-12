@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Engineering
 
 *Data Engineering* Map of Content houses all notes related to Data Engineering in general.
@@ -91,7 +103,7 @@
 * [Modern Data Pipeline Complexities](../../0-Slipbox/Modern%20Data%20Pipeline%20Complexities.md)
 * [Data Warehousing Concepts - Slowly Changing Dimensions](../../0-Slipbox/Data%20Warehousing%20Concepts%20-%20Slowly%20Changing%20Dimensions.md)
 * [Data Pipelines](../../0-Slipbox/Data%20Pipelines.md)
-* [Data Pipeline Architecture](../../0-Slipbox/Data%20Pipeline%20Architecture.md)
+* [[[Data Pipeline Architecture]]](../../0-Slipbox/Data%20Pipeline%20Architecture.md)
 * [PostgreSQL Tools List](../Lists/PostgreSQL%20Tools%20List.md)
 * [PostgreSQL Triggers](../../0-Slipbox/PostgreSQL%20Triggers.md)
 * [Excel VBA Resource List](../Lists/Excel%20VBA%20Resource%20List.md)
@@ -120,3 +132,11 @@ list from #Topic/Dev/DataScience AND -"Templates" AND -"MOCs" AND -"Changelog"
 ````dataview
 list from [[Data Engineering]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

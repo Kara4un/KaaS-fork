@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 * 2023-04-05 at 16h44 · [Highlights](3-Resources/Highlights/Highlights.md)
 * 2023-04-05 at 16h44 · [Considerations and limitations for SQL queries in Amazon Athena](3-Resources/Highlights/Matter/Considerations%20and%20limitations%20for%20SQL%20queries%20in%20Amazon%20Athena.md)
 * 2023-03-30 at 15h38 · [CMD - SQLPackage to DacPac](2-Areas/Code/CMD/CMD%20-%20SQLPackage%20to%20DacPac.md)
@@ -498,3 +510,11 @@
 * 2022-10-04 at 17h54 · [Amazon Redshift](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20Redshift.md)
 * 2022-10-04 at 17h54 · [Amazon OpenSearch Service](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20OpenSearch%20Service.md)
 * 2022-10-04 at 17h54 · [Amazon Kinesis](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20Kinesis.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

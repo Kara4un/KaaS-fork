@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Usethis Workflow for Package Development | Emil Hvitfeldt
 
 ## Metadata
@@ -56,3 +68,11 @@
   Check Package Cmd+Shift+E (Ctrl+Shift+E for Windows)
 * update the version number with the use of
   use_version()
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

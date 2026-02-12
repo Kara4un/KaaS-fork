@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Dedicate 10 minutes of contemplation time, ideally, at the beginning of each day. This sets the tone for your day and gets you feeling inspired.
 * Use this time alone in solitude, in a quiet place. Focus your thoughts on positive, inspiring thoughts such as: romantic love, excitement for a new opportunity, music, friendship and envisioning yourself attaining success or fame. There’s tremendous power that comes through dreaming and seeing yourself standing “in the winner’s circle.”
 * Get these positive thoughts going and keep them going. Write down these thoughts that come to mind. Keep referring back to them throughout your work day or school day. Think of them when you’re out in the social world, during moments of difficulty or times of joy. Look at them again before you go to bed at night and reset your mind. Then rest and get read for the new day with excitement, anticipation and a clear mind for fresh, new thoughts.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

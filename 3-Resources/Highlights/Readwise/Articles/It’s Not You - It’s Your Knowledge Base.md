@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # It’s Not You - It’s Your Knowledge Base
 
 ## Metadata
@@ -31,3 +43,11 @@
   Notes
   Thanks to Luke Sernau and Ilana Lin for proofreading drafts of this
   Special thanks to Ilana Lin for creating the beautiful illustrations in this post ([View Highlight](https://instapaper.com/read/1356314906/14737255))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

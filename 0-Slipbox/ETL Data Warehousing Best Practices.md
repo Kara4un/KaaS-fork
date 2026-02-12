@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # ETL Data Warehousing Best Practices
 
 *Source: [Data Warehousing Extract/Transform/Load (ETL) 13 Tips and Practices (Part 1 of 2)](https://www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2)*
@@ -22,3 +34,11 @@ To summarize, the author states that
 ````dataview
 list from [[ETL Data Warehousing Best Practices]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

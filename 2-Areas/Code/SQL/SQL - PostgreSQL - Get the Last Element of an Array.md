@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Get the Last Element of an Array
 
 *Source: [sql-snippets/get-last-array-element.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/get-last-array-element.md)*
@@ -29,3 +41,11 @@ select nums[array_length(nums, 1)] from data
 ````dataview
 list from [[SQL - PostgreSQL - Get the Last Element of an Array]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

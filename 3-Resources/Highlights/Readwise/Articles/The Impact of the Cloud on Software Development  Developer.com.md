@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Impact of the Cloud on Software Development | Developer.com
 
 ## Metadata
@@ -23,3 +35,11 @@
   Web Site Management: The ability to manage DNS services, Web services, and more is also available from many Cloud providers. This also can include Web hosting as well as associated features such as analytics, data management, and more.
   Analytics: Analytics includes the ability to tap into business intelligence, analytics, and visualization tools.
   Application Services: Application services include features such as the ability to tap into Web service APIs and more. This can include services such as video and game streaming to providing e-mail, notifications, workflow, SMS, or any other types of app services. ([View Highlight](https://instapaper.com/read/1434781140/17134218))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

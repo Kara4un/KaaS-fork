@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Preview of WSL in the Microsoft Store Is Now Available!
 
 ## Metadata
@@ -27,3 +39,11 @@
   Click on this link to go the WSL store page and click Install to install WSL, and then you can install a Linux distro of your choice to start using it. ([View Highlight](https://instapaper.com/read/1451971021/17708782))
 * What are the future plans for WSL in the Windows image?
   Our goals are to make WSL in the Microsoft Store the best way to install and use WSL, as you’ll be able to get the latest updates fastest through that route, and in the long term we’d like to move WSL users to use the store version. However, in Windows 11 we are still supporting the inbox version of WSL as we keep developing WSL in the store. This means that if you’re using the inbox version you are still supported, and the WSL optional component is still present inside of Windows 11. We are going to be data driven, and will be using your feedback from this preview to help inform us for our future decisions with WSL in the Windows image in upcoming releases. ([View Highlight](https://instapaper.com/read/1451971021/17708785))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

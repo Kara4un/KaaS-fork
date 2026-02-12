@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Import CSV Files into PostgreSQL Table
 
 *Source: [Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/)*
@@ -138,3 +150,11 @@ Finally, wait for the import process to complete. The following shows the dialog
 ````dataview
 list from [[Import CSV Files into PostgreSQL Table]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

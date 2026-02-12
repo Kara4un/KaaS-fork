@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_053",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 13-Step Digital Declutter.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 10 Best Free Antivirus Software.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/The 'Weekly Review' Method Will Help You Get Things Done.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Templates for R Markdown  Jianghao.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Taking Notes for Yourself Best Practices for the Personal Notebook.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Take the First Step.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/System Design Paradigm Caching.md",
+      "changed": true,
+      "term_changes": 4,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/System Design Basics Load Balancer 101.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Supersizing the Mind The Science of Cognitive Extension - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Supercharge Your Git Experience.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Structure and Automated Workflow for a Machine Learning Project — part 1.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Strategically Constrained How to Turn Limitations Into Opportunities - Forte Labs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/Stop Using So Many CTEs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/State of R Packages in Your Library - R-Hub Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/SSH Key Best Practices.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/SQL Like a Pro Looks Do Matter!.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/SQL Like a Pro How to Write a “For Loop” in SQL.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/SQL Join  A Common Mistake.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Articles/SQL Best Practices.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

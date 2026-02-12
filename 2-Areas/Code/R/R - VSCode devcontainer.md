@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Development Container
 
 *Source: [jimbrig/rdevcontainer: R Development Environment Using VSCode's DevContainers and Docker (github.com)](https://github.com/jimbrig/rdevcontainer)*
@@ -47,7 +59,6 @@ Container Image Versions:
 ### Dockerfile
 
 <details><summary>View the Latest Dockerfile</summary><p>
-
 
 ````Dockerfile
 # R version:
@@ -208,3 +219,11 @@ Jimmy Briggs | 2022
 ````dataview
 list from [[R - VSCode devcontainer]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

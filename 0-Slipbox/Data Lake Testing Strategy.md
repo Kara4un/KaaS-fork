@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Lake Testing Strategy
 
 ## Overview
@@ -13,3 +25,11 @@ In general, that sounds like a good idea, right? It’s always great if I’m ab
 If we would focus only on the ‘insensitive to structural changes’ principle, we would probably do exactly the opposite of what the test pyramid proposes. We would only write fully integrated end-to-end tests that do know nothing about the internal structure of our system. But that’s [the Ice-Cream Cone anti-pattern](https://alisterbscott.com/kb/testing-pyramids/), isn’t it? Yes, it is, but, depending on your project context, it can be perfectly fine. What if it’s not very expensive for you to write end-to-end tests because your system only provides a very simple API that can easily be tested in full integration? Those tests might take a little longer to run, but perhaps that’s also not a problem in your context? In those kinds of projects, having a comprehensive suite of end-to-end tests, and maybe only a few isolation tests of some more complex components, sounds like a reasonable setup.
 
 So, is the test pyramid completely wrong, then? No, it only assumes that ‘fast’ and ‘cheap to write’ are the two most important test principles. This might be true in a lot of project contexts, and, in this case, it’s probably a good idea to follow the pyramid. But there are other contexts, where other principles are more important. In those projects, just blindly following the test pyramid, will lead to a suboptimal test suite.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

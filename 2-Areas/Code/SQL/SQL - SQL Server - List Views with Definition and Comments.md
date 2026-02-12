@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - List Views with Definition and Comments
 
 *Source: https://dataedo.com/blog/useful-sql-server-data-dictionary-queries-every-dba-should-have*
@@ -36,3 +48,11 @@ select schema_name(v.schema_id) as schema_name,
 ````dataview
 list from [[SQL - SQL Server - List Views with Definition and Comments]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

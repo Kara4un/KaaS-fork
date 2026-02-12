@@ -1,8 +1,18 @@
 ---
-Date: 2021-11-17
+Date: 2021-11-17T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Readme"]
+Tags:
+  - '#Type/Readme'
 Alias: Templates
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Templates
@@ -17,7 +27,6 @@ All of my [[Obsidian]] Templates!
 - [[#Work Templates|Work Templates]]
 - [[#Templates to Create|Templates to Create]]
 - [[#Appendix: Links|Appendix: Links]]
-
 
 ## Slipbox Templates
 
@@ -43,7 +52,6 @@ All of my [[Obsidian]] Templates!
 
 -   [[Slipbox-Actuarial-Dev-Template]]
 
-
 ## Areas Templates
 
 -   [[MOC-Template]]
@@ -51,8 +59,6 @@ All of my [[Obsidian]] Templates!
 -   [[Mindsweep-Template]]
 -   [[Meta-Template]]
 -   [[Agenda-Template]]
-
-
 
 ## Resource Templates
 
@@ -62,7 +68,6 @@ All of my [[Obsidian]] Templates!
 -   [[Kanban-Template]]
 -   [[Embed-Template]]
 -   [[Person-Template]]
-
 
 ## Work Templates
 
@@ -104,8 +109,6 @@ All of my [[Obsidian]] Templates!
     - [ ] Actuarial Tools
     - [ ] iOS Tools
 
-
-
 ***
 
 ## Appendix: Links
@@ -127,7 +130,14 @@ list from "3-Resources/Templates" AND !#Type/Readme
 
 *Backlinks*
 
-
 ```dataview
 list from [[_README]] AND -"Changelog"
 ```
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

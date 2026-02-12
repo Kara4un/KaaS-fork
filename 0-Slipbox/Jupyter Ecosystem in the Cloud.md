@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Jupyter Ecosystem in the Cloud
 
 Notebooks are awesome. Perhaps you've used them in your classes. But one problem is there are so many. Just at Google we have Colab, Cloud AI Platform Notebooks, and Kaggle Kernels. Several major cloud providers offer Notebook services, and then there are open source efforts like Binder, Jupyter Hub, and a whole ecosystem of tooling. So which should you use? The answer, as usual, is "it depends". This session will summarize your options and try to help you choose the best notebook services and tools for your needs.
@@ -197,3 +209,11 @@ In the [final part](https://ljvmiranda921.github.io/notebook/2020/03/30/jupyter-
 ````dataview
 list from [[Jupyter Ecosystem in the Cloud]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

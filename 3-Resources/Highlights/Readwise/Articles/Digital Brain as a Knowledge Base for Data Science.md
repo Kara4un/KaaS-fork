@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital Brain as a Knowledge Base for Data Science
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Dedicated community: Obsidian has a wide range of users who develop plugins from themes to customize the interface or enhance the benefits of obsidian at a very high level, the Obsidian community provides support to anyone who needs help, within the home page itself you have access to a community forum.
 * Continuous improvement: Since its release to the real world to date obsidian has maintained a constant evolution as far as updates are concerned, obsidian developers listen to their users and this makes it a very valuable tool for the needs of all users, also the ceiling of the evolution of this system of notes still has a lot of growth potential, what will we see in the future of this tool?
 * Within each point there is a specific note connected with other notes, this would correspond to the concept of synapsing the neurons, here is a graphic and functional similarity of the comparison between a human brain and this system of perennial notes.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

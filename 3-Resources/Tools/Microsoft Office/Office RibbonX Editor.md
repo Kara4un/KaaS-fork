@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Office RibbonX Editor
 
 *Source: [fernandreu/office-ribbonx-editor: An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF (github.com)](https://github.com/fernandreu/office-ribbonx-editor)*
@@ -84,3 +96,11 @@ However, **what would happen if you forget Step 1** and Excel has the same fil
 ````dataview
 list from [[Office RibbonX Editor]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

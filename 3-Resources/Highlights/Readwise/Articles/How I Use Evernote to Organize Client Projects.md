@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How I Use Evernote to Organize Client Projects
 
 ## Metadata
@@ -25,3 +37,11 @@
      “Everything I do (and want to remember) happens at some point in time. When it happens is always important to me. I, therefore, try to be very consistent about how I use the Create Date field on my notes in Evernote. The Create Date of a Note–for me–is the date on which the event occurred, not necessarily when the note was created.”
   * Jamie Rubin
     Knowing that every note in an Evernote notebook has a Created Date allows me to quickly scan a project and see if it’s on track. Did I schedule a project for six weeks, and it wound up taking 3 months? By scanning the dates of my notes, I can quickly see what project phases took longer than expected. This helps me evaluate the project and plan for future projects.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

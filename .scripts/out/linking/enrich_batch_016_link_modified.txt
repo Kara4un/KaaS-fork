@@ -1,0 +1,20 @@
+0-Slipbox/Database GUIs.md.md
+0-Slipbox/Database Design Best Practices.md
+0-Slipbox/Database Connection Pooling.md
+0-Slipbox/Data Warehousing Roadmap.md
+0-Slipbox/Data Warehousing for Insurance Data.md
+0-Slipbox/Data Warehousing Concepts and Definitions.md
+0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md
+0-Slipbox/Data Warehouse.md
+0-Slipbox/Data Warehouse for Insurance.md
+0-Slipbox/Data Versioning.md
+0-Slipbox/Data Transformation.md
+0-Slipbox/Data Science Lifecycle.md
+0-Slipbox/Data Pipelines.md
+0-Slipbox/Data Pipeline Architecture.md
+0-Slipbox/Data Mart.md
+0-Slipbox/Data Lake.md
+0-Slipbox/Data Lake Testing Strategy.md
+0-Slipbox/Data Engineers.md
+0-Slipbox/Data Engineering and Its Main Concepts.md
+0-Slipbox/Data Definition Language.md

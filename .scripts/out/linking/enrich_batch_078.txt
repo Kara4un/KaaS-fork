@@ -1,0 +1,20 @@
+2-Areas/Code/GitHub Actions/GHA - R roxygen.md
+2-Areas/Code/GitHub Actions/GHA - R Render RMD.md
+2-Areas/Code/GitHub Actions/GHA - R pkgdown.md
+2-Areas/Code/GitHub Actions/GHA - R pkgcheck.md
+2-Areas/Code/GitHub Actions/GHA - R Package Validation.md
+2-Areas/Code/GitHub Actions/GHA - R Lint.md
+2-Areas/Code/GitHub Actions/GHA - R Docker.md
+2-Areas/Code/GitHub Actions/GHA - R Code Coverage.md
+2-Areas/Code/GitHub Actions/GHA - R Check (Standard).md
+2-Areas/Code/GitHub Actions/GHA - R Build-Check-Install.md
+2-Areas/Code/GitHub Actions/GHA - R Build Bookdown.md
+2-Areas/Code/GitHub Actions/GHA - R Build Blogdown.md
+2-Areas/Code/GitHub Actions/GHA - Labeler.md
+2-Areas/Code/GitHub Actions/GHA - GitHub Actions for R.md
+2-Areas/Code/GitHub Actions/GHA - Git-Cliff.md
+2-Areas/Code/GitHub Actions/GHA - Code Coverage for R.md
+2-Areas/Code/GitHub Actions/GHA - Build-Check-Install R Package.md
+2-Areas/Code/GitHub Actions/GHA - Azure Container WebApp Deployment.md
+2-Areas/Code/GitHub Actions/GHA - AWS Deployment.md
+3-Resources/Tools/Developer Tools/README.md

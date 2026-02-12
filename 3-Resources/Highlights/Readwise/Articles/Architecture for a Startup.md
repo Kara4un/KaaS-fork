@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Architecture for a Startup
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Static web app: We had a static website that was deployed on S3 and served using the static web hosting feature provided by S3. I added a CloudFront CDN in front of S3 to serve users faster, as CDN will cache content. All domains were routed through Route53
 * Metabase is an open-source business analytics server. This was deployed in the app subnet and exposed using ALB with Cognito (google auth) to keep access secure for internal users only.
 * Terraform is used for infrastructure as code and Ansible is used as configuration management.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

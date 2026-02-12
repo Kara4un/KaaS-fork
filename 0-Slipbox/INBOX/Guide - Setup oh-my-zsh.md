@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Guide - Setup oh-my-zsh
 
 ## Contents
@@ -63,7 +75,6 @@ Run the commands below to install some useful plugins and the `powerlevel10k` th
 
 ````
 
-
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k;
 ````
 
@@ -92,3 +103,11 @@ Then replace `ZSH_THEME="robbyrussell"` with `ZSH_THEME="powerlevel10k/powerleve
 ## Appendix: Links
 
 **See Also:**
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

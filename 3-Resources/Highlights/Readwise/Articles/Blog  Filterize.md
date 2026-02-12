@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Blog | Filterize
 
 ## Metadata
@@ -25,3 +37,11 @@
 * Support for your Weekly and Monthly Review
   One of the most important tasks in Getting Things Done is to do your weekly and monthly review to keep your GTD system working. The easiest way to do this is to create a checklist for both of them. You can apply a reminder to the review notes, so Evernote reminds you whenever the review is due.
   If you prepare the next review, you have to uncheck all checkboxes of your checklist and reschedule the reminder to the next week or month. Filterize can automate this completely. Just setup a filter that unchecks your checkboxes and create a new reminder in a month or week. You can trigger this automation with the last open checkbox in your review checklist.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

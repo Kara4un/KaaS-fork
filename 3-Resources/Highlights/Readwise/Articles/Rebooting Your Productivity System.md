@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Rebooting Your Productivity System
 
 ## Metadata
@@ -18,3 +30,11 @@
 * When you’re done working on that first task, update its Next Action description. Either you’re done and can mark it complete, or there will be a next step. In that case, you’ll relabel it with the very next, physical action you need to take to move it forward
 * Don’t leave it as it was when you started – that description probably isn’t accurate anymore. The task isn’t “Read about B2B marketing best practices.” You’ve done that, so the task is now, “Write a B2B marketing plan outline based on the best practices you just read about.”
 * By doing these two things — keeping your Next Actions up to date and making a daily routine of getting “in” to empty — you can stay on top of your system most of the time. And when things do go off the rails, and they will, you don’t throw up your hands in defeat. No need for dramatics. Just take a minute, reboot, and then get back to work.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

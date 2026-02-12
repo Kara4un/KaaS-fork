@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # An Iterative Approach to Notes
 
 ## Metadata
@@ -19,3 +31,11 @@
 * During the Dump phase, we should withhold judgment and embrace messiness. All that matters is getting it down. We shouldn’t worry about where to organize what we’re writing. We shouldn’t obsess over word choice or strive for eloquence. The requirements are modest: that we can find it later, and that the core of it is roughly intelligible to our future selves.
 * We recommend having a designated Dump location for your notes. This ensures you can find what you’ve written later. It also removes all doubt and friction when choosing where to jot something down. In Bytebase the designated Dump location is called No Man’s Land. The Dump location should be a welcoming, safe space for messiness. This ensures that nothing holds you back from getting things down.
 * Refine: one small step at a time
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

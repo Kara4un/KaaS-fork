@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Export CSV from PostgreSQL Table
 
 *Source: [Export a PostgreSQL Table to a CSV File](https://www.postgresqltutorial.com/export-postgresql-table-to-csv-file/)*
@@ -70,3 +82,11 @@ For example, if you want to export all data of the `persons` table into `persons
 ````dataview
 list from [[Export CSV from PostgreSQL Table]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

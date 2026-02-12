@@ -1,0 +1,20 @@
+2-Areas/Code/R/README.md
+2-Areas/Code/R/R.md
+2-Areas/Code/R/R - VSCode devcontainer.md
+2-Areas/Code/R/R - Upgrade R and Migrate Packages.md
+2-Areas/Code/R/R - SQL Server and RStudio.md
+2-Areas/Code/R/R - Simulate Actuarial Claims.md
+2-Areas/Code/R/R - Simulate Actuarial Claims Data - Simulation R Script.md
+2-Areas/Code/R/R - Run Shiny App in Background for Development.md
+2-Areas/Code/R/R - Retrieve GitHub Starred Repo Data.md
+2-Areas/Code/R/R - Package Management Scripts.md
+2-Areas/Code/R/R - mssql_rstudio.md
+2-Areas/Code/R/R - Handle long polling process in Plumber or Shiny.md
+2-Areas/Code/R/R - Excel Helpers.md
+2-Areas/Code/R/R - docker_shiny_mssql.md
+2-Areas/Code/R/R - Docker with Shiny and SQL Server.md
+3-Resources/Highlights/Hypothesis/🌱 My blog is a digital garden, not a blog.md
+3-Resources/Highlights/Hypothesis/What is Data Dictionary - Data terminology.md
+3-Resources/Highlights/Hypothesis/What is Cloud CDN and how does it work  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Traffic Director explained!  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md

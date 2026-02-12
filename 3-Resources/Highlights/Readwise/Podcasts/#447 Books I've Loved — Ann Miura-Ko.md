@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#447: Books I've Loved — Ann Miura-Ko
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * AirrQuote ([Time 0:06:49](https://www.airr.io/quote/5f372471a7c7e03c3099a882))
   * Note: Deliberate vs Emergent Strategies
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

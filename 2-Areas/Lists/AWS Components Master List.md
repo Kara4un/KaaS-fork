@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # AWS Components Master List
 
 *Source: https://gist.github.com/jaytaph/ff8e6df0cf343237a3e1bbaa99ca41a1*
@@ -318,3 +330,11 @@
 ````dataview
 list from [[AWS Components Master List]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

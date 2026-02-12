@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Simulating Actuarial Claims Data with R
 
 ## Simulation Script (Transactional)
@@ -64,7 +76,6 @@ trans_lag <- lapply(trans_lag, function(x) {
   if(length(x) == 0) 0 else x
 })
 
-
 for (i in seq_len(n_claims)) {
   trans_lag[[i]] <- data_frame(
     "trans_lag" = trans_lag[[i]],
@@ -78,7 +89,6 @@ trans_tbl <- trans_tbl %>%
                # switch from incremental to cumulative lag
                mutate(trans_lag = cumsum(trans_lag)) %>%
                ungroup()
-
 
 # separate all zero claims from the claims that have payments
 
@@ -136,3 +146,11 @@ saveRDS(trans, file = "trans.RDS")
 ````dataview
 list from [[Simulating Actuarial Claims Data with R]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

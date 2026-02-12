@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package - vembedr
 
 *Source: [ijlyttle/vembedr: Functions to Embed Video in HTML (github.com)](https://github.com/ijlyttle/vembedr)*
@@ -30,3 +42,11 @@ The goal of vembedr is to make it a little bit easier for you to embed videos in
 ````dataview
 list from [[R Package - vembedr]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

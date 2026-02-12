@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What I've Learnt About Making an R Package
 
 ## Metadata
@@ -42,3 +54,11 @@
   I created a quick package to test this out. You can find it on GitHub.
   The option I went with here is to call on the internal function directly: randomForest:::predict.randomForest(). This works, but you’ll get a note because you’re generally not supposed to use ::: in functions. If you’re submitting to CRAN, this could be an issue.
 * Similarly, @importMethodsFrom randomForest predict.randomForest seems to work, even though R throws a warning that it couldn’t find the method.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Useful Database/Sql Tricks for Data Engineering
 
 ## Metadata
@@ -12,3 +24,11 @@
 * STRING_AGG()
 * STRING_AGG(expression, separator \[order_by_clause\]) is an aggregate function that concatenates a list of strings(string cells in one column) and places a separator between them, where \[order_by_clause\] is optional and it is for specifying the order of concatenated results.
 * Copy Data Between Remote DB Servers Without Creating Temporary File
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Better Way to Manage Your Github Personal Access Tokens
 
 ## Metadata
@@ -21,3 +33,11 @@
   
   credentials::set_github_pat()
   However perhaps it is actually undesired to always have your GITHUB_PAT exposed in R. The nice thing about the credentials package is that it becomes easy to load your access token on demand. Hence, instead of setting the PAT on the start of each R session, a user or 3rd party package could call set_github_pat() whenever it needs access to the Github API.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

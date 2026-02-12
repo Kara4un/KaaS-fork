@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Microsoft Visio
 
 Visio web and desktop apps allow users to create and edit diagrams from the browser or desktop and save in the cloud. [Microsoft 365](Microsoft%20Office.md) customers can view, print, and share diagrams and insert comments on the go. Visio users can use rich features, such as those described in the following sections.
@@ -42,10 +54,18 @@ Visio web and desktop apps allow users to create and edit diagrams from the brow
 * [Microsoft Office](Microsoft%20Office.md)
   * [Excel](../../../2-Areas/Code/Excel/Excel.md)
 * *Architecture Diagramming*
-* [Data Pipeline Architecture](../../../0-Slipbox/Data%20Pipeline%20Architecture.md)
+* [[[Data Pipeline Architecture]]](../../../0-Slipbox/Data%20Pipeline%20Architecture.md)
 
 *Backlinks:*
 
 ````dataview
 list from [[Tool-Template]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

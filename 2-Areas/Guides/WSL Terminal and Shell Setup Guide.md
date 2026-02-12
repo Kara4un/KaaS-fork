@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # WSL Terminal and Shell Setup Guide
 
 * Terminal Emulator: *Microsoft Windows Terminal* (Preview)
@@ -71,3 +83,11 @@ eval `dircolors ~/.dircolors`
 ````dataview
 list from [[WSL Terminal and Shell Setup Guide]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

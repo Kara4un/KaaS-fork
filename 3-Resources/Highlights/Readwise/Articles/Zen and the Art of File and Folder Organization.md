@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Zen and the Art of File and Folder Organization
 
 ## Metadata
@@ -144,3 +156,11 @@
   %windir%\explorer.exe C:\Files
 * If that folder happened to be on the Desktop (and called, say, “Inbox”), then you would use the following cleverness:
   %windir%\explorer.exe shell:desktop\Inbox
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # US GAAP LDTI - Considerations for the Modeling Actuary
 
 *Source: https://www.ey.com/en_us/insurance/finance-risk-actuarial-change/us-gaap-ldti-considerations-for-the-modeling-actuary*
@@ -191,3 +203,11 @@ A well-designed test plan covers the entire end-to-end process of the model. The
 ````dataview
 list from [[US GAAP LDTI - Considerations for the Modeling Actuary]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

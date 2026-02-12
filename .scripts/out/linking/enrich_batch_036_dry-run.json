@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_036",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

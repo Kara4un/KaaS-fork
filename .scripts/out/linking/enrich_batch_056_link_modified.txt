@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/Powerful Time Management Strategies to Do More With Your Day.md
+3-Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/PLSQL for Data Engineers.md
+3-Resources/Highlights/Readwise/Articles/Planning a Lot  Yujun Zhou's Website.md
+3-Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md
+3-Resources/Highlights/Readwise/Articles/Perfect Fantasy Football Draft Strategy.md
+3-Resources/Highlights/Readwise/Articles/Pay Off Your Debt Tools and Tips.md
+3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md
+3-Resources/Highlights/Readwise/Articles/Part I-I  Data Warehouse Modelling Concept.md
+3-Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Paperless The One Notebook and Pen I’m Never Giving Up.md
+3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md
+3-Resources/Highlights/Readwise/Articles/Optimized Workflow.md
+3-Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/One Productivity System to Rule Them All.md
+3-Resources/Highlights/Readwise/Articles/One Observer for All Buttons in Shiny Using JavaScript  jQuery.md
+3-Resources/Highlights/Readwise/Articles/Onboarding New Developers.md
+3-Resources/Highlights/Readwise/Articles/On Confronting the Productivity Dragon.md
+3-Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md

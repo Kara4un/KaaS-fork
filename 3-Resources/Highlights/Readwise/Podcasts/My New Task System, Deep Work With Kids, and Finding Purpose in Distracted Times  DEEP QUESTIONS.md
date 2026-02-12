@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS
 
 ## Metadata
@@ -21,3 +33,11 @@
   * Note: Use technology wisely. Even social media
 * How do we still find ways to carve out meaningful deep work? Mike, you need more structure for how you communicate with your clients. Ah, lot of people in client facing services think that what their clients want is accessibility. It's not quite true. Clients want clarity, clarity Trump's accessibility if they know how to reach you and are sure that they're gonna get a timely response, the answer does not have to be. They can reach you at any moment. So if you have systems in place for here is how we check in on things. Here's how you ask questions. Here we make. We make sure you have what you need. You don't need to be accessible all the ([Time 0:32:03](https://www.airr.io/quote/6010ac665aa99b0a547aa961))
   * Note: Set expectations on how people need to reach you and then deliver so they know that’s how to reach you. Say what you mean and deliver only then will you be able control your time
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

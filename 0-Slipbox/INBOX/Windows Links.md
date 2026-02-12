@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 * [rcmaehl/WhyNotWin11: Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!](https://github.com/rcmaehl/WhyNotWin11)
 * [farag2/Sophia-Script-for-Windows: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking](https://github.com/farag2/Sophia-Script-for-Windows)
 * [builtbybel/ThisIsWin11: The real PowerToys for Windows 11](https://github.com/builtbybel/ThisIsWin11)
@@ -14,3 +26,11 @@
 * [NiHaiden/win11tweaks: Windows 11 Tweaks](https://github.com/NiHaiden/win11tweaks)
 * [Useful tweaks for Windows 11 and Windows 10](https://gist.github.com/y0lopix/bca18265869e5da9068de0a6729bc262)
 * [kyaulabs/win11tweak: An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.](https://github.com/kyaulabs/win11tweak)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

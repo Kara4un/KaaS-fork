@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_001",
+  "mode": "apply",
+  "total": 20,
+  "modified": 19,
+  "details": [
+    {
+      "file": "README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "Workbench.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "Changelog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/_README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "content/index.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "ontology/Ontology-Overview.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "ontology/Glossary-Key-Terms.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 0
+    },
+    {
+      "file": "ontology/Document-Types.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 0
+    },
+    {
+      "file": "ontology/Core-Domains.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/Agendas/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/2-Areas.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Learning/Technical Learning List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Learning/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Learning/Areas of Expertise.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Learning/2022 Learning List.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Tiago Forte.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Scott Hanselman.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Like a Pro: How to Write a “For Loop” in SQL
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Databases do very well with joins though, and a SQL Developer should easily solve this problem with simple relational algebra:
 * “Relational Algebra” Thinking — Technique #2 — Windowed Function
 * Relational algebra is extremely powerful and can solve all sorts of complex problems, but it requires a very specific way of thinking: Relational Algebra Thinking!
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

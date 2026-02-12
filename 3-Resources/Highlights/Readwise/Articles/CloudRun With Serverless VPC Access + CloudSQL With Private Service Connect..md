@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * With the new adoption of containers, not everyone are actually well equiped for k8s implementation (even though cloud provider now help people by creating a managed k8s, eg. GKE). At this point we can (think for) utilize CloudRun for first step to utilize containers without any hassle on managing the underlying server (or we could say as serverless).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

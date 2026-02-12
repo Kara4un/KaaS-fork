@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 10 Ways to Improve How You Manage Information
 
 ## Metadata
@@ -28,3 +40,11 @@
   When information is no longer useful for you, consider archiving it to get it out of your way. This usually means having a separate location. I’m a pack rat and I have a hard time letting things go, so I tend to archive instead. It let’s me get things out of the way, and then eventually get rid of them if I need to. Archiving has really helped me get a ton of information out of my way, since I know I can easily rehydrate it if I need to.
 * Bubble up key things to the top.
   When you have a lot of information, rather than worry about organizing all of it, bubble up things to the top. You can effectively have a quick, simple list or key things up top, followed by more information. Keep the things up front simple. This way you get the benefits of both exhaustive or complete, as well as simple. Whenever you have a large body of information, just add a simple entry point or key take aways or summary up front.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Build a Lakehouse Architecture on AWS
 
 *Source: [Build a Lake House Architecture on AWS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-lake-house-architecture-on-aws/)*
@@ -288,7 +300,7 @@ To explore all data stored in Lake House storage using interactive SQL, business
 
 Athena can run complex ANSI SQL against terabytes of data stored in Amazon S3 without requiring you to first load it into a database. Athena is serverless, so there is no infrastructure to set up or manage, and you pay only for the amount of data scanned by the queries you run. The federated query capability in Athena enables SQL queries that can [join fact data hosted in Amazon S3 with dimension tables hosted in an Amazon Redshift cluster](https://aws.amazon.com/blogs/big-data/configure-and-optimize-performance-of-amazon-athena-federation-with-amazon-redshift/), without having to move data in either direction. You can also [include live data in operational databases in the same SQL statement](https://aws.amazon.com/blogs/big-data/query-any-data-source-with-amazon-athenas-new-federated-query/) using Athena federated queries. Athena provides faster results and lower costs by reducing the amount of data it scans by [leveraging dataset partitioning information](https://docs.aws.amazon.com/athena/latest/ug/partitions.html) stored in the Lake Formation catalog. You can further reduce costs by storing the results of a repeating query using Athena [CTAS statements](https://aws.amazon.com/blogs/big-data/using-ctas-statements-with-amazon-athena-to-reduce-cost-and-improve-performance/).
 
-Amazon Redshift provides a powerful SQL capability designed for blazing fast online analytical processing (OLAP) of very large datasets that are stored in Lake House storage (across the Amazon Redshift MPP cluster as well as S3 data lake). The powerful query optimizer in Amazon Redshift can take complex user queries written in PostgreSQL-like syntax and generate high-performance query plans that run on the Amazon Redshift MPP cluster as well as a fleet of Redshift Spectrum nodes (to query data in Amazon S3). Amazon Redshift provides results caching capabilities to reduce query runtime for repeat runs of the same query by orders of magnitude. With materialized views in Amazon Redshift, you can pre-compute complex joins one time (and incrementally refresh them) to significantly simplify and accelerate downstream queries that users need to write. Amazon Redshift provides concurrency scaling, which spins up additional transient clusters within seconds, to support a virtually unlimited number of concurrent queries. You can write results of your queries back to either Amazon Redshift native tables or into external tables hosted on the S3 data lake (using Redshift Spectrum).
+Amazon Redshift provides a powerful SQL capability designed for blazing fast online analytical processing (OLAP) of very large datasets that are stored in Lake House storage (across the Amazon Redshift MPP cluster as well as S3 data lake). The powerful query optimizer in Amazon Redshift can take complex user queries written in PostgreSQL-like syntax and generate high-performance query plans that run on the Amazon Redshift MPP cluster as well as a fleet of Redshift Spectrum nodes (to query data in Amazon S3). Amazon Redshift provides results [[Caching]] capabilities to reduce query runtime for repeat runs of the same query by orders of magnitude. With materialized views in Amazon Redshift, you can pre-compute complex joins one time (and incrementally refresh them) to significantly simplify and accelerate downstream queries that users need to write. Amazon Redshift provides concurrency scaling, which spins up additional transient clusters within seconds, to support a virtually unlimited number of concurrent queries. You can write results of your queries back to either Amazon Redshift native tables or into external tables hosted on the S3 data lake (using Redshift Spectrum).
 
 #### Machine learning
 
@@ -310,7 +322,7 @@ You can [deploy SageMaker trained models](https://docs.aws.amazon.com/sagemaker/
 
 #### Business intelligence
 
-[Amazon QuickSight](https://aws.amazon.com/quicksight/) provides serverless capability to easily create and publish rich interactive BI dashboards. Business analysts can use the Athena or Amazon Redshift interactive SQL interface to power QuickSight dashboards with data in Lake House storage. Additionally, you can source data by connecting QuickSight directly to operational databases such as MS SQL, Postgres, and SaaS applications such as Salesforce, Square, and ServiceNow. To achieve blazing fast performance for dashboards, QuickSight provides an in-memory caching and calculation engine called SPICE. SPICE automatically replicates data for high availability and enables thousands of users to simultaneously perform fast, interactive analysis while shielding your underlying data infrastructure.
+[Amazon QuickSight](https://aws.amazon.com/quicksight/) provides serverless capability to easily create and publish rich interactive BI dashboards. Business analysts can use the Athena or Amazon Redshift interactive SQL interface to power QuickSight dashboards with data in Lake House storage. Additionally, you can source data by connecting QuickSight directly to operational databases such as MS SQL, Postgres, and SaaS applications such as Salesforce, Square, and ServiceNow. To achieve blazing fast performance for dashboards, QuickSight provides an in-memory [[Caching]] and calculation engine called SPICE. SPICE automatically replicates data for high availability and enables thousands of users to simultaneously perform fast, interactive analysis while shielding your underlying data infrastructure.
 
 QuickSight enriches dashboards and visuals with out-of-the-box, automatically generated ML insights such as forecasting, anomaly detection, and narrative highlights. QuickSight natively [integrates with SageMaker](https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/) to enable additional custom ML model-based insights to your BI dashboards. You can access QuickSight dashboards from any device using a QuickSight app or [embed the dashboards into web applications, portals, and websites](https://docs.aws.amazon.com/quicksight/latest/user/embedding-dashboards.html). QuickSight automatically scales to tens of thousands of users and provide a cost-effective pay-per-session pricing model.
 
@@ -339,7 +351,7 @@ For detailed architectural patterns, walkthroughs, and sample code for building 
 * [AWS S3](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md)
 * [Data Lake](Data%20Lake.md)
 * [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [ELT Cloud Based Pipeline Architecture](ELT%20Cloud%20Based%20Pipeline%20Architecture.md)
 * [ETL Pipeline Notes](ETL%20Pipeline%20Notes.md)
 * [ETL](ETL.md)
@@ -355,3 +367,11 @@ For detailed architectural patterns, walkthroughs, and sample code for building 
 ````dataview
 list from [[Build a Lakehouse Architecture on AWS]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

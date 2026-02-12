@@ -1,0 +1,20 @@
+3-Resources/Tools/Utility/MZ Tools For VBA Development.md
+3-Resources/Tools/Utility/Microsoft PowerToys.md
+3-Resources/Tools/Utility/Mach2.md
+3-Resources/Tools/Utility/Topgrade.md
+3-Resources/Tools/Utility/ThisIsWin11.md
+3-Resources/Tools/Utility/TaskBarX.md
+3-Resources/Tools/Utility/Utility.md
+3-Resources/Tools/Utility/Universal Silent Switch Finder.md
+3-Resources/Tools/Utility/ViveTool.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Cumulative Distribution.md
+3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md
+3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md
+3-Resources/Highlights/Readwise/Podcasts/This Is How We Change the World.md
+3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md
+3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2.md
+3-Resources/Highlights/Readwise/Podcasts/SYSTEMS THINKING What Is a System.md
+3-Resources/Highlights/Readwise/Podcasts/Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md

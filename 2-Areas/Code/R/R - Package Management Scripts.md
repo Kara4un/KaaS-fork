@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R - Package Management Scripts
 
 *Source: https://gist.github.com/e3ad09a4f581db5fa2702ba9823eb635#file-install-r*
@@ -11,7 +23,6 @@ library(dplyr)
 pkgs <- pkgdepends::lib_status()
 pkgs_cran <- pkgs %>% filter(repository == "CRAN", !is.na(package)) %>% pull(package)
 pkgs_gh <- pkgs %>% filter(remotetype == "github", !is.na(remotepkgref)) %>% pull(remotepkgref)
-
 
 purrr::walk(pkgs_cran, pak::pak, ask = FALSE, upgrade = TRUE)
 purrr::walk(pkgs_gh, pak::pak, ask = FALSE, upgrade = TRUE)
@@ -366,3 +377,11 @@ gh:
 ````dataview
 list from [[R - Package Management Scripts]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

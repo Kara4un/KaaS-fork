@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Top 4 Tips to Get Organized for Efficient Software Development
 
 ## Metadata
@@ -23,3 +35,11 @@
   4. Avoid Overworking
      If you work past your ‘productive point’, then you are just wasting your time. Crunch time is an area you can’t avoid in the tech industry, but it’s also the most taxing on your brain power. If you spend your time fixing mistakes you’ve made previously because of overworking, it might be a sign you need to take a break and recharge before returning to the screen to code.
      Being able to alternate between taking breaks and working will benefit not only your efficiency but your mental health too. It’s also very important to take actual breaks, such as taking a quiet walk or stretching. ([View Highlight](https://instapaper.com/read/1355683800/14403444))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

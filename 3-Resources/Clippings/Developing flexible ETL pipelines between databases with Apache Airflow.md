@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-23
+Date: 2022-03-23T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Developing flexible ETL pipelines between databases with Apache Airflow"
+Tags:
+  - '#Type/Clipping'
+Alias: Developing flexible ETL pipelines between databases with Apache Airflow
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # Developing flexible ETL pipelines between databases with Apache Airflow
@@ -278,3 +288,11 @@ Here we go! Now, we successfully transferred data from MySQL to PostgreSQL using
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

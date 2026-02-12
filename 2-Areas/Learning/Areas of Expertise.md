@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Areas of Expertise
 
 ## Skills I Have
@@ -14,7 +26,7 @@
 * Windows Imaging and Deployment
 * Software Engineering
 * Knowledge Management
-* API Development and REST API Design
+* API Development and REST [[API Design]]
   * Postman
   * Swagger
 * Version Control
@@ -25,7 +37,7 @@
   * Automated Testing
   * Deployments
 * Containers and Docker
-* Cloud Computing and Serverless
+* [[Cloud Computing]] and Serverless
 * Clouds
   * Azure
   * AWS
@@ -50,3 +62,11 @@
 ````dataview
 list from [[Areas of Expertise]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

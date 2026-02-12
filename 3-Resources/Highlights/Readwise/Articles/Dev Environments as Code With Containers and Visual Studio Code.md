@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Dev Environments as Code With Containers and Visual Studio Code
 
 ## Metadata
@@ -12,3 +24,11 @@
 * Developing code in a single environment is like cooking using a dirty pan and oven. It will work the first few times, but eventually, ingredients (dependencies) will carry over from the previous recipe into the next, leading to unexpected and unpredictable results.
 * Open a new or existing project in Visual Studio Code. In the root of the project create an empty folder and call it .devcontainer. The name is important as it’s used by Visual Studio Code to know where to find your configuration files.
 * Within .devcontainer create a JSON file named devcontainer.json, again the name is important and is detected by Visual Studio Code. The JSON file is used to define the settings, extensions, and behavior of Visual Studio Code once it launches from within the container. Copy and paste the following JSON into devcontainer.json and save.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

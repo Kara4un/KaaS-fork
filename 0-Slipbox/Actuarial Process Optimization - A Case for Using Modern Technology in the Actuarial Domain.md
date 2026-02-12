@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
 
 ---
@@ -74,7 +86,7 @@ Automating actuarial control testing is not the only way modern technology can s
 
 One of the key responsibilities of the actuary of the future will be to ensure their team members are focused on challenging and rewarding tasks that add strategic value to the organization. Our profession requires a significant level of education and training in order to meet certification requirements as well as on a continuous ongoing basis, which allow us to gain valuable expertise focused on risk management, financial, and operational aspects of insurance. However, many actuaries spend their time performing routine manual tasks, working with dozens of spreadsheets and large data sets, and moving data between various systems. The actuary of the future will have to prioritize higher value tasks and identify opportunities to delegate or automate the rest.
 
-Consider technology limitations from the past and how technological evolution has changed the required actuarial skillsets. Less than a decade ago, server computing capabilities would limit the way we worked—we had to aggregate our data into grouped model points, actuarial models had to be simpler and sometimes we had to wait for results overnight for model results to be produced. Technological progress, particularly cloud computing, has alleviated many of those hurdles, allowing for scalable computing and on-demand server capacities. Actuaries had to get comfortable with using cloud functionality and tools to take full advantage of the benefits they provide.
+Consider technology limitations from the past and how technological evolution has changed the required actuarial skillsets. Less than a decade ago, server computing capabilities would limit the way we worked—we had to aggregate our data into grouped model points, actuarial models had to be simpler and sometimes we had to wait for results overnight for model results to be produced. Technological progress, particularly [[Cloud Computing]], has alleviated many of those hurdles, allowing for scalable computing and on-demand server capacities. Actuaries had to get comfortable with using cloud functionality and tools to take full advantage of the benefits they provide.
 
 Optimizing the use of technology is also bringing higher efficiency to our work. Actuarial data management is another area that could significantly benefit from actuarial process optimization. While many insurance companies have consolidated and centralized their data repositories and data lakes within their IT and Data Science functional areas, actuaries remain heavy data users. Actuarial modeling, experience studies, and product and assumption development are only a sample of areas where we use large amounts of data. Actuaries use the data in a very particular way that requires consolidation of multiple data sources and fit-for-purpose transformations. Automating data preparation and exception reporting can save days of data processing time and free up valuable resources to focus on higher value tasks.
 
@@ -94,3 +106,11 @@ Insurance companies have a significant opportunity to optimize resources, enhanc
 ---
 
 * https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

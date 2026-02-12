@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 10 Windows Task Manager Tricks You Probably Didn’t Know
 
 ## Metadata
@@ -46,3 +58,11 @@
 * Adjust Task Manager Options
 * Under Options, you can enable Always on top to keep the Task Manager above other windows unless you manually minimize it. Also on this menu, select Set default tab to choose what the Task Manager should show when you open it.
   Look under the View menu to make the Update speed faster or slower. You can even pause it if you need to examine a snapshot in time.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

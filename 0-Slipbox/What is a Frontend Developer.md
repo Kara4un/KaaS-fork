@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What is a Frontend Developer?
 
 *Source: [Front End Developer: Learn the 13 Skills You Need in 2022 - Skillcrush](https://skillcrush.com/blog/skills-to-become-a-front-end-developer/)*
@@ -64,3 +76,11 @@ A good front end developer will view this as a puzzle to be solved rather than a
 ````dataview
 list from [[What is a Frontend Developer]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

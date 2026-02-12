@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tools
 
 *Tools* Map of Content houses all notes related to Tools in general.
@@ -25,3 +37,11 @@ list from #Category/Tools AND -"Templates" AND -"MOCs" AND -"Changelog"
 ````dataview
 list from [[Tools]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

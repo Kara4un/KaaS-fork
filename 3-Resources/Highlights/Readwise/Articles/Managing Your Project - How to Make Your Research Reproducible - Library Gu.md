@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Managing Your Project - How to Make Your Research Reproducible - Library Gu
 
 ## Metadata
@@ -21,3 +33,11 @@
   Use version control system such as Git
 * Deposit your data in a repository for long-term preservation.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

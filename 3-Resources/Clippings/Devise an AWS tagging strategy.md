@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-24
+Date: 2022-03-24T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Devise an AWS tagging strategy"
+Tags:
+  - '#Type/Clipping'
+Alias: Devise an AWS tagging strategy
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
 ---
 
 # Devise an AWS tagging strategy
@@ -143,3 +153,11 @@ The use of tagging provides an easy way to manage resources effectively in a gro
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

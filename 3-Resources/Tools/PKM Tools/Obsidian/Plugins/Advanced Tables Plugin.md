@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Advanced Tables Obsidian Plugin
 
 The Advanced Tables plugin for Obsidian adds a lot of new features to editing Markdown tables within Obsidian, while maintaining full compatibility with Markdown.
@@ -33,3 +45,11 @@ If you have additional questions which are not covered here, please [create an i
 ````dataview
 list from [[Advanced Tables Plugin]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

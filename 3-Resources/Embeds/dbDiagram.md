@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # dbDiagram
 
 **Link:** [Claims-Data-Warehouse - dbdiagram.io](https://dbdiagram.io/d/61e337ffd67dd17bded1125b)
@@ -21,3 +33,11 @@
 ````dataview
 list from [[dbDiagram]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

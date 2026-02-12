@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Quarto
 
 [Quarto](https://quarto.org/) is a multi-language, [next-generation](https://quarto.org/docs/faq/rmarkdown.html) version of R Markdown from RStudio, and includes dozens of new features and capabilities while at the same being able to render most existing Rmd files without modification.
@@ -19,3 +31,11 @@ The following is a Quarto document with the extension `.qmd` (on the left) alo
 ````dataview
 list from [[Quarto]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

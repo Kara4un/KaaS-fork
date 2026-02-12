@@ -1,0 +1,20 @@
+0-Slipbox/Stop Reading Junk and Start Using Instapaper.md
+0-Slipbox/SQLAlchemy ORM.md
+0-Slipbox/SQL Stored Procedures Best Practices.md
+0-Slipbox/SQL Stored Procedures - Cursors.md
+0-Slipbox/SQL Server Useful Queries.md
+0-Slipbox/SQL Server System Functions.md
+0-Slipbox/SQL Server DBA Database Management Checklist Table.md
+0-Slipbox/SQL - Window Functions.md
+0-Slipbox/SQL - Common Table Expressions or CTEs.md
+0-Slipbox/Software Engineering Career Notes.md
+0-Slipbox/Simulating Actuarial Claims Data with R.md
+0-Slipbox/Silent Installations.md
+0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md
+0-Slipbox/REST API Resource Naming.md
+0-Slipbox/REST API Methods.md
+0-Slipbox/REST API Idempotence.md
+0-Slipbox/REST API HTTP Status Codes.md
+0-Slipbox/REST API Best Practices.md
+0-Slipbox/Reproducible Research.md
+0-Slipbox/Reproducible Data Science with Azure Machine Learning.md

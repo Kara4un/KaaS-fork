@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # REST API Resource Naming
 
 *Source: [REST Tutorial Lessons - RESTful Resource Naming](https://www.restapitutorial.com/lessons/restfulresourcenaming.html)*.
@@ -132,3 +144,11 @@ Again, no ID for the configuration and no POST verb usage. Although, I'm sure th
 ````dataview
 list from [[REST API Resource Naming]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

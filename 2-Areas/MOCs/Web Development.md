@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Web Development
 
 *Web Development* Map of Content houses all notes related to Web Development in general.
@@ -15,7 +27,7 @@
 
 * [API Architecture - Performance Best Practices](../../0-Slipbox/API%20Architecture%20-%20Performance%20Best%20Practices.md)
 * [REST API Best Practices](../../0-Slipbox/REST%20API%20Best%20Practices.md)
-* [API Design](../../0-Slipbox/API%20Design.md)
+* [[[API Design]]](../../0-Slipbox/API%20Design.md)
 * [API Authentication](../../0-Slipbox/API%20Authentication.md)
 * [REST API Methods](../../0-Slipbox/REST%20API%20Methods.md)
 * [REST API HTTP Status Codes](../../0-Slipbox/REST%20API%20HTTP%20Status%20Codes.md)

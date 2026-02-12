@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Shiny and Arrow
 
 ## Metadata
@@ -17,3 +29,11 @@
   You can query the data in that file before bringing it into an R data frame, using {dplyr} verbs, which provides for dramatic speed improvements
 * The combination of {arrow} and {dplyr} also results in lazy evaluation of your data manipulation statements. This means that your {dplyr} functions build a “recipe” of transformation steps that will only evaluate once you are finally ready to bring the transformed data into memory
 * We have learned that the combination of {arrow} + {dplyr} + .parquet gives us all of the memory-saving benefits we would get from querying a database, but with the simplicity of flat files.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_082",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Utility/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Utility/Quarto.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Utility/Mermaid.js.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Utility/markdown-notes-tree.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Documentation/Utility/Git-Cliff.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/Youtube-DL.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/wsh.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/trellocli.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/Todoist-CLI.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/to-ico-cli.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/SqlPackage.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/sqlfluff (Python).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/SophiScript and SophiApp.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/sncli - Simple Note CLI.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/Pyrseas (Python).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/organize.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Command Line Utilities/nostalgic - Bash Script to Manage Dotfiles.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/T-SQL.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

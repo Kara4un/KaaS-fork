@@ -1,4 +1,16 @@
-# Data Pipeline Architecture
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
+# [[Data Pipeline Architecture]]
 
 ![](https://i.imgur.com/gT7F4km.png)
 
@@ -70,3 +82,11 @@ Key takeaways are:
 ````dataview
 list from [[Data Pipeline Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

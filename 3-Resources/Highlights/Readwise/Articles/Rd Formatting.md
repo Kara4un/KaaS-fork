@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Rd Formatting
 
 ## Metadata
@@ -39,3 +51,11 @@
   \\url{http://rstudio.com}
   \\href{http://rstudio.com}{Rstudio}
   \\email{hadley@@rstudio.com} (note the doubled @) ([View Highlight](https://instapaper.com/read/1360305162/14737205))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

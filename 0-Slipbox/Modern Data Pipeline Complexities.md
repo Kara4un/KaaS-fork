@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Modern Data Pipeline Complexities
 
 ![](https://i.imgur.com/kNjjWhZ.png)
@@ -156,3 +168,11 @@ Data pipelines are inherently complex, but they don’t have to be overly compli
 ````dataview
 list from [[Modern Data Pipeline Complexities]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_019",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Logs/Log - New Discoveries.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Professional/PwC/FAST - Factory for Actuarial Solution Technology.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Professional/PwC/FAST - Data Platforming Management Key Activities.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/using dacpac functions to clone sql server databases.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/Table Loading Strategies in Data warehousing.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/SQL Server PowerShell - SQL Server.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/SQL Command Prompt Utilities - SQL Server.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "3-Resources/Clippings/Selectively modernizing and migrating applications to AWS.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Clippings/Obsidian-Clipper.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Personal/lossrx/Workflows.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Personal/lossrx/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Personal/lossrx/Functions.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Personal/lossrx/Data.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/Personal/lossrx/Application and API.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "1-Projects/1-Projects.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Posts/Published/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Posts/Published/Getting to know .Renviron.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022/2022-09/2022-09-09.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

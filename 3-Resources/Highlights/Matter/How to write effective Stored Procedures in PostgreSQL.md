@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://hub.packtpub.com/write-effective-stored-procedures-postgresql/](https://hub.packtpub.com/write-effective-stored-procedures-postgresql/)
@@ -26,3 +38,11 @@
 * Start a function to look up secret data 2. Add a log line to the document that somebody has modified this important secret data 3. Commit the log line but roll back the change 4. You still want to know that somebody attempted to change data
 * To solve problems like this one, autonomous transactions can be used. The idea is to be able to commit a transaction inside the main transaction independently. In this case, the entry in the log table will prevail while the change will be rolled back.
 * As of PostgreSQL 9.6, autonomous transactions are not happening. However, I have already seen patches floating around that implement this feature. We will see when these features make it to the core.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

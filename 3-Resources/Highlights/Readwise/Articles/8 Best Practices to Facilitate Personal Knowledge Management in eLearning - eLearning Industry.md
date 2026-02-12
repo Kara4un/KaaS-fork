@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Develop Resource Criteria
   As they say, "you can't believe everything you read on the internet". You should emphasize the importance of developing evaluation criteria. This helps your online learners identify relevant and reliable online resources so that they get accurate information. You might even consider a criteria checklist to help them find the right sources. In addition, start a database and invite your online learners to add their own suggestions. For instance, the online sources they've used in the past for specific subject matter.
   Personal Knowledge Management allows your online learners to weed out irrelevant information and commit the key facts to memory. eLearning professionals can even use these Personal Knowledge Management tips when designing their own eLearning courses. You must be able to collect, verify, and organize information in order to optimize the eLearning experience.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

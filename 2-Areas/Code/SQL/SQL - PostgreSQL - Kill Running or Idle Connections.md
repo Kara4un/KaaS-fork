@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Kill Running or Idle Connections
 
 \*Source: *
@@ -36,3 +48,11 @@ AND state_change < current_timestamp - INTERVAL '15' MINUTE;
 ````dataview
 list from [[SQL - PostgreSQL - Kill Running or Idle Connections]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

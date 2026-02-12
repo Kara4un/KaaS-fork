@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Building a Data Pipeline From Scratch - The Data Experience - Medium
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Process — Project Every Tiny Detail
   The process is the most important step. You will define what, where and how data are collected, transformed and loaded. Though we hear hearing everyday of AI and its endless possibilities there is still at least one thing they cannot do yet: decide the pipeline process.
   This means that you’ll need to manually pick every field, table, data source, transformation, join, etc. The good news is that if you do it right you’ll have to do it just once. Afterwards everything will be automated.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

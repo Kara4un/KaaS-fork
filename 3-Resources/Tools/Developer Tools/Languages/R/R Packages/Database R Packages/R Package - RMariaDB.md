@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - RMariaDB
 
 *Source: [r-dbi/RMariaDB: An R interface to MariaDB (github.com)](https://github.com/r-dbi/RMariaDB)*
@@ -147,3 +159,11 @@ password=""
 ````dataview
 list from [[R Package - RMariaDB]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

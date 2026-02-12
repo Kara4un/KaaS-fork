@@ -1,8 +1,20 @@
 ---
-Date: 2022-06-07
+Date: 2022-06-07T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
-Alias: "Actuarial risk analysis and financial modeling"
+Tags:
+  - '#Type/Slipbox'
+  - '#Topic/Dev'
+  - '#Topic/Actuarial'
+Alias: Actuarial risk analysis and financial modeling
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Actuarial risk analysis and financial modeling
@@ -110,9 +122,16 @@ During the model run, the actuaries use data delivery mechanisms that can handle
 - [[Development]]
 - [[Actuarial Science]]
 
-
 *Backlinks:*
 
 ```dataview
 list from [[Actuarial risk analysis and financial modeling]] AND -"Changelog"
 ```
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

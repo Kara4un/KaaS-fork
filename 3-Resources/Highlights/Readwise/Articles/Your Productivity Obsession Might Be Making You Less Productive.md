@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Your Productivity Obsession Might Be Making You Less Productive
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Curate your work: The way to do more of what you love is to raise your hand for projects that motivate you. Fill your plate and your list of responsibilities with things that add value for the company, and that makes you excited to go to work in the morning. Then you’ll naturally have less time for projects that aren’t your favorite, and those can go to others who are more excited about tackling them.
 * Don’t get too caught up in tedious work: For the things that must get done and are just not going to be stimulating to you, focus on muscling through. Just get them done so you can get on to the more exciting tasks and juicy work.
 * Take small steps: Focus on taking small steps forward. You’ve looked at the big picture and how your work contributes to it. Now, focus on taking one step at a time to get there. Sometimes it even helps to tell yourself you’re just going to work on something for 10 minutes.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

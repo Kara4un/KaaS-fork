@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # How to Bootstrapping Linux & Windows Azure VMs With Terraform
 
 ## Metadata
@@ -14,3 +26,11 @@
 * We can use Custom Data and Cloud-Init to load a Bash script in Linux and the Azure Virtual Machine Extension load a PowerShell script in Windows at the boot time
 * We can use a Template_File to load and update a bootstrapping script and execute it with a PowerShell command (only Windows).
 * Create a file called app-variables.tf. We will use this Terraform file for variables shared between all modules, such as application name and environment. Add the following content to the file:
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

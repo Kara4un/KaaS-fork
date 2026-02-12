@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Actuarial Data Science and Financial Modeling with Microsoft Azure
 
 *Source: [Guide to Moving Actuarial Risk Analysis to Azure | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/azure/industry-marketing/financial/actuarial-risk-analysis-and-financial-modeling-solution-guide?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fbread%2Ftoc.json)*
@@ -22,7 +34,7 @@ You believe in the promise of the cloud: it can run your financial and risk mode
 ---
 
 * [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [Microsoft Azure](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Microsoft%20Azure.md)
 * [Machine Learning](Machine%20Learning.md)
 * [Azure Machine Learning](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
@@ -32,3 +44,11 @@ You believe in the promise of the cloud: it can run your financial and risk mode
 ````dataview
 list from [[Actuarial Data Science and Financial Modeling with Microsoft Azure]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

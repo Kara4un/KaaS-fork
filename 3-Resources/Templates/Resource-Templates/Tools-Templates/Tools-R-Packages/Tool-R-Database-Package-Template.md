@@ -1,8 +1,23 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
-Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
+Tags:
+  - '#Type/Tool/R'
+  - '#Topic/Dev/R'
+  - '#Type/Tool'
+  - '#Topic/Dev/Database'
+Alias:
+  - <% tp.file.title %>
+  - <% tp.file.title %>
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # <% tp.file.title %>
@@ -18,9 +33,16 @@ Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 - [[2-Areas/MOCs/R]]
 - [[R - Database Packages List]]
 
-
 *Backlinks:*
 
 ```dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
 ```
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

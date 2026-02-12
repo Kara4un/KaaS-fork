@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # RegEdit - Take Ownership Context Menu
 
 *Source: [Add Take Ownership Context Menu in Windows 10 (winaero.com)](https://winaero.com/add-take-ownership-context-menu-windows-10/?utm_source=software&utm_medium=in-app&utm_campaign=winaerotweaker&utm_content=contextmenutakeownership)*
@@ -24,7 +36,6 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\*\shell\TakeOwnership\command]
 @="powershell -windowstyle hidden -command \"Start-Process cmd -ArgumentList '/c takeown /f \\\"%1\\\" && icacls \\\"%1\\\" /grant *S-1-3-4:F /t /c /l & pause' -Verb runAs\""
 "IsolatedCommand"= "powershell -windowstyle hidden -command \"Start-Process cmd -ArgumentList '/c takeown /f \\\"%1\\\" && icacls \\\"%1\\\" /grant *S-1-3-4:F /t /c /l & pause' -Verb runAs\""
-
 
 [HKEY_CLASSES_ROOT\Directory\shell\TakeOwnership]
 @="Take Ownership"
@@ -55,3 +66,11 @@ Windows Registry Editor Version 5.00
 ````dataview
 list from [[RegEdit - Take Ownership Context Menu]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

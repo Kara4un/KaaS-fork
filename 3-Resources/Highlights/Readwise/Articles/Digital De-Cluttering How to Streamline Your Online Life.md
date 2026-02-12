@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital De-Cluttering: How to Streamline Your Online Life
 
 ## Metadata
@@ -19,3 +31,11 @@
   It's also much easier to use fewer tabs if you install a cloud bookmarking system. You can save anything you want by clicking a button on your browser, then read it later on another computer or your phone or tablet. My favorite service is Pocket, but there are plenty of others, like Instapaper and Readability.
   The key to living without digital clutter is figuring out how to effectively process the digital information you're confronted with on a daily basis, and these are all great first steps. But there’s something even more important: knowing when to turn it all off.
   The light waves emitted by your screens can block melatonin secretion from your brain, resulting in less (or less deep) sleep. "Poor sleep contributes largely to ongoing high levels of stress and anxiety,” says Dr. Biali. “So my top tip would be to unplug completely from anything digital in the evening." ([View Highlight](https://instapaper.com/read/1307996855/14737224))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

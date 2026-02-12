@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Windows Troubleshooter Commands
 
 *Source: [Troubleshoot Problems in Windows 10 with Troubleshooters Performance & Maintenance - Windows 10 Forums (tenforums.com)](https://www.tenforums.com/tutorials/76013-troubleshoot-problems-windows-10-troubleshooters.html#option3)*
@@ -45,3 +57,11 @@
 ````dataview
 list from [[Windows Troubleshooter Commands]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

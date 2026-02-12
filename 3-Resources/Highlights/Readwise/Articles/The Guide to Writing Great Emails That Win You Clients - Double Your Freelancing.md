@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
 
 ## Metadata
@@ -75,3 +87,11 @@
   Once you’ve agreed on the price and scope, link them to an easy payment system, like Stripe, Shopify, or Gumroad.
   A good rule of thumb: if someone can just reply “sounds good,” then your email does enough of the heavy lifting.
   It means you’ve taken away the hard part: deciding what’s next. Even the busiest people will reply if you make it easy. ([View Highlight](https://instapaper.com/read/1364271969/14671676))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

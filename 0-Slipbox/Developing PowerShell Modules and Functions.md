@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Developing PowerShell Modules and Functions
 
 *Sources: 
@@ -82,7 +94,6 @@ Options:
   --force             Forces content to be generated even if it would change existing files.
   -lang, --language   Filters templates based on language and specifies the language of the template to create.
 
-
 Templates                        Short Name         Language          Tags
 -----------------------------------------------------------------------------------------------
 Console Application              console            [C#], F#, VB      Common/Console
@@ -103,3 +114,11 @@ PowerShell Standard Module       psmodule           [C#]              Library/Po
 ````dataview
 list from [[Developing PowerShell Modules and Functions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

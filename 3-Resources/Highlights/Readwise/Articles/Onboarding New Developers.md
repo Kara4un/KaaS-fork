@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Onboarding New Developers
 
 ## Metadata
@@ -48,3 +60,11 @@
   After the first two weeks, don't "ease" the newcomer into their job; drop them in the deep end with their new normal work load, and teach them to swim.
   Maintain clear, friendly, and exhaustive written documentation for all of your company's tools and common workflows.
   Wait until employees ask you for help before stepping in (unless you have a managerial reason to get involved). Let them make their own mistakes.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

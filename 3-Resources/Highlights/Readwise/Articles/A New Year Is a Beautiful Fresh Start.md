@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A New Year Is a Beautiful Fresh Start
 
 ## Metadata
@@ -32,3 +44,11 @@
   One small step at a time, make it happen. One fresh start at a time.
   I have two invitations for you:
   Sea Change Program: My habits program has been redesigned this year to get you good at the fundamentals of creating new habits. We’re starting with the mornings — the Beautiful Mornings Challenge is designed to help you start out a year of growth in the right way. Join Sea Change today to get started!Fearless Training Program: If you’d like to deepen into the uncertainty of your meaningful work, this is the training program for you. You’ll set ambitious goals, commit to them, and work with whatever obstacles get in the way. Join Fearless today.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

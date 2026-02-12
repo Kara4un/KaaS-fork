@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Pitfalls of Being an Information Hoarder | Foolishly Creative
 
 ## Metadata
@@ -29,3 +41,11 @@
   Realize that you are enough. There is someone that is waiting to be your client with the knowledge that you have now.
 * Remember, information is just data that has been defined, interpreted, and analyzed by someone else. Knowledge and experience are only gained by what you do with what you know. Ready to do something with your knowledge, life experience, and talents? If you have a business, you need a (better) website. Partner with me instead of spending time doing it yourself.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Command Line Utilities
 
 * [GAM - Google Workspace Admin CLI](GAM%20-%20Google%20Workspace%20Admin%20CLI.md)
@@ -31,3 +43,11 @@ list from "3-Resources/Tools/Developer Tools/Command Line Utilities" AND !#Type/
 ````dataview
 list from [[_README]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Writing Technical Design Docs, Revisited - Machine Words - Medium
 
 ## Metadata
@@ -46,3 +58,11 @@
       At a high level, describe how your chosen solution be tested.
   13. References
       Links to any other documents that may be relevant, or sources you wish to cite.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

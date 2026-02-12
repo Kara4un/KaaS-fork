@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GHA - AWS Deployment
 
 *Source: https://github.com/actions/starter-workflows/blob/main/deployments/aws.yml*
@@ -121,3 +133,11 @@ Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 ````dataview
 list from [[GHA - AWS Deployment]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

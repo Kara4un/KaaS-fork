@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://www.auditexcel.co.za/article/spreadsheet-documentation-using-only-excels-inbuilt-tools/](https://www.auditexcel.co.za/article/spreadsheet-documentation-using-only-excels-inbuilt-tools/)
@@ -21,3 +33,11 @@
 * Input: This lists the required input data e.g. databases, system owners / business users, files, user keyed data or messages with a full description of sources and formats of the inputs. Inputs also refer to assumptions made, and indicate the ownership of the data. For links to other spreadsheets you can use the ‘External links’ feature in Excel to identify them (watch the adjacent video clip or see the text explanation below on how to do it).
 * Initial Testing Log: Information required includes the date of testing, who performed it, what type of tests were performed (see testing explanation) and summary of corrections made.
 * Change Log: Changes made to the spreadsheet should be noted within the spreadsheet. In particular the items to be noted should be the date of change, version of the spreadsheet (full spreadsheet name as each significant change should result in a new version of the spreadsheet- see version control), person performing the changes, a brief rational for the changes, and confirmation of testing performed on the changes.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

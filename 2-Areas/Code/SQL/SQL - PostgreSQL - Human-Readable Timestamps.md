@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Human-Readable Timestamps
 
 *Source: [sql-snippets/convert-epoch-to-timestamp.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/convert-epoch-to-timestamp.md)*
@@ -49,3 +61,11 @@ FROM data;
 ````dataview
 list from [[SQL - PostgreSQL - Human-Readable Timestamps]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

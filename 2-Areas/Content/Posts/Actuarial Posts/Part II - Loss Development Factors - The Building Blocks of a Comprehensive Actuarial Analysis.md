@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis
 
 In [Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses](Part%20I%20-%20Building%20the%20Foundation%20-%20Building%20Blocks%20of%20a%20Comprehensive%20Actuarial%20Analyses.md) I covered the initial steps undertaken by actuaries in order to create a fully beneficial actuarial analyses. 
@@ -90,3 +102,11 @@ See you there!
 ````dataview
 list from [[The Building Blocks of a Comprehensive Actuarial Analysis Part II - Loss Development Factors]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

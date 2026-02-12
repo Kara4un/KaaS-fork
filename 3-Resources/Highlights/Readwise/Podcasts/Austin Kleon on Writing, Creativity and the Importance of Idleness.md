@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Austin Kleon on Writing, Creativity and the Importance of Idleness
 
 ## Metadata
@@ -17,3 +29,11 @@
   * Note: Specialism vs Generalist
 * Speaker 0: way more of them. And there's a great there's a great story in art and fear the book Art and fear. Where there's this, you know, there's this pottery class and half the class has said is told you will be evaluated on how many pots you make, how many pots you throw that is where your grade will come through from. The other part of the class was told, you will be evaluated on the quality of the final pot you make. Well, it turns out that the people in the group that was told to make his made pots is they could ended up with better quality pots than the ones that were told Toe just focus on quality. So, like there's something about quantity and frequency and blogging that I think leads to better stuff overall than if I just sat and waited for, like, this perfect post, and I could tell you that's happening to me right now and there are two big posts I want to write and I'm just, like, trying to figure out Well, I've waited this long now, so it's gonna have to be really good. Whereas if my dumb ass had just written about the stuff as I was thinking about it, they're probably be three great posts about, you know? I mean, it's that it's that thing of like, you just get out of practice and it's harder to get back on it be like a it be like a basketball player who, like, took a year off and then wanted to get back on the court. You know, it's like it's like that. ([Time 1:36:43](https://www.airr.io/quote/5fc53243bb807d55a030a583))
   * Note: Quality versus quantity and how quantity produces quality
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

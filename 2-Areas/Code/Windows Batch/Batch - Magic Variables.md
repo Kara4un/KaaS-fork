@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Batch - Magic Variables
 
 *Source: [What does %~d0 mean in a Windows batch file? (newbedev.com)](https://newbedev.com/what-does-d0-mean-in-a-windows-batch-file#:~:text=What%20does%20%25~d0%20mean%20in%20a%20Windows%20batch,after%2C%20%252%20is%20the%20second%20and%20so%20on.)*
@@ -216,3 +228,11 @@ avoids confusion with the modifiers, which are not case sensitive.
 ````dataview
 list from [[Batch - Magic Variables]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

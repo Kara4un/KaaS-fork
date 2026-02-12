@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## New highlights added April 24, 2022 at 10:46 PM
 
 * @bubbaprog: Did not know Bobby Moynihan was a Georgia fan https://t.co/1YrWsRtWxz ([View Tweet](https://twitter.com/bubbaprog/status/1480773981976375302))
@@ -88,3 +100,11 @@
   https://t.co/OwRSkCbzKK 
   ![](https://pbs.twimg.com/media/EtKaJs_VEAAF_Pl.jpg) ([View Tweet](https://twitter.com/cpsievert/status/1356316626413473792))
 * @dreamRs_fr: New release on CRAN for shinyWidgets ! 🎉 Bug fixes and a new function statiCard() to create animated cards in #rshiny apps. See more https://t.co/XFn6XpXPGq #RStats https://t.co/N20mED2LJ4 ([View Tweet](https://twitter.com/dreamRs_fr/status/1349706502240665601))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

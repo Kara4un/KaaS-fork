@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Extensions
 
 * [Tab Session Manager](Tab%20Session%20Manager.md)
@@ -26,3 +38,11 @@ list from "3-Resources/Tools/Browsers/Extensions" AND !#Type/Readme
 ````dataview
 list from [[_README]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

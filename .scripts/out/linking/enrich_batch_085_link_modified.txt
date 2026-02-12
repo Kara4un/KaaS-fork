@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Miscellaneous.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Great Expectations.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/franchise.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbt - Data Build Tool.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbhub.io.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/README.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/Reactjs.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/JavaScript.md
+3-Resources/Tools/Developer Tools/Languages/R/README.md
+3-Resources/Tools/Developer Tools/Languages/R/R.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Business Intelligence.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Alteryx.md
+3-Resources/Tools/Developer Tools/Languages/DotNet/DotNet.md
+3-Resources/Tools/Developer Tools/Documentation/Help Docs/Help Docs.md
+3-Resources/Tools/Developer Tools/Documentation/Help Docs/DrExplain.md
+3-Resources/Tools/Developer Tools/Documentation/Documentation.md
+3-Resources/Tools/Developer Tools/APIs/OpenAPI Specification.md
+3-Resources/Tools/Developer Tools/APIs/APIs.md
+3-Resources/Tools/Developer Tools/APIs/Swagger.md

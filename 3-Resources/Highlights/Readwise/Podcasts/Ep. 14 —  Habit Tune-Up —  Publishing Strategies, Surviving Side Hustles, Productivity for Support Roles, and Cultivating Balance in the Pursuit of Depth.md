@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
 
 ## Metadata
@@ -18,3 +30,11 @@
   Ca, thanks for your awson podcas, i haven't missed a single episode since you started it, and i find ef anxiously waiting for the next episode, which i inevitably end i end ot finding superhelpful. So my name is marco, and i am a softer engineer based in belfast, in the u k. And my question is about living a life where all the important areas are well taken care of. I've heard you touching on this, and yet, broadly speaking, i would like a work, but also family, faith, finances, health, et cetera, to be well looked after. Now, i find that if im having a particularly busy time at work, the other erras tend to fall behind. And similarly, if we are under pressure financially, it's hard to be focused at work. You get the point. So what's a good system or approach that i can use to systematically, daily, or weekly, or whatever the case, make sure that every area of my life is healthy and well taken care of. Marco,
   Speaker 1
   first of all, i appreciate the kind words about the podcast, and i appreciate your question. Now, i think, technically speaking, this question falls a little bit outside the normal boundaries of what we tackle in the habit tune up minny episode, where i tend to try to focus on more concrete habits about your work, how to be productive and how to be effective even when times are disrupted. But i think i want to tackle this question here anyways, because it is important. If you feel like your focus on your career itis going to diminish other aspects of your life that are very important, then it's going to be hard for you to and focus on your career. It can be hard for you to care about tuning up your habits if you worry that the impact itself is going to be broadly negative. ([Time 0:17:19](https://share.snipd.com/snip/3819dbdf-8adc-4acb-a6f0-22f04ee7630c))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

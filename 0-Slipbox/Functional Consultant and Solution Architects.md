@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Functional Consultant and Solution Architects
 
 *Source: [Use implementation methodologies for a successful implementation - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/design-plan-implementation-finance-operations/2-implementation-methodologies)*
@@ -27,3 +39,11 @@ Regardless of deployment topology, either on the cloud or on-premises, the metho
 ````dataview
 list from [[Functional Consultant and Solution Architects]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

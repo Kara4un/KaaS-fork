@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Warehousing Roadmap
 
 *Source: [A Sample Road-Map for Building Your Data Warehouse (upgrad.com)](https://www.upgrad.com/blog/a-sample-road-map-for-building-your-data-warehouse/)*
@@ -75,3 +87,11 @@ Your data warehouse is set to stand the tests of time and granularity. It has to
 * [Data Warehousing for Insurance Data](Data%20Warehousing%20for%20Insurance%20Data.md)
 * *3-Resources/Highlights/Readwise 1/Articles/Data Warehouse Insurance - Kimball Group*
 * [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

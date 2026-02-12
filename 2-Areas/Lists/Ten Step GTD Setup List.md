@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ten Step GTD Setup List
 
 ## Contents
@@ -181,3 +193,11 @@ Be sure to move captured items into in-tray daily or onto one of your lists dire
 * [Productivity](../MOCs/Productivity.md)
 * [GTD Mindsweep](../../0-Slipbox/GTD%20Mindsweep.md)
 * *GTD-WildSuccess-MindSweep.pdf*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

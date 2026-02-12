@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The “Burner List”—My Simple, Paper-Based System for Focused To-Dos
 
 ## Metadata
@@ -28,3 +40,11 @@
      Finally, about halfway down the right-hand column, list any miscellaneous tasks that you need to do but don’t fit with project 1 or project 2. It doesn’t matter if they’re part of project 3 or 4, they just get chucked into the kitchen sink with everything else. Yes, this goes counter to all organizational and productivity advice — but by constraining the space and attention you give to other stuff, you’ll help yourself spend your time well.
      Now get cooking
 * Imagine there was a chef standing to the left of your page. He’ll naturally focus most of his attention on the front burner. He’s aware of the back burner, and sometimes he stirs a pot or flips a pancake back there, but the front burner is where the action is.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

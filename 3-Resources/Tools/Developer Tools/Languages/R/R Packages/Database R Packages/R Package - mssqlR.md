@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - mssqlR
 
 *Source: [abhisheksinha08/mssqlR: Use mssqlR to query data from MS SQL Server. Based on the concept on Entity Framework, the package allows querying data from MS SQL Server Database. (github.com)](https://github.com/abhisheksinha08/mssqlR)*
@@ -111,7 +123,6 @@ connect_entity_gen <- function(server, db, uid, pwd){
   }
   rm( list = c("tables_sys","i"))
 
-
   #Get Field Names
 
   tables_sys <- as.list(sqlQuery(dbhandle, 'Select SS.name, ST.name from sys.tables ST LEFT JOIN sys.schemas SS ON ST.schema_id=SS.schema_id WHERE ST.type_desc = \'USER_TABLE\' ORDER BY ST.Name'))
@@ -129,7 +140,6 @@ connect_entity_gen <- function(server, db, uid, pwd){
       dbDetails[[paste("col",tableName, cols[j,1], sep = "_")]] <-  as.character(cols[j,1])
       j<-j+1
     }
-
 
     i<-i+1
   }
@@ -152,7 +162,6 @@ connect_entity_gen <- function(server, db, uid, pwd){
       dbDetails[[paste("vcol",viewName, cols[j,1], sep = "_")]] <-  as.character(cols[j,1])
       j<-j+1
     }
-
 
     i<-i+1
   }
@@ -341,7 +350,6 @@ select <- function(query=NULL, ..., top=NULL, distinct=NULL){
     distinct = FALSE;
   }
 
-
   # no columns name are provided
   if(length(c(...))==0)
   {
@@ -474,3 +482,11 @@ where <- function(query=NULL,  ...){
 ````dataview
 list from [[R Package - mssqlR]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

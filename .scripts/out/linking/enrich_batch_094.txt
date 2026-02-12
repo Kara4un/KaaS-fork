@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sparklyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - uptasticsearch.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - TScompare.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validate.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validatedb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - Hmisc.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - config.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - callr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/General R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - pkgsearch.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - keyring.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - qs.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - vembedr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Shiny R Packages/Shiny R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - conjuror.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - ChainLadder.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdown.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdata.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - cascsim.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - actuar.md

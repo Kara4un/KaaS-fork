@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Data Science Workflow
 
 ## Metadata
@@ -62,3 +74,11 @@
   Monitoring dashboard. How do you collect and track the performance of the model in production? Metabase? Tableau? PowerBI? Grafana?
 * The tools
   To conclude and summarize the exposition, here is a small spreadsheet, listing the tools mentioned in this post (as well as some extra ones I added or will add later on), categorizing them according to which stages of the data science workflow (in the terms defined in this post) they aim to support. Disclaimer — I did try out most, but not all of them. In particular, my understanding of the capabilities of the non-free solutions in the list is so far only based on their online demos or descriptions on the site.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

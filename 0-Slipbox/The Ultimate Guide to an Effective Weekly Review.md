@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Ultimate Guide to an Effective
 
 *Source: *The Ultimate Guide to an Effective Weekly Review.pdf**
@@ -419,3 +431,11 @@ TLDR;
 ````dataview
 list from [[The Ultimate Guide to an Effective Weekly Review]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

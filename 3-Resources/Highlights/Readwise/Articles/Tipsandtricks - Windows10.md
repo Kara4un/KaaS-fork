@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tipsandtricks - Windows10
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Win+Ctrl+D to create new virtual desktop
 * Win+Crtl+F4 to close the current virtual desktop.
 * Win+Ctrl+Left/Right arrow to quickly switch between desktops,
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

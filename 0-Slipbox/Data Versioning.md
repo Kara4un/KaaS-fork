@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Versioning
 
 *Source: [leeper/data-versioning: Collecting thoughts about data versioning](https://github.com/leeper/data-versioning)*
@@ -75,3 +87,11 @@ Data versioning systems must have a more sophisticated commit system than that p
 ````dataview
 list from [[Data Versioning]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

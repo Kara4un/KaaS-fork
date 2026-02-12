@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best Way to Organize Your To-Dos
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Here’s the principle: Make it easier for yourself to see the tasks you need to accomplish, when you can accomplish them. Here’s how you do that: Organize to-dos according to the location you need to be in, or the resources and people you need to be connected to, in order to complete the action.
 * Organizing by context was initially counterintuitive for me, but once I tried it out with “both feet in” I became far more productive and focused, and with less effort. I’m convinced I’ll never go back to organizing by project, topic, or one big list.
   When you organize by context or resource, your focus is on the actions you can take, not on sorting and sifting. And that’s really the point of Getting Things Done.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

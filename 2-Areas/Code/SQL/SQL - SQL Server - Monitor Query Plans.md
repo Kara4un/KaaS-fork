@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Monitor Query Plans
 
 *Source: [Monitor Query Plans | thiscodeWorks](https://www.thiscodeworks.com/61faf27fb783be0015bbaf7e)*
@@ -41,3 +53,11 @@ For [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Datab
 ````dataview
 list from [[SQL - Monitor Query Plans]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

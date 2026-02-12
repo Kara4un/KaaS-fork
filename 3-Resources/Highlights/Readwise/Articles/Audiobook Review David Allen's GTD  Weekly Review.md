@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Audiobook Review: David Allen's "GTD > Weekly Review"
 
 ## Metadata
@@ -44,3 +56,11 @@
 * Checklists and reference lists
   This is probably the least utilized part of the weekly review (itself a poorly utilized part of GTD). Allen says that you should consider creating a checklist for any routine task that you find yourself doing more than once or twice. Checklists help us to a) not rely on memory to make sure everything’s done, and b) not have to think up next actions for tasks we’ve already figured out the next actions for.
   Reference lists are exactly what the name says: lists of reference information you need to refer to often. An example might be books you want to read, logins and passwords, places you want to visit, recipes you want to get, and so on. As you go through your weekly review, make sure you add any relevant information to your reference lists. ([View Highlight](https://instapaper.com/read/1380884797/15276035))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Getting More Done at Work With Evernote - Frank Buck Consulting
 
 ## Metadata
@@ -16,3 +28,11 @@
   taking action – organizing the rest of your life around your routines.
 * In order to get more done, determine the single role or ongoing project that will be your focus for some period of time until you develop focus mastery.
 * Fitness is stretching your “work muscles” regularly. In GMD, each Fitness—physical, emotional, mental, sleep/rest, nutrition, social and rejuvenation—is a focus mastery project by itself.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Action - R pkgcheck
 
 *Source: [ropensci-review-tools/pkgcheck-action: GitHub action for {pkgcheck}](https://github.com/ropensci-review-tools/pkgcheck-action)*
@@ -141,3 +153,11 @@ This default behaviour protects your repository from malicious use of `pull_requ
 ````dataview
 list from [[GitHub Action - R pkgcheck]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

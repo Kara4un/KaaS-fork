@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # The Clean Architecture — Beginner’s Guide
 
 ## Metadata
@@ -26,3 +38,11 @@
 * Gateways (Interface that holds every CRUD operation performed by the application, implemented by DB)
 * Application Business Rules
 * This layer holds Use Cases
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

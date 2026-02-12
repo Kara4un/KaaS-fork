@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Get Through a Paper and Digital Backlog – Gigaom
 
 ## Metadata
@@ -28,3 +40,11 @@
 * Forward or delegate anything that someone else can do instead of you. Archive or delete (or file, if it’s a paper document) to get it out of the inbox.
 * Quickly reply to messages that can be done in a minute or two. Quickly do actions that take a couple minutes or less. Archive or delete (or file, if it’s a paper document) to get it out of the inbox.
 * Note items that need action, but that will take longer to do. Put them on a separate to-do list. Archive or delete (or file, if it’s a paper document) to get it out of the inbox.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 **Prerequisites**
 
 * Install Terraform [https://www.terraform.io/downloads](https://www.terraform.io/downloads)
@@ -237,3 +249,11 @@ Thanks for taking time to read this Azure Terrafy guide for Windows.
 If you do not plan to continue to use the resources created in these labs, please clean up by deleting the resources created.
 
 By cleaning up you also save your money.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

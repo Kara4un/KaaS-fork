@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital Life in Disarray? Use These 6 Steps to Get Organized.
 
 ## Metadata
@@ -46,3 +58,11 @@
 * 
   6. Keep track of your passwords
 * Other things you can do to organize your digital life include backing up your content, being mindful of how many browser tabs you have open (OneTab for Firefox or Chrome can help!), and turning off distracting notifications.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

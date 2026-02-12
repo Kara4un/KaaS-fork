@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Visual Basic for Applications (VBA) Coding Standards
 
 *Source: [bluetata/VBA-Coding-Standards: VBA Code Guidelines (github.com)](https://github.com/bluetata/VBA-Coding-Standards)*
@@ -578,3 +590,11 @@ The labels **ErrHandler** and **ExitHere** are used both for consistency across 
 ## Appendix: Links
 
 **See Also:**
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

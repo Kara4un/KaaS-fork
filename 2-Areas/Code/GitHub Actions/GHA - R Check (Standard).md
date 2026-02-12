@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Action - Standard R CMD Check
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#standard-ci-workflow*
@@ -84,3 +96,11 @@ jobs:
 ````dataview
 list from [[GitHub Action - Standard R CMD Check]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

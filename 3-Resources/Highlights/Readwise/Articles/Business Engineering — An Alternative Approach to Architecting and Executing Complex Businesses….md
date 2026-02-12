@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…
 
 ## Metadata
@@ -16,3 +28,11 @@
   2. Integrated strategic and operational planning; the marshalling and management of its activities and the wide range of capabilities they employ; plus, all relationships with the “collective of participants” involved and the outside world
 * 
   3. Continuous measurement and appraisal of what occurs, and the value-to-the-business/customer/society generated or expended — as the basis of more objective planning, operations and change, based upon up-to-date, provenanced and managed contextual fact, tailored to your interpretation of your business and its environment
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 13 Things to Put on Your Daily Checklist for Boosted Productivity
 
 ## Metadata
@@ -62,3 +74,11 @@
 * The Bottom Line
   You now have 13 things for your daily checklist that will help you become more productive and spend time on things that matter. Put it somewhere visible where it can look at you every single morning and evening.
   If you commit to completing each item every day, eventually, it will bring you massive results. Every journey, no matter how long, always begins the same way—with a single step. ([View Highlight](https://instapaper.com/read/1453968718/17775158))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

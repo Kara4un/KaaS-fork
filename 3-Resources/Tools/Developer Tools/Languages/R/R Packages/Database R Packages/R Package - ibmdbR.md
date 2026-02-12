@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # The ibmdbR package
 
 *Source: [The ibmdbR package - IBM Documentation](https://www.ibm.com/docs/en/db2woc?topic=packages-ibmdbr-package)*
@@ -88,3 +100,11 @@ Use a data structure called an IDA list to generate a pointer to either of these
 ````dataview
 list from [[R Package - ibmdbR]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

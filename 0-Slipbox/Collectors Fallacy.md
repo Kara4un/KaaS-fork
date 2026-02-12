@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Collectors Fallacy
 
 *Source: [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/)*
@@ -27,3 +39,11 @@ To counter the fallacy, one must merge the contents, information, ideas, and tho
 ````dataview
 list from [[Collectors Fallacy]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+3-Resources/Podcasts/README.md
+3-Resources/Podcasts/Podcasts.md
+3-Resources/PDFs/README.md
+3-Resources/PDFs/PDFs.md
+3-Resources/Kanbans/README.md
+3-Resources/Kanbans/Kanbans.md
+2-Areas/Daily-Notes/2022/2022-04/2022-04-03.md
+3-Resources/Templates/Personal-Templates/Person-Template.md
+3-Resources/Templates/Project-Templates/Project-Template.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Zotero Connector.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Tab Session Manager.md
+3-Resources/Tools/Web Browsers/Browser Extensions/README.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Raindrop.io.md
+3-Resources/Tools/Web Browsers/Browser Extensions/OneTab.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Momentum.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Markdownload.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Keeper Password Manager.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Dark Reader.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Browser Extensions.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Readme-Template.md

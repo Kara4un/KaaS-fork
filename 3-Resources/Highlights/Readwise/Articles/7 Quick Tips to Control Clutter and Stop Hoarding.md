@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 7 Quick Tips to Control Clutter and Stop Hoarding
 
 ## Metadata
@@ -17,3 +29,11 @@
   If you cannot decide to toss or keep an item, put it in a box for 6 months. If you don't open the box before then, you can let it go without regret. This is a great idea for people who hoard items like magazines, travel toiletries, and newspaper clippings
 * Toss Unused Items
 * Once you start tossing the items you never use, it will be easier to keep clutter from creeping up. You'll be used to having a more minimalist approach.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

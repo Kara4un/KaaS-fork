@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # {yHat} - Reproducible Work in R
 
 ## Metadata
@@ -16,3 +28,11 @@
   Do all your development within Docker containers
   Accompany all projects with a Docker image
   This has worked so well that I haven’t bothered using R/Rstudio on my local machine in well over half a year now. ([View Highlight](https://instapaper.com/read/1355675192/14404460))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

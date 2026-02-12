@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Ultimate Guide to an Effective - Highlights
 
 *These are my personal highlights extracted from the original source PDF/converted markdown file for the guide on weekly reiew's by [Justin DiRose](../../../2-Areas/People/Justin%20DiRose.md):*
@@ -121,3 +133,11 @@ If you have any time at all to complete one, focus on the following areas:
 TLDR; 
 
 ==The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, and journal. Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits==
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,18 @@
 ---
-Date: 2022-08-26
+Date: 2022-08-26T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Database Design Best Practices"
+Tags:
+  - '#Type/Clipping'
+Alias: Database Design Best Practices
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # Database Design Best Practices
@@ -29,7 +39,6 @@ Alias: "Database Design Best Practices"
 	- [[#Database design best practices#5. Model your data and look for the right fit for your needs|5. Model your data and look for the right fit for your needs]]
 - [[#Scalable database design for the win|Scalable database design for the win]]
 - [[#Appendix: Links|Appendix: Links]]
-
 
 ## Overview
 
@@ -168,3 +177,11 @@ As you scale your database in the future, these database design best practices a
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

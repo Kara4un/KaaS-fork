@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://mishacreatrix.com/restarting-the-weekly-review-process](https://mishacreatrix.com/restarting-the-weekly-review-process)
@@ -26,3 +38,11 @@
 * Planning
 * Now that I’ve reflected on the last week, it’s time to plan for the next week. * I start by scheduling any appointments or calls into my calendar. * I then schedule any relevant tasks for the next week using Todoist. A lot of my work now can be set to recurring tasks so I find that each week isn’t totally different from the last one.
 * Shut Down * Once I’ve completed my weekly review process, it’s time to shut down work for the day. * I step through my shut down routine which tells my brain work is finished for the day, and to go and do other things. * This is a great way to switch off from work as it creates a clear separation in your mind.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

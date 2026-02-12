@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Machine Learning.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Key Vault.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps Pipelines.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Data Studio.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Container Registry.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Container Instances.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure CLI.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure SQL Databases.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure MLOps.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure ML Compute Instances.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure Data Lake Store.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/README.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Leapp.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/MultiCloud.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Serverless.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Dbgate.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DBeaver.md

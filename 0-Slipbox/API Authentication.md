@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 Status:: #Status/Todo  
 Type:: #Type/Documentation  
 Topic:: #Topic/Dev/WebDev/API
@@ -106,7 +118,7 @@ What makes scope powerful is that it is client-based restrictions. Unlike an API
 
 ## Appendix: Links
 
-* [API Design](API%20Design.md)
+* [[[API Design]]](API%20Design.md)
 * [API Architecture - Performance Best Practices](API%20Architecture%20-%20Performance%20Best%20Practices.md)
 * [REST API Best Practices](REST%20API%20Best%20Practices.md)
 * [REST API Resources List](../2-Areas/Lists/REST%20API%20Resources%20List.md)
@@ -118,3 +130,11 @@ What makes scope powerful is that it is client-based restrictions. Unlike an API
 ````dataview
 list from [[API Authentication]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

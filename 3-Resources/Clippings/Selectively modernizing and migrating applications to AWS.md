@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-24
+Date: 2022-03-24T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Selectively modernizing and migrating applications to AWS"
+Tags:
+  - '#Type/Clipping'
+Alias: Selectively modernizing and migrating applications to AWS
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
 ---
 
 # Selectively modernizing and migrating applications to AWS
@@ -117,3 +127,11 @@ For most applications that generate less business value and come saddled with de
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-23
+Date: 2022-03-23T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Mark Down Cheatsheet"
+Tags:
+  - '#Type/Clipping'
+Alias: Mark Down Cheatsheet
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Mark Down Cheatsheet
@@ -183,3 +193,11 @@ Thanks for reading again! ❤️
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

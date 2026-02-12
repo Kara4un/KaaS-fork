@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Enable Code Folding in Bookdown and Blogdown · StatnMap
 
 ## Metadata
@@ -41,3 +53,11 @@ in_header: header.html
   
   codefolding_show = "hide"
   In the main footer (or header) of your website, you need to load the javascript libraries. You can use the following code (footer_js.html).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

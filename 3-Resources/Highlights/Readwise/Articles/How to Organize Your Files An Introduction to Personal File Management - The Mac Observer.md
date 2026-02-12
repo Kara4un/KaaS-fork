@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer
 
 ## Metadata
@@ -34,3 +46,11 @@
 * Conclusion
   As I’ve pondered this, I think what I’m trying to create with my system is a fractal. I’ve been fascinated by fractals for a long time. It’s the idea that every file knows its place in the system, because each one contains a subset of the system in its name. This can translate into long file names like \[Learn\]\[Folder1\]\[SubFolder3\]-filename, but if something goes wrong and suddenly your files are scattered, the collective can be remade simply by looking at the individuals (to be a bit poetic).
   It’s been a work in progress since I created it in 2018. I’ve made small tweaks here and there but overall it has remained the same. I’ll keep this guide updated as I make changes. And if you’ve created your own personal information management system, mention it in the comments. I’d love to read about it.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

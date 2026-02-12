@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # CMD - Export and Import Edge Custom SearchEngines
 
 *Source: [erbanku/custom-search-engines-backup: Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers. (github.com)](https://github.com/erbanku/custom-search-engines-backup)*
@@ -128,3 +140,11 @@ Runs the exported [SQL](../SQL/SQL.md) script against the `Web Data` file which 
 ````dataview
 list from [[CMD - Export and Import Edge Custom SearchEngines]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

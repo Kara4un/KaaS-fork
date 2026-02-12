@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Declutter & Organize Your Digital Files
 
 ## Metadata
@@ -15,3 +27,11 @@
 * Organizing Your Digital Files ([View Highlight](https://instapaper.com/read/1322162567/14379838))
 * create Word, Excel, and PowerPoint documents straight from either Drive ([View Highlight](https://instapaper.com/read/1322162567/14379841))
 * Whether you choose to use the cloud or not, it’s best to keep your files organized in specific folders to make finding them super easy. My rule of thumb is no more than 10 folders within each top-level folder. More than that and it gets harder to find what you’re looking for! ([View Highlight](https://instapaper.com/read/1322162567/14379845))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

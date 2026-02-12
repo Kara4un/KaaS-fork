@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Do More With Windows 10 Using PowerToys
 
 ## Metadata
@@ -47,3 +59,11 @@
   Become a Windows 10 Master
   PowerToys is still in active development, so the existing tools could change and new utilities could be added over time. Some of them may even become part of the default Windows 10 operating system.
   If you want to be the ultimate Windows 10 user, here are loads of tips and tutorials to master Windows 10.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

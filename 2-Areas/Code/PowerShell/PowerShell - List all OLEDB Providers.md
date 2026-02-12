@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # List all OLEDB Providers with PowerShell
 
 *Original Source: http://dbadailystuff.com/list-all-ole-db-providers-in-powershell*
@@ -33,7 +45,6 @@ ForEach ($provider in [System.Data.OleDb.OleDbEnumerator]::GetRootEnumerator())
 The above snippet will return a listing like the following:
 
 <details><summary>Click to Expand Example Output</summary><p>
-
 
 ````powershell
 SOURCES_NAME        : SQLOLEDB
@@ -292,3 +303,11 @@ Get-OLEDBProvider | ?{$_.SOURCES_DESCRIPTION.IndexOf('SQL Server') -ge 0}
 ````dataview
 list from [[PowerShell - Get-GitHubRelease]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

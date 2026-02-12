@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Check if a Column is Accessible
 
 *Source: [sql-snippets/check-column-is-accessible.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/mssql/check-column-is-accessible.md)*
@@ -37,3 +49,11 @@ Output:
 ````dataview
 list from [[SQL - SQL Server - Check if a Column is Accessible]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

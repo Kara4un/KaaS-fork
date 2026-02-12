@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Importance of Systems
 
 ## Metadata
@@ -46,3 +58,11 @@
   Getting Things Done - The OG task planning system
   Zen To Done - An incremental approach for those who find GTD too complicated
   The Agile Way - For those who find GTD outdated or too reactive
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

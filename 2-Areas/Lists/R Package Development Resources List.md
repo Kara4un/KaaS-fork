@@ -1,8 +1,18 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package Development Resources
 
 Source: [Awesome R Package Development - GitHub](https://indrajeetpatil.github.io/awesome-r-pkgtools/)
-
-
 
 |Resource|Source|
 |:------:|:----:|
@@ -31,3 +41,11 @@ Source: [Awesome R Package Development - GitHub](https://indrajeetpatil.github.i
 ````dataview
 list from [[R Package Development Resources]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

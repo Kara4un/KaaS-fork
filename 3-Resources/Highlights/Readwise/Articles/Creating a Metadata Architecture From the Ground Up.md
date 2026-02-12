@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Creating a Metadata Architecture From the Ground Up
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Reference & Master Data Management: We must define the source of truth for our most important KPIs, so everybody uses the same metrics. We also define the classification of our tables (i.e. gold, silver, bronze, etc).
 * Metadata, Document, Record & Content Management: This pillar focuses mainly on the documentation of our data assets, the creation of data lineages, and the evangelization of other teams about data governance.
 * Having our pillars and priorities well defined, the starting point for this new team was to choose a governance platform that would facilitate the creation of data catalogs, in addition to allowing better metadata management. This was a crucial step because the choice made at that point would impact every other project in the future.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

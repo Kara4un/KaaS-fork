@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Builder’s Guide to Note-Taking
 
 ## Metadata
@@ -15,3 +27,11 @@
 * I like to use tags as metadata. My tags denote either the type of note or the status of a note. I could use notes to do this, but I appreciate having an entirely separate level of information for these high-level categories. It makes scripting and searching easier.
 * Source notes are for taking notes on primary sources of information, such as books, podcasts, meetings, conferences, videos, etc. My most common type of source note by far is meetings (#meeting).
 * Here’s what’s going to happen: you’re going to get super excited and take a bunch of notes. You’re going to set some basic formatting ground rules to stay organized. And one day you’re going to realize that something’s just not working well. Maybe your note titles are too vague. Maybe your tagging system is too confusing. Maybe your formatting is too cumbersome. You’ll want to make a change to your system.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # About Data Requirements
 
 *Sources: [Data Requirement Analysis - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/computer-science/data-requirement-analysis)*
@@ -32,3 +44,11 @@ A metadata glossary captures all the business terms associated with the business
 ````dataview
 list from [[About Data Requirements]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

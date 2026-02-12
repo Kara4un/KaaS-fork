@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Extend Your Mind
 
 ## Metadata
@@ -20,3 +32,11 @@
 * It requires looking for ways to do less, not assuming doing more is always better. It requires self-awareness and self-acceptance, seeing our limiting beliefs as opportunities for explosive growth, if we have the courage to face them. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B07FLQHLTK&location=788))
 * The ancient Greeks called it ecstasis — “stepping beyond oneself.” It featured prominently in their (in)famous nine-day ritual known as the Eleusinian Mysteries. Pop psychology refers to it simply as “flow.” ([Location 810](https://readwise.io/to_kindle?action=open&asin=B07FLQHLTK&location=810))
 * We learn faster when we pay attention and see the world for what it truly is, not for what it should have been. ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B07FLQHLTK&location=1660))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # RStudio Package Manager
 
 *Source: [RStudio Package Manager](https://packagemanager.rstudio.com/client/#/repos/1/overview)*
@@ -2701,3 +2713,11 @@ yum install -y gsl-devel
 ````dataview
 list from [[RStudio Package Manager]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Improve Productivity through Clarification and Communication
 
 Clarify priorities and purpose.
@@ -29,3 +41,11 @@ Regular check-ins are very important to managing expectations, ensuring you comm
 ````dataview
 list from [[Improve Productivity through Clarification and Communication]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

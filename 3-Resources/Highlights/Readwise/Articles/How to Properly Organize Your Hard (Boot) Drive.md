@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Properly Organize Your Hard (Boot) Drive
 
 ## Metadata
@@ -52,3 +64,11 @@
 * Make Notes
   As you divide up your boot drive, especially if you’re moving around a lot of existing files, take copious notes. You might think you’ll remember where everything is, but you might not. Leave yourself a list of what went where, at least until you use the new method for a while.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

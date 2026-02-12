@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Change Data Capture in DWBI
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Identify Change - Source data compared against target table to identify records existed/updated and new records to be considered as inserted to the target table
 * Apply Change - Once records identified to be inserted or updated. Update and Inserts can be applied to the target system. In case of updates, old records are updated for flag - Active_IND and End_date with date of updation. In case of inserts, active_ind set to Y and End_date as NULL .All records to be updated and inserted all together as inserts to the target system.
 * In some of the implementations, Batch_ID is also used along with date and indicator columns. with Batch id , loads can be identified with batch of data load. Batch id can also be used as part of Audit Batch Control.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

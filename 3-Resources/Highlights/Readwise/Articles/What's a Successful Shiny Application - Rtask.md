@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What's a "Successful" Shiny Application? - Rtask
 
 ## Metadata
@@ -21,3 +33,11 @@
 * It’s Immortal
   Of course nobody expect your app to live forever, but that’s what you should reach for: robustness along the years.
 * it is successful if it can exist in the long run, with all the hazards that this implies: new package versions that could potentially break the code base, sudden call for the implementation of new features in the global interface, changing key features of the UI or the back-end, and not to mention passing the code base along to someone who has not worked on the first version, and who is now in charge of developing the next version . And this, again, is hard to do without effective planning and efficient engineering.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

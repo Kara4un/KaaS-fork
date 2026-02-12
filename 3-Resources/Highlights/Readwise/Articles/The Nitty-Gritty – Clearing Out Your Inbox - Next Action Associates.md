@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Go one at a time, until you are at zero – simple to say, more difficult to do. Ask the simple questions we suggest: What is it? Is it actionable? etc. Just stay with them until they are thought through, the reminders are put into a system, and the originals either deleted or filed. One. Thing. At. A. Time. Your brain will love you for this. ([View Highlight](https://instapaper.com/read/1446350863/17520179))
 * This is about thinking and deciding, not doing\* – think each thing through, and make the decisions that you can make, given your current circumstances. We strongly suggest you don’t allow your thinking to result in next actions that start with ‘think about x’ or ‘decide about y’. Thinking and deciding is what you are doing now while you are processing. Otherwise you’ll just have well organized ‘stuff’. ([View Highlight](https://instapaper.com/read/1446350863/17520180))
 * Go slow to go fast – this process might feel slow at the start, but if you continue two things will happen: you’ll get much faster at it, and – no matter how slow it feels in the beginning – you’ll be able to move like a rocket once you are working on lists that are clustered by place or by tool. ([View Highlight](https://instapaper.com/read/1446350863/17520182))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

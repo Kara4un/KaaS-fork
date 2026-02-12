@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R - Excel Helpers
 
 *Source: https://kotamine.github.io/excel_shiny/tips-from-excel-tool-to-shiny.html*
@@ -20,7 +32,6 @@ npv <- function(rate, values) {
 
 ````R
 
-
 ***
 
 ## Appendix: Links
@@ -34,3 +45,11 @@ npv <- function(rate, values) {
 ```dataview
 list from [[R - Excel Helpers]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building a Digital Garden
 
 ## Metadata
@@ -34,3 +46,11 @@
   Of course, the meat of the wiki is contained in note files which are just markdown files so easily portable. I intentionally designed the wiki to not rely on a ton of front-matter for portability and simplicity. To do this I added a default layout to wiki files in the config file.
   It’s not all about layout though - it’s about presentation too. I added a single flag to the wikiindex frontmatter for “expand” to be true or false that displays the notes either fully expanded or as simple links. My parenting wiki is an example of the notes expanded, while my drafts folder is just a list of links because it’s long.
   Finally, where I have a long list of links I added the ability for individual notes to be “pinned” to the top of the page to ensure more important or frequently-used links are easy to find.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

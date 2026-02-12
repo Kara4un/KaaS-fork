@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Optimize Windows 11 Explorer with QTTabBar
 
 [QTTabBar](../../3-Resources/Tools/Utility/QTTabBar.md)
@@ -26,3 +38,11 @@ With the removal of Internet Explorer and the new revamped File Explorer on Wind
 ````dataview
 list from [[Optimize Windows 11 Explorer with QTTabBar]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

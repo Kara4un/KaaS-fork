@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Digital Productivity Pyramid - Forte Labs
 
 ## Metadata
@@ -80,3 +92,11 @@
   As working professionals, we don’t have time to consume a body of knowledge upfront and then regurgitate it for a test, as in school. Professional education has to take place right alongside daily work. We have to build the plane (and learn to fly it) as it’s taking off.
   For PKM to be sustainable, it needs to directly enable the execution of real projects. That’s why Just-in-Time Project Management is the capstone of the Pyramid. The knowledge we are collecting and managing needs to have an immediate return to be justified, instead of only far in the future.
   While you don’t need to build levels 1-4 before starting to work on real projects, the scale and ambition of the projects you can successfully execute is constrained by the structural integrity of your Pyramid. The taller the building you want to erect, the deeper and stronger your foundation must be.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

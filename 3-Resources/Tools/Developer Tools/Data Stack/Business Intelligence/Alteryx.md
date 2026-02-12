@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Alteryx
 
 *Source: [Self-Service Analytics, Data Science & Automation | Alteryx](https://www.alteryx.com/)*
@@ -36,3 +48,11 @@ Our mission is to turbo-charge machine learning and data science efforts by crea
 ````dataview
 list from [[Alteryx]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

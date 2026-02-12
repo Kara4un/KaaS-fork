@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Action - git-cliff
 
 *Source: [GitHub Action - git-cliff - Generate Changelog | thiscodeWorks](https://www.thiscodeworks.com/61faffd1b783be0015bbafac)*
@@ -118,3 +130,11 @@ sort_commits = "oldest"
 ````dataview
 list from [[GitHub Action - git-cliff]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

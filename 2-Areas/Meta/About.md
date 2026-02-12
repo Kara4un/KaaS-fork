@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # About
 
 `KaaS` (Knowledge as a Service) is an [Obsidian](../../3-Resources/Tools/PKM%20Tools/Obsidian/Obsidian.md) Vault composed of a multitude of notes on a variety of topics that interest me.
@@ -23,3 +35,11 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ````dataview
 list from [[About]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

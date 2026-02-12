@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Delete Windows Update Leftover Files
 
 \*Source: *
@@ -22,3 +34,11 @@ del /s /q /f "%SYSTEMROOT%\Logs\WindowsUpdate\*"
 ````dataview
 list from [[Delete Windows Update Leftover Files]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Distribute Data With Your R Package - R-Hub Blog
 
 ## Metadata
@@ -32,3 +44,11 @@
 * In this post we went over different setups allowing you to distribute data with or for your R package: some standard locations in your package source (inst/extdata/, data/, R/sysdata.rda); locations outside of your package (using drat, git-LFS, GitHub releases via piggyback, a web API you’d build yourself), that your package would know how to access, and potentially save locally (in an app dir, or using a tool like bowerbird). Do you have a “data and R package” setup you’d like to share? How do you document the data you share, when it’s bigger than a small table
 * In this post we went over different setups allowing you to distribute data with or for your R package: some standard locations in your package source (inst/extdata/, data/, R/sysdata.rda); locations outside of your package (using drat, git-LFS, GitHub releases via piggyback, a web API you’d build yourself), that your package would know how to access, and potentially save locally (in an app dir, or using a tool like bowerbird). Do you have a “data and R package” setup you’d like to share? How do you document the data you share, when it’s bigger than a small table?
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

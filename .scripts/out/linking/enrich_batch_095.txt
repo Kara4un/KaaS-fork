@@ -1,0 +1,13 @@
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/Actuarial R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - insurancerating.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - imaginator.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - deeptriangle.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - rsvr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - raw.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - simulationmachine.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - Flask.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - ChainLadder.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - tryangle.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - SQLAlchemy.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Packages.md

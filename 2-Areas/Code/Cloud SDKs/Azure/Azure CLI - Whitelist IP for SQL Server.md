@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Azure CLI - Whitelist IP for SQL Server
 
 \*Source: *
@@ -17,7 +29,6 @@ $name = "Jimmy"
 az sql server firewall-rule update --end-ip-address $myip --start-ip-address $myip -g AS-RESERVE -s reserving-modernization -n $name
 az sql server firewall-rule update --end-ip-address $myip2 --start-ip-address $myip -g AS-RESERVE -s reserving-modernization -n "Jimmy2"
 
-
 az sql server firewall-rule update --end-ip-address $myip --start-ip-address $myip -g AS-RESERVE -s reserving-modernization -n $name
 az sql server firewall-rule add --end-ip-address $myip --start-ip-address $myip -g AS-RESERVE -s reserving-modernization -n $name
 az sql server firewall-rule --help
@@ -36,3 +47,11 @@ az sql server firewall-rule create --end-ip-address $myip --start-ip-address $my
 ````dataview
 list from [[Azure CLI - Whitelist IP for SQL Server]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

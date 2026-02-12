@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - GitHub Downloader
 
 *Source: [How to download a project subdirectory from GitHub (Example) (coderwall.com)](https://coderwall.com/p/o2fasg/how-to-download-a-project-subdirectory-from-github)*
@@ -37,3 +49,11 @@ Very useful!
 ````dataview
 list from [[Bash - GitHub Downloader]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

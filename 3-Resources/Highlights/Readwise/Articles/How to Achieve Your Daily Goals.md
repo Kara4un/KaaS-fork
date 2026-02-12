@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Achieve Your Daily Goals
 
 ## Metadata
@@ -83,3 +95,11 @@
   But the reason I bring it up is because of the value I know it will add to your goal setting life. Whether you’re new to goal setting, or have set goals in the past but know there’s room for improvement, this course will give you what you need to know.
   It will take you from start to finish: from choosing a goal, to planning it out, to taking action, to understanding what to do and what to avoid along the way.
   I recommend it because I know the positive impact that it will have on you. So when you’re ready, you can learn more about the goal setting course \< there.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Infrastructure as Code with Christian Tragesser
 
 ## Metadata
@@ -20,3 +32,11 @@
   technology has certainly changed quite a bit, and it's a rather a treadmill to keep up with at times. You'd mention cloud as being one of those major innovations. Do you have any perception on the degree to which we're having success with cloud adoption? Are most people who should be on cloud currently there?
   Speaker 1
   You know, that's a good question. You know, i think that cloud is certainly become main stream. I think that's good for a lot of organizations. I think it's a challenge that many, many organizations are learning about the differences between, you know, more or less running a dayto cenner, running virtual ation and you know, more or less using api to pervision aspects that you're now managing or using. ([Time 0:02:34](https://share.snipd.com/snip/e1935c24-c1c6-46a5-9b21-9ba484e32946))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

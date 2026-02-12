@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL -Normalize Whitespace
 
 *Source: https://wiki.postgresql.org/wiki/Normalize_whitespace*
@@ -94,3 +106,11 @@ SELECT * FROM pepito;
 ````dataview
 list from [[SQL - Normalize Whitespace]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

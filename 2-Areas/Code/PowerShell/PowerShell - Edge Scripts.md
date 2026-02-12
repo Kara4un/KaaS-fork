@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Edge Scripts
 
 ## Contents
@@ -700,3 +712,11 @@ Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge Dev\PreferenceMACs' $d
 *Backlinks:*
 
 * [Microsoft Edge](../../../3-Resources/Tools/Web%20Browsers/Microsoft%20Edge.md)
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

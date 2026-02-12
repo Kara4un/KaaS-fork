@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Stored Procedures Best Practices
 
 *Source: [CREATE PROCEDURE (Transact-SQL) - SQL Server - Best Practices | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-ver15#best-practices)*
@@ -165,3 +177,11 @@ GO
 * [Azure SQL Databases](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20SQL%20Databases.md)
 * [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 * [Data Warehouse](Data%20Warehouse.md)
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

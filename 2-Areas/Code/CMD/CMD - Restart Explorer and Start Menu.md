@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # CMD - Restart Explorer and Start Menu
 
 *See Also: [RegEdit - Restart Explorer and StartMenu Context Bar](../Registry/RegEdit%20-%20Restart%20Explorer%20and%20StartMenu%20Context%20Bar.md)*
@@ -83,3 +95,11 @@ start C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txy
 ````dataview
 list from [[CMD - Restart Explorer and Start Menu]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

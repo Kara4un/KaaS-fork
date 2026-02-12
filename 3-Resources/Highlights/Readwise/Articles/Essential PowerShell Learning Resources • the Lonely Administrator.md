@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Essential PowerShell Learning Resources • the Lonely Administrator
 
 ## Metadata
@@ -16,3 +28,11 @@
     Get-Random -input (Get-Help about\*) | Get-Help -ShowWindow
     ````
     ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Deep Habits: WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport
 
 ## Metadata
@@ -26,3 +38,11 @@
   Notice, also, that under “to include in weekly plan” I have identified a subset of those items that I want to include in the weekly plan I’m going to construct as part of this morning dash (see the “large things” list).
   At this point in my morning, my inbox is empty and my mind is 100% clear. Everything I need to do or know is captured and clarified in my WorkingMemory.txt file — allowing me to devote my full energy to executing.
 * use a simple text file to capture, organize, and ultimately clarify all relevant information during administrative blocks — leaving your brain free to execute.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

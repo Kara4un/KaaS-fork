@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_012",
+  "mode": "apply",
+  "total": 20,
+  "modified": 19,
+  "details": [
+    {
+      "file": "0-Slipbox/Getting Things Done.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "0-Slipbox/Geospatial.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Generalized Linear Models.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Generalized Additive Models.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/GCP Sketchnote Diagrams.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Functional Consultant and Solution Architects.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Frontend Development Tools and Skills.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Free Actuarial System for Loss Reserving.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Foreign Key Constraints in Relational Databases.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Work-Templates/PwC-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Work-Templates/Initiative-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Work-Templates/Colleague-Template.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Templates/Templates.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Vault Setup.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Unresolved-Links.md",
+      "changed": true,
+      "term_changes": 10,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Unlinked-Files.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Tagless-Files.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Structure.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Meta/Publish Workflow.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Features of a Data Warehouse
 
 ## What are some of the most important features of a Data warehouse?
@@ -15,3 +27,11 @@ Some of the basic components of a typical Data Warehouse are:
 
 * [Data Warehouse](Data%20Warehouse.md)
 * [Data Warehousing Roadmap](Data%20Warehousing%20Roadmap.md)
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

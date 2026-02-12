@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Guest Post: Using Todoist With MYN and 1MTD by Charles Olsen
 
 ## Metadata
@@ -128,3 +140,11 @@
   OPPORTUNITY or CRITICAL section.
 * Step 5: Move tasks onto someone’s daily to-do list. 
   Move Tasks to Daily To-Do Lists
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

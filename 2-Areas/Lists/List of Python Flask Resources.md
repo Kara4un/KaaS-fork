@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # List of Python Flask Resources
 
 ## General
@@ -24,7 +36,7 @@
 
 * *Flask-Session* - Server side session extension
 
-* *Flask-Caching* - adds cache support to flask requests
+* *Flask-[[Caching]]* - adds cache support to flask requests
 
 * *Flask-WTF* - simple integration of Flask and *WTForms*
 
@@ -131,7 +143,7 @@
 
 ## Cache
 
-* [Flask-Caching](https://github.com/sh4nks/flask-caching) - Adds easy cache support to Flask
+* [Flask-[[Caching]]](https://github.com/sh4nks/flask-[[Caching]]) - Adds easy cache support to Flask
 * [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
 
 ## Data Validation
@@ -309,3 +321,11 @@
 ````dataview
 list from [[List of Python Flask Resources]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

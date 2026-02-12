@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Top GitHub Best Practices for Developers
 
 ## Metadata
@@ -32,3 +44,11 @@
   While it may seem useful or even necessary to keep the extra data on hand, the reality is that stale branches are abandoned 98% of the time and simply clutter up your project.
   Even if you delete a branch when you shouldn’t have, you can restore it - and if you don’t trust GitHub’s restore feature, chances are it’s safe on somebody’s computer, thanks to the magic of distributed versioning.
 * 13 - Keep branches up to date
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Stored Procedures: Cursors
 
 *Source: [SQL Stored Procedures: Cursors - Medium](https://medium.com/codex/sql-stored-procedures-cursors-2e4984d39599)*
@@ -226,3 +238,11 @@ Other types of cursors:
 ````dataview
 list from [[SQL Stored Procedures - Cursors]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

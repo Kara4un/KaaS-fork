@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering
 
 ## Metadata
@@ -19,3 +31,11 @@
   "C:\Program Files\R\R-3.4.3\bin\R.exe" CMD BATCH C:\Users\myusername\Documents\R\Send_Outlook_Email.R
   4. Save as file with extension .bat (for example send_email.bat).
   5. Run that batch file to execute R script.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

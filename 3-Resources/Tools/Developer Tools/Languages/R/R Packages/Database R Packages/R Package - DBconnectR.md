@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - DBconnectR
 
 *Source: [ekoepplin/DBconnectR: R client to query data from different sources (github.com)](https://github.com/ekoepplin/DBconnectR)*
@@ -53,3 +65,11 @@ library(DBconnectR)
 ````dataview
 list from [[R Package - DBconnectR]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/08/25/js-r/](https://blog.r-hub.io/2020/08/25/js-r/)
@@ -19,3 +31,11 @@
 * htmlDependency()
 * There are two main advantages to using htmltools::htmlDependency(). First, HTML dependencies can be included with HTML generated with htmltools, and htmltools will ensure that the dependencies are loaded only once per page, even if multiple components appear on a page. Second, if components from different packages depend on the same JavaScript or CSS library, htmltools can detect and resolve conflicts and load only the most recent version of the same dependency.
 * JS and package robustness
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

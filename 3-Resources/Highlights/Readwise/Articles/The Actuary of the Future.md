@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Actuary of the Future
 
 ## Metadata
@@ -16,3 +28,11 @@
 * The truth is that we are still known, most of the time, as TECHNICIANS who have good analytical perception, knowledgeable of spreadsheets and databases, exclusively responsible for calculating premiums, technical provisions, mathematical reserves, among others.
 * The most important thing is that the profession follows the steps for a broader view of risk, making it possible to combine good technique with a more strategic perception. With the need to: a) have a systemic view of the business / company; b) integration with professionals from other areas of knowledge; and c) be a multidisciplinary professional.
 * Another fundamental point is that the actuary, in addition to using calculations, whether deterministic or stochastic, can also use, depending on the case and with the necessary prudence and common sense, the feeling (intuition), thus exploring his subjectivity and experience in the area in which it is acting interacting the internal and market aspects. In this way it expands the performance horizons and is not “stuck” to a methodology, sometimes even non-existent for application.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

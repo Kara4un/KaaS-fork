@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Azure MLOps: DevOps for Machine Learning
 
 DevOps for machine learning models, often called `MLOps`, is a process for developing models for production. 
@@ -32,3 +44,11 @@ Also, Azure Machine Learning includes features for monitoring and auditing:
 ````dataview
 list from [[Azure MLOps]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

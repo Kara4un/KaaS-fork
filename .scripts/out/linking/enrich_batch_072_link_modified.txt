@@ -1,0 +1,20 @@
+3-Resources/Tools/Microsoft Office/Microsoft Office.md
+3-Resources/Tools/Microsoft Office/Microsoft Access.md
+3-Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md
+3-Resources/Highlights/Notes/README.md
+3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-28.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-26.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-18.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-07.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-06.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-05.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-04.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-01.md
+2-Areas/Code/Pandoc/README.md
+2-Areas/Code/Pandoc/Pandoc.md
+2-Areas/Code/Pandoc/Pandoc - Convert Word to Markdown.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/Websites and Online Tools.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/thiscodeWorks.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/StackOverflow.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/README.md

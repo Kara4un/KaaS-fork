@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Add Tabs to Windows 11 Explorer
 
 *Source: [franzageek/Vapor (github.com)](https://github.com/franzageek/Vapor/)*
@@ -102,3 +114,11 @@ exit
 ````dataview
 list from [[Add Tabs to Windows 11 Explorer]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

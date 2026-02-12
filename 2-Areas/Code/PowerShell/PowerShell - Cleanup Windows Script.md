@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Cleanup Windows Script
 
 *Source: https://gist.github.com/367df6d602dde2e05b68c6c7ae9fe105#file-cleanup-win10-ps1*
@@ -194,3 +206,11 @@ foreach ($feature in $features) {
 ````dataview
 list from [[PowerShell - Cleanup Windows Script]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

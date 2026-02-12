@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - Display Message on Status Bar
 
 *Source: [Display Message on Status Bar - Erlandsen Data Consulting](https://erlandsendata.no/?t=vbatips&c=application&p=2120#main)*
@@ -103,3 +115,11 @@ End Sub
 ````dataview
 list from [[VBA - Display Message on Status Bar]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

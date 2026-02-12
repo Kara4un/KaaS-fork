@@ -1,0 +1,20 @@
+3-Resources/Tools/Web Browsers/Edge/Edge.md
+3-Resources/Clippings/MarkDownloads/Tip Special Frontmatter Fields · coddingtonbearobsidian-web Wiki.md
+3-Resources/Clippings/MarkDownloads/README.md
+3-Resources/Clippings/MarkDownloads/MarkDownloads.md
+3-Resources/Clippings/MarkDownloads/Getting Started with SwaggerHub.md
+3-Resources/Clippings/MarkDownloads/Design First or Code First API Development.md
+3-Resources/Clippings/Mark Down Cheatsheet.md
+2-Areas/Code/Windows Batch/Windows Batch.md
+2-Areas/Code/Windows Batch/README.md
+2-Areas/Code/Windows Batch/Batch - Python Virtual Environment.md
+2-Areas/Code/Windows Batch/Batch - MediaCreationTool.md
+2-Areas/Code/Windows Batch/Batch - Magic Variables.md
+3-Resources/Templates/Areas-Templates/Weekly-Review-Template.md
+3-Resources/Templates/Areas-Templates/MOC-Template.md
+3-Resources/Templates/Areas-Templates/Mindsweep-Template.md
+3-Resources/Templates/Areas-Templates/Meta-Template.md
+3-Resources/Templates/Areas-Templates/Log-Template.md
+3-Resources/Templates/Areas-Templates/Guide-Template.md
+3-Resources/Templates/Areas-Templates/Daily-Note-Template.md
+3-Resources/Templates/Areas-Templates/Blog-Post-Template.md

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Dimensional Modeling
 
 *Source: [Dimensional modeling - Wikipedia](https://en.wikipedia.org/wiki/Dimensional_modeling)*
@@ -92,3 +104,11 @@ Benefits of the dimensional model are the following:
 ````dataview
 list from [[Dimensional Modeling]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 * *Weekly_Review_Checklist.pdf*
 * *Unconfirmed 876002.crdownload*
 * *Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf*
@@ -141,7 +153,7 @@
 * [3-Resources/Highlights/Hypothesis/Traffic Director explained!  Google Cloud Blog.md](../../3-Resources/Highlights/Hypothesis/Traffic%20Director%20explained!%20%20Google%20Cloud%20Blog.md)
 * [The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing (Part 1 of 2).md](../../3-Resources/Highlights/Hypothesis/The%20Baker%E2%80%99s%20Dozen%2013%20Tips%20for%20Better%20ExtractTransformLoad%20%28ETL%29%20Practices%20in%20Data%20Warehousing%20%28Part%201%20of%202%29.md)
 * [3-Resources/Highlights/Hypothesis/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md](../../3-Resources/Highlights/Hypothesis/The%20One-Touch%20Guide%20to%20Doing%20a%20Weekly%20Review%20How%20I%20Go%20From%20Chaos%20to%20Clarity%20in%2030%20Minutes%20-%20Forte%20Labs.md)
-* [3-Resources/Highlights/Hypothesis/Microservices architecture on Google Cloud  Google Cloud Blog.md](../../3-Resources/Highlights/Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
+* [3-Resources/Highlights/Hypothesis/[[Microservices Architecture]] on Google Cloud  Google Cloud Blog.md](../../3-Resources/Highlights/Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
 * [3-Resources/Highlights/Hypothesis/List of shell commands in Windows 10.md](../../3-Resources/Highlights/Hypothesis/List%20of%20shell%20commands%20in%20Windows%2010.md)
 * [3-Resources/Highlights/Hypothesis/Learn about Cloud Functions events and triggers  Google Cloud Blog.md](../../3-Resources/Highlights/Hypothesis/Learn%20about%20Cloud%20Functions%20events%20and%20triggers%20%20Google%20Cloud%20Blog.md)
 * [3-Resources/Highlights/Hypothesis/Getting started with R on Amazon Web Services  Amazon Web Services.md](../../3-Resources/Highlights/Hypothesis/Getting%20started%20with%20R%20on%20Amazon%20Web%20Services%20%20Amazon%20Web%20Services.md)
@@ -176,3 +188,11 @@
 * *ChainLadder.html*
 * *3-Resources/Citations/Actuarial Science/files/144/Gabrielli and Wüthrich - Individual Claims Simulation Machine Description .pdf*
 * *3-Resources/Citations/Actuarial Science/files/146/Stanard - A SIMULATION TEST OF PREDICTION ERRORS OF LOSS RES.pdf*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

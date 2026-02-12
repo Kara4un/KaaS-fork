@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How I Take Notes
 
 ## Contents
@@ -228,7 +240,6 @@ Zotero is a free tool that I use to store and manage references. It has a neat w
 
 1 directory, 170 files
 
-
 ````
 
 To store the notes, I use the file system. I save all entries in markdown format and put them all in a folder. The wonderful thing about using markdown format is that it is plain text. That means you can use any editor to edit or read. Plain text files are easy to handle, easy to backup, and easy to transfer—no vendor lock-in.
@@ -260,3 +271,11 @@ At the moment, I am using RaindropIO and Notion. I use RaindropIO to collect and
 ````dataview
 list from [[How I Take Notes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

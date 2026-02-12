@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best PC Software for Your Windows Computer
 
 ## Metadata
@@ -48,3 +60,11 @@
   Absolute Uninstaller can fix invalid program entries and supports batch uninstalling.
   Geek Uninstaller is fast and reliable, it comes with a force removal option, and it’s completely portable.
 * Note that some installers pack bloatware, useless adware that’s pre-selected to install. It’s the bane of freeware. Thus, Unchecky should be the very first app from this list you should install because it can help you catch checkboxes that commit you to downloading and installing bundled apps you don’t need.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Create EaseUS Bootable USB, CD/DVD, and ISO Image With EaseUS Todo Backup - EaseUS
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Under the Pre-installation Environment, we can run EaseUS Todo Backup without system boot partitions, and recover system/data from the backup. ([View Highlight](https://instapaper.com/read/1420646290/16683720))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A ‘Jobs to Be Done’ Framework for Startups
 
 ## Metadata
@@ -17,3 +29,11 @@
 * BUILDING BETTER PRODUCTS STARTS WITH A GOOD JTBD STATEMENT — HERE’S YOUR ROADMAP
 * A good, crisp JTBD statement captures underlying motivations, triggers and context for the problems your user faces. This statement can be foundational for your entire product and GTM planning, from focusing your PRD or product spec, to identifying your channels and marketing messages.
 * A good statement will help remove bias, build empathy for users and bring alignment across product, marketing and eng teams. When you have a well-crafted (and well-communicated) jobs to be done statement, the following things start to fall in place: An increased focus across your team on solving the most important problems by using shared language for how you all understand what problems to prioritize A higher likelihood of delivering new value to people by solving real problems, which should translate into positive leading indicators of important product metrics (like higher engagement and stickiness of your product) A stronger understanding of competition for your product, by understanding more about the situational context and full set of alternatives that people “hire” to do that job.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Create modified_at columns and triggers
 
 *Source: https://gist.github.com/abmmhasan/2f4024922eaea537cd1795223e38c18a*
@@ -41,3 +53,11 @@ CREATE TRIGGER table_name_updated_at_modtime
 ````dataview
 list from [[SQL - PostgreSQL - Create modified_at columns and triggers]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

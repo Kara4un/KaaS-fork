@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # AWS - Authentication and Configuration
 
 *Source: https://dynobase.dev/dynamodb-errors/aws-dynamodb-error-missing-credentials-in-config/*
@@ -42,3 +54,11 @@ What if you have multiple AWS profiles set up, and your tables are provisioned i
 ````dataview
 list from [[AWS - Authentication and Configuration]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

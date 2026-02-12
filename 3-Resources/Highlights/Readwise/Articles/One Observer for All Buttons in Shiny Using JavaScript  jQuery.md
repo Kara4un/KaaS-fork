@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # One Observer for All Buttons in Shiny Using JavaScript / jQuery
 
 ## Metadata
@@ -15,3 +27,11 @@
 * For each type of button you have, you include code in this observer that reacts to the type of button (in this example, View Project or Join Project) and the exact row the button was in (in n). And that’s how you can have any number of buttons and just one observer in Shiny server.
   This method can be extended to include other HTML elements. In the next post, Adding anchors to our Shiny button observer, the JavaScript / jQuery event handler also deals with menus that have href-less anchors.
   I figured out this trick after reading JavaScript & jQuery while traveling over spring break. This is the most readable programming book I’ve ever encountered.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Backup Edge User Preferences PowerShell Script
 
 \*Source: *
@@ -60,3 +72,11 @@ list from [[Powershell - Backup Edge User Preferences PowerShell Script]] AND -"
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Better Extract/Transform/Load (ETL) Practices in Data Warehousing (Part 2 of 2)
 
 ## Metadata
@@ -55,3 +67,11 @@ Redundant information in staging areas and operational/intermediary areas — [U
   Different team members can have reasonable disagreements about what constitutes good and useful documentation. — [Updated on 2021-12-16 16:42:13](https://hyp.is/CAr_Ql65EeyKTTcyFlJSIg/codemag.com/article/1803051)  — Group: #Topic/Dev
 
 * In some cases, I've been able to “cut to the chase” of hashing out business requirements by building prototypes and showing them to users. Without this approach, we might never have identified some of the more intricate details. — [Updated on 2021-12-16 16:42:45](https://hyp.is/Gs01ZF65EeyKTo_VCWD7sQ/codemag.com/article/1803051)  — Group: #Topic/Dev
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Git AutoCommit
 
 *Source: https://gist.github.com/439f74475d36449cc02a1fd1e878e22f#file-start-gitautocommit-ps1*
@@ -81,3 +93,11 @@ else {
 ````dataview
 list from [[PowerShell - Git AutoCommit]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

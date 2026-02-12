@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # WSL - Install WSLU
 
 *Source: [wslu Wiki (wslutiliti.es)](https://wslutiliti.es/wslu/install.html)*
@@ -39,3 +51,11 @@ sudo apt install wslu
 ````dataview
 list from [[WSL - Install WSLU]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

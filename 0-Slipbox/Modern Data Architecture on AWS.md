@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Modern Data Architecture on AWS
 
 *Source: [Modern Data Architecture on AWS | Amazon Web Services](https://aws.amazon.com/big-data/datalakes-and-analytics/modern-data-architecture/)*
@@ -105,7 +117,7 @@ In addition to industry-leading price performance for analytics services, S3 int
 * [AWS S3](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md)
 * [Data Lake](Data%20Lake.md)
 * [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [ELT Cloud Based Pipeline Architecture](ELT%20Cloud%20Based%20Pipeline%20Architecture.md)
 * [ETL Pipeline Notes](ETL%20Pipeline%20Notes.md)
 * [ETL](ETL.md)
@@ -121,3 +133,11 @@ In addition to industry-leading price performance for analytics services, S3 int
 ````dataview
 list from [[Modern Data Architecture on AWS]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

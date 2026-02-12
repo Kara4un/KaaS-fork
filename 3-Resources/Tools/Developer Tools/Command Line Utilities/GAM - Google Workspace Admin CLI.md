@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GAM - Google Workspace Admin CLI
 
 *Source: [GAM-team/GAM: command line management for Google Workspace (github.com)](https://github.com/GAM-team/GAM)*
@@ -49,3 +61,11 @@ The GAM documentation is hosted in the \[GitHub Wiki\]
 ````dataview
 list from [[GAM - Google Workspace Admin CLI]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

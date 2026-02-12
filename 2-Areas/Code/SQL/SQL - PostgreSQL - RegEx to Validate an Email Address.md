@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - RegEx to Validate an Email Address
 
 *Source: [sql-snippets/regex-email.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/regex-email.md)*
@@ -61,3 +73,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - RegEx to Validate an Email Address]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

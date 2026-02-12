@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/04/29/maintenance/](https://blog.r-hub.io/2020/04/29/maintenance/)
@@ -17,3 +29,11 @@
 * Even when having to write some things by hand like inventing new tests, usethis provides useful functions to help (e.g., create test files with usethis::use\_test()).
 * To take things further, the precommit R package provides two sets of utilities around the precommit framework: hooks that are useful for R packages or projects, and usethis-like functionalities to set them up.
 * CRAN has a submission checklist, and you could either roll your own or rely on usethis::use_release_issue() creating a GitHub issue with important items. If you don’t develop your package on GitHub you could still have a look at the items for inspiration. The devtools::release() function will ask you whether you ran a spell check.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

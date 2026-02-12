@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * My Plans for Using NotionMuch like how I used Evernote back in the day, my plan for Notion is to move everything into it and build workflows to manage my life. I think I will even be able to do more than I could with Evernote just because of the power and flexibility Notion offers.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

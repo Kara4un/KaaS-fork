@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Replace Empty Strings with NULLs
 
 *Source: [sql-snippets/replace-empty-strings-null.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/replace-empty-strings-null.md)*
@@ -43,3 +55,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Replace Empty Strings with NULLs]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

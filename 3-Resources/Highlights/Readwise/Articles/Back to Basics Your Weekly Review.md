@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Back to Basics: Your Weekly Review
 
 ## Metadata
@@ -55,3 +67,11 @@
   What are my goals for the next week? Month? 90 days?
   I like the question/answer format better than Allen’s step-by-step because a) I do most of the practical stuff on a daily basis anyway, and b) I like that the focus of (most of) these questions is me, rather than my stuff. ([View Highlight](https://instapaper.com/read/1380884439/15276008))
 * we tend to resist looking too closely at our selves, whether because it feels selfish or narcissistic, or because we’re afraid of what we’ll find if we look too closely. ([View Highlight](https://instapaper.com/read/1380884439/15276010))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

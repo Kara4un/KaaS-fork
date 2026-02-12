@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Refresh All Materialize Views
 
 *Source: [postgres_dba/refresh_all.sql at master · NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba/blob/master/matviews/refresh_all.sql)*
@@ -89,3 +101,11 @@ reset statement_timeout;
 ````dataview
 list from [[SQL - PostgreSQL - Refresh All Materialize Views]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

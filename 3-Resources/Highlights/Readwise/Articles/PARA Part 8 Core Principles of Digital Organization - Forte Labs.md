@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # PARA Part 8: Core Principles of Digital Organization - Forte Labs
 
 ## Metadata
@@ -31,3 +43,11 @@
   I think you would start putting a lot more effort into showing your work. You would spend the absolute minimum amount of time gathering research and raw material, and more time sharing your knowledge and helping people solve real problems. I think you would get a lot less particular about your organizational hierarchies, which note-taking app you use, or the endless debates about plain text versus rich text.
   I think the world would be a much better place if all these things came to pass. And I can hardly think of a downside. It sure seems like our perfect digital memory is both a blessing and a curse. It frees us from the burden of forgetfulness, only to imprison us with perfectionism.
   The promise of P.A.R.A. is that it makes “getting organized” a straightforward affair to get over with as quickly as possible. My wish is that the smart, creative people of the world spend less time behind their computer screens, and more time taking direct action in the world. We need people who are empowered and propelled forward by their creative process, not consumed by it. Our talents and knowledge are sorely needed in the real world.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Configuring Your Flask App
 
 ## Metadata
@@ -17,3 +29,11 @@ app = Flask(**name**)
 app.config\['FLASK_ENV'\] = 'development'app.pyFrom the perspective of an author writing tutorials for strangers, it's convenient to pretend that setting config values this way is acceptable. Surely nobody who is clicking into "How To Do This Sensational Thing in Flask" tutorials care to learn best software development practices, which encourages a lot of bad behavior and leaves many questions unanswered. For instance, why would we wait until after we create the Flask app object to set something as important as FLASK_ENV? Isn't the point of configuration to inform our app on how to function before it starts... functioning? — [Updated on 2021-12-05 19:07:21](https://hyp.is/e7HMElYoEeyL47OaN3HQ4Q/hackersandslackers.com/configure-flask-applications/)  — Group: #Topic/Dev
 
 * As the Flask docs promise, your app's config can be modified as we did above and can be modified/changed at any time. Let's set aside the horrendous readability this creates down the line. We'll even turn a blind eye to the unimaginable shit show we create by mutating configs while our app is running.  — [Updated on 2021-12-05 19:07:29](https://hyp.is/gEMCZFYoEeydD3MBwWDNiA/hackersandslackers.com/configure-flask-applications/)  — Group: #Topic/Dev
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

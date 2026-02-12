@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Organize & Add Apps on Windows 10
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Create any shortcuts you like here. For example, you can right-click an .exe file elsewhere on your system, select Copy, access this shortcut, and then right-click and select “Paste shortcut.” Rename the shortcut anything you like and it will appear in your Start menu.
   This is particularly useful for portable applications and similar applications that don’t automatically install shortcuts.
 * if you place an .exe file directly into one of these folders, Windows will ignore it and not display it in the Start menu. Instead, you’ll need to place the .exe file elsewhere and then create a shortcut to it in one of these folders. Windows will only show shortcuts in the All Apps list.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

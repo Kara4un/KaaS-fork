@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 68 Bits of Unsolicited Advice
 
 ## Metadata
@@ -13,3 +25,11 @@
   * Note: On Deadlines
 * good luck. Moving on number three is always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect. So you have to make a different Different is better. Yeah, Back ([Time 0:08:56](https://www.airr.io/quote/5edc26024a3a2c2245473960))
   * Note: On Deadlines
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

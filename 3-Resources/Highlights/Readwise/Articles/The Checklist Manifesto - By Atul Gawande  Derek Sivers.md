@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Checklist Manifesto - By Atul Gawande | Derek Sivers
 
 ## Metadata
@@ -56,3 +68,11 @@
   We adopted mainly a DO-CONFIRM rather than a READ-DO format, to give people greater flexibility in performing their tasks while nonetheless having them stop at key points to confirm that critical steps have not been overlooked.
 * INVESTING:
   Neuroscientists have found that the prospect of making money stimulates the same primitive reward circuits in the brain that cocaine does. And that, Pabrai said, is when serious investors like himself try to become systematic. They focus on dispassionate analysis, on avoiding both irrational exuberance and panic. They pore over the company’s financial reports, investigate its liabilities and risks, examine its management team’s track record, weigh its competitors, consider the future of the market it is in - trying to gauge both the magnitude of opportunity and the margin of safety.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

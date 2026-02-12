@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_009",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Content/Ideas/README.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Ideas/Committing to Consistency with Your Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Ideas/Blog Post Ideas List.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/Content/Ideas/Blog Post Ideas Brainstorming Helpers.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/The R Dispatch.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/The 'jimbrig' Universe.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/JimsVault.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/JimsDocs.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/Sites/Devfolio.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Content/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Mindsweeps/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/Mindsweeps/2021-12-07.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-11-08.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-10-21.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-10-02.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-09-24.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-09-23.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Daily-Notes/2022-09-20.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

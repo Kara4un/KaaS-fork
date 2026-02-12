@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_074",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "3-Resources/Highlights/Hypothesis/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing (Part 1 of 2).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/PowerShell Tips & Tricks • Jeffery Hicks.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/PostgreSQL extension turned Cloud microservice  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Perfect Fantasy Football Draft Strategy (2022).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Microservices architecture on Google Cloud  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 7,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/List of shell commands in Windows 10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Learn about Cloud Functions events and triggers  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 3,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Knowledge Management in Real Life  LinkedIn.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Improving the security of your Cloud Run environment  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/How to Use APT to Manage Packages in Debian and Ubuntu.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/How to Create and Maintain a Data Dictionary with Dataedo - Dataedo Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Getting started with R on Amazon Web Services  Amazon Web Services.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Get Started with Obsidian as a Developer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Essential PowerShell Learning Resources • The Lonely Administrator.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Configuring Your Flask App.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Cloud Run gets always-on CPU allocation  Google Cloud Blog.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Cant stay focused while processing - have tried for months.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Better ExtractTransformLoad (ETL) Practices in Data Warehousing (Part 2 of 2).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "3-Resources/Highlights/Hypothesis/Assign global hotkeys to launch any app in Windows 10.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

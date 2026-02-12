@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#5: 8 Tips for a Production-Ready Shiny Application
 
 ## Metadata
@@ -18,3 +30,11 @@
 * In order to do this, it is useful to set up a strategy of automatic unit tests: in this way the tests become part of the code base and everyone can test everything with one-click in seconds. This prevents regression and gives peace of mind on release.The tests provide other advantages: testing the single component allows you to reduce the bug search zone in case of failure and the test itself is a working documentation of the single unit.
 * Reproducibility and configurationBoth during development and when it is in production, the application must run on different systems: your colleague’s computer or the production server.For this it is important that the application is reproducible. It means it has to work on different systems. For this, at least two conditions are important: that the compatible environment is installed and that the application is configured in order to find the external resources it needs on the system it is running on.
 * Track used dependencies and reproduce environment (with “renv”)For the reproducibility condition, I recommend using “renv” or Docker. The first is a package that creates a Virtual environment: namely it is able to track the version of the packages used and reproduce it on another server. While the second virtualizes the whole application including, in addition to the R packets, also the file system of the operating system and the network interface. But it is certainly a more complex choice.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

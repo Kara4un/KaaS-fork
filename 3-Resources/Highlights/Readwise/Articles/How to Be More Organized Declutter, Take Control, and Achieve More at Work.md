@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Be More Organized: Declutter, Take Control, and Achieve More at Work
 
 ## Metadata
@@ -24,3 +36,11 @@
   Take steps to organize your working environment, so that you can start quickly, find everything you need, and focus effectively to complete all your tasks.
   An uncluttered approach to work helps you to manage your time, in turn making you more efficient and effective.
   Find the tools – traditional, or more high-tech – that will help you to feel organized and in control, both at work and in your life beyond.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Obsidian Web Clipper Bookmarklet
 
 *Source: [Obsidian Web Clipper Bookmarklet to save articles and pages from the web (for Safari, Chrome, Firefox, and mobile browsers)](https://gist.github.com/jimbrig/6ba6fd7c28957cc4db5d1f0063fae71e)*
@@ -327,3 +339,11 @@ javascript:(function()%7Bjavascript%3A%20Promise.all(%5Bimport('https%3A%2F%2Fun
 ````dataview
 list from [[JavaScript - Obsidian Web Clipper Bookmarklet]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

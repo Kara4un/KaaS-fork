@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell
 
 *PowerShell* Map of Content houses all notes related to PowerShell in general.
@@ -130,3 +142,11 @@ list from #Topic/Dev/PowerShell AND -"Templates" AND -"MOCs" AND -"Changelog"
 ````dataview
 list from [[PowerShell]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

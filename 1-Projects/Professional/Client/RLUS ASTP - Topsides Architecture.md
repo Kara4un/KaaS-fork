@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # RLUS ASTP - Topsides Architecture
 
 * 🔗 - \< add link to Todoist project here >
@@ -38,3 +50,11 @@ list from "1-Projects/Professional/Client" AND !#Type/Readme AND -"Changelog"
 ````dataview
 list from [[RLUS ASTP - Topsides Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

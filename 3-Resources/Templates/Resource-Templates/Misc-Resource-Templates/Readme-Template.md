@@ -1,8 +1,19 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Readme"]
-Alias: ["<% tp.file.folder() %>"]
+Tags:
+  - '#Type/Readme'
+Alias:
+  - <% tp.file.folder() %>
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # <% tp.file.folder() %> Overview
@@ -21,8 +32,14 @@ Alias: ["<% tp.file.folder() %>"]
 
 ## Appendix: Links and References
 
-
-
 ***
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

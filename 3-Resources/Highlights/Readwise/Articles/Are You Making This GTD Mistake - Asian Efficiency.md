@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Are You Making This GTD Mistake? - Asian Efficiency
 
 ## Metadata
@@ -25,3 +37,11 @@
   It can be very tedious the first few times you do it
   It can take a long time to do (an hour or two)
   You have to make it a habit which is already hard to do on top of everything else you have to learn
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-24
+Date: 2022-03-24T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "5 steps for closing the cloud value gap with AWS"
+Tags:
+  - '#Type/Clipping'
+Alias: 5 steps for closing the cloud value gap with AWS
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
 ---
 
 # 5 steps for closing the cloud value gap with AWS
@@ -83,3 +93,11 @@ This year, PwC is honored to have been named an AWS Premier Consulting Partner f
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

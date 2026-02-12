@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Best Practices for Outlook
 
 ## Metadata
@@ -35,3 +47,11 @@
   Set this folder to auto archive annually.
 * A folder for career-related, private, and personal messages. Having a separate folder for personal and career-related information gives you the freedom to search for a message while someone is standing over your shoulder without worrying that a personally sensitive message will appear. Name this folder 2-Personal. Managers might have a single folder for feedback on their employees called 3-Management.
 * A set of folders for Contact Group messages. All messages sent to Contact Groups (also known as list servers, or mailing lists, or distribution lists) don’t necessarily need to be read. This set of folders is the repository for all of the Contact Group messages that aren’t automatically delivered to your Inbox. Create a single, top-level folder under your Inbox called Contact Groups, and then create a subfolder for each topic of Contact Groups. Usually, one folder per Contact Group is enough, but if you are on several related Contact Groups, consider having all of the messages delivered to the same folder.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Data Science Landscape
 
 ## Metadata
@@ -27,3 +39,11 @@
 * First, at the initial stage, it is paramount that the underlying business problem is clear to all stakeholders involved. Second, sufficient time has to be allocated for the data preparation stage which typically accounts for the majority of time spent during most projects. Third, the right variables have to be selected by the data scientist. A model should ideally comprise only the fewest possible number of variables with relevant explanatory power. The process of feature selection is therefore important in order to maximize performance while reducing the noise in a model.
 * The most popular languages for machine learning are Python, C/C++, Java, R and Java Script.
 * The R programming language, for example, was built primarily for statistical applications. Therefore, it is highly suitable for statistical tasks as well as visualization using the popular R package ggplot2.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

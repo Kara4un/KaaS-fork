@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_007",
+  "mode": "apply",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "0-Slipbox/Portable Apps.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Personal Backup Strategy.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/PARA Method.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Organizing Files and Folders as a Developer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Notes on Database Indexing and Primary Keys.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Note Taking and The Internet Best Practices.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/No-Code and Low-Code.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Neural Networks.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Multi-Process Task Queue in R.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/mssql-scripter Usage.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Modern Data Pipeline Complexities.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Modern Data Integration - Data Engineering.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Modern Data Architecture on AWS.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/MLOps.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Miniature Insurance Economic Simulator.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Memoization.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Managing Managers.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Machine Learning.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Loss Triangles.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Loss Data Analytics.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

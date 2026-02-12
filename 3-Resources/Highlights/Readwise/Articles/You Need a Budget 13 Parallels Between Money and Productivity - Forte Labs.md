@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # You Need a Budget: 13 Parallels Between Money and Productivity - Forte Labs
 
 ## Metadata
@@ -40,3 +52,11 @@
   * Tags: *favorite* 
 * Manage unexpected events by turning them into consistent routines
 * Create milestones to provide a sense of completion
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

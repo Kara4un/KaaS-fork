@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
 
 ## Metadata
@@ -50,3 +62,11 @@
   inverted and facing forward. Details don't matter, i but
   Speaker 1
   i do thos every single day. It's not a body building routine. This is not a i want really big muscles routine. It's instead my theory that our human body evolve to expect to occasionally, but on a regular basis, have to really use its major muscle groups in a very intense fashion. And it seems to me, if we don't do that, if you're sedentary every single day, certain things turn off. Certain things t start to atrophy. Look, i don't have particular science to talk about here. It's just a instinctual theory of mine. But i've always found that i just think my systems run better if every single day there is an intense moment where your major muscel groups are working incredibly intensely, like when you're doing a pull up, for example, right i write e x. That means i did my base line fitness for the day. Now, if i did a work out in addition to the base line, i write e x plus. So that's the system. That's basic to what i track. I track it every day. I recommend tracking your key metrics, because, as i wrote about in my very first book, in two thousand and five, how to win at college, my very firs book, one of the pieces of advice in that book is, if your mind knows that your behavior for the day on key activities is going to be tracked, it's much more likely to actually summon the motivation to do it. You're going to do the poll ups, because you know that if you don't, at the end of the day, when you're turning off the lights in your studies, you're not t be able to right e x in your note book. That sounds trivial it's not. Psychology is weird. It makes a big difference. So find a certain time in your day to track these metrics. Definitely track metrics terra. It's something that i have sworn by. Are i less do? One more technology question. Geoffrey asks, when starting out blogging, what's the best way to find readers, especially if you are not using social medium? Well, first of all, even if you were using social media, it's not going to get you readers for your blog. What's goin to get your readers for your blog is having a blog that is so good it can't be ignored, but you're offering something that's really valuable to people, based on perhaps your unique experience or a unique point of view, that you have something that people find inspiring or authoritative or really interesting. That's credibly hard, by the way. It's incredably hard. It's why, like, most magazines fail. It's why most online content ventures fail. It's like why most blogs fail, and most social meet accounts have very few followers, and most podcasters are never listened to. I mean, it's really hard to produce content that people really want to hear at a high level. But if you do that, if you're so good, you can't be ignored, people find you. Audiences find you. Yethers. There's little things you can do. There'll be opportunities to come across your plate, you know that this person wants to interview you, or someone is spreading the word on their own network. I basically say, i wouldn't sweat that so much. What i would sweat is, is there something i can say that is going to be super compelling? Right? That's what you should be thinking about. And that could take a lot of work to home that voice and figure out your message. Steve martin famously said, you should just be so good they can't ignore you. If you do that, good things will come. I think that is the case with content. You cannot short circuit or jump start that process by tweeding every day. At some point you have to be producing something that people want to consume. Let's try something new here. Les, try a lightning round. ([Time 0:36:17](https://share.snipd.com/snip/1210fc2e-411c-4978-bcaf-39f9ea735296))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

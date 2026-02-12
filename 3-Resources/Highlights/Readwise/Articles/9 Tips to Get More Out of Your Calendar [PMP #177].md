@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 9 Tips to Get More Out of Your Calendar \[PMP #177\]
 
 ## Metadata
@@ -24,3 +36,11 @@
 * Don't allow overlap
   Unless there’s a good reason, the appointments on your calendar shouldn’t overlap. How can you do two things at once? When you avoid overlap, it’s much easier to make sense of your calendar to see what’s going on and what you should be doing next.
   The exception would be if you have access to a colleagues calendar and can see their appointments, naturally, these will overlap with your own. But the nice thing about having multiple calendars (mentioned above) is that you can toggle them on/off to show/hide them.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

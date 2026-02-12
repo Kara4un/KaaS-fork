@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The 'Weekly Review' Method Will Help You Get Things Done
 
 ## Metadata
@@ -23,3 +35,11 @@
   Just in case you missed something in the past sections there is one final “Getting Clear” list you can incorporate into your Weekly Review. It’s called your “Trigger List”. This is a “catch-all” for you to write any words that will be a “trigger” for your brain in remembering to add an activity. It could be as simple as “annual review notes for the boss” you can move into your action lists when you have time.
 * Get Creative
   Lastly, dream big. We are all creative beings, we just need to tap into that source. This process begins with writing all of those “down the road” or “maybe someday” items such as adventures, ideas, and dreams you have been putting off. The first step to realizing these dreams is writing them down and visualizing their reality.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

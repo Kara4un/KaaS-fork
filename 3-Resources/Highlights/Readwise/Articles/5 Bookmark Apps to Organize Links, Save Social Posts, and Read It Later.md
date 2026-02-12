@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later
 
 ## Metadata
@@ -26,3 +38,11 @@
   If you have years and years of unorganized bookmarks, you know that Chrome’s bookmark manager doesn’t have the best search engine. Savory is lightning fast at finding links and auto-tags the websites too. You can also add your own tags to make bookmark management easier.
   Chrome also doesn’t let you select multiple links to delete them in bulk. It’s one of the most frustrating limitations, but Savory solves that too.
   A note before you install it: Savory asks you to sign in before it can get to work. It’s unclear why that is, or the privacy implications of it.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

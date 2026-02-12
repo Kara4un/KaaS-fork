@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Justin DiRose
 
 Justin is an advocate of [Productivity](../MOCs/Productivity.md) and [Personal Knowledge Management](../MOCs/Personal%20Knowledge%20Management.md) that is very active in the various online communities and has provided people like me a wealth of knowledge and inspiration behind the tools, strategies, and procedures behind *building effective productivity and PKM systems*.
@@ -45,3 +57,11 @@ Justin is an advocate of [Productivity](../MOCs/Productivity.md) and [Personal K
 ````dataview
 list from [[Justin DiRose]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

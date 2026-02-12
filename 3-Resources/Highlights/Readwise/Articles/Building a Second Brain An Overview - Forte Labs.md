@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building a Second Brain: An Overview - Forte Labs
 
 ## Metadata
@@ -41,3 +53,11 @@
 * Keep only what resonates
   The word “organization” often brings to mind an analytical way of thinking. But analysis is time-consuming and tiring. In deciding which passages, images, theories, or quotes to keep, don’t make it a highly intellectual, analytical decision.
 * Instead, your rule of thumb should be to save anything that “resonates” with you on an intuitive level. This is often because it connects to something you care about, wonder about, or find inherently intriguing. By training ourselves to notice when something resonates with us at a deeper level, we improve not only our ability to see opportunities, but also our understanding of ourselves and how we work.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

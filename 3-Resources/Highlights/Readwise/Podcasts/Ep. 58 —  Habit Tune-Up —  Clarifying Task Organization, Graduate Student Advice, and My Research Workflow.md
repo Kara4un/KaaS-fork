@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow
 
 ## Metadata
@@ -28,3 +40,11 @@
   continuation of
   Speaker 1
   a research direction already established. Ther's a ltle bit more obvious, right? Finish a paper in a particular research direction that's already been established. And you say, what's the next natural thing to look at in this general area? That's an easier question to answer, you know, because as you work on something, you learn more techniques. More people cite your work, you read what other people are doing. That inspires ideas for what you should do next. You have a lot of tools to work with. You have a lot of techniques to try to apply. ([Time 0:19:47](https://share.snipd.com/snip/e55b36a6-ff0f-4156-816d-bfd2273e8029))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

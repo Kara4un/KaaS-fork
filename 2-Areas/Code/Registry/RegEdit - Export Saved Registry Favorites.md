@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Export Saved Registry Favorites
 
 \*Source: *
@@ -22,3 +34,11 @@ reg export HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\Favori
 ````dataview
 list from [[Export Saved Registry Favorites]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

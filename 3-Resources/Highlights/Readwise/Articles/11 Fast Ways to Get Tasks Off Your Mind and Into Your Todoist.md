@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist
 
 ## Metadata
@@ -35,3 +47,11 @@
 * Automatically add your most important emails as tasks in Todoist
 * I use Pocket to keep track of my reading. I’ve set up my own integration so that whenever I add a link to my Pocket, a Todoist task is created in my Reading project to remind me to come back to the article. Check out the applet (that’s what IFTTT calls its custom integrations). You can also prevent flooding your Todoist by only adding tasks from Pocket articles that have a specific tag, like mustread.
 * Automatically keep track of missed phone calls.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

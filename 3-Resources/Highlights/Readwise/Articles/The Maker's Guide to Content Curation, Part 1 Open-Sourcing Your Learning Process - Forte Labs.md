@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Maker's Guide to Content Curation, Part 1: Open-Sourcing Your Learning Process - Forte Labs
 
 ## Metadata
@@ -22,3 +34,11 @@
 * Expert directories: create a list of the top experts in a field for people to follow
 * Web page showcase
 * Learning curriculum: make a “curriculum” of the best sources of learning for your field, along with some commentary on how people should use them and in what order
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

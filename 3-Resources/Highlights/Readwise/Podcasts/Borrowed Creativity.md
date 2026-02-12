@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Borrowed Creativity
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * when you know you're gonna produce something. Everything about how you consume changes, your more discerning. You have higher standards. You're not willing to waste time consuming anything but the very best you can get your hands on because, you know, you know, there's that saying garbage in garbage out. Your output is gonna be directly constrained. It's gonna be limited to the quality of your inputs. So it sounds ([Time 0:02:49](https://www.airr.io/quote/5fc5321cbb807d2eb430a573))
   * Note: On consuming when producing
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

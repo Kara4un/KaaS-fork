@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Google Cloud SDK CLI Notes
 
 ## Installation
@@ -99,3 +111,11 @@ OTHER FLAGS
 
 Links:  [GCP](GCP.md) | *Google Cloud APIs* | [Docker](../../Docker/Docker.md) | [GCP Services Table](GCP%20Services%20Table.md) | *Google Cloud Setup Notes*
 Source: [Github: ivan/curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP)
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

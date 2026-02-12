@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles
 
 ## Metadata
@@ -18,3 +30,11 @@
   Thereafter, I went through each one individually. If it was just a blog post, individual product page, or similar, I left it open. If it was a site that I genuinely visit on any sort of regular basis, I left it where it was, re-naming it if necessary.
   Of the ones that were left open, I sat down and went through all of them. I was able to eliminate a lot straight off the bat. If there was an article that was particularly interesting but I’d probably only reference once or twice more, I saved it to Pocket, which is like an online folder for websites. (You could also use Evernote, Instapaper, etc.) If I thought I’d come back to it more regularly, I left it as a bookmark.
   Top tip: Visit all the sites, even if you think you know exactly what they are. I had a few that turned out to be no longer available or that re-directed to an unrelated page.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

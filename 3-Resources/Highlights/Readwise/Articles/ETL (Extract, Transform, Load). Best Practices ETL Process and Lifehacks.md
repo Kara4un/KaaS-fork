@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Notification service. The data source notifies its users about the changes by either posting an event code to the subscriber endpoint or posting the full information about which data object has changed and what exactly the changes are. In some cases, the data changes would be posted not straight away but at certain intervals in batches, typically daily.
 * Snapshot publishing service. This might be a practical solution for data with dynamic nature where keeping track of the change history is important. A file containing either a full data snapshot or diff log is published daily, file name typically containing the date and timestamp.
 * . The above two approaches where the data owner actively notifies the clients on the changes or publishes the changes at certain intervals are a dream service for the data consumers as it saves tons of resources and time. Unfortunately, in most cases, this is too good to be true and the data consumers have to take the burden of tracking the changes themselves. The most obvious way to do it is by pinging the data sources over and over again and comparing the latest data to the previously scanned snapshot. Slow, inefficient, expensive for both serving and consuming parties, yet oftentimes inevitable. The source scanning process can become the starting point of the whole ETL pipeline. The process execution schedule can be configured as a simple Cron job or by a more sophisticated pipeline scheduling system such as Apache Airflow or AWS Glue.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

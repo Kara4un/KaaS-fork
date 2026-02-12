@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - `MONTH()` Equivalent
 
 *Source: https://wiki.postgresql.org/wiki/MONTH()\_equivalent*
@@ -66,3 +78,11 @@ $$ LANGUAGE sql IMMUTABLE;
 ````dataview
 list from [[SQL - MONTH() Equivalent]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best Free Software of 2020
 
 ## Metadata
@@ -51,3 +63,11 @@
   Windows search is rarely up to snuff. This utility offers ultra-fast search, checking inside folders and files, looking for patterns, and even uses Regular Expressions for advanced searches. It doesn't even have to index files in the background to work. Save your searches for use again later.
 * Trelby
   Fancy yourself a budding screenwriter, but lack the funds to buy high-end tools like Final Draft? Trelby does a damn fine job of helping you keep the formatting correct, remembering character names, and even importing and exporting to formats used in Hollywood.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

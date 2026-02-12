@@ -1,8 +1,20 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Templates"]
+Tags:
+  - '#Type/Folder'
+  - '#Type/ReadMe'
+Alias:
+  - Templates
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Templates Overview
@@ -92,5 +104,10 @@ type: folder_brief_live
 
 Jimmy Briggs | <% tp.date.now("YYYY") %> | <jimmy.briggs@jimbrig.com>
 
+## Knowledge Graph Links
 
-
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

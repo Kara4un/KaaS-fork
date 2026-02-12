@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The 25+ Best Productivity Apps in 2020
 
 ## Metadata
@@ -114,3 +126,11 @@
   To truly become a more productive person, you need to work the right way and develop the right habits. To help you do that, we recommend taking our free one-hour course on building habits that last. Learn more about it here:
   Take my free class on mastering habits
   Building habits isn’t just about discipline; there are real-world steps you can take to set yourself up for success! In this course, you'll learn how to set realistic goals, handle failure without giving up, and get going on the habits you want in your life.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

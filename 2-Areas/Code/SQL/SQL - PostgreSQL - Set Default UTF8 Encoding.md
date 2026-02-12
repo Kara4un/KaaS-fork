@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Set Default UTF8 Encoding
 
 *Source: https://gist.github.com/katylava/765188*
@@ -24,3 +36,11 @@ UPDATE pg_database SET datistemplate=TRUE WHERE datname='template1';
 ````dataview
 list from [[SQL - PostgreSQL - Set Default UTF8 Encoding]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

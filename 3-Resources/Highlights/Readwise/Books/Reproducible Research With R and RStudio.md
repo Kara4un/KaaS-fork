@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Reproducible Research With R and RStudio
 
 ## Metadata
@@ -30,7 +42,7 @@
   * Tags: [2-Areas/MOCs/R](../../../../2-Areas/MOCs/R.md) *favorite* 
 * Tie functions are the most dynamic way to explicitly link your fles together. These functions instruct the computer program you are using to use information from another fle. In Table 2.1, I have compiled a selection of key tie functions you will learn how to use in this book. We’ll discuss many more, but these are some of the most important. ([Location 23159](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=23159))
 * Have a plan to organize, store, and make your fles available ([Location 24030](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=24030))
-* Finally, in order for independent researchers to reproduce your work, they need to be able access the fles that instruct them how to do this. Files also need to be organized so that independent researchers can fgure out how they ft together. So, from the beginning of your research process, you should have a plan for organizing your fles and a way to make them accessible. One rule of thumb for organizing your research in fles is to limit the amount of content any one fle has. Files that contain many di˙erent operations can be very diÿcult to navigate, even if they have detailed comments. For example, it would be very diÿcult to fnd any particular operation in a fle that contained the code used to gather the data, run all of the statistical models, and create the results, fgures and tables. If you have a hard time fnding things in a fle you created, think of the diÿculties independent researchers will have! Because we have so many ways to link fles together, there is really no need to lump many di˙erent operations into one fle. So, we can make our fles modular. One source code fle should be used to complete one or just a few tasks. Breaking your operations into discrete parts will also make it easier for you and others to fnd errors (Nagler, 1995, 490). Chapter 4 discusses fle organization in much more detail. Chapter 5 teaches you a number of ways to make your fles accessible through the cloud computing services like GitHub. ([Location 24030](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=24030))
+* Finally, in order for independent researchers to reproduce your work, they need to be able access the fles that instruct them how to do this. Files also need to be organized so that independent researchers can fgure out how they ft together. So, from the beginning of your research process, you should have a plan for organizing your fles and a way to make them accessible. One rule of thumb for organizing your research in fles is to limit the amount of content any one fle has. Files that contain many di˙erent operations can be very diÿcult to navigate, even if they have detailed comments. For example, it would be very diÿcult to fnd any particular operation in a fle that contained the code used to gather the data, run all of the statistical models, and create the results, fgures and tables. If you have a hard time fnding things in a fle you created, think of the diÿculties independent researchers will have! Because we have so many ways to link fles together, there is really no need to lump many di˙erent operations into one fle. So, we can make our fles modular. One source code fle should be used to complete one or just a few tasks. Breaking your operations into discrete parts will also make it easier for you and others to fnd errors (Nagler, 1995, 490). Chapter 4 discusses fle organization in much more detail. Chapter 5 teaches you a number of ways to make your fles accessible through the [[Cloud Computing]] services like GitHub. ([Location 24030](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=24030))
 * cache Logical Whether or not to save results from the code chunk in a cache database. Note: cached chunks are only run when they are changed. cache.vars Character Vector Specify the variable names to save in the cache database. ([Location 34516](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=34516))
 * When include=FALSE the chunk is evaluated, but the results are not included in the presentation document. ([Location 34517](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=34517))
 * tidy ([Location 34517](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=34517))
@@ -55,3 +67,11 @@
   * Tags: *favorite* [2-Areas/MOCs/R](../../../../2-Areas/MOCs/R.md) 
 * Bibliographies with Pandoc Pandoc via rmarkdown allows us to insert citations from normal BibTeX fles (see Chapter 11) specifed in the header with bibliography. The main di˙erence is that Pandoc has a di˙erent syntax from LaTeX for making in-text citations. Basic Pandoc citations begin with @ followed by the BibTeX citation key. Square brackets (\[\]) create parentheses around the citation. Here is an example: This is a citation \[@donoho2009\]. Pandoc uses natbib by default, so the citation \[@donoho2009\] will appear as (Donoho et al., 2009). To add text before and after the citation inside of the parentheses, use something like this: \[see @donoho2009, 10\]; which creates: (see Donoho et al. 2009, 10). If you do not want the parentheses around the entire citation (only the year) then omit the square brackets. To include only the year, and not the authors’ surnames, add a minus sign, e.g. \[-@donoho2009\]. See the table above for more options. Full bibliographic information for each item that is cited in the text will be produced at the end of the output document. I suggest placing a heading like `#References` at the very end of your document so that the bibliography will be di˙erentiated from the document’s text. ([Location 117093](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=117093))
 * Footnotes with Pandoc You can also include footnotes in documents rendered with rmarkdown by using Pandoc’s footnote syntax. In the text where you would like a footnote to be located, use: \[ˆNOTE_KEY\]. Then at the end of your document, place \[ˆNOTE_KEY\]: The footnote text. 8 NOTE_KEYs generally follow the same rules as BibTeX citation keys, so no spaces. The footnotes will be numbered sequentially when rendered. To sum up, here is an example of a document that can be rendered in HTML or PDF using R Markdown. It includes footnotes and a bibliography. ([Location 117529](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=117529))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

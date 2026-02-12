@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Make Yourself Into a Learning Machine
 
 ## Metadata
@@ -32,7 +44,7 @@
   Work
   In the Growth section, I keep track of all of my personal projects
 * I have a lot of personal projects, and I work on them whenever I have the time.
-  For example, I have a project called “Napkin Math” where I’m working to improve my order-of-magnitude calculations when it comes to system design.
+  For example, I have a project called “Napkin Math” where I’m working to improve my order-of-magnitude calculations when it comes to [[System Design]].
   But I have many other projects like reviewing the Vital Articles on Wikipedia, the periodic elements (and their primary uses and sources), blog posts, and a million different things I’d like to learn.
   I expect most of these projects to take years, decades, and some of them I’ll be working on for the rest of my life. I run a script when I have a few minutes that helps make little bursts of progress by choosing a random one of these areas.
   * Tags: *favorite* 
@@ -42,3 +54,11 @@
 * The reMarkable gives great space to think, but because of its limitations I wouldn’t recommend it to everyone. It’s for a very particular workflow. It can easily end up as another expensive shelf gadget.
   Surprisingly, I’ve also found that it works very well for making presentations with. Drawing slides is much more fun — I get frustrated when I’m in Keynote for too long.
 * Where Good Ideas Come From by Steven Johnson. This book is studded with good observations by someone who has spent a lot of time reading and thinking about scientific history. As an engineer — and fellow student of science — I loved it. I wrote a short review here.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

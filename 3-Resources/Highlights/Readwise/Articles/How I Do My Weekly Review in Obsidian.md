@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How I Do My Weekly Review in Obsidian
 
 ## Metadata
@@ -25,3 +37,11 @@
 * I am currently looking at moving to OKRs from SMART goals so this is still a little bit of work in progress, however, the concept is still the same.
 * Projects
 * Oh and one last thing: I’m thinking about putting together all of my Obsidian templates into a GitHub repo so if that’s something you’d be interested in just let me know so I can get working on it!
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

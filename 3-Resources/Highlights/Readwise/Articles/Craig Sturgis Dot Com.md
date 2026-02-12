@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Craig Sturgis Dot Com
 
 ## Metadata
@@ -91,3 +103,11 @@
 * Budgeting: YNAB ([View Highlight](https://instapaper.com/read/1390675129/15635114))
 * GTD “Mindsweep” checklist: Bear (iOS, Mac)
   (Planned) move to Omnifocus project template ([View Highlight](https://instapaper.com/read/1390675129/15635115))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # How to Choose Data Models and Databases for Your Use Case
 
 ## Metadata
@@ -20,9 +32,17 @@
 * This data model targets the data which comes with multiple many-to-many relationships between the entities and becomes complex in relational model. It is represented in the form of vertices and edges which are entities and their relationships respectively.
   Most of the big tech companies like Facebook, Google use graph models like social graphs and web graphs. Data can be heterogenous like vertices can be anything from people, locations, events. It provides better visualisation, latency in traversing, etc. Example: Neo4J, Cypher, Datalog
 * Key-Valu
-* This data model is used where data is fetched with very low latency. Caching, implementing queues, implementing pub/sub systems are some use cases. Example: Redis, Memcached
+* This data model is used where data is fetched with very low latency. [[Caching]], implementing queues, implementing pub/sub systems are some use cases. Example: Redis, Memcached
 * Wide-Column (Column Family)
 * This data model organises the data in such a way that column names and format can differ in different rows. It is used when scalability, performance, availability and analytics are involved.
   Example: Cassandra, HBase, Google BigTable
 * Time-Series
 * This data model targets the use cases with time series data to track and analyse the behaviour of a system. IoT devices, sensors, stock market data are some of the use cases. Example: Influx DB, Timescale DB, Prometheus
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
 
 ## Metadata
@@ -17,3 +29,11 @@
 * t can be used to understand how you sleep, your exercise behavior, or how much time you spend on the computer or listening to music. It can also be used to pull data on what articles you read from both Pocket and Instapaper. Each project and integration includes a data downloader and data analysis notebook.
 * After you’ve got your data, I recommend you checkout the Instapaper data analysis notebook which provides a good way to look at your reading history.
 * Creating a Heatmap of Daily Articles Read in Instapaper
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

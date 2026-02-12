@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 101 —  Does Productivity Impede the Deep Life?
 
 ## Metadata
@@ -44,3 +56,11 @@
   Before we move on, the questions about the
   Speaker 1
   deep life. ([Time 0:27:47](https://share.snipd.com/snip/6165614f-7f91-4bb8-85a8-cd55401ff662))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

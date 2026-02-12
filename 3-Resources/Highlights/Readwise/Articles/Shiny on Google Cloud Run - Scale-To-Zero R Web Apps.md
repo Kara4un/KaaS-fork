@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Shiny on Google Cloud Run - Scale-To-Zero R Web Apps
 
 ## Metadata
@@ -42,3 +54,11 @@
   directory_index off;
   }
   } ([View Highlight](https://instapaper.com/read/1364275734/14671809))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

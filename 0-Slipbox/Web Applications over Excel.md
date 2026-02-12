@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Web Applications over Excel
 
 *Source: https://www.easasoftware.com/spreadsheets/why-you-should-turn-excel-spreadsheets-into-web-apps/*
@@ -42,3 +54,11 @@ This note discusses the main reasons why businesses would be best served by web-
 ````dataview
 list from [[Web Applications over Excel]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

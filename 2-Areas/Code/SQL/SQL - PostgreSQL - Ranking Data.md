@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Ranking Data
 
 *Source: [sql-snippets/rank.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/rank.md)*
@@ -75,3 +87,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Ranking Data]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

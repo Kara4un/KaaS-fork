@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 *ReadItLater* *Article*
 
 # [Obsidian Clipper – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/obsidian-clipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -17,3 +29,11 @@ This add-on needs to:
 * Input data to the clipboard
 * Access browser tabs
 * Access your data for jplattel.github.io
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

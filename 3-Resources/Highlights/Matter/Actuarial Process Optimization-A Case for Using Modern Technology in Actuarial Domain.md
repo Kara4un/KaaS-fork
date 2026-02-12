@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/](https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/)
@@ -32,3 +44,11 @@
 * Common use cases for actuarial control testing automation include data quality testing and validation of large data sets.
 * Consider a large insurance company that routinely uses dozens of assumption sets across functional areas and insurance products. Each set may contain hundreds of tables and adjustment factors. One of the most common areas for model errors identified through model validation exercises, is the use of inappropriate assumption in actuarial calculations.
 * A rule-based automated validation routine that systematically scans assumption tables, for both data quality and logical relationships amongst table values, can increase the level of confidence in actuarial model results. Rule-based validation allows for validation of each value in an assumption set, something that would be extremely difficult to execute manually. Rules can range from simple data quality validation rules, like “all table values must be between 0 and 1,” to more complex rules validating relationships across select and ultimate rates within a table or between a smoker and non-smoker table.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

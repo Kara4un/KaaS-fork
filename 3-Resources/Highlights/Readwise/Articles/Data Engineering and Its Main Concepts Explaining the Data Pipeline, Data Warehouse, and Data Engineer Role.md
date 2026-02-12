@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role
 
 ## Metadata
@@ -49,3 +61,11 @@
 * Software engineering background. Data engineers use programming languages to enable clean, reliable, and performative access to data and databases. Juan points out their ability to work with the complete cycle of software development including ideation, architecture design, deployment and DevOps, prototyping, testing, defining metrics, alerts, and monitoring systems. Data engineers are experienced programmers in at least Python or Scala/Java. ([View Highlight](https://instapaper.com/read/1480068265/18674592))
 * Data-related skills. “A data engineer should have knowledge of multiple kinds of databases (SQL and NoSQL), data platforms, concepts such as MapReduce, batch and stream processing, and even some basic theory of data itself, e.g., data types, and descriptive statistics,” underlines Juan. ([View Highlight](https://instapaper.com/read/1480068265/18674594))
 * Systems creation skills. Data engineers need to have experience with various data storage technologies and frameworks they can combine to build data pipelines. ([View Highlight](https://instapaper.com/read/1480068265/18674595))
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

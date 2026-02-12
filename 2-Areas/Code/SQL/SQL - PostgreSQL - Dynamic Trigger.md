@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL Dynamic Trigger
 
 *Source: https://wiki.postgresql.org/wiki/PL/pgSQL_Dynamic_Triggers*
@@ -58,3 +70,11 @@ $$;
 ````dataview
 list from [[SQL - PostgreSQL Dynamic Trigger]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

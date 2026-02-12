@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Stop Using So Many CTEs
 
 ## Metadata
@@ -14,3 +26,11 @@
 * In general, CTEs let analysts write queries that are more modular — breaking up complex logic into readable chunks. You’d be hard pressed to find someone using the modern data stack who isn’t pro-CTEs (myself included!), thanks to their reusability, readability, recursion, and referenceability.
 * CTEs can only be referenced in the same query where you created the CTE. On the surface this isn’t such a huge problem, especially if you’re writing a smaller query with only 1 or 2 CTEs. But where CTEs start to fall apart is when you need to debug them.
 * What if instead, you could break up your query into separate queries that chained on top of each other, and they all magically re-ran as soon as you updated one of the queries?
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

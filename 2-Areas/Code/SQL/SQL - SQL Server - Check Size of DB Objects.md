@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Check Size of DB Objects
 
 *Source: [Check Size of DB Objects | thiscodeWorks](https://www.thiscodeworks.com/61faf29db783be0015bbaf7f)*
@@ -42,3 +54,11 @@ ORDER BY i.total_size DESC;
 ````dataview
 list from [[SQL - Check Size of DB Objects]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

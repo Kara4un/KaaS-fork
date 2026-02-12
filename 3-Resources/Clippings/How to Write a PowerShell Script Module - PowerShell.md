@@ -1,8 +1,18 @@
 ---
-Date: 2022-08-26
+Date: 2022-08-26T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "How to Write a PowerShell Script Module - PowerShell"
+Tags:
+  - '#Type/Clipping'
+Alias: How to Write a PowerShell Script Module - PowerShell
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
 ---
 
 # How to Write a PowerShell Script Module - PowerShell
@@ -297,3 +307,11 @@ Submit and view feedback for
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

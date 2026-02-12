@@ -1,7 +1,18 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Actions Overview
 
 <!-- optional markdown-notes-tree directory description starts here -->
-
 
  > 
  > \*[GitHub](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md) Action *Code Snippets* *
@@ -54,3 +65,11 @@
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

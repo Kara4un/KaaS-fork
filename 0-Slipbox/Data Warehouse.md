@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Warehouse
 
 ## What is Data Warehouse?
@@ -99,3 +111,11 @@ A data mart is a data warehouse that serves the needs of a specific team or busi
 * [AWS QuickSight](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20QuickSight.md)
 * [AWS Glue](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20Glue.md)
 * [Features of a Data Warehouse](Features%20of%20a%20Data%20Warehouse.md)
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

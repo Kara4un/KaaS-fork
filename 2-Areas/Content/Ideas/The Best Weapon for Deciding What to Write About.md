@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best Weapon for Deciding What to Write About
 
 ````ad-quote
@@ -40,3 +52,11 @@ Let the ideas flow. It does not matter if they are good or not, some of the best
 ## Next Steps
 
 After mastering the art of brainstorming and maintaining a list of blog post topics and ideas, the next step moving forward is [Committing to Consistency with Your Blog](Committing%20to%20Consistency%20with%20Your%20Blog.md).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

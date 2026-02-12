@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # ELT
 
 In addition to the order of the processes (i.e transformation coming after the loading) in ELT, surprisingly, there are several key differences that separate the ELT from the usual ETL pipeline.
@@ -17,3 +29,11 @@ In a more advanced ETL/ELT process, tools such as [Apache Spark](https://spark.a
 * [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
 * [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)
 * [Databases](../2-Areas/MOCs/Databases.md)
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

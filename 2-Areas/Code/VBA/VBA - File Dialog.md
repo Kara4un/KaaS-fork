@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - File Dialog
 
 *Source: [VBA-General/mod_FileDialog.bas at main · ViperSRT3g/VBA-General](https://github.com/ViperSRT3g/VBA-General/blob/main/mod_FileDialog.bas)*
@@ -65,3 +77,11 @@ End Function
 ````dataview
 list from [[VBA - File Dialog]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

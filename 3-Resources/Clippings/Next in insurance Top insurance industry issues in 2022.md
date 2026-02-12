@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-24
+Date: 2022-03-24T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Next in insurance: Top insurance industry issues in 2022"
+Tags:
+  - '#Type/Clipping'
+Alias: 'Next in insurance: Top insurance industry issues in 2022'
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Next in insurance: Top insurance industry issues in 2022
@@ -173,3 +183,11 @@ By submitting your email address, you acknowledge that you have read the [Privac
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

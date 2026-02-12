@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # It's the Programming Environment, Not the Programming Language | thesephist.com
 
 ## Metadata
@@ -16,3 +28,11 @@
 * JavaScript is popular outside of the browser almost entirely on the merit of its ecosystem, its tooling, and the trivial debugging experience enabled by the repl. JavaScript’s programming environment is entirely interactive, visual, and real-time, without the need for clunky debugging apparatuses. The impact of that interactivity is obvious in the fact that many of my developer friends started programming on the Web, explicitly because it was the easiest way to write programs that produced output we could see and share.
   * Tags: *favorite* 
 * One of Go’s claims to fame and primary design goals is compilation speed. Compared to its predecessor C++, Go compiles fast. And when you make something fast, people start to use it differently.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # RMarkdown Template for Developing a Package with Best Practices
 
 For every function, create a [RMarkdown Tabset](../../../0-Slipbox/INBOX/RMarkdown%20Tabset.md) with:
@@ -43,3 +55,11 @@ list from [[RMarkdown Template for Developing a Package with Best Practices]] AN
 ---
 
 * Date: [2022-09-18](../../Daily-Notes/2022-09-18.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

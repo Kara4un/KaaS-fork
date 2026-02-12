@@ -1,0 +1,13 @@
+2-Areas/People/Ralph Kimball.md
+2-Areas/People/Niklas Luhmann.md
+2-Areas/People/Nick Janetakis.md
+2-Areas/People/Justin DiRose.md
+2-Areas/People/John Sonmez.md
+2-Areas/People/Democritas - The Father of Atoms.md
+2-Areas/People/Bill Inmon.md
+2-Areas/Goals/README.md
+2-Areas/Goals/2022 Areas of Focus and Goal Planning.md
+2-Areas/MOCs/Web Development.md
+2-Areas/MOCs/README.md
+2-Areas/MOCs/PowerShell.md
+2-Areas/MOCs/Physics.md

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://learn.microsoft.com/en-us/office/vba/api/overview/](https://learn.microsoft.com/en-us/office/vba/api/overview/)
@@ -10,3 +22,11 @@
 
 * Office Visual Basic for Applications (VBA) is an event-driven programming language that enables you to extend Office applications.
 * The great power of VBA programming in Office is that nearly every operation that you can perform with a mouse, keyboard, or a dialog box can also be automated by using VBA. Further, if it can be done once with VBA, it can be done just as easily a hundred times. In fact, the automation of repetitive tasks is one of the most common uses of VBA in Office.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

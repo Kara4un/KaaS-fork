@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Get Started With Obsidian as a Developer
 
 ## Metadata
@@ -21,3 +33,11 @@
 * David Sparks' mentions of Obsidian are helpful for seeing how Obsidian compares to other PKM apps.
 * The Obsidian 2020 Story of the Year nomination thread contains lots of helpful examples of how Obsidian is helping people do better work.
 * Obsidian Roundup is a weekly roundup of Obsidian.md tips, news and resources via Eleanor Konik.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

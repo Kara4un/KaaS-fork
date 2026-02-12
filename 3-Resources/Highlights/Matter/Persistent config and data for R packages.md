@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/03/12/user-preferences/](https://blog.r-hub.io/2020/03/12/user-preferences/)
@@ -19,8 +31,16 @@
 * Using credential stores for secrets Although say API keys are often stored in .Renviron, they could also be stored in a standard and more secure location depending on the operating system. The keyring package allows to interact with such credential stores. You could either take it on as a dependency like e.g. gh, or recommend the user of your package to use keyring and to add a line like
 * Using a config file The batchtools package expect its users to setup a config file somewhere if they don’t want to use the defaults. That somewhere can be several locations, as explained in the batchtools::findConfFile() manual page. Two of the possibilities are rappdirs::user_config_dir("batchtools", expand = FALSE) and rappdirs::site_config_dir("batchtools") which refer to standard locations that are different depending on the operating system.
 * The golem package offers its users the possibility to use a config file based on the config package.
-* In particular, for the email address, if the R environment variable EMAIL isn’t set, whoami uses a call to git to find Git’s global configuration. Similarly, the gert package can find and return Git’s preferences via gert::git_config_global(). In these cases where packages guess something, their guessing is based on the use of standard locations for such information on different operating systems. Unsurprisingly, in the next section, we’ll recommend using such standard locations when caching data.
+* In particular, for the email address, if the R environment variable EMAIL isn’t set, whoami uses a call to git to find Git’s global configuration. Similarly, the gert package can find and return Git’s preferences via gert::git_config_global(). In these cases where packages guess something, their guessing is based on the use of standard locations for such information on different operating systems. Unsurprisingly, in the next section, we’ll recommend using such standard locations when [[Caching]] data.
 * To quote Android developers guide again, “Persist as much relevant and fresh data as possible.". A package that exemplifies doing so is getlandsat that downloads “Landsat 8 data from AWS public data sets” from the web. The first time the user downloads an image, the result is cached so next time no query needs to be made. A very nice aspect of getlandsat is its providing cache management functions
 * If you hesitate to use e.g. rappdirs::user_cache_dir() vs rappdirs::user_data_dir(), use a GitHub code search.
 * rappdirs or not To use an app directory from within your package you can use rappdirs as mentioned earlier, but also other tools. * Package developers might also like the hoardr package that basically creates an R6 object building on rappdirs with a few more methods (directory creation, deletion).
-* In this blog post we presented ways of saving configuration options and data in a not so temporary way in R packages. We mentioned R startup files (options in .Rprofile and secrets in .Renviron, the startup package); the rappdirs and hoardr packages as well as an exciting similar feature in R devel; the keyring package. Writing in the user home directory can be viewed as invasive (and can trigger CRAN archival), hence there is a need for a good package design (asking for confirmation; providing cache management functions like getlandsat does) and documentation for transparency. Do you use any form of caching on disk with a default location in one of your packages? Do you know where your rhub email token lives?
+* In this blog post we presented ways of saving configuration options and data in a not so temporary way in R packages. We mentioned R startup files (options in .Rprofile and secrets in .Renviron, the startup package); the rappdirs and hoardr packages as well as an exciting similar feature in R devel; the keyring package. Writing in the user home directory can be viewed as invasive (and can trigger CRAN archival), hence there is a need for a good package design (asking for confirmation; providing cache management functions like getlandsat does) and documentation for transparency. Do you use any form of [[Caching]] on disk with a default location in one of your packages? Do you know where your rhub email token lives?
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

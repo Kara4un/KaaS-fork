@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 4 Solid Ways to Get the Best of the Web
 
 ## Metadata
@@ -28,3 +40,11 @@
   * Tags: *favorite* 
 * Start Trimming The Fluff
   The Web has creators and consumers of every kind. It belongs to everyone and no one. The best way to make it work for you is by aligning your Web experience with your interests, needs, and habits. This will not only save you a lot of time and effort, but also make the Web less overwhelming and more manageable.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

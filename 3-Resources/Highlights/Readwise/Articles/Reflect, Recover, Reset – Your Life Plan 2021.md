@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Reflect, Recover, Reset – Your Life Plan 2021
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Think first about your values and the things that make you truly happy. Have they changed over the past year, or remained exactly the same? Take a moment – several moments – and think about the kind of life you want, and why.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

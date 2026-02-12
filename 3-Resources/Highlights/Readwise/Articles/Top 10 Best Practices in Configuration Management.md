@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Top 10 Best Practices in Configuration Management
 
 ## Metadata
@@ -59,3 +71,11 @@
      Perhaps these best practice descriptions are more detailed than you expected. 
      Perhaps they don't quite fit into your picture, or you find them too opinionated. Maybe you expected one on how best to do labelling or on how to derive a branching strategy - these would, of course, be incompatible with the best practices that I've mentioned here. Perhaps you have some obvious ones that are missing here - Give me your feedback. I'd love to hear your input. There are many more on the fringes that fall into software engineering, or tool architecture, rather than CM process. What about the order of importance in which I've presented them? That's gotta ruffle some feathers. If not, I'd
      love to hear that too. ([View Highlight](https://instapaper.com/read/1362928999/14671695))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

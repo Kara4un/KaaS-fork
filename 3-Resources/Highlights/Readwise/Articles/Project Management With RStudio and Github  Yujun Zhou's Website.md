@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Project Management With RStudio and Github | Yujun Zhou's Website
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Separate raw and processed data
 * Separate cleaning and analysis scripts
   So that you don’t have to go through the cleaning process again and start directly from your processed data.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

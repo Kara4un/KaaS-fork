@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux
 
 ## Metadata
@@ -14,3 +26,11 @@
 * You also can't run the GNOME shell desktop environment itself under WSLg. Running apt install gnome-shell works fine, and pulls in the enormous list of dependencies necessary to satisfy that request—but gnome-shell itself fails ignominiously with unsupported session type, which effectively means it doesn't like WSLg's Weston/XWayland environment. ([View Highlight](https://instapaper.com/read/1452074556/17711805))
 * Finally, Ubuntu's excellent baked-in OpenZFS support is missing. You can apt install zfsutils-linux without difficulty, but that package depends on Canonical's in-house kernel with built-in ZFS support, which Microsoft has not picked up in its own WSL2 kernel.
   Determined Ubuntu users can still apt install zfs-fuse and expect that user-mode implementation to work as well as it does under native Ubuntu—but we don't recommend it for production; the FUSE implementation is still stuck on 0.7.0, while the in-kernel version is 0.8.3. This means a lack of support for ZFS native encryption, along with a whole host of other features, bugfixes, and enhancements—let alone the performance implications of running under FUSE rather than in-kernel. ([View Highlight](https://instapaper.com/read/1452074556/17711808))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

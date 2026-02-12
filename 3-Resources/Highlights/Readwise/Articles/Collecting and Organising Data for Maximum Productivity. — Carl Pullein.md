@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Collecting and Organising Data for Maximum Productivity. — Carl Pullein
 
 ## Metadata
@@ -15,3 +27,11 @@
   Securing your data to avoid the consequences of data theft or loss.
   Scheduling automatic backups of your device information, in case the device is lost, stolen, or damaged.
 * You could improve the speed of any of the ways mentioned to increase productivity by implementing an experimental framework. An experimental framework is generally used for software development but could be adapted for productivity. It essentially lets you innovate and test your ideas by identifying the issues that reduce your productivity in order to find alternatives for a more agile experience. There are five stages to experimenting through a framework:
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - `dbreport`
 
 *Source: [andschar/dbreport: Keep track of your ever-growing database tables (github.com)](https://github.com/andschar/dbreport)*
@@ -128,3 +140,11 @@ dbreport(con = iris,
 ````dataview
 list from [[R Package - dbreport]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

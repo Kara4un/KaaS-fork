@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Feeling Overwhelmed? 33 Productivity Tips to Get You Unstuck
 
 ## Metadata
@@ -78,3 +90,11 @@
   System: Create a system for yourself that you can rely on again and again. For help, see my goal setting course here.
   Time track: Feel like you aren’t getting anything done? Write down where you are spending your time so that you can actually see if you’re using it wisely.
   Bonus: Know that everything will get done. You got this.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

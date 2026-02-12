@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Dos and Don’ts for Organizing Your Digital Files | Seagate US
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Do put new files in the right place immediately — Use the system you set up with every file, all the time! Make sure to put your new music, photos, and documents in the appropriate folders as soon as you click “Save” or “Download.” Get into this habit, so you’ll stay organized. — [Updated on 2022-01-10 21:02:28](https://hyp.is/h16YxnKCEeyRfIdFMws0SA/www.seagate.com/do-more/organizing-your-digital-files-master-dm/)  — Group: #Type/Highlight/Hypothesis/Public
 
 * Do use intelligent shortcuts — Is there a budget spreadsheet you access frequently? Do you always download music to the same directory on a backup drive? Make a shortcut or alias of that specific file or folder, and place it on your computer’s desktop. Then you can keep the original file or folder organized by date or keyword in one place, but still get to it immediately with one click. — [Updated on 2022-01-10 21:02:36](https://hyp.is/jIGe3nKCEey6pt9Ygdod2g/www.seagate.com/do-more/organizing-your-digital-files-master-dm/)  — Group: #Type/Highlight/Hypothesis/Public
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

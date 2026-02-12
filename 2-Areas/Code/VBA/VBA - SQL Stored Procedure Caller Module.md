@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # VBA - SQL Stored Procedure Caller Module
 
 *Source: https://gist.github.com/2bb551e24cb2fab4f61db673f6ee62a3#file-mdlgen_dbcommands-vb*
@@ -15,7 +27,6 @@
 '
 '(Remember to add references to ADO and Scripting Runtime libraries to any workbooks that you add this to)
 
-
 Option Explicit
 
 'dictionary of parameters to pass to sqlStoredProc function when invoking SQL Server Stored Procedures
@@ -29,10 +40,8 @@ Public Const strConnEnc     As String = "80;82;79;86;73;68;69;82;61;..."
 'a (trivially) obfuscated version of the raw connection string so that passwords aren't in plain text. If you are concerned
 'about securing your DB credentials, you probably want to password-protect the VBA project as well
 
-
 'Recordset for global use
 Public rs           As New ADODB.Recordset
-
 
 Public Function sqlStoredProc(strStoredProc As String, dicParameters As Scripting.Dictionary)
 'Run stored procedure and pass parameters - returns Nothing if no records found
@@ -153,7 +162,6 @@ Closedown:
 
 End Function
 
-
 Function TestConnection() As Boolean
 'Simple function to test db connection
 'Requisites: strConn, Decode
@@ -177,7 +185,6 @@ Failed:
     TestConnection = False
     
 End Function
-
 
 Function sqlCleanString(strUserInput As String) As String
 'Clean troublesome characters for SQL or File operations
@@ -227,7 +234,6 @@ Function sqlCleanString(strUserInput As String) As String
     
 End Function
 
-
 Function Decode(str As String) As String
 'Convert a string of ASCII codes into plain text
 'Requisites: none
@@ -246,7 +252,6 @@ Decoded:
 
 End Function
 
-
 Function Encode(str As String) As String
 'Convert a string of plain text into ASCII codes
 'Requisites: none
@@ -256,7 +261,6 @@ Function Encode(str As String) As String
         Encode = Encode & IIf(x = 1, "", ";") & Asc(Mid(str, x, 1))
     Next x
 End Function
-
 
 Public Function IfNull(val, str)
 'Function to replicate Access' Nz or SQL's ISNULL
@@ -269,7 +273,6 @@ Public Function IfNull(val, str)
     End If
 End Function
 
-
 Public Function NullIf(val, chk)
 'Reverse of IfNull, to submit NULLs to database
 'Requisites: none
@@ -280,7 +283,6 @@ Public Function NullIf(val, chk)
         NullIf = val
     End If
 End Function
-
 
 Public Function IsEmptyRS(rs As ADODB.Recordset) As Boolean
 'Test whether recordset is empty
@@ -294,7 +296,6 @@ Public Function IsEmptyRS(rs As ADODB.Recordset) As Boolean
         IsEmptyRS = False
     End If
 End Function
-
 
 Public Sub rsToRow(rs As ADODB.Recordset, StartRange As Range, Optional HeaderRow As Long = 1)
 'Loop through all fields in a recordset, add them to the correct columns (relative to StartRange)
@@ -338,3 +339,11 @@ End Sub
 ````dataview
 list from [[VBA - SQL Stored Procedure Caller Module]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

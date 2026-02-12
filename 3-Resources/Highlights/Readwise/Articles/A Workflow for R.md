@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Workflow for R
 
 ## Metadata
@@ -16,3 +28,11 @@
   * Tags: *favorite* 
 * Reproducibility: A good workflow makes it easy for you, or others, to reproduce your results.
 * Efficiency: Here I'm referring to the efficiency of you, the programmer, not computational efficiency. A good workflow saves you time, by making it easier to work on the project, and by automating as much of the process as possible.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

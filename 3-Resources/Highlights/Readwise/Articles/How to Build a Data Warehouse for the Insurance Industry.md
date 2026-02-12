@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # How to Build a Data Warehouse for the Insurance Industry
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Denormalize and combine data into a data hub: After staging the data in the CLA, our team creates “Get” Stored Procedures to combine the data into common tables. For example, at one client, I have 13 sources with policy information (policy number, holder, effective date, etc.) that I combined into a single \[Business\].\[Policy\] table in my database. I also created tables for tracking other dimensions and facts such as claims, billing, and payment. ([View Highlight](https://instapaper.com/read/1479629171/18661479))
 * Create a star schema warehouse: Finally, the team loads the business layer into the data warehouse by assigning surrogate keys to the dimensions, creating references in the facts, and structuring the tables in a star schema. If designed correctly, any modern reporting tool, from Tableau to SSRS, will be able to connect to the data warehouse and generate high-performance reporting. ([View Highlight](https://instapaper.com/read/1479629171/18661480))
 * By combining your sources into a centralized data warehouse for insurance, the business has created a single source of the truth. From here, users have a well of data to extract operational metrics, build predictive models, and generate executive dashboards. The potential for insurance analytics is endless: premium forecasting, geographic views, fraud detection, marketing, operational efficiency, call-center tracking, resource optimization, cost comparisons, profit maximization, and so much more! ([View Highlight](https://instapaper.com/read/1479629171/18661485))
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

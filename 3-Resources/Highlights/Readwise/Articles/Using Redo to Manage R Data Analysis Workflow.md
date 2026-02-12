@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Using Redo to Manage R Data Analysis Workflow
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Redo is a recursive build automation system that promises to be simpler and more powerful than Make. Unlike Make or its derivatives redo is tiny, recursive, and has no special syntax of its own. It allows declaring dependencies straight from within the code being executed, which enables writing scripts that “know” they will need to rerun themselves whenever their input data changes all without maintaining a separate dependency configuration file. ([View Highlight](https://instapaper.com/read/1353717734/14361635))
 * Standard redo workflow has several '.do' files that hold the instructions for producing every output file saved during the analysis. Computation of each target is requested with a 'redo' command which is called straight from the command line. ([View Highlight](https://instapaper.com/read/1353717734/14361637))
 * Some explanation is necessary. The redo command simply takes an argument and tries to produce a file of the same name. In this case the argument was 'rawdata.rds' and, given the command, redo starts looking for instructions about how to produce it. The rule for storing instructions is quite simple - they are stored in a separate file with a name constructed by adding a '.do' suffix to the original argument. In other words - redo looks for instructions about producing 'rawdata.rds' file in a file named 'rawdata.rds.do'. ([View Highlight](https://instapaper.com/read/1353717734/14361644))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

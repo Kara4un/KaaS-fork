@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Note-Taking Tips for Building a Super Second Brain
 
 ## Metadata
@@ -20,3 +32,11 @@
 * To prevent this, we can use the spaced repetition system to resurface the buried notes to the top. This way, you can create a circulation inside your knowledge base where you can review the existing notes so you can develop them further or archive them if they’re not important anymore.
 * Finally, something that I like to do is to include mental anchors in my notes. Mental anchors are things that make it easier for you to remember what you wrote and find the notes you’re looking for.
 * The primary mental anchor for me is time. I find it helpful to include it when I write things down because we use time to remember almost everything. This is why I love interstitial journaling because it lets you see your thoughts in the context of time, which makes it easier to remember what you wrote.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

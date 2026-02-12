@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # I Built Docker Like Executable .Exe for RShiny!
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * It pastes latest packages and executes around 50 lines of code before launching the tool in this artificial environment. With 100% success rate.
 * There’s an outer layer of a bash script that prepares the system. The script checks for environment variables, whether or not R is installed on the system and pastes .Renviron and .Rprofile files among other dependent files on the client system.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

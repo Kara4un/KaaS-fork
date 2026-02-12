@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Topgrade
 
 *Source: [r-darwish/topgrade: Upgrade everything (github.com)](https://github.com/r-darwish/topgrade)*
@@ -124,7 +136,6 @@ open_remotes_in_new_terminal = true
 [pre_commands]
 #"Emacs Snapshot" = "rm -rf ~/.emacs.d/elpa.bak && cp -rl ~/.emacs.d/elpa ~/.emacs.d/elpa.bak"
 
-
 #"Python Environment" = "~/dev/.env/bin/pip install -i https://pypi.python.org/simple -U --upgrade-strategy eager jupyter"
 
 [brew]
@@ -162,7 +173,6 @@ Plus my [Windows Subsystem for Linux](../Developer%20Tools/Linux/Windows%20Subsy
 
 ````toml
 # `~/.config/topgrade.toml`
-
 
 # Don't ask for confirmations
 assume_yes = true
@@ -399,3 +409,11 @@ You can specify a key called `remote_topgrades` in the configuration file. This 
 ````dataview
 list from [[Tool-Template]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

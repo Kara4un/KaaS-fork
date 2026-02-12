@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Warehouse Tips and Best Practices I Wish I Knew Earlier
 
 ## Metadata
@@ -72,3 +84,11 @@
 * The best practices recommended are not meant to be taken as gospel, so do assess if they suit your particular project’s requirements. When in doubt, remember the guiding principles of simple, fast and flexible.
 * I highly recommend reading The Data Warehouse Toolkit yourself. It includes many real-world case studies and goes into more detail on the concepts and techniques I have highlighted, as well as other advanced ones I did not cover.
 * Unlike an operational implementation where business users have no choice but to use the new system, DW/BI usage is sometimes optional. Business users will embrace the DW/BI system if it is the simple and fast source for actionable information. — The Data Warehouse Toolkit
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

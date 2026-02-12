@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Can't stay focused while processing - have tried for months
 
 ## Metadata
@@ -86,3 +98,11 @@ Tags:
   every few minutes.  You can do the processing at a time of day
   when you have lots of energy, or split it up to do a few minutes
   at a time on different days. — [Updated on 2021-11-17 18:32:38](https://hyp.is/psyP5kf-Eey_1l9W71Uvzg/forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/)  — Group: #Topic/Productivity
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

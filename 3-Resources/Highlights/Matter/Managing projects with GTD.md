@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://gettingthingsdone.com/2017/05/managing-projects-with-gtd/](url)
@@ -22,3 +34,11 @@
 * It’s fine to have multiple next actions on any given project, as long as they are parallel and not sequential actions (e.g., “Buy stamps” and “Mail invitations” would not both be on Next Actions lists for the “Put on Party for David” project given that you need to buy the stamps before you can mail the invitations).
 * Projects are listed by the outcome you will achieve when you can mark it as done (what will be true?).
 * Effective project names motivate you toward the outcome you wish to achieve, and give you clear direction about what you are trying to accomplish.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

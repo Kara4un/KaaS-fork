@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Managing My Personal Knowledge Base
 
 ## Metadata
@@ -25,7 +37,7 @@
   Even though everybody loves books, or at least says so, myself included, the reality is that we rely on digital resources most of the time. The challenge is to organize this knowledge efficiently without creating too much overhead.
   * Tags: *favorite* 
 * My current setup is a little more complex, but in the end, it does not require more work than keeping bookmarks solely in the browser. I organize my bookmarks in multiple layers, depending on how often I want to access them and how long they should persist.
-  Maybe you are thinking of caching now, but fortunately, bookmarking layers are not caching levels. This would be hard to manage because as we all know, there are two hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. In contrast to cache entries, a bookmark is not supposed to move between layers. Instead, it gets inserted at the right place and stays there.
+  Maybe you are thinking of [[Caching]] now, but fortunately, bookmarking layers are not [[Caching]] levels. This would be hard to manage because as we all know, there are two hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. In contrast to cache entries, a bookmark is not supposed to move between layers. Instead, it gets inserted at the right place and stays there.
   * Tags: *favorite* 
   * Note: Interesting.. three hard problems in computer science:
     1. Cache Invalidation
@@ -139,3 +151,11 @@
   I do believe, however, that it is worth it to spend some time thinking about your knowledge management system. The most important part about conceptualizing a system is to decide exactly which types of information you want to maintain in your knowledge base. If you get this right you will benefit for the rest of your career. Even if the tools might change in the future, the system will stay.
   Please don’t hesitate to share your own experiences in the comments below. I am sure that my workflows are not perfect, but they might get closer with your tips.
   This post is released together with a new post in my Reading List series, which lists related resources. If you want to dive even deeper into knowledge management concepts, you might want to have a look.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

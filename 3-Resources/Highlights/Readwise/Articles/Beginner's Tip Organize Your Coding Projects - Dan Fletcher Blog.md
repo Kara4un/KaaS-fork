@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Beginner's Tip: Organize Your Coding Projects - Dan Fletcher Blog
 
 ## Metadata
@@ -47,3 +59,11 @@
 * Use GitHub ([View Highlight](https://instapaper.com/read/1307996394/14298867))
 * By using GitHub or another similar host, you’re creating backups of all your work ([View Highlight](https://instapaper.com/read/1307996394/14298873))
 * It’s probably not a good idea to rely solely on GitHub for anything proprietary, but for small projects, it’s better than no backups. ([View Highlight](https://instapaper.com/read/1307996394/14298879))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

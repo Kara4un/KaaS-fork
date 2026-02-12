@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Regedit - Add Open in VSCode Insiders to Explorer Context Menu
 
 *Source: [Adds 'Open in VS Code - Insiders' to context menu in Windows Explorer. (github.com)](https://gist.github.com/jimbrig/26b0b7788987215b466e36975b07e40c)*
@@ -66,3 +78,11 @@ Windows Registry Editor Version 5.00
 ````dataview
 list from [[Regedit - Add Open in VSCode Insiders to Explorer Context Menu]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

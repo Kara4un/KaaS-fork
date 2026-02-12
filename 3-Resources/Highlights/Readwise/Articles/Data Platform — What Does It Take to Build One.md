@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Platform — What Does It Take to Build One?
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Start lean — Do not integrate with all sources at once. Do a thin slice of your data platform to validate it end to end before you start inviting everyone to it
 * Think long term but deliver in short term — Have your eye on the ultimate long term goal, but focus on building and delivering it in short term to start realizing value sooner
 * Go on a data journey — Even with the best data platform you can’t derive value, unless you take the whole organization with you. Create a culture that promotes insightful decision making. Communicate & Collaborate with teams to help empower users to self-serve insights.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

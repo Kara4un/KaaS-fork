@@ -1,0 +1,20 @@
+3-Resources/Highlights/Matter/Getting Started with Julia for Actuaries.md
+3-Resources/Highlights/Matter/File Structure - Broad Institute of MIT and Harvard.md
+3-Resources/Highlights/Matter/Don’t default to Shiny. Go Quarto instead.md
+3-Resources/Highlights/Matter/Considerations and limitations for SQL queries in Amazon Athena.md
+3-Resources/Highlights/Matter/Caching the results of functions of your R package.md
+3-Resources/Highlights/Matter/BEGIN-PROCESS-END - You Can Do Better.md
+3-Resources/Highlights/Matter/Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain.md
+3-Resources/Highlights/Matter/34 Workflow - Big Book of R.md
+3-Resources/Tools/Modeling/Prophet.md
+3-Resources/Tools/Modeling/Modeling.md
+3-Resources/Highlights/ReadItLater Inbox/Obsidian Clipper – Get this Extension for 🦊 Firefox (en-US).md
+2-Areas/Code/PowerShell/_README.md
+2-Areas/Code/PowerShell/README.md
+2-Areas/Code/PowerShell/PowerShell.md
+2-Areas/Code/PowerShell/PowerShell - Write SQL DDL Documentation.md
+2-Areas/Code/PowerShell/PowerShell - Useful Profile Utility Functions.md
+2-Areas/Code/PowerShell/PowerShell - Toast Notification Example.md
+2-Areas/Code/PowerShell/PowerShell - System PATH Helpers.md
+2-Areas/Code/PowerShell/PowerShell - Scoop Import.md
+2-Areas/Code/PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # How to Install or Update PowerShell to the Latest Version in Windows 10 | ITIGIC
 
 ## Metadata
@@ -29,3 +41,11 @@
   When we have the new PowerShell installed, it will appear as ” PowerShell 7 ” within the search engine and from the launchers we use. However, if we want to be sure of the version that we have installed, we can check it very easily by running the following command again:
   Get-Host | Select-Object Version
   From now on, when there are new versions, the PowerShell window itself will notify us of its availability. And we can use either of the two previous methods to install that new version.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

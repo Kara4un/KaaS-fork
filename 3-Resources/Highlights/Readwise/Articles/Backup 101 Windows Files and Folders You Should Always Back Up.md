@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Backup 101: Windows Files and Folders You Should Always Back Up
 
 ## Metadata
@@ -31,3 +43,11 @@
   C:\Users\[Username\]\\AppData\Local\Microsoft\Outlook
   C:\Users\[Username\]\\AppData\Roaming\Microsoft\Outlook
   C:\Users\[Username\]\\Documents\Outlook\Files
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

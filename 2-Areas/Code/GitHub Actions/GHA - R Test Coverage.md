@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Action - Test Coverage Workflow
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#test-coverage-workflow*
@@ -51,3 +63,11 @@ jobs:
 ````dataview
 list from [[GitHub Action - Test Coverage Workflow]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Information Strategy: My Routine, Inputs – Interdependent Thoughts
 
 ## Metadata
@@ -22,3 +34,11 @@
   Basically I am building a To Do list based on what I read in my RSS reader. The things I want to blog or write about go into Qumana, where they basically form a list “Things to Possibly Write About”
 * E-mail
   E-mail I read througout the day, and may result in tasks in which case they end up in the calendar or in the wiki. I hardly have any e-mail list services I use left. Less than 5. One for my old fraternity, one for a local community, and one or two for professional discussions. In those last two I do not actively participate any longer.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

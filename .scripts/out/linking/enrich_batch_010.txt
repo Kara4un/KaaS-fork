@@ -1,0 +1,20 @@
+2-Areas/Daily-Notes/2022-09-18.md
+2-Areas/Daily-Notes/2022-09-17.md
+2-Areas/Daily-Notes/2022-09-07.md
+2-Areas/Daily-Notes/2022-09-05.md
+2-Areas/Daily-Notes/2022-04-24.md
+3-Resources/Embeds/Todoist-Embed.md
+3-Resources/Embeds/thiscodeWorks Code Snippets.md
+3-Resources/Embeds/README.md
+3-Resources/Embeds/Embeds.md
+3-Resources/Embeds/dbDiagram.md
+0-Slipbox/INBOX/Windows Links.md
+0-Slipbox/INBOX/Views vs. Materialized Views.md.md
+0-Slipbox/INBOX/Test Driven Development (TDD).md
+0-Slipbox/INBOX/RMarkdown.md
+0-Slipbox/INBOX/RMarkdown Tabset.md
+0-Slipbox/INBOX/PostgreSQL.md.md
+0-Slipbox/INBOX/PostgreSQL Tools.md.md
+0-Slipbox/INBOX/iOS Shortcuts - Share your ideas! - Share & showcase - Obsidian Forum.md
+0-Slipbox/INBOX/Guide - Setup oh-my-zsh.md
+0-Slipbox/INBOX/GnuPG.md

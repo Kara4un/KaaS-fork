@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Obsidian, Taming a Collective Consciousness - TrustedSec
 
 ## Metadata
@@ -30,3 +42,11 @@
   Search Tag:
   Tags are essentially shortcuts for vault-wide searches. These are defined by a short list of emojis which correspond to categorizations of data types committed to the repository. ([View Highlight](https://instapaper.com/read/1458811913/17939817))
 * Vault Structure ([View Highlight](https://instapaper.com/read/1458811913/17939818))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

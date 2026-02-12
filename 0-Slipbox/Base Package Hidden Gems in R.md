@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Base Package Hidden Gems in R 💎
 
 ## `autoload` Family
@@ -150,7 +162,6 @@ state_data <- list(
   MD = data.frame(state = c("MD","MD","MD"), city = c("Baltimore","Annapolis","Ocean City"))
 )
 
-
 combined <- data.frame(Reduce(rbind, state_data))
 ````
 
@@ -260,3 +271,11 @@ Source:
 ````dataview
 list from [[Base Package Hidden Gems in R]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

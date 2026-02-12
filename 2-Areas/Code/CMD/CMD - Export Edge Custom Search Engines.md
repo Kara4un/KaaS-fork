@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # CMD - Export Edge Custom Search Engines
 
 *Source: [custom-search-engines-backup/Export Edge Custom Search Engines.cmd at main · erbanku/custom-search-engines-backup (github.com)](https://github.com/erbanku/custom-search-engines-backup/blob/main/Import%20Export%20Edge%20Custom%20Search%20Engines/Export%20Edge%20Custom%20Search%20Engines.cmd)*
@@ -51,3 +63,11 @@ if errorlevel 1 pause
 ````dataview
 list from [[CMD - Export Edge Custom Search Engines]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

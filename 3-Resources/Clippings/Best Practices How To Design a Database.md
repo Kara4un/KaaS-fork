@@ -1,8 +1,18 @@
 ---
-Date: 2022-08-26
+Date: 2022-08-26T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Best Practices: How To Design a Database"
+Tags:
+  - '#Type/Clipping'
+Alias: 'Best Practices: How To Design a Database'
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # Best Practices: How To Design a Database
@@ -25,3 +35,11 @@ Follow these guidelines to avoid common missteps that can affect software down t
 
 - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

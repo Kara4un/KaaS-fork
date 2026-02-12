@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # API Architecture - Performance Best Practices
 
 *Source: [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)*
@@ -7,7 +19,7 @@
 * [Overview](API%20Architecture%20-%20Performance%20Best%20Practices.md#overview)
 * [Performance Tips](API%20Architecture%20-%20Performance%20Best%20Practices.md#performance-tips)
   * [Reduce and Limit Payload Size](API%20Architecture%20-%20Performance%20Best%20Practices.md#reduce-and-limit-payload-size)
-  * [Caching](API%20Architecture%20-%20Performance%20Best%20Practices.md#caching)
+  * [[[Caching]]](API%20Architecture%20-%20Performance%20Best%20Practices.md#[[Caching]])
   * [Network Speed](API%20Architecture%20-%20Performance%20Best%20Practices.md#network-speed)
   * [Prevent Accidental Calls, Slowdowns, and Abuse](API%20Architecture%20-%20Performance%20Best%20Practices.md#prevent-accidental-calls-slowdowns-and-abuse)
   * [Use PATCH over PUT](API%20Architecture%20-%20Performance%20Best%20Practices.md#use-patch-over-put)
@@ -34,9 +46,9 @@ We can use `Deflate compression` on a Web API.
 
 Or, we can update the `Accept-Encoding` request header to `gzip` .
 
-### Caching
+### [[Caching]]
 
-Caching is one of the easiest methods to improve an API’s performance. If we have requests that frequently give back the *same response*, then a cached version of that response helps avoid additional service calls/database queries.
+[[Caching]] is one of the easiest methods to improve an API’s performance. If we have requests that frequently give back the *same response*, then a cached version of that response helps avoid additional service calls/database queries.
 
 Be sure to properly *invalidate* the data housed in the cache though, especially when new data updates occur.
 
@@ -94,3 +106,11 @@ These tips are just the tip of the iceberg, and apply to all APIs in a general s
 ````dataview
 list from [[API Architecture - Performance Best Practices]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

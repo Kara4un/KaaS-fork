@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/The Data Science Workflow.md
+3-Resources/Highlights/Readwise/Articles/The Data Science Landscape.md
+3-Resources/Highlights/Readwise/Articles/The Clean Architecture — Beginner’s Guide.md
+3-Resources/Highlights/Readwise/Articles/The Checklist Manifesto - By Atul Gawande  Derek Sivers.md
+3-Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md
+3-Resources/Highlights/Readwise/Articles/The Best Way to Organize Your To-Dos.md
+3-Resources/Highlights/Readwise/Articles/The Best Tools for Capturing Your Many Different Notes.md
+3-Resources/Highlights/Readwise/Articles/The Best Productivity System There Is - Personal Excellence.md
+3-Resources/Highlights/Readwise/Articles/The Best PC Software for Your Windows Computer.md
+3-Resources/Highlights/Readwise/Articles/The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux.md
+3-Resources/Highlights/Readwise/Articles/The Best Microsoft Store Apps for Windows 10.md
+3-Resources/Highlights/Readwise/Articles/The Best Free Software of 2020.md
+3-Resources/Highlights/Readwise/Articles/The Best  Git Workflow for Your Software Engineering Team.md
+3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md
+3-Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md
+3-Resources/Highlights/Readwise/Articles/The Actuary of the Future.md
+3-Resources/Highlights/Readwise/Articles/The 35 Best Productivity Apps for 2020.md
+3-Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md
+3-Resources/Highlights/Readwise/Articles/The 2 Types of Technical Documentation That  Developers Love.md

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Stored Procedure - Merge Tables
 
 *Source: [postgres_stored_procedures/sp_merge_tables.sql at main · thevillagers/postgres_stored_procedures](https://github.com/thevillagers/postgres_stored_procedures/blob/main/procedures/sp_merge_tables.sql)*
@@ -75,7 +87,6 @@ BEGIN
 
         RAISE EXCEPTION USING MESSAGE = full_error_msg;
 
-
 END ; $$
 LANGUAGE 'plpgsql';
 ````
@@ -96,3 +107,11 @@ LANGUAGE 'plpgsql';
 ````dataview
 list from [[SQL - PostgreSQL Stored Procedure - Merge Tables]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

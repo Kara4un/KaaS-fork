@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Ultimate Home Office Setup Guide: 18 Must-Have Items
 
 ## Metadata
@@ -26,3 +38,11 @@
   What I have found to be one of the most useful of these tips is taking everything out of an area so you have to go item by item and determine what you need and what is trash. To learn more, check out one or two of the 15 books on decluttering that we profile here.
 * Separate your work computer from your home computer.
   Don't give yourself the temptation to log onto social media or play a quick computer game while you are in the middle of doing your job. Make sure that the computer you use in your home office is strictly for work.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

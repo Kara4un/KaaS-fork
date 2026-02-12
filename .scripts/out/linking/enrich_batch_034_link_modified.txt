@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md
+3-Resources/Highlights/Readwise/Podcasts/Projects Lists - November 2019.md
+3-Resources/Highlights/Readwise/Podcasts/Personal Knowledge Management Reprised.md
+3-Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md
+3-Resources/Highlights/Readwise/Podcasts/My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md
+3-Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md
+3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md
+3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md
+3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md
+3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md
+3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md
+3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md
+3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md
+3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md
+3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md

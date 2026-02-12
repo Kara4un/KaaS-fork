@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # AWS Aurora
 
 *Source: [What is Amazon Aurora? - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)*
@@ -725,7 +737,7 @@ There are several things you can do to make a failover perform faster with Auror
 
 * Aggressively set TCP keepalives to ensure that longer running queries that are waiting for a server response will be stopped before the read timeout expires in the event of a failure.
 
-* Set the Java DNS caching timeouts aggressively to ensure the Aurora read-only endpoint can properly cycle through read-only nodes on subsequent connection attempts.
+* Set the Java DNS [[Caching]] timeouts aggressively to ensure the Aurora read-only endpoint can properly cycle through read-only nodes on subsequent connection attempts.
 
 * Set the timeout variables used in the JDBC connection string as low as possible. Use separate connection objects for short and long running queries.
 
@@ -789,3 +801,11 @@ myauroracluster.cluster-ro-c9bfei4hjlrd.us-east-1-beta.rds.amazonaws.com:5432
 ````dataview
 list from [[AWS Aurora]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

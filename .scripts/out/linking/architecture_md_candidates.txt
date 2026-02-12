@@ -1,0 +1,31 @@
+0-Slipbox/Build a Lakehouse Architecture on AWS.md
+0-Slipbox/API Architecture - Performance Best Practices.md
+0-Slipbox/Data Pipeline Architecture.md
+0-Slipbox/Consideration and Concerns Regarding AWS Data Architecture.md
+0-Slipbox/Embracing the Model-View-ViewModel Architecture.md
+0-Slipbox/ELT Cloud Based Pipeline Architecture.md
+0-Slipbox/ELT Architecture in Azure Cloud.md
+0-Slipbox/Modern Data Architecture on AWS.md
+0-Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md
+0-Slipbox/Unified Architecture Framework.md
+0-Slipbox/System Design.md
+0-Slipbox/Web Application Architecture.md
+1-Projects/Professional/Client/RLUS ASTP - Topsides Architecture.md
+3-Resources/Highlights/Matter/How to use event storming to achieve domain-driven design.md
+3-Resources/Highlights/Hypothesis/Microservices architecture on Google Cloud  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Learn about Cloud Functions events and triggers  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md
+3-Resources/Highlights/Readwise/Articles/The Clean Architecture — Beginner’s Guide.md
+3-Resources/Highlights/Readwise/Articles/System Design Paradigm Caching.md
+3-Resources/Highlights/Readwise/Articles/System Design Basics Load Balancer 101.md
+3-Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Logging Events in Shiny Apps • shinyEventLogger.md
+3-Resources/Highlights/Readwise/Articles/Learn About Cloud Functions Events and Triggers  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Everything About Software Architecture.md
+3-Resources/Highlights/Readwise/Articles/Event-Driven APIs — Understanding the Principles.md
+3-Resources/Highlights/Readwise/Articles/Creating a Metadata Architecture From the Ground Up.md
+3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md
+3-Resources/Highlights/Readwise/Articles/Architecture for a Startup.md
+3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md
+3-Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md
+3-Resources/Highlights/Readwise/Articles/An Introduction to SQL Design Patterns and Best Practices.md

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - WSL - Set Default Browser to Windows
 
 *Source: [How to use the browser in Windows as WSL's default - Boring Time](https://akimon658.github.io/en/p/2021/wsl-default-browser/)*
@@ -36,3 +48,11 @@ sudo update-alternatives --config x-www-browser
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

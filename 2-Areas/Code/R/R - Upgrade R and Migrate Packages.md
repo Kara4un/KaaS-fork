@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R - Upgrade R and Migrate Packages
 
 *Source: https://gist.github.com/1717f5d6b10a6885461c54415562e5b1#file-update_migrate-r*
@@ -42,3 +54,11 @@ copy.packages.between.libraries() # copy your packages to the newest R installat
 ````dataview
 list from [[R - Upgrade R and Migrate Packages]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GTD With Todoist, Evernote and Google Calendar (Part 2) | Dr Veronika CH
 
 ## Metadata
@@ -47,3 +59,11 @@
   Now I look at what Todoist has scheduled for me in the next 7 days. I use this to decide what really needs to be done next week, and what I could postpone. The meetings I already have in Google Calendar, also influence this. I don’t want to divide my attention between too many different projects, so identify clusters / projects of focus for next week, and postpone other todos.
 * In Todoist, for the projects of focus (usually Current – Work projects), I go through their individual task lists and break up the tasks that I want to work on into smaller, actionable tasks. I then give these smaller tasks  a specific day and hour. I usually schedule high energy tasks like writing in the morning, and everything else in the afternoon.
 * With the recent two-way integration between Todoist and Google Calendar  these tasks now appear as 1-hour events on my calendar. Now I can change the length of the tasks, drag and drop the tasks between days, etc, as I would with calendar events. Tasks which only have a day, but not an hour in Todoist, appear as all-day events in Google Calendar. I try to convert these into scheduled-by-hour tasks as much as possible, as this helps me to get a better overview of how much time I spend and how many things I actually work on.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

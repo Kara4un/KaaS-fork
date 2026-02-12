@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Design Your Work
 
 ## Metadata
@@ -22,3 +34,11 @@
 * Creating visual artifacts of ideas ([Location 1188](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1188))
 * Research on cognition has shown that our basic mode of thinking is not abstract reasoning and planning, but “interacting via perception and action with the environmental situation.” ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1189))
 * Essentially, it’s easier for us to interact with physical objects in the environment than with abstract ideas in our heads. ([Location 1192](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1192))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

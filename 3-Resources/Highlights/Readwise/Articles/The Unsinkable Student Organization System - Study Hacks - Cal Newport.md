@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Unsinkable Student Organization System - Study Hacks - Cal Newport
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Rule #3: Use a Calendar Backup Notebook.
   As I’ve pleaded many times before, you must keep a calendar that you check at the same time every day. (I like Google’s calendar, but anything works.) This simple addition to your student life will save you significant stress.
   In addition to this calendar, however, my unsinkable organization system asks that you keep a small spiral-bound notebook with you at all times. When you encounter a date, appointment, or deadline, record it in this notebook. When you next review your calendar, add the dates from your notebook. (If you use a time management system like GTDCS, this can be the same notebook you use for task capture.) This ensures that you’re never scratching your head to remember what you’re responsible for and when.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - `dbx`
 
 *Source: [ankane/dbx: A fast, easy-to-use database library for R (github.com)](https://github.com/ankane/dbx)*
@@ -641,3 +653,11 @@ devtools::test()
 ````dataview
 list from [[R Package - dbx]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

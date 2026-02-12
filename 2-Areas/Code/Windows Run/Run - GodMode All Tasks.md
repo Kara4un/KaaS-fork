@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Run - GodMode All Tasks
 
 *Source: [All Tasks - MajorGeeks](https://www.majorgeeks.com/files/details/all_tasks.html)*
@@ -30,3 +42,11 @@ Alternatively, run via [PowerShell](../PowerShell/PowerShell.md), *Command Line*
 ````dataview
 list from [[Run - GodMode All Tasks]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

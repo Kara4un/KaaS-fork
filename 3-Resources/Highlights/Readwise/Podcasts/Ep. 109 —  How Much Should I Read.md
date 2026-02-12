@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 109 —  How Much Should I Read?
 
 ## Metadata
@@ -34,3 +46,11 @@
   month is
   Speaker 1
   a lot more than two chapters a day, but two chapters a day is a good base line. Now, how do i find day time to do this? ([Time 1:03:26](https://share.snipd.com/snip/7075dd53-1a8e-48bf-8a55-09e1fee0a1b3))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

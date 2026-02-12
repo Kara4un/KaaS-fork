@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Completing Tasks — 10 Steps to Finishing What You Start
 
 ## Metadata
@@ -12,3 +24,11 @@
 * It’s easy to start a project. For a lot of us, finishing projects is the difficult bit. Here’s my guide to completing tasks.
 * “Decide on your most important task. Begin immediately and work on that task with self-discipline until it is 100% complete. In life, all success comes from completing tasks. It’s not from working at tasks, it’s from completing tasks. It is only when you complete tasks that you become successful.”
   – Brian Tracy
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

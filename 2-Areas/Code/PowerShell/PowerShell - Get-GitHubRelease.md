@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Get-GitHubRelease
 
 *Source: [Get-GitHubRelease.ps1](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a)*
@@ -93,3 +105,11 @@ Function Get-GitHubRelease {
 ````dataview
 list from [[PowerShell - Get-GitHubRelease]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

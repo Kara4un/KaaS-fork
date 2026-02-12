@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Cumulative Distribution Functions
 
 *Source: [sql-snippets/Cumulative distribution functions.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/mssql/Cumulative%20distribution%20functions.md)*
@@ -73,3 +85,11 @@ Output:
 ````dataview
 list from [[SQL - SQL Server - Cumulative Distribution Functions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

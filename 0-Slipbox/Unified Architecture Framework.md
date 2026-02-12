@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Model Based Systems Engineering
 
 *Source: [Unified Architecture Framework™ (UAF™) | Object Management Group](https://www.omg.org/hot-topics/uaf.htm)*
@@ -30,3 +42,11 @@ UAF Profile (UAFP) enables the extraction of specified and custom views from an 
 ````dataview
 list from [[Model Based Systems Engineering]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

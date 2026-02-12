@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # PostgreSQL Triggers
 
 *Source: [Introduction to PostgreSQL Trigger](https://www.postgresqltutorial.com/introduction-postgresql-trigger/)*
@@ -241,3 +253,11 @@ The change was logged in the `employee_audits` table by the trigger.
 ````dataview
 list from [[PostgreSQL Triggers]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

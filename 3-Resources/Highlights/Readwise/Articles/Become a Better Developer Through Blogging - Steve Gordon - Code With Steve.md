@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Become a Better Developer Through Blogging - Steve Gordon - Code With Steve
 
 ## Metadata
@@ -27,3 +39,11 @@
 * Lift Your Career and Expand Your Horizons ([View Highlight](https://instapaper.com/read/1363240904/14671713))
 * From a career perspective, a blog can really help you stand out from the crowd. Employers can see that you have a body of work and experience. It shows dedication and a passion for your craft. It helps highlight you as someone who will move a project forward with an eye for making things better. It demonstrates your experience and knowledge far better than any CV (résumé). ([View Highlight](https://instapaper.com/read/1363240904/14671716))
 * The short summary of everything above is – start a blog. That’s it! Don’t overthink it. Try it for a few months and see how you get on. Learn and adapt as you go. It’s been one of the best things I’ve done to help my career and to become one small part of the fantastic .NET community. Let me know if you get started with a blog after reading this! ([View Highlight](https://instapaper.com/read/1363240904/14671722))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

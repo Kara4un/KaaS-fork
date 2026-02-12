@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Pay Off Your Debt: Tools and Tips
 
 ## Metadata
@@ -30,3 +42,11 @@
   Make more money: Pick up a side hustle or two and increase your earning power. Some can be done online and have flexible hours.
   Consider consolidation: Debt consolidation, with a personal loan or a credit card, can lower your interest rate so you’re putting more money toward your balance.
   Don’t be afraid of debt relief: If you’re not making any progress on your debts, you might want to get some help in the form of debt relief. ([View Highlight](https://instapaper.com/read/1432475639/17062510))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

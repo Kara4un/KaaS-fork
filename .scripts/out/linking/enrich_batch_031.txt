@@ -1,0 +1,20 @@
+2-Areas/Code/VBA/README.md
+3-Resources/Tools/Physical Tools/README.md
+3-Resources/Tools/Physical Tools/Physical Tools.md
+3-Resources/Tools/Physical Tools/Mnemosyne Notebooks.md
+3-Resources/Tools/Linux/xdg-user-dirs.md
+3-Resources/Tools/Linux/Linux.md
+3-Resources/Tools/Linux/Bash.md
+3-Resources/Templates/Fragments/Frontmatter-Template.md
+3-Resources/Templates/Fragments/Footer-Template.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Readwise Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Plugins.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Highlights Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Git Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Kanban Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Extract Highlights Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Dictionary Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Citations Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Advanced Tables Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Obsidian.md
+3-Resources/Tools/PKM Tools/Medium.md

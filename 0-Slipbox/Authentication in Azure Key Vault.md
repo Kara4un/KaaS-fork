@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Authentication in Azure Key Vault
 
 *Source: [Authenticate to Azure Key Vault | Microsoft Docs](https://docs.microsoft.com/en-us/azure/key-vault/general/authentication?source=docs#configure-the-key-vault-firewall)*
@@ -9,3 +21,11 @@
 ````dataview
 list from [[Authentication in Azure Key Vault]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # xdg-user-dirs
 
 *Source: [xdg-user-dirs (www.freedesktop.org)](https://www.freedesktop.org/wiki/Software/xdg-user-dirs/)*
@@ -122,3 +134,11 @@ Jimmy Briggs | \[\[\]\]
 ````dataview
 list from [[xdg-user-dirs]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

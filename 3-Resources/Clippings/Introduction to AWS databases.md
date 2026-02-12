@@ -1,8 +1,18 @@
 ---
-Date: 2022-03-23
+Date: 2022-03-23T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
-Alias: "Introduction to AWS databases"
+Tags:
+  - '#Type/Clipping'
+Alias: Introduction to AWS databases
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # Introduction to AWS databases
@@ -50,7 +60,7 @@ DynamoDB is used in IoT applications as it can store continuously incoming strea
 
 **Amazon Elastic Cache:**
 
-Services we discussed up till this point were database systems, whereas Elastic Cache as the name suggests is a Caching system. It is a fully managed service. Elastic Cache finds itself useful in applications, like updating and managing gaming leaderboards, conducting real-time analysis of customers on e-commerce sites, and processing and relaying messages on instant messaging platforms.
+Services we discussed up till this point were database systems, whereas Elastic Cache as the name suggests is a [[Caching]] system. It is a fully managed service. Elastic Cache finds itself useful in applications, like updating and managing gaming leaderboards, conducting real-time analysis of customers on e-commerce sites, and processing and relaying messages on instant messaging platforms.
 
 **Amazon Keyspaces:**
 
@@ -76,3 +86,11 @@ These are just a few of the services that AWS provides for data management. I kn
 
 -[[Obsidian Web Clipper Bookmarklet]]
 -[[3-Resources/Clippings/_README|Clippings]]
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

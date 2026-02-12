@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Environment Planning for LifeCycle Management Implementation
 
 *Source: [Environment planning - Finance & Operations | Dynamics 365 | Microsoft Docs](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/imp-lifecycle/environment-planning)*
@@ -21,3 +33,11 @@ See [Designing Cloud Implementation](Designing%20Cloud%20Implementation.md)
 ````dataview
 list from [[Environment Planning for LifeCycle Management Implementation]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

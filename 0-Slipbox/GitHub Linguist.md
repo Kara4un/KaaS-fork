@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Linguist
 
 *Source: [linguist/how-linguist-works.md at master · github/linguist](https://github.com/github/linguist/blob/master/docs/how-linguist-works.md)*
@@ -186,3 +198,11 @@ list from [[How GitHub Linguist Works]] AND -"Changelog"
 [`documentation.yml`]: /lib/linguist/documentation.yml
 [`generated.rb`]: /lib/linguist/generated.rb
 [`vendor.yml`]: /lib/linguist/vendor.yml
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

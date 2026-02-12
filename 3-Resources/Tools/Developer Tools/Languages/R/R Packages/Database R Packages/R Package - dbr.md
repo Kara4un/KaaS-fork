@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - `dbr`
 
 *Source: [daroczig/dbr: Secure database connections and convenient queries from R on the top of DBI (github.com)](https://github.com/daroczig/dbr)*
@@ -79,7 +91,7 @@ db_query('show tables', 'shinydemo')
 #> 3     CountryLanguage
 ````
 
-For more advanced usage, eg caching database connections, check `?db_connect` and the above mentioned vignette.
+For more advanced usage, eg [[Caching]] database connections, check `?db_connect` and the above mentioned vignette.
 
 ## SQL templating
 
@@ -227,3 +239,11 @@ sql_chunk('dbr.shinydemo.cities.europe_large')
 ````dataview
 list from [[R Package - dbr]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

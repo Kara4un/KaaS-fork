@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GCP Services Table
 
 <https://cloud.google.com/docs/compare/aws#service_comparisons>
@@ -45,3 +57,11 @@
 ||Vulnerability Scanning|Web Security Scanner|Amazon Inspector||
 ||Threat Detection|Event Threat Detection|Amazon GuardDuty||
 ||Microsoft Active Directory|Managed Service for Microsoft Active Directory|AWS Directory Service||
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Steps for Tracking Your Monthly Expenses - NerdWallet
 
 ## Metadata
@@ -15,3 +27,11 @@
 * 
   2. Categorize your expenses ([View Highlight](https://instapaper.com/read/1432472414/17062478))
 * Start grouping your expenses. Some credit cards automatically tag your purchases in categories like department store or automotive ([View Highlight](https://instapaper.com/read/1432472414/17062480))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 65 —  Is Productivity Bad?
 
 ## Metadata
@@ -44,3 +56,11 @@
   i could
   Speaker 1
   go work for this company. I could start my own company. I could do free lands. I could just work six months a year. So that that'd be the fourth thing i would say. ([Time 0:41:55](https://share.snipd.com/snip/00f78c7d-d77e-412e-bb07-dcb0602e630f))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

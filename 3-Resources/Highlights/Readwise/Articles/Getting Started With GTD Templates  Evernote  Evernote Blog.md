@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Getting Started With GTD Templates | Evernote | Evernote Blog
 
 ## Metadata
@@ -99,3 +111,11 @@
   Regain control and be more productive
   With a clear Project List in hand, you are ready to execute on your tasks without having to remember which balls you have in the air. The goal of GTD is for stress, tensions, and obstacles to trigger new projects, instead of emotions.
 * If you do this review from a more calm and balanced perspective, away from the chaos of the workday, you’ll find it easier to maintain perspective throughout the week. You’ll start thinking less like an individual project manager, and more like a project portfolio manager, balancing all the risks and rewards of your project portfolio as a whole.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media | DEEP QUESTIONS
 
 ## Metadata
@@ -13,3 +25,11 @@
   * Note: Summary of the book - points
 * you're starting from having absolutely no system in place? Right. So in other words, let's say you you're just realizing you need productivity in your life. How you build a productivity system from scratch. So, Mohammed, when it comes to productivity, and let me just be clear when I say productivity. Uhm, I'm talking about getting your arms around all the different stuff that you you have to do all of your different obligations so this could apply to your professional life. This could apply to your personal life. Any successful system must have three pillars. Capture, configure control. I'm sort of stretching the terms here so I could be a literate tive because I ([Time 0:25:57](https://www.airr.io/quote/5f37248fa7c7e007a599a886))
   * Note: Three pillars of productivity systems - Capture, Configure, Control
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Managing Yourself: Extreme Productivity
 
 ## Metadata
@@ -30,3 +42,11 @@
   Read more
 * Principle 6: Keep Things Short and Simple
   On a daily basis, I try to keep the material aspects of life as simple as possible in order to maximize productivity.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

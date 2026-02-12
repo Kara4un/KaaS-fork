@@ -1,0 +1,20 @@
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/List-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Kanban-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Embed-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Daily-Note-Template.md
+3-Resources/Tools/PKM Tools/Feedly.md
+3-Resources/Tools/PKM Tools/Evernote.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-NPM-Packages/NPM-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tool-Template.md
+3-Resources/Templates/Notes-From-Templates/Notes-From-Slipbox-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Shiny-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Database-Package-Template.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/Utility.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-export.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-clipper.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-blog.md
+3-Resources/Highlights/Readwise/Tweets/Liked Tweets.md
+3-Resources/Highlights/Readwise/Readwise Syncs.md
+3-Resources/Highlights/Readwise/README.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-18.md

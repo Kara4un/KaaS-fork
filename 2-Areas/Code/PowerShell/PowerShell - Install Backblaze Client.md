@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Install Backblaze Client
 
 *Source: https://gist.github.com/be28121bdd9d2b8b637f932a110b6f53#file-instbbc-ps1*
@@ -50,7 +62,6 @@ $BACKBLAZE_INSTALLER = 'install_backblaze.exe'
 # This returns the full hostname.
 $localMachineHostname = [system.net.dns]::gethostname()
 
-
 <# ################################ #>
 
 <#   All events are logged to the Application log regardless #>
@@ -90,8 +101,6 @@ if ( $installSrc ) {
     $BACKBLAZE_INSTALL_DIR = join-path $localMachineHostname "\tmp\backblaze_install_dir"
     MyOutput "WARNING: BACKBLAZE INSTALL DIRECTORY MAY NOT BE SET CORRECTLY (set to ${localMachineHostname})"
 }
-
-
 
 ##################################################
 # functions called multiple places or to clarify program logic 
@@ -211,8 +220,6 @@ function Is-Installed( $program ) {
     return $installed86 -or $installed64;
 }
 #############################################
-
-
 
 if ( Is-Installed( "Backblaze" ) ) {
 	MyThrow( "Backblaze is already installed on $localMachineHostname" )
@@ -414,7 +421,6 @@ MyOutput "localBackblazeInstallDir: $localBackblazeInstallDir"
 
 CheckPermissions ${localBackblazeInstallDir}
 
-
 # attempt to cd to our temporary directory
 try {
     set-location $localBackblazeInstallDir
@@ -497,3 +503,11 @@ if ( $ret -and $ret -ne 1001 ) {
 ````dataview
 list from [[PowerShell - Install Backblaze Client]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

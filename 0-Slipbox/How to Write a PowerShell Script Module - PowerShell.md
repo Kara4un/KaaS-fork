@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 * Article
 * 06/09/2022
 * 7 minutes to read
@@ -17,3 +29,11 @@ The following steps describe how to create a PowerShell module.
 1. Save a PowerShell script with a `.psm1` extension. Use the same name for the script and the directory where the script is saved.
    
    Saving a script with the `.psm1` extension means that you can use the module cmdlets, such as [Import-Module](/en-us/powershell/module/Microsoft.PowerShell.Core/Import-Module). The module cmdlets exist primarily so that you can import and export your code onto other user's systems. The alternate solution would be to load your code on other systems and then dot-source it into active memory, which isn't a scalable solution. For more information, see \[Understanding a Windows PowerShell Module\](understanding-a-windows-powershell-module?view
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

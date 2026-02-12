@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/How to Manage Your Time Effectively as a Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md
+3-Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md
+3-Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md
+3-Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md
+3-Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md
+3-Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md
+3-Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md
+3-Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md
+3-Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md
+3-Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md
+3-Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md
+3-Resources/Highlights/Readwise/Articles/How to Export Evernote to Google Drive.md
+3-Resources/Highlights/Readwise/Articles/How to Enhance Your Windows Batch Files by Adding GUI.md
+3-Resources/Highlights/Readwise/Articles/How to Do More With Windows 10 Using PowerToys.md
+3-Resources/Highlights/Readwise/Articles/How to Do a Weekly Review Step-By-Step.md
+3-Resources/Highlights/Readwise/Articles/How to Do a Weekly Planning Session..md
+3-Resources/Highlights/Readwise/Articles/How to Distribute Data With Your R Package - R-Hub Blog.md
+3-Resources/Highlights/Readwise/Articles/How to Develop Your Digital Space for Peak Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Design Better Data Pipelines Start With the Basics.md

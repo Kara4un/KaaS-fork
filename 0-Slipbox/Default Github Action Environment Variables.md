@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Default Github Action Environment Variables
 
 *Source: https://docs.github.com/en/actions/learn-github-actions/environment-variables#default-environment-variables*
@@ -196,3 +208,11 @@ If you want to pass a value from a step in one job in a workflow to a step in an
 ````dataview
 list from [[Default Github Action Environment Variables]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # What in the World Is Data Engineering?
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Crude oil is extracted from an oil field. It is then sent to a distillation unit where it is separated into several products which are then sent to their users. Some pipes go straight to airports to deliver kerosene. Others go to gas storage facilitates to deliver gasoline which will be stored in big tanks before they are then distributed to gas stations. There are many pipelines tying all this together.
 * Data engineers maintain data by following a procedure similar to oil processing.
 * Companies ingest data from different sources which need to be processed and stored in various ways. To handle that, we need data pipelines.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

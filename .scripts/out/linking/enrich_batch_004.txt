@@ -1,0 +1,20 @@
+0-Slipbox/Visual Studio Code Notebooks Deepdive.md
+0-Slipbox/Views vs. Materialized Views.md.md
+0-Slipbox/VBA Data Types.md
+0-Slipbox/VBA Classes and Solid Programming Principles.md
+0-Slipbox/VBA Best Practices.md
+0-Slipbox/Using Git Worktree.md
+0-Slipbox/US GAAP LDTI - Considerations for the Modeling Actuary.md
+0-Slipbox/Unix Philosophy.md
+0-Slipbox/Unified Architecture Framework.md
+0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md
+0-Slipbox/The Secret Power of Read It Later Apps.md
+0-Slipbox/The Nuances of Processing and Organizing with GTD.md
+0-Slipbox/The Knowledge Cycle.md
+0-Slipbox/The Kimball Lifecycle.md
+0-Slipbox/The Importance of Cleaning up Data and Structuring Models.md
+0-Slipbox/Terraform and VSCode.md
+0-Slipbox/Team Data Science Process.md
+0-Slipbox/System Design.md
+0-Slipbox/Subject Area Models.md
+0-Slipbox/Stored Procedures - SQL Server.md

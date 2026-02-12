@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # FAST - Data Platforming Management Key Activities
 
 1. **Catalog** and leverage available PwC Partner Vendor Data
@@ -48,3 +60,11 @@ Modernization:
 ````dataview
 list from [[FAST - Data Platforming Management Key Activities]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

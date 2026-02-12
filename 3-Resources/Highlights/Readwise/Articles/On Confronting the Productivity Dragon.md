@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # On Confronting the Productivity Dragon
 
 ## Metadata
@@ -20,3 +32,11 @@
   Quantifying the impossibility of your assignments makes it much easier to argue for change. When you instead just battle your inbox all day, switching haphazardly between the easy and unavoidably urgent, you can convince yourself that you’re simply busy and need to hustle harder. Enumerating the absurd quantity of these demands will sharpen your conviction that something has to give.
   You can optimize. If you have 400 tasks on your list, there’s no way you can accomplish them all in a single day. But if you can see all 400 obligations in one place, then you can choose the five or six that will have the biggest impact. This is almost certainly better than just jumping on whatever caught your attention most recently.
 * In summary, I told this podcast listener not to confuse the systems with which he organizes his work for the actual quantity of work with which he has been burdened. Abandoning the former won’t reduce the latter, it will only make its metaphorical fiery breath burn all the hotter.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

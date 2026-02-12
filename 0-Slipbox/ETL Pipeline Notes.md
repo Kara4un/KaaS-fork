@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # ETL Pipeline Notes
 
 ![](https://i.imgur.com/N7AQRxE.png)
@@ -21,3 +33,11 @@ However, a general-purpose ETL instrumentation technique on the Windows platform
 ````dataview
 list from [[ETL Pipeline Notes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

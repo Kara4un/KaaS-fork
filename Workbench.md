@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Workbench
 
 [Setting up an Optimal Developer Environment on Windows](2-Areas/Content/Posts/Drafts/Setting%20up%20an%20Optimal%20Developer%20Environment%20on%20Windows.md)
@@ -70,3 +82,11 @@ list from [[Workbench]] AND -"Changelog"
 ````
 
 Data Validation Testing" ensures that the data you work with is accurate and complete, that any necesary transformations occur without loss, that your processes can handle incorrect data, and the final output is correct.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

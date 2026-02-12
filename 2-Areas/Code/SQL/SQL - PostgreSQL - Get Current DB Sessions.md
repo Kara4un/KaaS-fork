@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Get Current DB Sessions
 
 *Source: https://www.postgresql.org/docs/current/monitoring-stats.html*
@@ -26,3 +38,11 @@ GROUP BY "state"
 ````dataview
 list from [[SQL - PostgreSQL - Get Current DB Sessions]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

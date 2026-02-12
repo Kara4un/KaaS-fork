@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # An Introduction to SQL Design Patterns and Best Practices
 
 ## Metadata
@@ -32,3 +44,11 @@
 * Pattern 9: Expect the unexpected
 * Pattern 10: Start with a left join
 * By starting with a left join, you ensure that your query remains robust to future data changes.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

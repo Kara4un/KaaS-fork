@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md
+3-Resources/Highlights/Readwise/Articles/How to Declutter Your Data With No Regrets.md
+3-Resources/Highlights/Readwise/Articles/How to Declutter & Organize Your Digital Files.md
+3-Resources/Highlights/Readwise/Articles/How to Crush It at the Start of Your New Developer Job - Small Business Programming.md
+3-Resources/Highlights/Readwise/Articles/How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS.md
+3-Resources/Highlights/Readwise/Articles/How to Create and Maintain a Data Dictionary With Dataedo - Dataedo Blog.md
+3-Resources/Highlights/Readwise/Articles/How to Create an Effective Productivity Plan - Optimize Time.md
+3-Resources/Highlights/Readwise/Articles/How to Create a GitHub Profile README.md
+3-Resources/Highlights/Readwise/Articles/How to Configure Windows Settings for SQL Server With PowerShell.md
+3-Resources/Highlights/Readwise/Articles/How to Clean Your Windows Computer The Ultimate Checklist.md
+3-Resources/Highlights/Readwise/Articles/How to Choose Data Models and Databases for Your Use Case.md
+3-Resources/Highlights/Readwise/Articles/How to Check Your Windows Experience Score on Windows 10.md
+3-Resources/Highlights/Readwise/Articles/How to Build the Ultimate Productivity System.md
+3-Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System.md
+3-Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System-2.md
+3-Resources/Highlights/Readwise/Articles/How to Build a Personal Knowledge Management System - Cultivated Management.md
+3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md
+3-Resources/Highlights/Readwise/Articles/How to Bootstrapping Linux & Windows Azure VMs With Terraform.md
+3-Resources/Highlights/Readwise/Articles/How to Be More Productive Build a System and 10x Your Output - The Monk Life.md
+3-Resources/Highlights/Readwise/Articles/How to Be More Organized Declutter, Take Control, and Achieve More at Work.md

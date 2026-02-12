@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Build an Efficient Personal Knowledge Management System
 
 ## Metadata
@@ -51,3 +63,11 @@
   A powerful and cross-platform note taking solution. Each page likes an endless paper, which makes it extremely convenient for complementing new contents to an existing note.
   After the organization phase, all the organized and processed information, and information which is being organized and processed, are saved in MarginNote Pro and OneNote.
 * Ulysses for most of my writing tasks. Ulysses is a decent Markdown editor app which can make me concentrate on typing and enjoy writing.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

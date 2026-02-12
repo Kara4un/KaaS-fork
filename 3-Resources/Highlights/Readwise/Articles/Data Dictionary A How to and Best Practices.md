@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Dictionary: A How to and Best Practices
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Publish the data dictionary as a single page document where it is accessible to the whole company — thus, not just in a BI tool. These definitions should be widely understood and adopted, not just by execs, analysts, and decision makers, but by all staff. Therefore, visibility is crucial. If the company uses a wiki heavily, them publish there. It should should be where people expect.
 * For instance, at Warby Parker, our data dictionary was generated from a Jenkins job. If the repository was modified, it regenerated our documentation (a dedicated internal website or “data book” for all data documentation).
 * Do not let different systems get out of sync; hence, why auto-generation of documentation is valuable.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

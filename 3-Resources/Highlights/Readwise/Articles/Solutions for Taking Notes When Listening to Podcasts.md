@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Solutions for Taking Notes When Listening to Podcasts
 
 ## Metadata
@@ -21,3 +33,11 @@
   Cumbersome? Yes, especially when exercising. But, it’s better than listening to a podcast, hearing something really interesting and then wracking my brain later desperately trying to recall it.
   What all of this really points to is how nascent the podcasting space still is. The tooling is still underdeveloped. I’ve already highlighted the issues with podcast discovery in another post, but annotations are another (don’t get me started on podcast community and user dialogue, that’s a third area that is woefully untapped). Hopefully these shortcoming will be addressed someday by clever entrepreneurs. In the meantime, enthusiasts like me will employ our suboptimal, but practical workarounds.
   Update: I have posted a new article on this topic that looks at iOS apps with podcast note-taking capabilities: More Solutions for Taking Podcast Notes: An App Overview.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

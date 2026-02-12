@@ -1,0 +1,1872 @@
+README.md
+Workbench.md
+Changelog.md
+2-Areas/README.md
+3-Resources/_README.md
+content/index.md
+1-Projects/README.md
+ontology/Glossary-Key-Terms.md
+ontology/Document-Types.md
+ontology/Core-Domains.md
+2-Areas/Agendas/README.md
+2-Areas/2-Areas.md
+2-Areas/Learning/Technical Learning List.md
+2-Areas/Learning/README.md
+2-Areas/Learning/Areas of Expertise.md
+2-Areas/Learning/2022 Learning List.md
+2-Areas/People/Tiago Forte.md
+2-Areas/People/Scott Hanselman.md
+2-Areas/People/README.md
+2-Areas/People/Ralph Kimball.md
+2-Areas/People/Niklas Luhmann.md
+2-Areas/People/Nick Janetakis.md
+2-Areas/People/Justin DiRose.md
+2-Areas/People/John Sonmez.md
+2-Areas/People/Democritas - The Father of Atoms.md
+2-Areas/People/Bill Inmon.md
+2-Areas/Goals/README.md
+2-Areas/Goals/2022 Areas of Focus and Goal Planning.md
+2-Areas/MOCs/Web Development.md
+2-Areas/MOCs/README.md
+2-Areas/MOCs/PowerShell.md
+2-Areas/MOCs/Physics.md
+2-Areas/MOCs/Development.md
+2-Areas/MOCs/Data Engineering.md
+0-Slipbox/Zettelkasten.md
+0-Slipbox/XDG Base Directory Specification.md
+0-Slipbox/WSL Initial Setup Notes.md
+0-Slipbox/Working with the Registry from PowerShell.md
+0-Slipbox/Windows Themes.md
+0-Slipbox/Windows Shell Commands.md
+0-Slipbox/Windows Dotfiles Musings.md
+0-Slipbox/Windows Batch Scripting Common Shortcuts.md
+0-Slipbox/What is a Frontend Developer.md
+0-Slipbox/Weekly Review Musings.md
+0-Slipbox/Web Applications over Excel.md
+0-Slipbox/Web Application Architecture.md
+0-Slipbox/Visual Studio Code Notebooks Deepdive.md
+0-Slipbox/Views vs. Materialized Views.md.md
+0-Slipbox/VBA Data Types.md
+0-Slipbox/VBA Classes and Solid Programming Principles.md
+0-Slipbox/VBA Best Practices.md
+0-Slipbox/Using Git Worktree.md
+0-Slipbox/US GAAP LDTI - Considerations for the Modeling Actuary.md
+0-Slipbox/Unix Philosophy.md
+0-Slipbox/Unified Architecture Framework.md
+0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md
+0-Slipbox/The Secret Power of Read It Later Apps.md
+0-Slipbox/The Nuances of Processing and Organizing with GTD.md
+0-Slipbox/The Knowledge Cycle.md
+0-Slipbox/The Kimball Lifecycle.md
+0-Slipbox/The Importance of Cleaning up Data and Structuring Models.md
+0-Slipbox/Terraform and VSCode.md
+0-Slipbox/Team Data Science Process.md
+0-Slipbox/System Design.md
+0-Slipbox/Subject Area Models.md
+0-Slipbox/Stop Reading Junk and Start Using Instapaper.md
+0-Slipbox/SQLAlchemy ORM.md
+0-Slipbox/SQL Stored Procedures Best Practices.md
+0-Slipbox/SQL Stored Procedures - Cursors.md
+0-Slipbox/SQL Server Useful Queries.md
+0-Slipbox/SQL Server System Functions.md
+0-Slipbox/SQL Server DBA Database Management Checklist Table.md
+0-Slipbox/SQL - Window Functions.md
+0-Slipbox/SQL - Common Table Expressions or CTEs.md
+0-Slipbox/Software Engineering Career Notes.md
+0-Slipbox/Simulating Actuarial Claims Data with R.md
+0-Slipbox/Silent Installations.md
+0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md
+0-Slipbox/REST API Resource Naming.md
+0-Slipbox/REST API Methods.md
+0-Slipbox/REST API Idempotence.md
+0-Slipbox/REST API HTTP Status Codes.md
+0-Slipbox/REST API Best Practices.md
+0-Slipbox/Reproducible Research.md
+0-Slipbox/Reproducible Data Science with Azure Machine Learning.md
+0-Slipbox/Relational Databases.md
+0-Slipbox/README.md
+0-Slipbox/Random Forest Algorithms.md
+0-Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md
+0-Slipbox/R Packages to Review.md
+0-Slipbox/R - Useful Basic R Housekeeping Commands.md
+0-Slipbox/R - Packages for Viewing and Editing Data.md
+0-Slipbox/R - Connect Shiny to PostgreSQL Database.md
+0-Slipbox/QuickSight IAM Permissions.md
+0-Slipbox/Property Casualty Loss Reserving Methodologies.md
+0-Slipbox/Property Casualty Data Model.md
+0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md
+0-Slipbox/Progressive Summarization.md
+0-Slipbox/Problems with No-Code and Low-Code Tools.md
+0-Slipbox/Probability Theory.md
+0-Slipbox/Primary Key Constraints in Relational Databases.md
+0-Slipbox/PostgreSQL.md.md
+0-Slipbox/PostgreSQL Triggers.md
+0-Slipbox/PostgreSQL Tools.md.md
+0-Slipbox/PostgreSQL Stored Procedures and Functions Notes.md
+0-Slipbox/Portable Apps.md
+0-Slipbox/Personal Backup Strategy.md
+0-Slipbox/PARA Method.md
+0-Slipbox/Organizing Files and Folders as a Developer.md
+0-Slipbox/Notes on Database Indexing and Primary Keys.md
+0-Slipbox/Note Taking and The Internet Best Practices.md
+0-Slipbox/No-Code and Low-Code.md
+0-Slipbox/Neural Networks.md
+0-Slipbox/Multi-Process Task Queue in R.md
+0-Slipbox/mssql-scripter Usage.md
+0-Slipbox/Modern Data Pipeline Complexities.md
+0-Slipbox/Modern Data Integration - Data Engineering.md
+0-Slipbox/Modern Data Architecture on AWS.md
+0-Slipbox/MLOps.md
+0-Slipbox/Miniature Insurance Economic Simulator.md
+0-Slipbox/Memoization.md
+0-Slipbox/Managing Managers.md
+0-Slipbox/Machine Learning.md
+0-Slipbox/Loss Triangles.md
+0-Slipbox/Loss Data Analytics.md
+0-Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md
+0-Slipbox/Linux Commands - visudo.md
+0-Slipbox/Kimball Techniques for Data Warehousing.md
+0-Slipbox/Keep a Changelog.md
+0-Slipbox/KasaAI GitHub Organization.md
+0-Slipbox/Jupyter Ecosystem in the Cloud.md
+0-Slipbox/Interpolation of Cumulative Loss Development Factors.md
+0-Slipbox/Interest Rate Theory.md
+2-Areas/Guides/WSL Terminal and Shell Setup Guide.md
+2-Areas/Guides/Windows Developer Environment.md
+2-Areas/Guides/VBA Coding Standards.md
+2-Areas/Guides/README.md
+2-Areas/Guides/Querying Data from PostgreSQL Database.md
+2-Areas/Guides/Optimize Windows 11 Explorer with QTTabBar.md
+2-Areas/Guides/Guide for Developing and Designing a Relational Database.md
+2-Areas/Guides/Excel Developer Setup Guide.md
+2-Areas/Guides/Azure Setup Guide.md
+2-Areas/Guides/Add a GUI to Batch File Scripts on Windows.md
+2-Areas/Content/Ideas/The Best Weapon for Deciding What to Write About.md
+2-Areas/Content/Ideas/RMarkdown Template for Developing a Package with Best Practices.md
+2-Areas/Content/Ideas/README.md
+2-Areas/Content/Ideas/Committing to Consistency with Your Blog.md
+2-Areas/Content/Ideas/Blog Post Ideas List.md
+2-Areas/Content/Ideas/Blog Post Ideas Brainstorming Helpers.md
+2-Areas/Content/Sites/The R Dispatch.md
+2-Areas/Content/Sites/The 'jimbrig' Universe.md
+2-Areas/Content/Sites/README.md
+2-Areas/Content/Sites/JimsVault.md
+2-Areas/Content/Sites/JimsDocs.md
+2-Areas/Content/Sites/Devfolio.md
+2-Areas/Content/README.md
+2-Areas/Mindsweeps/README.md
+2-Areas/Mindsweeps/2021-12-07.md
+2-Areas/Daily-Notes/README.md
+2-Areas/Daily-Notes/2022-11-08.md
+2-Areas/Daily-Notes/2022-10-21.md
+2-Areas/Daily-Notes/2022-10-02.md
+2-Areas/Daily-Notes/2022-09-24.md
+2-Areas/Daily-Notes/2022-09-23.md
+2-Areas/Daily-Notes/2022-09-20.md
+2-Areas/Daily-Notes/2022-09-18.md
+2-Areas/Daily-Notes/2022-09-17.md
+2-Areas/Daily-Notes/2022-09-07.md
+2-Areas/Daily-Notes/2022-09-05.md
+2-Areas/Daily-Notes/2022-04-24.md
+3-Resources/Embeds/Todoist-Embed.md
+3-Resources/Embeds/thiscodeWorks Code Snippets.md
+3-Resources/Embeds/README.md
+3-Resources/Embeds/Embeds.md
+3-Resources/Embeds/dbDiagram.md
+0-Slipbox/INBOX/Windows Links.md
+0-Slipbox/INBOX/Views vs. Materialized Views.md.md
+0-Slipbox/INBOX/Test Driven Development (TDD).md
+0-Slipbox/INBOX/RMarkdown.md
+0-Slipbox/INBOX/RMarkdown Tabset.md
+0-Slipbox/INBOX/PostgreSQL.md.md
+0-Slipbox/INBOX/PostgreSQL Tools.md.md
+0-Slipbox/INBOX/iOS Shortcuts - Share your ideas! - Share & showcase - Obsidian Forum.md
+0-Slipbox/INBOX/Guide - Setup oh-my-zsh.md
+0-Slipbox/INBOX/Firefox Developer Edition.md.md
+0-Slipbox/INBOX/Docker.md.md
+0-Slipbox/INBOX/Docker Profiles.md
+0-Slipbox/INBOX/Docker Compose V2.md
+0-Slipbox/INBOX/Database GUIs.md.md
+0-Slipbox/Improve Productivity through Clarification and Communication.md
+0-Slipbox/Import CSV Files into PostgreSQL Table.md
+0-Slipbox/Ideas for Organizing Digital Files and Folders - Microsoft 365.md
+0-Slipbox/How to Write a PowerShell Script Module - PowerShell.md
+0-Slipbox/How to take a Digital Note.md
+0-Slipbox/How To Open Local Drive Index in Web Browser.md
+0-Slipbox/How to create a passwordless sudoer on Linux.md
+0-Slipbox/GTD Mindsweep.md
+0-Slipbox/GPG Key Management and Encryption.md
+0-Slipbox/Goals of a Note Taking System.md
+0-Slipbox/GitHub Linguist.md
+0-Slipbox/GitHub Apps.md
+0-Slipbox/Git Reverting Commits.md
+0-Slipbox/Git Checkout Remote Branch.md
+0-Slipbox/Git - Setting up GitHub Keys.md
+0-Slipbox/Geospatial.md
+0-Slipbox/Generalized Linear Models.md
+0-Slipbox/Generalized Additive Models.md
+0-Slipbox/GCP Sketchnote Diagrams.md
+0-Slipbox/Functional Consultant and Solution Architects.md
+0-Slipbox/Frontend Development Tools and Skills.md
+0-Slipbox/Free Actuarial System for Loss Reserving.md
+0-Slipbox/Foreign Key Constraints in Relational Databases.md
+3-Resources/Templates/Work-Templates/PwC-Template.md
+3-Resources/Templates/Work-Templates/Initiative-Template.md
+3-Resources/Templates/Work-Templates/Colleague-Template.md
+3-Resources/Templates/Templates.md
+2-Areas/Meta/Vault Setup.md
+2-Areas/Meta/Unresolved-Links.md
+2-Areas/Meta/Unlinked-Files.md
+2-Areas/Meta/Tagless-Files.md
+2-Areas/Meta/Structure.md
+2-Areas/Meta/README.md
+2-Areas/Meta/Publish Workflow.md
+2-Areas/Meta/How I Take Notes.md
+2-Areas/Meta/About.md
+2-Areas/Content/Posts/README.md
+1-Projects/Personal/Record Collection.md
+3-Resources/Dictionary/VOBA.md
+3-Resources/Dictionary/Synapse.md
+3-Resources/Dictionary/README.md
+3-Resources/Dictionary/Polymath.md
+3-Resources/Dictionary/Liaise (en-US).md
+3-Resources/Dictionary/Disparate.md
+3-Resources/Dictionary/Dictionary.md
+3-Resources/Dictionary/Augment (en-US).md
+3-Resources/Tools/Web Browsers/Web Browsers.md
+3-Resources/Tools/Web Browsers/README.md
+3-Resources/Tools/Web Browsers/Microsoft Edge.md
+3-Resources/Tools/Web Browsers/Google Chrome.md
+3-Resources/Tools/Web Browsers/Firefox Developer.md
+3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md
+0-Slipbox/Fleeting/Views vs. Materialized Views.md.md
+0-Slipbox/Fleeting/PostgreSQL.md.md
+0-Slipbox/Fleeting/PostgreSQL Tools.md.md
+0-Slipbox/Fleeting/Firefox Developer Edition.md.md
+0-Slipbox/Fleeting/Docker.md.md
+0-Slipbox/Fleeting/Database GUIs.md.md
+0-Slipbox/Flask and Docker.md
+0-Slipbox/Firefox Developer Edition.md.md
+0-Slipbox/Features of a Data Warehouse.md
+0-Slipbox/Fact Table Structure.md
+0-Slipbox/Export CSV from PostgreSQL Table.md
+0-Slipbox/Exploring Terraform on Azure.md
+0-Slipbox/ETL.md
+0-Slipbox/ETL Pipeline Notes.md
+0-Slipbox/ETL Data Warehousing Best Practices.md
+0-Slipbox/Environment Planning for LifeCycle Management Implementation.md
+0-Slipbox/Enterprise Data Management.md
+0-Slipbox/Embracing the Model-View-ViewModel Architecture.md
+0-Slipbox/ELT.md
+0-Slipbox/ELT Cloud Based Pipeline Architecture.md
+0-Slipbox/ELT Architecture in Azure Cloud.md
+0-Slipbox/Edge Search Engines.md
+0-Slipbox/dplyr as a Database Interface for R.md
+0-Slipbox/Documenting PowerShell Modules.md
+0-Slipbox/Docker.md.md
+0-Slipbox/Dimensional Modeling.md
+0-Slipbox/Digital Garden.md
+0-Slipbox/Digital Declutter Musings.md
+0-Slipbox/Development Best Practices - Testing.md
+0-Slipbox/Development Best Practices - Staying Organized.md
+0-Slipbox/Development Best Practices - Follow Defined Standards.md
+0-Slipbox/Development Best Practices - Documentation before Development.md
+0-Slipbox/Development Best Practices - Document and Keep Tools and Techniques Handy.md
+0-Slipbox/Developing PowerShell Modules and Functions.md
+0-Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md
+0-Slipbox/Developer Notebooks.md
+0-Slipbox/Designing Cloud Implementation.md
+0-Slipbox/Deployment.md
+0-Slipbox/Default Github Action Environment Variables.md
+0-Slipbox/dbatools - Command Index.md
+0-Slipbox/Database Views vs Materialized Views.md
+0-Slipbox/Database Management System (DBMS).md
+0-Slipbox/Database GUIs.md.md
+0-Slipbox/Database Design Best Practices.md
+0-Slipbox/Database Connection Pooling.md
+0-Slipbox/Data Warehousing Roadmap.md
+0-Slipbox/Data Warehousing for Insurance Data.md
+0-Slipbox/Data Warehousing Concepts and Definitions.md
+0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md
+0-Slipbox/Data Warehouse.md
+0-Slipbox/Data Warehouse for Insurance.md
+0-Slipbox/Data Versioning.md
+0-Slipbox/Data Transformation.md
+0-Slipbox/Data Science Lifecycle.md
+0-Slipbox/Data Pipelines.md
+0-Slipbox/Data Pipeline Architecture.md
+0-Slipbox/Data Mart.md
+0-Slipbox/Data Lake.md
+0-Slipbox/Data Lake Testing Strategy.md
+0-Slipbox/Data Engineers.md
+0-Slipbox/Data Engineering and Its Main Concepts.md
+0-Slipbox/Data Definition Language.md
+0-Slipbox/Data Cataloging.md
+0-Slipbox/Credibility Theory.md
+0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md
+0-Slipbox/Creating a data dictionary with SQL.md
+0-Slipbox/Create Custom Bootable Windows Media from Command Line.md
+0-Slipbox/Consideration and Concerns Regarding AWS Data Architecture.md
+0-Slipbox/Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse.md
+0-Slipbox/Collectors Fallacy.md
+0-Slipbox/Code Coverage.md
+0-Slipbox/Cloud Computing.md
+0-Slipbox/CHECK Constraints in Relational Databases.md
+0-Slipbox/CAS - Casualty Actuarial Society.md
+0-Slipbox/Caching.md
+0-Slipbox/Business Process Model and Notation.md
+0-Slipbox/Building a Second Brain.md
+0-Slipbox/Build a Lakehouse Architecture on AWS.md
+0-Slipbox/Boost your career as a software developer through blogging.md
+0-Slipbox/Bayesian Statistics.md
+0-Slipbox/Batch Scripting Tips and Tricks.md
+0-Slipbox/Base Package Hidden Gems in R.md
+0-Slipbox/Azure Terraform Bootstrap Walkthrough.md
+0-Slipbox/AWS S3 Data Lake Layers and Buckets Best Practices.md
+0-Slipbox/Authentication in Azure Key Vault.md
+0-Slipbox/Atomic Notes.md
+0-Slipbox/API Design.md
+0-Slipbox/API Authentication.md
+0-Slipbox/API Architecture - Performance Best Practices.md
+0-Slipbox/Annual Goals and Life Domains.md
+0-Slipbox/An Overview of HTML CSS and JavaScript.md
+0-Slipbox/Alteryx vs Code.md
+0-Slipbox/Agile Development.md
+0-Slipbox/Actuarial Science - Life Insurance Terms - Topsides.md
+0-Slipbox/Actuarial Property Casualty Data Thoughts.md
+0-Slipbox/Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain.md
+0-Slipbox/Actuarial Experience Studies.md
+0-Slipbox/Actuarial Exams.md
+0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md
+0-Slipbox/About Data Requirements.md
+0-Slipbox/0-Slipbox.md
+2-Areas/Logs/README.md
+2-Areas/Logs/Log - New Discoveries.md
+1-Projects/Professional/PwC/FAST - Factory for Actuarial Solution Technology.md
+1-Projects/Professional/PwC/FAST - Data Platforming Management Key Activities.md
+3-Resources/Clippings/using dacpac functions to clone sql server databases.md
+3-Resources/Clippings/Table Loading Strategies in Data warehousing.md
+3-Resources/Clippings/SQL Server PowerShell - SQL Server.md
+3-Resources/Clippings/SQL Command Prompt Utilities - SQL Server.md
+3-Resources/Clippings/Selectively modernizing and migrating applications to AWS.md
+3-Resources/Clippings/README.md
+3-Resources/Clippings/Obsidian-Clipper.md
+1-Projects/Personal/lossrx/Workflows.md
+1-Projects/Personal/lossrx/README.md
+1-Projects/Personal/lossrx/Functions.md
+1-Projects/Personal/lossrx/Data.md
+1-Projects/Personal/lossrx/Application and API.md
+1-Projects/1-Projects.md
+2-Areas/Content/Posts/Published/README.md
+2-Areas/Content/Posts/Published/Getting to know .Renviron.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-10.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-09.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-06.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-05.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-04.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-03.md
+2-Areas/Daily-Notes/2022/2022-09/2022-09-02.md
+2-Areas/Code/Windows Run/Windows Run.md
+2-Areas/Code/Windows Run/Run - Startup.md
+2-Areas/Code/Windows Run/Run - Resource Monitor.md
+2-Areas/Code/Windows Run/Run - Obsidian Vault Launcher.md
+2-Areas/Code/Windows Run/Run - GodMode All Tasks.md
+2-Areas/Code/Windows Run/Run - Cleanup.md
+2-Areas/Code/Windows Run/Run - Check for Windows Store App Updates.md
+2-Areas/Code/Windows Run/README.md
+3-Resources/Tools/Web Browsers/Firefox/Firefox.md
+3-Resources/Tools/Web Browsers/Firefox/Firefox Developer.md
+2-Areas/Lists/Ten Step GTD Setup List.md
+2-Areas/Lists/SQL Server List of Tools and Scripts.md
+2-Areas/Lists/REST API Resources List.md
+2-Areas/Lists/README.md
+2-Areas/Lists/R Shiny Packages List.md
+2-Areas/Lists/R Package Development Resources List.md
+2-Areas/Lists/R on the Web - List of Links.md
+2-Areas/Lists/R - Database Packages List.md
+2-Areas/Lists/R - Data Validation Packages List.md
+2-Areas/Lists/Productivity Apps List.md
+2-Areas/Lists/PostgreSQL Tools List.md
+2-Areas/Lists/Online Developer Tools List.md
+2-Areas/Lists/Obsidian Plugins List.md
+2-Areas/Lists/List of Python Flask Resources.md
+2-Areas/Lists/List of APIs I use Frequently.md
+2-Areas/Lists/Learn to Code Platforms Master List.md
+2-Areas/Lists/Global Inbox Zero Checklist.md
+2-Areas/Lists/Excel VBA Resource List.md
+2-Areas/Lists/Excel Automation Resources.md
+2-Areas/Lists/Database Modeling Tools.md
+2-Areas/Lists/Database GUIs List.md
+2-Areas/Lists/Data Engineering Master List of Resources.md
+2-Areas/Lists/CLI Tools List.md
+2-Areas/Lists/AWS Components Master List.md
+2-Areas/Lists/Awesome R Package Development List.md
+2-Areas/Lists/APIs I Use.md
+2-Areas/Lists/Advanced Programming Concepts List.md
+2-Areas/Lists/Actuarial Development Master Resource List.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-Productivity-Template.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-Productivity-GTD-Template.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-PKM-Template.md
+3-Resources/3-Resources.md
+3-Resources/Book-Notes/README.md
+3-Resources/Clippings/Devise an AWS tagging strategy.md
+3-Resources/Clippings/Developing flexible ETL pipelines between databases with Apache Airflow.md
+3-Resources/Clippings/Database Design Best Practices.md
+3-Resources/Clippings/Clippings.md
+3-Resources/Clippings/Best Practices How To Design a Database.md
+3-Resources/Clippings/Actuarial risk analysis and financial modeling.md
+3-Resources/Clippings/5 steps for closing the cloud value gap with AWS.md
+3-Resources/Clippings/10 Free must-use Tools for Developers you probably have never of.md
+1-Projects/Professional/Client/RLUS.md
+1-Projects/Professional/Client/RLUS ASTP - Topsides Architecture.md
+3-Resources/Clippings/Is your controls strategy keeping pace with DevOps-.md
+3-Resources/Clippings/Introduction to AWS databases.md
+3-Resources/Clippings/How to Write a PowerShell Script Module - PowerShell.md
+3-Resources/Clippings/How I Capture Fleeting Notes in Obsidian.md
+3-Resources/Clippings/Obsidian-Bookmarks/Obsidian-Bookmarks.md
+3-Resources/Clippings/Next in insurance Top insurance industry issues in 2022.md
+2-Areas/Code/Windows Misc/Windows Misc.md
+2-Areas/Code/Windows Misc/README.md
+2-Areas/Code/Windows Misc/Add Tabs to Windows 11 Explorer.md
+2-Areas/Content/Posts/Drafts/Setting up an Optimal Developer Environment on Windows.md
+2-Areas/Content/Posts/Drafts/README.md
+3-Resources/Book-Notes/SQL-for-Data-Scientists/README.md
+3-Resources/Book-Notes/SQL-for-Data-Scientists/Chapter 2 - SELECT Statement.md
+3-Resources/Book-Notes/SQL-for-Data-Scientists/Chapter 1 - Data Sources.md
+3-Resources/Templates/Code-Templates/Code-CMD-Template.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-31.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-28.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-25.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-18.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-16.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-15.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-12.md
+2-Areas/Daily-Notes/2022/2022-08/2022-08-11.md
+3-Resources/Templates/Code-Templates/Code-VBA-Template.md
+3-Resources/Templates/Code-Templates/Code-Template.md
+3-Resources/Templates/Code-Templates/Code-SQL-Template.md
+3-Resources/Templates/Code-Templates/Code-Registry-Template.md
+3-Resources/Templates/Code-Templates/Code-R-Template.md
+3-Resources/Templates/Code-Templates/Code-Python-Template.md
+3-Resources/Templates/Code-Templates/Code-PowerShell-Template.md
+3-Resources/Templates/Code-Templates/Code-GHA-Template.md
+3-Resources/Citations/README.md
+3-Resources/Citations/Citations.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Actuarial-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-R-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Python-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-PowerShell-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Data-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Cloud-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-CLI-Template.md
+3-Resources/Tools/Web Browsers/Edge/Microsoft Edge.md
+3-Resources/Tools/Web Browsers/Edge/Edge.md
+3-Resources/Clippings/MarkDownloads/Tip Special Frontmatter Fields · coddingtonbearobsidian-web Wiki.md
+3-Resources/Clippings/MarkDownloads/README.md
+3-Resources/Clippings/MarkDownloads/MarkDownloads.md
+3-Resources/Clippings/MarkDownloads/Getting Started with SwaggerHub.md
+3-Resources/Clippings/MarkDownloads/Design First or Code First API Development.md
+3-Resources/Clippings/Mark Down Cheatsheet.md
+2-Areas/Code/Windows Batch/Windows Batch.md
+2-Areas/Code/Windows Batch/README.md
+2-Areas/Code/Windows Batch/Batch - Python Virtual Environment.md
+2-Areas/Code/Windows Batch/Batch - MediaCreationTool.md
+2-Areas/Code/Windows Batch/Batch - Magic Variables.md
+3-Resources/Templates/Areas-Templates/Weekly-Review-Template.md
+3-Resources/Templates/Areas-Templates/Mindsweep-Template.md
+3-Resources/Templates/Areas-Templates/Meta-Template.md
+3-Resources/Templates/Areas-Templates/Log-Template.md
+3-Resources/Templates/Areas-Templates/Guide-Template.md
+3-Resources/Templates/Areas-Templates/Daily-Note-Template.md
+3-Resources/Templates/Areas-Templates/Blog-Post-Template.md
+3-Resources/README.md
+3-Resources/Tools/PKM Tools/Zotero.md
+3-Resources/Tools/PKM Tools/Readwise.md
+3-Resources/Tools/PKM Tools/PKM Tools.md
+2-Areas/Content/Posts/Actuarial Posts/README.md
+2-Areas/Content/Posts/Actuarial Posts/Part III - Actuarial Reserve and Cash Flow Analyses.md
+2-Areas/Content/Posts/Actuarial Posts/Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis.md
+2-Areas/Content/Posts/Actuarial Posts/Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses.md
+3-Resources/Literature-Notes/README.md
+3-Resources/Literature-Notes/Literature-Notes.md
+2-Areas/Daily-Notes/2022/2022-06/2022-06-24.md
+2-Areas/Daily-Notes/2022/2022-06/2022-06-03.md
+2-Areas/Daily-Notes/2022/2022-06/2022-06-02.md
+3-Resources/Tools/Web Browsers/Chrome/Google Chrome.md
+3-Resources/Tools/Web Browsers/Chrome/Chrome.md
+3-Resources/Templates/README.md
+2-Areas/Code/Visual Basic/Visual Basic.md
+2-Areas/Code/Visual Basic/VBS - Import Excel Code.md
+2-Areas/Code/Visual Basic/VBS - Export Excel Code.md
+3-Resources/Podcasts/README.md
+3-Resources/Podcasts/Podcasts.md
+3-Resources/PDFs/README.md
+3-Resources/PDFs/PDFs.md
+3-Resources/Kanbans/README.md
+3-Resources/Kanbans/Kanbans.md
+2-Areas/Daily-Notes/2022/2022-04/2022-04-03.md
+3-Resources/Templates/Personal-Templates/Person-Template.md
+3-Resources/Templates/Project-Templates/Project-Template.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Zotero Connector.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Tab Session Manager.md
+3-Resources/Tools/Web Browsers/Browser Extensions/README.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Raindrop.io.md
+3-Resources/Tools/Web Browsers/Browser Extensions/OneTab.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Momentum.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Markdownload.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Keeper Password Manager.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Dark Reader.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Browser Extensions.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Readme-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/List-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Kanban-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Embed-Template.md
+3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Daily-Note-Template.md
+3-Resources/Tools/PKM Tools/Feedly.md
+3-Resources/Tools/PKM Tools/Evernote.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-NPM-Packages/NPM-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tool-Template.md
+3-Resources/Templates/Notes-From-Templates/Notes-From-Slipbox-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Shiny-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Package-Template.md
+3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Database-Package-Template.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/Utility.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-export.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-clipper.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-blog.md
+3-Resources/Highlights/Readwise/Tweets/Liked Tweets.md
+3-Resources/Highlights/Readwise/Readwise Syncs.md
+3-Resources/Highlights/Readwise/README.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-18.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-16.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-15.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-14.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-13.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-12.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-11.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-10.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-09.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-08.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-06.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-04.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-03.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-02.md
+2-Areas/Daily-Notes/2022/2022-02/2022-02-01.md
+2-Areas/Code/VBA/VBA.md
+2-Areas/Code/VBA/VBA - Useful Utilities.md
+2-Areas/Code/VBA/VBA - Unhide All Worksheets.md
+2-Areas/Code/VBA/VBA - Unhide all Rows and Columns.md
+2-Areas/Code/VBA/VBA - SQL Stored Procedure Caller Module.md
+2-Areas/Code/VBA/VBA - Save All.md
+2-Areas/Code/VBA/VBA - Refresh All.md
+2-Areas/Code/VBA/VBA - Progress Bar in the Status Bar.md
+2-Areas/Code/VBA/VBA - Page Setup and Print Macros.md
+2-Areas/Code/VBA/VBA - Optimize Speed.md
+2-Areas/Code/VBA/VBA - Notes.md
+2-Areas/Code/VBA/VBA - Module Template.md
+2-Areas/Code/VBA/VBA - Make All Open Files Read Only.md
+2-Areas/Code/VBA/VBA - ListLinks Module.md
+2-Areas/Code/VBA/VBA - Launch Edit Links Dialog.md
+2-Areas/Code/VBA/VBA - GeneralSettings Module.md
+2-Areas/Code/VBA/VBA - File Dialog.md
+2-Areas/Code/VBA/VBA - ExtractRibbonX.md
+2-Areas/Code/VBA/VBA - Display Message on Status Bar.md
+2-Areas/Code/VBA/VBA - Create and Run a SQL Query.md
+2-Areas/Code/VBA/VBA - Copy Module from one Workbook to Another.md
+2-Areas/Code/VBA/VBA - Compilation Arguments and Enabling Custom DevMode Runtime.md
+2-Areas/Code/VBA/VBA - Check for Broken Links in Workbook.md
+2-Areas/Code/VBA/VBA - Balloon Notification.md
+2-Areas/Code/VBA/VBA - Alert.md
+2-Areas/Code/VBA/Untitled.md
+2-Areas/Code/VBA/README.md
+3-Resources/Tools/Physical Tools/README.md
+3-Resources/Tools/Physical Tools/Physical Tools.md
+3-Resources/Tools/Physical Tools/Mnemosyne Notebooks.md
+3-Resources/Tools/Linux/xdg-user-dirs.md
+3-Resources/Tools/Linux/Linux.md
+3-Resources/Tools/Linux/Bash.md
+3-Resources/Templates/Fragments/Frontmatter-Template.md
+3-Resources/Templates/Fragments/Footer-Template.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Readwise Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Plugins.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Highlights Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Git Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Kanban Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Extract Highlights Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Dictionary Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Citations Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Advanced Tables Plugin.md
+3-Resources/Tools/PKM Tools/Obsidian/Obsidian.md
+3-Resources/Tools/PKM Tools/Medium.md
+3-Resources/Tools/PKM Tools/Kindle.md
+3-Resources/Tools/PKM Tools/Instapaper.md
+3-Resources/Tools/PKM Tools/Hypothesis.io.md
+3-Resources/Tools/PKM Tools/Obsidian/README.md
+3-Resources/Tools/PKM Tools/Obsidian/Themes/Themes.md
+3-Resources/Tools/Utility/Inno Setup.md
+3-Resources/Tools/Utility/HandyWinGet.md
+3-Resources/Tools/Utility/File UWP.md
+3-Resources/Tools/Utility/Electron.md
+3-Resources/Tools/Utility/EaseUS.md
+3-Resources/Tools/Utility/DriveStoreExplorer.md
+3-Resources/Tools/Utility/CloneApp.md
+3-Resources/Tools/Utility/CleanMgrPlus.md
+3-Resources/Tools/Utility/BloatBox.md
+3-Resources/Tools/Utility/AutoHotKey.md
+3-Resources/Tools/Tools.md
+3-Resources/Tools/README.md
+3-Resources/Tools/Utility/QTTabBar.md
+3-Resources/Tools/Utility/NotePads.md
+3-Resources/Tools/Utility/Nativefier.md
+3-Resources/Tools/Utility/MZ Tools For VBA Development.md
+3-Resources/Tools/Utility/Microsoft PowerToys.md
+3-Resources/Tools/Utility/Mach2.md
+3-Resources/Tools/Utility/Topgrade.md
+3-Resources/Tools/Utility/ThisIsWin11.md
+3-Resources/Tools/Utility/TaskBarX.md
+3-Resources/Tools/Utility/Utility.md
+3-Resources/Tools/Utility/Universal Silent Switch Finder.md
+3-Resources/Tools/Utility/ViveTool.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Cumulative Distribution.md
+3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md
+3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md
+3-Resources/Highlights/Readwise/Podcasts/This Is How We Change the World.md
+3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md
+3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2.md
+3-Resources/Highlights/Readwise/Podcasts/SYSTEMS THINKING What Is a System.md
+3-Resources/Highlights/Readwise/Podcasts/Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md
+3-Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md
+3-Resources/Highlights/Readwise/Podcasts/Projects Lists - November 2019.md
+3-Resources/Highlights/Readwise/Podcasts/Personal Knowledge Management Reprised.md
+3-Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md
+3-Resources/Highlights/Readwise/Podcasts/My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md
+3-Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md
+3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md
+3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md
+3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md
+3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md
+3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md
+3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md
+3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md
+3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md
+3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Create modified_at columns and triggers.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Count NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Clone Schema.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Calculating the Median.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Basic Instance Information.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Audit Trigger.md
+2-Areas/Code/SQL/SQL - POST HTTP API Request with SQL Server.md
+2-Areas/Code/SQL/SQL - Monitor Query Plans.md
+2-Areas/Code/SQL/SQL - Get Number of Open Connections.md
+2-Areas/Code/SQL/SQL - Find Unused Indexes.md
+2-Areas/Code/SQL/SQL - Crosstab Query.md
+2-Areas/Code/SQL/SQL - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/SQL/SQL - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/SQL/SQL - Check Size of DB Objects.md
+2-Areas/Code/SQL/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/SQL/README.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md
+3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md
+3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md
+3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md
+3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md
+3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md
+3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md
+3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md
+3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md
+3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md
+3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md
+3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md
+3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md
+3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md
+3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md
+3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md
+3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md
+3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md
+3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md
+3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md
+3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md
+3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md
+3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md
+3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md
+3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md
+3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md
+3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md
+3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md
+3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md
+3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md
+3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md
+3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md
+3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md
+3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md
+3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md
+3-Resources/Citations/Actuarial Science/files/98/Whitson - UNPAID LOSS & ALAE RANGES AND PERCENTILES-annotate.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Reverse an Array.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace Empty Strings with NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Validate an Email Address.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Parse URL String.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Refresh All Materialize Views.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Ranking Data.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Pivot Query.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Normalize Whitespace.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md
+2-Areas/Code/SQL/SQL - PostgreSQL - Moving Average.md
+2-Areas/Code/SQL/SQL - PostgreSQL - MONTH() Equivalent.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Kill Running or Idle Connections.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Information Schema Queries.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Human-Readable Timestamps.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Histogram Bins.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get the Last Element of an Array.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get Last Day of Month.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get Current DB Sessions.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get all Primary Keys and Columns.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Generate Password.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Formatting Dates and Timestamps.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Find Recent Activity.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Filter for the Last x Days.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Extracting Values from JSON Strings.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Extensions.md
+2-Areas/Code/SQL/SQL - PostgreSQL - ETL Function Template.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dynamic Trigger.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dump Entire Database to CSV.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Date Dimension Table.md
+2-Areas/Code/SQL/SQL - PostgreSQL - DataDictionary.md
+2-Areas/Code/SQL/SQL - SQL Server - Find the First Row of Each Group.md
+2-Areas/Code/SQL/SQL - SQL Server - Cumulative Distribution Functions.md
+2-Areas/Code/SQL/SQL - SQL Server - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/SQL/SQL - SQL Server - Concatenate Strings.md
+2-Areas/Code/SQL/SQL - SQL Server - Check Size of DB Objects.md
+2-Areas/Code/SQL/SQL - SQL Server - Check if a Column is Accessible.md
+2-Areas/Code/SQL/SQL - Retrieve Who is Doing What.md
+2-Areas/Code/SQL/SQL - Retrieve Top Slow Requests.md
+2-Areas/Code/SQL/SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md
+2-Areas/Code/SQL/SQL - Re-build all Indexes.md
+2-Areas/Code/SQL/SQL - PostgreSQL String Manipulation.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Using Tables as Templates.md
+2-Areas/Code/SQL/SQL - PostgreSQL - UPSERT.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Strip Accents from Strings.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Stored Procedure - Merge Tables.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Split a Single Column into Separate Rows.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Simulate IIF From SQL Server.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Set Default UTF8 Encoding.md
+2-Areas/Code/SQL/SQL - PostgreSQL - SERIAL Example.md
+2-Areas/Code/SQL/SQL - SQL Server - POST HTTP API Request.md
+2-Areas/Code/SQL/SQL - SQL Server - Monitor Query Plans.md
+2-Areas/Code/SQL/SQL - SQL Server - List Views with Definition and Comments.md
+2-Areas/Code/SQL/SQL - SQL Server - List of Tables with Number of Rows and Comments.md
+2-Areas/Code/SQL/SQL - SQL Server - Installation Script for DBA MultiTool.md
+2-Areas/Code/SQL/SQL - SQL Server - Installation for DBA MultiTool.md
+2-Areas/Code/SQL/SQL - SQL Server - Get Number of Open Connections.md
+2-Areas/Code/SQL/SQL - SQL Server - Foreign Keys.md
+2-Areas/Code/SQL/SQL - SQL Server - Find Unused Indexes.md
+2-Areas/Code/SQL/SQL - SQL Server - Search for Text Within Stored Procedures.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Who is Doing What.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Top Slow Requests.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md
+2-Areas/Code/SQL/SQL - SQL Server - Re-build all Indexes.md
+2-Areas/Code/SQL/SQL - SQL Server - Useful Queries.md
+2-Areas/Code/SQL/SQL - SQL Server - Table and Column Details.md
+2-Areas/Code/SQL/SQL - SQL Server - Views Columns.md
+2-Areas/Code/SQL/SQL.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-17.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-16.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-15.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-14.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-12.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-10.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-08.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-02.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-27.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-26.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-24.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-23.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-22.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-29.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-28.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-30.md
+2-Areas/Daily-Notes/2022/2022-01/2022-01-31.md
+3-Resources/Tools/Online Tools/Twitter.md
+3-Resources/Tools/Online Tools/Reddit.md
+3-Resources/Tools/Online Tools/Online Tools.md
+3-Resources/Tools/Online Tools/Goodreads.md
+3-Resources/Templates/Experimental/Testing Templater Prompts.md
+3-Resources/Templates/Experimental/Dataview-Slipbox.md
+3-Resources/Highlights/README.md
+3-Resources/Tools/iOS Apps/Streaks.md
+3-Resources/Tools/iOS Apps/Snipd.md
+3-Resources/Tools/iOS Apps/iOS Apps.md
+3-Resources/Tools/iOS Apps/Airr.md
+3-Resources/Tools/Productivity Tools/Toggl.md
+3-Resources/Tools/Productivity Tools/Todoist.md
+3-Resources/Tools/Productivity Tools/Productivity Tools.md
+3-Resources/Tools/Productivity Tools/Productivity System.md
+3-Resources/Tools/Productivity Tools/Notion.md
+3-Resources/Tools/Productivity Tools/Google Calendar.md
+3-Resources/Highlights/Readwise/Books/You Need a Budget.md
+3-Resources/Highlights/Readwise/Books/Tribe of Mentors.md
+3-Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md
+3-Resources/Highlights/Readwise/Books/Quick Passages.md
+3-Resources/Highlights/Readwise/Books/Free to Focus.md
+3-Resources/Highlights/Readwise/Books/Extend Your Mind.md
+3-Resources/Highlights/Readwise/Books/Design Your Work.md
+3-Resources/Highlights/Readwise/Books/Clean Up and Declutter Your Computer.md
+3-Resources/Highlights/Matter/⛔ Are You Doing Fake Work-.md
+3-Resources/Highlights/Matter/Write-Host vs Write-Output.md
+3-Resources/Highlights/Matter/Workflow automation tools for package developers.md
+3-Resources/Highlights/Matter/Why and how maintain a NEWS file for your R package-.md
+3-Resources/Highlights/Matter/We Need to Talk About Docker Registries.md
+3-Resources/Highlights/Matter/Using Partitioning to Optimize Performance During Data Ingestion.md
+3-Resources/Highlights/Matter/Using Inboxes To Manage Your Thoughts And Ideas.md
+3-Resources/Highlights/Matter/Tracking estimated required reserve changes for captives.md
+3-Resources/Highlights/Matter/The Fall of History as a Major–and as a Part of the Humanities.md
+3-Resources/Highlights/Matter/The Engineered Century.md
+3-Resources/Highlights/Matter/Spreadsheet Documentation (using only Excel's inbuilt tools).md
+3-Resources/Highlights/Matter/Restarting The Weekly Review Process.md
+3-Resources/Highlights/Matter/Rbitrary Standards.md
+3-Resources/Highlights/Matter/R Markdown Reporting Best Practices.md
+3-Resources/Highlights/Matter/R is for actuaRies.md
+3-Resources/Highlights/Matter/Picking and researching blog topics about R package development.md
+3-Resources/Highlights/Matter/Persistent config and data for R packages.md
+3-Resources/Highlights/Matter/Optimal workflows for package vignettes.md
+3-Resources/Highlights/Matter/OOP in VBA- Immutability & The Factory Pattern.md
+3-Resources/Highlights/Matter/Office Visual Basic for Applications (VBA) reference.md
+3-Resources/Highlights/Matter/Non-standard files-directories, Rbuildignore and inst.md
+3-Resources/Highlights/Matter/Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs..md
+3-Resources/Highlights/Matter/Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.-3.md
+3-Resources/Highlights/Matter/Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.-2.md
+3-Resources/Highlights/Matter/Managing projects with GTD.md
+3-Resources/Highlights/Matter/Learn How PowerShell CmdletBinding Enhances Functions.md
+3-Resources/Highlights/Matter/JavaScript for the R package developer.md
+3-Resources/Highlights/Matter/Internal functions in R packages.md
+3-Resources/Highlights/Matter/Identify source schema changes using AWS Glue.md
+3-Resources/Highlights/Matter/How to write effective Stored Procedures in PostgreSQL.md
+3-Resources/Highlights/Matter/How to use event storming to achieve domain-driven design.md
+3-Resources/Highlights/Matter/How I Redesigned over 100 ETL into ELT Data Pipelines.md
+3-Resources/Highlights/Matter/Globals and Ambient Context.md
+3-Resources/Highlights/Matter/Getting started with VBA in Office.md
+3-Resources/Highlights/Matter/Getting Started with Julia for Actuaries.md
+3-Resources/Highlights/Matter/File Structure - Broad Institute of MIT and Harvard.md
+3-Resources/Highlights/Matter/Don’t default to Shiny. Go Quarto instead.md
+3-Resources/Highlights/Matter/Considerations and limitations for SQL queries in Amazon Athena.md
+3-Resources/Highlights/Matter/Caching the results of functions of your R package.md
+3-Resources/Highlights/Matter/BEGIN-PROCESS-END - You Can Do Better.md
+3-Resources/Highlights/Matter/Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain.md
+3-Resources/Highlights/Matter/34 Workflow - Big Book of R.md
+3-Resources/Tools/Modeling/Prophet.md
+3-Resources/Tools/Modeling/Modeling.md
+3-Resources/Highlights/ReadItLater Inbox/Obsidian Clipper – Get this Extension for 🦊 Firefox (en-US).md
+2-Areas/Code/PowerShell/_README.md
+2-Areas/Code/PowerShell/README.md
+2-Areas/Code/PowerShell/PowerShell.md
+2-Areas/Code/PowerShell/PowerShell - Write SQL DDL Documentation.md
+2-Areas/Code/PowerShell/PowerShell - Useful Profile Utility Functions.md
+2-Areas/Code/PowerShell/PowerShell - Toast Notification Example.md
+2-Areas/Code/PowerShell/PowerShell - System PATH Helpers.md
+2-Areas/Code/PowerShell/PowerShell - Scoop Import.md
+2-Areas/Code/PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md
+2-Areas/Code/PowerShell/PowerShell - Reset Windows Update Registry Settings.md
+2-Areas/Code/PowerShell/PowerShell - QuickAccess Utilities.md
+2-Areas/Code/PowerShell/PowerShell - Open Obsidian Vault.md
+2-Areas/Code/PowerShell/PowerShell - Map Network Drive.md
+2-Areas/Code/PowerShell/PowerShell - Map Drives Function.md
+2-Areas/Code/PowerShell/PowerShell - List all OLEDB Providers.md
+2-Areas/Code/PowerShell/PowerShell - Install Chocolatey.md
+2-Areas/Code/PowerShell/PowerShell - Install Backblaze Client.md
+2-Areas/Code/PowerShell/PowerShell - Install Azure-CLI.md
+2-Areas/Code/PowerShell/PowerShell - Install Azure Developer CLI (azd).md
+2-Areas/Code/PowerShell/PowerShell - Install AWS CLI.md
+2-Areas/Code/PowerShell/PowerShell - Git AutoCommit.md
+2-Areas/Code/PowerShell/PowerShell - Get-GitHubRelease.md
+2-Areas/Code/PowerShell/PowerShell - Fix WSL Network behind GlobalProtect VPN.md
+2-Areas/Code/PowerShell/PowerShell - Extract Icon from EXE.md
+2-Areas/Code/PowerShell/PowerShell - Export SQL Server Tables to CSVs in Bulk.md
+2-Areas/Code/PowerShell/PowerShell - Export SQL Server Table to CSV.md
+2-Areas/Code/PowerShell/PowerShell - Enable or Disable Telemetry.md
+2-Areas/Code/PowerShell/PowerShell - Edge Scripts.md
+2-Areas/Code/PowerShell/PowerShell - Custom Installation Helpers.md
+2-Areas/Code/PowerShell/PowerShell - Cleanup Windows Script.md
+2-Areas/Code/PowerShell/Powershell - Backup Edge User Preferences PowerShell Script.md
+3-Resources/Highlights/Readwise/Articles/🌱 My Blog Is a Digital Garden, Not a Blog.md
+3-Resources/Highlights/Readwise/Articles/{yHat} - Reproducible Work in R.md
+3-Resources/Highlights/Readwise/Articles/Zen to Done The Habit-Building Productivity System.md
+3-Resources/Highlights/Readwise/Articles/Zen and the Art of File and Folder Organization.md
+3-Resources/Highlights/Readwise/Articles/Your Productivity Obsession Might Be Making You Less Productive.md
+3-Resources/Highlights/Readwise/Articles/You Should Make a Blog!.md
+3-Resources/Highlights/Readwise/Articles/You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Wtf Is a Zettelkasten  Zettlr.md
+3-Resources/Highlights/Readwise/Articles/Writing Well A Must-Have Skill That No One Teaches Data Scientists.md
+3-Resources/Highlights/Readwise/Articles/Writing Technical Design Docs, Revisited - Machine Words - Medium.md
+3-Resources/Highlights/Readwise/Articles/Writing Is Thinking.md
+3-Resources/Highlights/Readwise/Articles/Writing Is Thinking-2.md
+3-Resources/Highlights/Readwise/Articles/Workflow for Serverless — Cloud Functions + Workflow [Basic].md
+3-Resources/Highlights/Readwise/Articles/Workflow automation tools for package developers.md
+3-Resources/Highlights/Readwise/Articles/Why You Should Learn to Manually Code Data Warehouse Processes.md
+3-Resources/Highlights/Readwise/Articles/Why Programmers Should Write Tutorials.md
+3-Resources/Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md
+3-Resources/Highlights/Readwise/Articles/Why Ongoing Is the Worst Word in the History of Project Management.md
+3-Resources/Highlights/Readwise/Articles/Why I Use a Cloud-Based Development Environment and How You Can Too.md
+3-Resources/Highlights/Readwise/Articles/Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali.md
+3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List.md
+3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List-2.md
+3-Resources/Highlights/Readwise/Articles/What's a Successful Shiny Application - Rtask.md
+3-Resources/Highlights/Readwise/Articles/What Is Data Modeling.md
+3-Resources/Highlights/Readwise/Articles/What Is Data Dictionary - Data Terminology.md
+3-Resources/Highlights/Readwise/Articles/What Is Cloud CDN and How Does It Work  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md
+3-Resources/Highlights/Readwise/Articles/What in the World Is Data Engineering.md
+3-Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md
+3-Resources/Highlights/Readwise/Articles/Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software.md
+3-Resources/Highlights/Readwise/Articles/Weekly Reset System for Increased Productivity  Mystigal.md
+3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md
+3-Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md
+3-Resources/Highlights/Readwise/Articles/Variable and Value Labels Support in Base R and Other Packages.md
+3-Resources/Highlights/Readwise/Articles/Using Todoist for GTD  GTD Method.md
+3-Resources/Highlights/Readwise/Articles/Using Redo to Manage R Data Analysis Workflow.md
+3-Resources/Highlights/Readwise/Articles/Usethis Workflow for Package Development  Emil Hvitfeldt.md
+3-Resources/Highlights/Readwise/Articles/Useful DatabaseSql Tricks for Data Engineering.md
+3-Resources/Highlights/Readwise/Articles/Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating.md
+3-Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md
+3-Resources/Highlights/Readwise/Articles/Unattended Install of the Latest SQL Server Management Studio Using PowerShell.md
+3-Resources/Highlights/Readwise/Articles/Unattended Install of 7-Zip Using PowerShell.md
+3-Resources/Highlights/Readwise/Articles/Ultimate Personal Management Systems - The Startup - Medium.md
+3-Resources/Highlights/Readwise/Articles/Traffic Director Explained!  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md
+3-Resources/Highlights/Readwise/Articles/Top 4 Tips to Get Organized for Efficient Software Development.md
+3-Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md
+3-Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md
+3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md
+3-Resources/Highlights/Readwise/Articles/This Is Your Reminder to Do an Annual Subscriptions Audit - WealthInsider  Follow the Money.md
+3-Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md
+3-Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md
+3-Resources/Highlights/Readwise/Articles/The Unsinkable Student Organization System - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md
+3-Resources/Highlights/Readwise/Articles/The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md
+3-Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System.md
+3-Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md
+3-Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md
+3-Resources/Highlights/Readwise/Articles/The R Code Optimizer • Rco.md
+3-Resources/Highlights/Readwise/Articles/The Productivity System You Use Doesn’t Matter.md
+3-Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md
+3-Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md
+3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md
+3-Resources/Highlights/Readwise/Articles/The Notetaking Cold War.md
+3-Resources/Highlights/Readwise/Articles/The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates.md
+3-Resources/Highlights/Readwise/Articles/The Many Layers of Data Lineage.md
+3-Resources/Highlights/Readwise/Articles/The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The LANA Method to Build an Obsidian Structure..md
+3-Resources/Highlights/Readwise/Articles/The Importance of Systems.md
+3-Resources/Highlights/Readwise/Articles/The Impact of the Cloud on Software Development  Developer.com.md
+3-Resources/Highlights/Readwise/Articles/The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing.md
+3-Resources/Highlights/Readwise/Articles/The Future of Communities Is Increasingly More About Digital Community Gardening.md
+3-Resources/Highlights/Readwise/Articles/The Everything Bagel II Versioned Data Lake Tables With lakeFS and Trino.md
+3-Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Deep Reset - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/The Data Science Workflow.md
+3-Resources/Highlights/Readwise/Articles/The Data Science Landscape.md
+3-Resources/Highlights/Readwise/Articles/The Clean Architecture — Beginner’s Guide.md
+3-Resources/Highlights/Readwise/Articles/The Checklist Manifesto - By Atul Gawande  Derek Sivers.md
+3-Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md
+3-Resources/Highlights/Readwise/Articles/The Best Way to Organize Your To-Dos.md
+3-Resources/Highlights/Readwise/Articles/The Best Tools for Capturing Your Many Different Notes.md
+3-Resources/Highlights/Readwise/Articles/The Best Productivity System There Is - Personal Excellence.md
+3-Resources/Highlights/Readwise/Articles/The Best PC Software for Your Windows Computer.md
+3-Resources/Highlights/Readwise/Articles/The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux.md
+3-Resources/Highlights/Readwise/Articles/The Best Microsoft Store Apps for Windows 10.md
+3-Resources/Highlights/Readwise/Articles/The Best Free Software of 2020.md
+3-Resources/Highlights/Readwise/Articles/The Best  Git Workflow for Your Software Engineering Team.md
+3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md
+3-Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md
+3-Resources/Highlights/Readwise/Articles/The Actuary of the Future.md
+3-Resources/Highlights/Readwise/Articles/The 35 Best Productivity Apps for 2020.md
+3-Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md
+3-Resources/Highlights/Readwise/Articles/The 2 Types of Technical Documentation That  Developers Love.md
+3-Resources/Highlights/Readwise/Articles/The 13-Step Digital Declutter.md
+3-Resources/Highlights/Readwise/Articles/The 10 Best Free Antivirus Software.md
+3-Resources/Highlights/Readwise/Articles/The 'Weekly Review' Method Will Help You Get Things Done.md
+3-Resources/Highlights/Readwise/Articles/Templates for R Markdown  Jianghao.md
+3-Resources/Highlights/Readwise/Articles/Taking Notes for Yourself Best Practices for the Personal Notebook.md
+3-Resources/Highlights/Readwise/Articles/Take the First Step.md
+3-Resources/Highlights/Readwise/Articles/System Design Paradigm Caching.md
+3-Resources/Highlights/Readwise/Articles/System Design Basics Load Balancer 101.md
+3-Resources/Highlights/Readwise/Articles/Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley.md
+3-Resources/Highlights/Readwise/Articles/Supersizing the Mind The Science of Cognitive Extension - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Supercharge Your Git Experience.md
+3-Resources/Highlights/Readwise/Articles/Structure and Automated Workflow for a Machine Learning Project — part 1.md
+3-Resources/Highlights/Readwise/Articles/Strategically Constrained How to Turn Limitations Into Opportunities - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Stop Using So Many CTEs.md
+3-Resources/Highlights/Readwise/Articles/State of R Packages in Your Library - R-Hub Blog.md
+3-Resources/Highlights/Readwise/Articles/SSH Key Best Practices.md
+3-Resources/Highlights/Readwise/Articles/SQL Like a Pro Looks Do Matter!.md
+3-Resources/Highlights/Readwise/Articles/SQL Like a Pro How to Write a “For Loop” in SQL.md
+3-Resources/Highlights/Readwise/Articles/SQL Join  A Common Mistake.md
+3-Resources/Highlights/Readwise/Articles/SQL Best Practices.md
+3-Resources/Highlights/Readwise/Articles/Solutions for Taking Notes When Listening to Podcasts.md
+3-Resources/Highlights/Readwise/Articles/Software Roles and Titles.md
+3-Resources/Highlights/Readwise/Articles/Should You Develop Your Shiny App as an R Package.md
+3-Resources/Highlights/Readwise/Articles/Shiny on Google Cloud Run - Scale-To-Zero R Web Apps.md
+3-Resources/Highlights/Readwise/Articles/Shiny Load Testing and Horizontal Scaling.md
+3-Resources/Highlights/Readwise/Articles/Shiny and Arrow.md
+3-Resources/Highlights/Readwise/Articles/Seth Godin's 7-Point Guide to Bootstrap Your Personal Brand - Personal Bran.md
+3-Resources/Highlights/Readwise/Articles/Services in Systemd In-Depth Tutorial.md
+3-Resources/Highlights/Readwise/Articles/Scaling R Shiny Applications.md
+3-Resources/Highlights/Readwise/Articles/Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow.md
+3-Resources/Highlights/Readwise/Articles/RStudio  Open Source & Professional Software for Data Science Teams.md
+3-Resources/Highlights/Readwise/Articles/RShiny Authentication With Polished on AWS Kubernetes.md
+3-Resources/Highlights/Readwise/Articles/RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas.md
+3-Resources/Highlights/Readwise/Articles/Robert Myles McDonnell.md
+3-Resources/Highlights/Readwise/Articles/RESTful API Design — Step by Step Guide.md
+3-Resources/Highlights/Readwise/Articles/Reflect, Recover, Reset – Your Life Plan 2021.md
+3-Resources/Highlights/Readwise/Articles/Rebooting Your Productivity System.md
+3-Resources/Highlights/Readwise/Articles/Re-Share Vtreat Data Preparation Documentation and Video – Win-Vector Blog.md
+3-Resources/Highlights/Readwise/Articles/Re-Exporting the Magrittr Pipe Operator › Petermeissner.md
+3-Resources/Highlights/Readwise/Articles/RDatascience - Career Tips From an Old Timer.md
+3-Resources/Highlights/Readwise/Articles/Rd Formatting.md
+3-Resources/Highlights/Readwise/Articles/rBokeh - Tipps and Tricks With JavaScript and Beyond!  STATWORX.md
+3-Resources/Highlights/Readwise/Articles/R Treasures modifyList() › Petermeissner.md
+3-Resources/Highlights/Readwise/Articles/R Tips and Tricks – Utilities.md
+3-Resources/Highlights/Readwise/Articles/R is for actuaRies.md
+3-Resources/Highlights/Readwise/Articles/R in Production, DevOps, and the Importance of Empathetic Witnesses.md
+3-Resources/Highlights/Readwise/Articles/R at Scale on the Google Cloud Platform.md
+3-Resources/Highlights/Readwise/Articles/R & RStudio – The Interoperability Environment for Data Analytics.md
+3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md
+3-Resources/Highlights/Readwise/Articles/Questions to Ask Yourself Before Starting.md
+3-Resources/Highlights/Readwise/Articles/Python Best Practices..md
+3-Resources/Highlights/Readwise/Articles/Projmgr Managing the Human Dependencies of Your Projects  Emily Riederer.md
+3-Resources/Highlights/Readwise/Articles/Project Management With RStudio and Github  Yujun Zhou's Website.md
+3-Resources/Highlights/Readwise/Articles/Project Based Learning.md
+3-Resources/Highlights/Readwise/Articles/Programming Productivity - Wikipedia.md
+3-Resources/Highlights/Readwise/Articles/Productivity System The Definitive Guide (2020) - THEZEROED.md
+3-Resources/Highlights/Readwise/Articles/Productivity System Archives • Paul Jacobson.md
+3-Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md
+3-Resources/Highlights/Readwise/Articles/PowerShell Tips & Tricks • Jeffery Hicks.md
+3-Resources/Highlights/Readwise/Articles/Powershell - Scripting - Tutorialspoint.md
+3-Resources/Highlights/Readwise/Articles/Powerful Time Management Strategies to Do More With Your Day.md
+3-Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/PLSQL for Data Engineers.md
+3-Resources/Highlights/Readwise/Articles/Planning a Lot  Yujun Zhou's Website.md
+3-Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md
+3-Resources/Highlights/Readwise/Articles/Perfect Fantasy Football Draft Strategy.md
+3-Resources/Highlights/Readwise/Articles/Pay Off Your Debt Tools and Tips.md
+3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md
+3-Resources/Highlights/Readwise/Articles/Part I-I  Data Warehouse Modelling Concept.md
+3-Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Paperless The One Notebook and Pen I’m Never Giving Up.md
+3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md
+3-Resources/Highlights/Readwise/Articles/Optimized Workflow.md
+3-Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/One Productivity System to Rule Them All.md
+3-Resources/Highlights/Readwise/Articles/One Observer for All Buttons in Shiny Using JavaScript  jQuery.md
+3-Resources/Highlights/Readwise/Articles/Onboarding New Developers.md
+3-Resources/Highlights/Readwise/Articles/On Confronting the Productivity Dragon.md
+3-Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md
+3-Resources/Highlights/Readwise/Articles/Obsidian My New Knowledge Base or Base for Knowledge.md
+3-Resources/Highlights/Readwise/Articles/New Project Checklist.md
+3-Resources/Highlights/Readwise/Articles/My Personal Knowledge Management System — Moby Diction.md
+3-Resources/Highlights/Readwise/Articles/My Focus-Centric Work Day - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/Must-Have Productivity Tools.md
+3-Resources/Highlights/Readwise/Articles/More Solutions for Taking Podcast Notes An App Overview.md
+3-Resources/Highlights/Readwise/Articles/Modernize Your ETL Processes to Unleash Better Business Intelligence.md
+3-Resources/Highlights/Readwise/Articles/Minimum Viable PKM.md
+3-Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Methods Bites.md
+3-Resources/Highlights/Readwise/Articles/Managing Yourself Extreme Productivity.md
+3-Resources/Highlights/Readwise/Articles/Managing Your Project - How to Make Your Research Reproducible - Library Gu.md
+3-Resources/Highlights/Readwise/Articles/Managing Your Dotfiles.md
+3-Resources/Highlights/Readwise/Articles/Managing My Personal Knowledge Base.md
+3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md
+3-Resources/Highlights/Readwise/Articles/Logging Events in Shiny Apps • shinyEventLogger.md
+3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md
+3-Resources/Highlights/Readwise/Articles/List Making When Overwhelmed Turn Stress Into Productivity.md
+3-Resources/Highlights/Readwise/Articles/LeaRning Path on R - Step by Step Guide to Learn Data Science on R.md
+3-Resources/Highlights/Readwise/Articles/Learn How PowerShell CmdletBinding Enhances Functions.md
+3-Resources/Highlights/Readwise/Articles/Learn From Silicon Valley’s Data Engineers Dimensional Data Modeling Is Dead.md
+3-Resources/Highlights/Readwise/Articles/Learn From Google’s Data Engineers Dimensional Data Modeling Is Dead.md
+3-Resources/Highlights/Readwise/Articles/Learn About Cloud Functions Events and Triggers  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Last-Minute Moving Tips How to Pack in a Pinch - Updater.md
+3-Resources/Highlights/Readwise/Articles/Kubernetes Explained to Product Managers.md
+3-Resources/Highlights/Readwise/Articles/Knoco Stories What's Unique About Knowledge Management.md
+3-Resources/Highlights/Readwise/Articles/Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter.md
+3-Resources/Highlights/Readwise/Articles/Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Jani’s Notes.md
+3-Resources/Highlights/Readwise/Articles/It’s Not You - It’s Your Knowledge Base.md
+3-Resources/Highlights/Readwise/Articles/It's Time to Audit Your Autopay Subscriptions.md
+3-Resources/Highlights/Readwise/Articles/It's the Programming Environment, Not the Programming Language  thesephist.com.md
+3-Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md
+3-Resources/Highlights/Readwise/Articles/Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow.md
+3-Resources/Highlights/Readwise/Articles/Information Strategy My Routine, Inputs – Interdependent Thoughts.md
+3-Resources/Highlights/Readwise/Articles/Inbox Master Get All Your Inboxes to Zero, and Have Fewer Inboxes  Zen Habits.md
+3-Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Implementing an Idea-Management System - LessWrong 2.0.md
+3-Resources/Highlights/Readwise/Articles/If You Want to Be a Great Programmer, Learn to Write.md
+3-Resources/Highlights/Readwise/Articles/I Built Docker Like Executable .Exe for RShiny!.md
+3-Resources/Highlights/Readwise/Articles/How to ‘DevOps’ as a Software Developer.md
+3-Resources/Highlights/Readwise/Articles/How to Write Programming Notes Like a PRO.md
+3-Resources/Highlights/Readwise/Articles/How to Use Your Calendar to Make Every Day Your Ideal Day.md
+3-Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md
+3-Resources/Highlights/Readwise/Articles/How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File.md
+3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md
+3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md
+3-Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021.md
+3-Resources/Highlights/Readwise/Articles/How to Take Notes While Reading on the Web With Obsidian.md
+3-Resources/Highlights/Readwise/Articles/How to Structure Your Data Science Workflow.md
+3-Resources/Highlights/Readwise/Articles/How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering.md
+3-Resources/Highlights/Readwise/Articles/How to Properly Organize Your Hard (Boot) Drive.md
+3-Resources/Highlights/Readwise/Articles/How to Partition a Hard Drive in 2020.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Writing With Markdown - Redeeming Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Your Files An Introduction to Personal File Management - The Mac Observer.md
+3-Resources/Highlights/Readwise/Articles/How to Organize Computer Files on Your Home Computer.md
+3-Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md
+3-Resources/Highlights/Readwise/Articles/How to Manage Your Time Effectively as a Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md
+3-Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md
+3-Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md
+3-Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md
+3-Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md
+3-Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md
+3-Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md
+3-Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md
+3-Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md
+3-Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md
+3-Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md
+3-Resources/Highlights/Readwise/Articles/How to Export Evernote to Google Drive.md
+3-Resources/Highlights/Readwise/Articles/How to Enhance Your Windows Batch Files by Adding GUI.md
+3-Resources/Highlights/Readwise/Articles/How to Do More With Windows 10 Using PowerToys.md
+3-Resources/Highlights/Readwise/Articles/How to Do a Weekly Review Step-By-Step.md
+3-Resources/Highlights/Readwise/Articles/How to Do a Weekly Planning Session..md
+3-Resources/Highlights/Readwise/Articles/How to Distribute Data With Your R Package - R-Hub Blog.md
+3-Resources/Highlights/Readwise/Articles/How to Develop Your Digital Space for Peak Productivity.md
+3-Resources/Highlights/Readwise/Articles/How to Design Better Data Pipelines Start With the Basics.md
+3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md
+3-Resources/Highlights/Readwise/Articles/How to Declutter Your Data With No Regrets.md
+3-Resources/Highlights/Readwise/Articles/How to Declutter & Organize Your Digital Files.md
+3-Resources/Highlights/Readwise/Articles/How to Crush It at the Start of Your New Developer Job - Small Business Programming.md
+3-Resources/Highlights/Readwise/Articles/How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS.md
+3-Resources/Highlights/Readwise/Articles/How to Create and Maintain a Data Dictionary With Dataedo - Dataedo Blog.md
+3-Resources/Highlights/Readwise/Articles/How to Create an Effective Productivity Plan - Optimize Time.md
+3-Resources/Highlights/Readwise/Articles/How to Create a GitHub Profile README.md
+3-Resources/Highlights/Readwise/Articles/How to Configure Windows Settings for SQL Server With PowerShell.md
+3-Resources/Highlights/Readwise/Articles/How to Clean Your Windows Computer The Ultimate Checklist.md
+3-Resources/Highlights/Readwise/Articles/How to Choose Data Models and Databases for Your Use Case.md
+3-Resources/Highlights/Readwise/Articles/How to Check Your Windows Experience Score on Windows 10.md
+3-Resources/Highlights/Readwise/Articles/How to Build the Ultimate Productivity System.md
+3-Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System.md
+3-Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System-2.md
+3-Resources/Highlights/Readwise/Articles/How to Build a Personal Knowledge Management System - Cultivated Management.md
+3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md
+3-Resources/Highlights/Readwise/Articles/How to Bootstrapping Linux & Windows Azure VMs With Terraform.md
+3-Resources/Highlights/Readwise/Articles/How to Be More Productive Build a System and 10x Your Output - The Monk Life.md
+3-Resources/Highlights/Readwise/Articles/How to Be More Organized Declutter, Take Control, and Achieve More at Work.md
+3-Resources/Highlights/Readwise/Articles/How to Be Mentally Strong - James Altucher.md
+3-Resources/Highlights/Readwise/Articles/How to Be a 10x Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How to Automate Your Project and Github Repo Setup From the Command Line.md
+3-Resources/Highlights/Readwise/Articles/How to Achieve Your Daily Goals.md
+3-Resources/Highlights/Readwise/Articles/How the Web Works.md
+3-Resources/Highlights/Readwise/Articles/How I Use Evernote to Organize Client Projects.md
+3-Resources/Highlights/Readwise/Articles/How I Structure My Software Design Document.md
+3-Resources/Highlights/Readwise/Articles/How I Organize My Knowledge as a Software Engineer.md
+3-Resources/Highlights/Readwise/Articles/How I Do My Weekly Review in Obsidian.md
+3-Resources/Highlights/Readwise/Articles/How a Single Freelancer Outperforms a Whole Team.md
+3-Resources/Highlights/Readwise/Articles/Home - How to Write a Good Documentation - Library Guides at UC Berkeley.md
+3-Resources/Highlights/Readwise/Articles/Habits You Must Have to Be a Highly Effective Programmers.md
+3-Resources/Highlights/Readwise/Articles/Guest Post Using Todoist With MYN and 1MTD by Charles Olsen.md
+3-Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md
+3-Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH.md
+3-Resources/Highlights/Readwise/Articles/GTD Refresh, Part 5 Building the Weekly Review Habit.md
+3-Resources/Highlights/Readwise/Articles/GTD Reference The Best Filing System for Busy Lives  Shortform Books.md
+3-Resources/Highlights/Readwise/Articles/Grant Ammons - How to Efficiently Manage Your Dotfiles.md
+3-Resources/Highlights/Readwise/Articles/Git Process for Small Organizations to Begin With.md
+3-Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md
+3-Resources/Highlights/Readwise/Articles/Getting Things Done Organize.md
+3-Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md
+3-Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md
+3-Resources/Highlights/Readwise/Articles/Getting Started With GTD Templates  Evernote  Evernote Blog.md
+3-Resources/Highlights/Readwise/Articles/Getting Started With Data Lake.md
+3-Resources/Highlights/Readwise/Articles/Getting More Done at Work With Evernote - Frank Buck Consulting.md
+3-Resources/Highlights/Readwise/Articles/Getting Data From PDFs the Easy Way With R - Open Source Automation.md
+3-Resources/Highlights/Readwise/Articles/Get Started With Obsidian as a Developer.md
+3-Resources/Highlights/Readwise/Articles/Get Organized – Personal Development Ideas.md
+3-Resources/Highlights/Readwise/Articles/Get New IT Pros Up to Speed Fast With This Onboarding Checklist.md
+3-Resources/Highlights/Readwise/Articles/Genius Things to Do on a Sunday to Have a Productive Week.md
+3-Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md
+3-Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md
+3-Resources/Highlights/Readwise/Articles/Five Tidyverse Tricks You May Not Know About.md
+3-Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md
+3-Resources/Highlights/Readwise/Articles/Finishing Strong Part 1 Run a Victory Lap.md
+3-Resources/Highlights/Readwise/Articles/Ferret — Your Local Environment Made Easy.md
+3-Resources/Highlights/Readwise/Articles/Feeling Overwhelmed 33 Productivity Tips to Get You Unstuck.md
+3-Resources/Highlights/Readwise/Articles/Everything About Software Architecture.md
+3-Resources/Highlights/Readwise/Articles/Evernote and Todoist REALLY Getting Things Done.md
+3-Resources/Highlights/Readwise/Articles/Event-Driven APIs — Understanding the Principles.md
+3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md
+3-Resources/Highlights/Readwise/Articles/Essential PowerShell Learning Resources • the Lonely Administrator.md
+3-Resources/Highlights/Readwise/Articles/ER Diagrams vs. ER Models vs. Relational Schemas.md
+3-Resources/Highlights/Readwise/Articles/Enable Code Folding in Bookdown and Blogdown · StatnMap.md
+3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md
+3-Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md
+3-Resources/Highlights/Readwise/Articles/Digital Tools I Wish Existed.md
+3-Resources/Highlights/Readwise/Articles/Digital Life in Disarray Use These 6 Steps to Get Organized..md
+3-Resources/Highlights/Readwise/Articles/Digital Decluttering Cleaning Up Computer Files & Social Media Profiles.md
+3-Resources/Highlights/Readwise/Articles/Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump.md
+3-Resources/Highlights/Readwise/Articles/Digital De-Cluttering How to Streamline Your Online Life.md
+3-Resources/Highlights/Readwise/Articles/Digital Brain as a Knowledge Base for Data Science.md
+3-Resources/Highlights/Readwise/Articles/Developer GTD.md
+3-Resources/Highlights/Readwise/Articles/Dev Environments as Code With Containers and Visual Studio Code.md
+3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md
+3-Resources/Highlights/Readwise/Articles/Delete These Windows Files and Folders to Free Up Disk Space.md
+3-Resources/Highlights/Readwise/Articles/Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport.md
+3-Resources/Highlights/Readwise/Articles/Decent-Code.md
+3-Resources/Highlights/Readwise/Articles/DataOps Implementation Guidelines.md
+3-Resources/Highlights/Readwise/Articles/Data Warehousing for Data Engineering.md
+3-Resources/Highlights/Readwise/Articles/Data Warehouse Tips and Best Practices I Wish I Knew Earlier.md
+3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md
+3-Resources/Highlights/Readwise/Articles/Data Quality and Reliability.md
+3-Resources/Highlights/Readwise/Articles/Data Platform — What Does It Take to Build One.md
+3-Resources/Highlights/Readwise/Articles/Data Ingestion — Demystified.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering — ETL or ELT.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering Explained Data Models.md
+3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md
+3-Resources/Highlights/Readwise/Articles/Data Ecosystem.md
+3-Resources/Highlights/Readwise/Articles/Data Dictionary A How to and Best Practices.md
+3-Resources/Highlights/Readwise/Articles/Data Build Tool (DBT) SQL on Steroids.md
+3-Resources/Highlights/Readwise/Articles/Dashboard++ — a Simple Organization and Navigation Method for Obsidian Vaults.md
+3-Resources/Highlights/Readwise/Articles/Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!.md
+3-Resources/Highlights/Readwise/Articles/Creating a Metadata Architecture From the Ground Up.md
+3-Resources/Highlights/Readwise/Articles/Create Your Own Delicious Slice of Text-Based Productivity in Obsidian—A Step-By-Step Guide.md
+3-Resources/Highlights/Readwise/Articles/Create Your DB Without a Single CREATE Statement!.md
+3-Resources/Highlights/Readwise/Articles/Create a Productivity Workflow That Works for You.md
+3-Resources/Highlights/Readwise/Articles/Craig Sturgis Dot Com.md
+3-Resources/Highlights/Readwise/Articles/Consolidate and Unify - Tandem Vault  Digital Asset Management.md
+3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md
+3-Resources/Highlights/Readwise/Articles/Comprehensive Guide to the Data Warehouse.md
+3-Resources/Highlights/Readwise/Articles/Complexity Has to Live Somewhere.md
+3-Resources/Highlights/Readwise/Articles/Completing Tasks — 10 Steps to Finishing What You Start.md
+3-Resources/Highlights/Readwise/Articles/Collecting and Organising Data for Maximum Productivity. — Carl Pullein.md
+3-Resources/Highlights/Readwise/Articles/Cloudwards.net's Backup and Storage Strategy 2017.md
+3-Resources/Highlights/Readwise/Articles/CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect..md
+3-Resources/Highlights/Readwise/Articles/Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/Cloud Computing 8 Benefits for Your Software Developers - Dice Insights.md
+3-Resources/Highlights/Readwise/Articles/Cloud Based Computing Business Ideas for 2021 [Top 50 Picks].md
+3-Resources/Highlights/Readwise/Articles/Clean Up Your Productivity System to Be More Productive.md
+3-Resources/Highlights/Readwise/Articles/Change Data Capture in DWBI.md
+3-Resources/Highlights/Readwise/Articles/Can't Stay Focused While Processing - Have Tried for Months.md
+3-Resources/Highlights/Readwise/Articles/Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses….md
+3-Resources/Highlights/Readwise/Articles/Building Documentation Mindshare in a Company — Write the Docs.md
+3-Resources/Highlights/Readwise/Articles/Building Better Documentation  Atlassian.md
+3-Resources/Highlights/Readwise/Articles/Building an Open Source Personal Knowledge Base  Hacker Noon.md
+3-Resources/Highlights/Readwise/Articles/Building a Second Brain in Emacs and Org-Mode - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Building a Second Brain An Overview - Forte Labs.md
+3-Resources/Highlights/Readwise/Articles/Building a Platform Part 2.md
+3-Resources/Highlights/Readwise/Articles/Building a Digital Garden.md
+3-Resources/Highlights/Readwise/Articles/Building a Data Pipeline From Scratch on AWS.md
+3-Resources/Highlights/Readwise/Articles/Building a Data Pipeline From Scratch - The Data Experience - Medium.md
+3-Resources/Highlights/Readwise/Articles/Build Data Warehouse Using Talend.md
+3-Resources/Highlights/Readwise/Articles/Blog  Filterize.md
+3-Resources/Highlights/Readwise/Articles/Bits vs Bytes.md
+3-Resources/Highlights/Readwise/Articles/Bioconductor - Package Guidelines.md
+3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md
+3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md
+3-Resources/Highlights/Readwise/Articles/Best Practices for Outlook.md
+3-Resources/Highlights/Readwise/Articles/Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done)..md
+3-Resources/Highlights/Readwise/Articles/Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services.md
+3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md
+3-Resources/Highlights/Readwise/Articles/Become a Better Developer Through Blogging - Steve Gordon - Code With Steve.md
+3-Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md
+3-Resources/Highlights/Readwise/Articles/Backup 101 Windows Files and Folders You Should Always Back Up.md
+3-Resources/Highlights/Readwise/Articles/Back to Basics Your Weekly Review.md
+3-Resources/Highlights/Readwise/Articles/Auto Documentation System for R Shiny - Stack Overflow.md
+3-Resources/Highlights/Readwise/Articles/Audiobook Review David Allen's GTD  Weekly Review.md
+3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md
+3-Resources/Highlights/Readwise/Articles/Are You Making This GTD Mistake - Asian Efficiency.md
+3-Resources/Highlights/Readwise/Articles/Archivist and GitHub Integration Archivist.github.md
+3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md
+3-Resources/Highlights/Readwise/Articles/Architecture for a Startup.md
+3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md
+3-Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md
+3-Resources/Highlights/Readwise/Articles/An Iterative Approach to Notes.md
+3-Resources/Highlights/Readwise/Articles/An Introduction to SQL Design Patterns and Best Practices.md
+3-Resources/Highlights/Readwise/Articles/An Easy 5-Step Guide to Auditing Your Subscriptions, According to Experts.md
+3-Resources/Highlights/Readwise/Articles/Advanced PostgreSQL Features A Guide.md
+3-Resources/Highlights/Readwise/Articles/Action Items Template for Excel.md
+3-Resources/Highlights/Readwise/Articles/Accelerate Pester Test Development • the Lonely Administrator.md
+3-Resources/Highlights/Readwise/Articles/A ‘Jobs to Be Done’ Framework for Startups.md
+3-Resources/Highlights/Readwise/Articles/A Workflow for R.md
+3-Resources/Highlights/Readwise/Articles/A Simple System for Being More Effective at Work.md
+3-Resources/Highlights/Readwise/Articles/A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN.md
+3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md
+3-Resources/Highlights/Readwise/Articles/A New Year Is a Beautiful Fresh Start.md
+3-Resources/Highlights/Readwise/Articles/A Hierarchy First Approach to Note Taking.md
+3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md
+3-Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md
+3-Resources/Highlights/Readwise/Articles/A Better Way to Manage Your Github Personal Access Tokens.md
+3-Resources/Highlights/Readwise/Articles/9 Tricks for Boosting SQL Query Performance.md
+3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177].md
+3-Resources/Highlights/Readwise/Articles/9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager.md
+3-Resources/Highlights/Readwise/Articles/8 Ways to Free Up RAM on Your Windows Computer.md
+3-Resources/Highlights/Readwise/Articles/8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry.md
+3-Resources/Highlights/Readwise/Articles/7 Quick Tips to Control Clutter and Stop Hoarding.md
+3-Resources/Highlights/Readwise/Articles/7 Effective Tools to Increase Your Hard Drive Performance on Windows.md
+3-Resources/Highlights/Readwise/Articles/7 Best Practices for Your Developer Onboarding Process.md
+3-Resources/Highlights/Readwise/Articles/7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff.md
+3-Resources/Highlights/Readwise/Articles/62 Productive Things to Do When Bored at Home.md
+3-Resources/Highlights/Readwise/Articles/6 YAML Features Most Programmers Don’t Know.md
+3-Resources/Highlights/Readwise/Articles/6 Windows Apps That Automatically Organize Files for You.md
+3-Resources/Highlights/Readwise/Articles/6 Months a Data Engineer….md
+3-Resources/Highlights/Readwise/Articles/6 Key Lessons From August Bradley's Notion — Keep Productive.md
+3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021.md
+3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021-2.md
+3-Resources/Highlights/Readwise/Articles/5 Steps for Tracking Your Monthly Expenses - NerdWallet.md
+3-Resources/Highlights/Readwise/Articles/5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life.md
+3-Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md
+3-Resources/Highlights/Readwise/Articles/5 Note-Taking Tips for Building a Super Second Brain.md
+3-Resources/Highlights/Readwise/Articles/5 Essential Terraform Tools to Use Everyday.md
+3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md
+3-Resources/Highlights/Readwise/Articles/5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later.md
+3-Resources/Highlights/Readwise/Articles/4 Steps to Organize Your Massive To-Do List.md
+3-Resources/Highlights/Readwise/Articles/4 Solid Ways to Get the Best of the Web.md
+3-Resources/Highlights/Readwise/Articles/4 Modern Tools to Automate Manual Spreadsheet Work.md
+3-Resources/Highlights/Readwise/Articles/4 Great Habits to Increase Productivity, Focus, Concentration, and Determination.md
+3-Resources/Highlights/Readwise/Articles/4 Efficient Workflow  Efficient R Programming.md
+3-Resources/Highlights/Readwise/Articles/4 Design Principles for Robust Data Pipelines.md
+3-Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md
+3-Resources/Highlights/Readwise/Articles/3 Steps to Designing a Powerful Project Workflow - ProjectManager.com.md
+3-Resources/Highlights/Readwise/Articles/3 Smart Uses of Curated Lists and How to Create Them.md
+3-Resources/Highlights/Readwise/Articles/3 Cool Things You Didn’t Know You Could Do With Obsidian.md
+3-Resources/Highlights/Readwise/Articles/27 Incredibly Useful Things You Didn’t Know Chrome Could Do.md
+3-Resources/Highlights/Readwise/Articles/15 Benefits of Keeping a Mindfulness Journal.md
+3-Resources/Highlights/Readwise/Articles/13 Things to Put on Your Daily Checklist for Boosted Productivity.md
+3-Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md
+3-Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md
+3-Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md
+3-Resources/Highlights/Readwise/Articles/10 Ways to Improve How You Manage Information.md
+3-Resources/Highlights/Readwise/Articles/10 Tips to Turn Microsoft To-Do Into a Serious Task Manager.md
+3-Resources/Highlights/Readwise/Articles/10 Quick SQL Tips After Writing Daily in SQL for 3 Years.md
+3-Resources/Highlights/Readwise/Articles/10 Killer Web Apps That Will Increase Your Productivity.md
+3-Resources/Highlights/Readwise/Articles/10 Guidelines to Better Table Design.md
+3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md
+3-Resources/Highlights/Readwise/Articles/'Mustashe' Explained  Joshua Cook.md
+3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV.md
+3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md
+2-Areas/Code/Registry/Registry.md
+2-Areas/Code/Registry/RegEdit - Take Ownership Context Menu.md
+2-Areas/Code/Registry/RegEdit - Restart Explorer and StartMenu Context Bar.md
+2-Areas/Code/Registry/RegEdit - Export Saved Registry Favorites.md
+2-Areas/Code/Registry/RegEdit - Enable Long Path Support on Windows.md
+2-Areas/Code/Registry/Regedit - Add Open in VSCode Insiders to Explorer Context Menu.md
+2-Areas/Code/README.md
+3-Resources/Highlights/Kindle/Bloggin Course Workbook.md
+3-Resources/Tools/Microsoft Office/Office RibbonX Editor.md
+3-Resources/Tools/Microsoft Office/Microsoft Visio.md
+3-Resources/Tools/Microsoft Office/Microsoft Office.md
+3-Resources/Tools/Microsoft Office/Microsoft Access.md
+3-Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md
+3-Resources/Highlights/Notes/README.md
+3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-28.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-26.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-18.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-07.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-06.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-05.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-04.md
+2-Areas/Daily-Notes/2021/2021-12/2021-12-01.md
+2-Areas/Code/Pandoc/README.md
+2-Areas/Code/Pandoc/Pandoc.md
+2-Areas/Code/Pandoc/Pandoc - Convert Word to Markdown.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/Websites and Online Tools.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/thiscodeWorks.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/StackOverflow.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/README.md
+2-Areas/Code/R/README.md
+2-Areas/Code/R/R.md
+2-Areas/Code/R/R - VSCode devcontainer.md
+2-Areas/Code/R/R - Upgrade R and Migrate Packages.md
+2-Areas/Code/R/R - SQL Server and RStudio.md
+2-Areas/Code/R/R - Simulate Actuarial Claims.md
+2-Areas/Code/R/R - Simulate Actuarial Claims Data - Simulation R Script.md
+2-Areas/Code/R/R - Run Shiny App in Background for Development.md
+2-Areas/Code/R/R - Retrieve GitHub Starred Repo Data.md
+2-Areas/Code/R/R - Package Management Scripts.md
+2-Areas/Code/R/R - mssql_rstudio.md
+2-Areas/Code/R/R - Handle long polling process in Plumber or Shiny.md
+2-Areas/Code/R/R - Excel Helpers.md
+2-Areas/Code/R/R - docker_shiny_mssql.md
+2-Areas/Code/R/R - Docker with Shiny and SQL Server.md
+3-Resources/Highlights/Hypothesis/🌱 My blog is a digital garden, not a blog.md
+3-Resources/Highlights/Hypothesis/What is Data Dictionary - Data terminology.md
+3-Resources/Highlights/Hypothesis/What is Cloud CDN and how does it work  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Traffic Director explained!  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md
+3-Resources/Highlights/Hypothesis/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing (Part 1 of 2).md
+3-Resources/Highlights/Hypothesis/PowerShell Tips & Tricks • Jeffery Hicks.md
+3-Resources/Highlights/Hypothesis/PostgreSQL extension turned Cloud microservice  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Perfect Fantasy Football Draft Strategy (2022).md
+3-Resources/Highlights/Hypothesis/Microservices architecture on Google Cloud  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/List of shell commands in Windows 10.md
+3-Resources/Highlights/Hypothesis/Learn about Cloud Functions events and triggers  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Knowledge Management in Real Life  LinkedIn.md
+3-Resources/Highlights/Hypothesis/Improving the security of your Cloud Run environment  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/How to Use APT to Manage Packages in Debian and Ubuntu.md
+3-Resources/Highlights/Hypothesis/How to Create and Maintain a Data Dictionary with Dataedo - Dataedo Blog.md
+3-Resources/Highlights/Hypothesis/Getting started with R on Amazon Web Services  Amazon Web Services.md
+3-Resources/Highlights/Hypothesis/Get Started with Obsidian as a Developer.md
+3-Resources/Highlights/Hypothesis/Essential PowerShell Learning Resources • The Lonely Administrator.md
+3-Resources/Highlights/Hypothesis/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md
+3-Resources/Highlights/Hypothesis/Configuring Your Flask App.md
+3-Resources/Highlights/Hypothesis/Cloud Run gets always-on CPU allocation  Google Cloud Blog.md
+3-Resources/Highlights/Hypothesis/Cant stay focused while processing - have tried for months.md
+3-Resources/Highlights/Hypothesis/Better ExtractTransformLoad (ETL) Practices in Data Warehousing (Part 2 of 2).md
+3-Resources/Highlights/Hypothesis/Assign global hotkeys to launch any app in Windows 10.md
+3-Resources/Highlights/Hypothesis/An Easy 5-Step Guide to Auditing Your Subscriptions, According to Experts.md
+3-Resources/Highlights/Highlights.md
+3-Resources/Tools/Microsoft Office/Excel/Inquire Excel Add-In.md
+3-Resources/Tools/Microsoft Office/Excel/Excel.md
+3-Resources/Tools/Microsoft Office/Excel/Excel - VBA.md
+2-Areas/Code/Code.md
+2-Areas/Code/Javascript/README.md
+2-Areas/Code/Javascript/JS - Remove all YouTube Watch Later Videos.md
+2-Areas/Code/Javascript/JS - Obsidian Web Clipper Bookmarklet.md
+2-Areas/Code/Javascript/Javascript.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-28.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-26.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-25.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-23.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-21.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-17.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-16.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-15.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-12.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-10.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-08.md
+3-Resources/Tools/Developer Tools/Version Control/Version Control.md
+3-Resources/Tools/Developer Tools/Version Control/repo-manager.md
+3-Resources/Tools/Developer Tools/Version Control/README.md
+3-Resources/Tools/Developer Tools/Version Control/gitui.md
+3-Resources/Tools/Developer Tools/Version Control/GitHub.md
+3-Resources/Tools/Developer Tools/Version Control/Git.md
+3-Resources/Tools/Developer Tools/Version Control/git-sweep.md
+3-Resources/Tools/Developer Tools/Version Control/Git Extras.md
+2-Areas/Code/Python/README.md
+2-Areas/Code/Python/Python.md
+2-Areas/Code/Python/Python - Upgrade PIP.md
+3-Resources/Tools/Developer Tools/Developer Tools.md
+2-Areas/Code/CMD/CMD.md
+2-Areas/Code/CMD/CMD - View Available Disks on Windows.md
+2-Areas/Code/CMD/CMD - Troubleshooter Commands.md
+2-Areas/Code/CMD/CMD - Start a Windows Defender Virus Scan.md
+2-Areas/Code/CMD/CMD - SQLPackage to DacPac.md
+2-Areas/Code/CMD/CMD - Run the WinSAT Diagnostics Score.md
+2-Areas/Code/CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md
+2-Areas/Code/CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md
+2-Areas/Code/CMD/CMD - Retrieve Stored Wi-Fi Passwords.md
+2-Areas/Code/CMD/CMD - Restart Explorer and Start Menu.md
+2-Areas/Code/CMD/CMD - Memory Diagnostic.md
+2-Areas/Code/CMD/CMD - FlushDNS.md
+2-Areas/Code/CMD/CMD - Extended Disk Cleanup.md
+2-Areas/Code/CMD/CMD - Export Edge Custom Search Engines.md
+2-Areas/Code/CMD/CMD - Export and Import Edge Custom SearchEngines.md
+2-Areas/Code/CMD/CMD - DISM Commands.md
+2-Areas/Code/CMD/CMD - Delete Windows Update Leftover Files.md
+2-Areas/Code/CMD/CMD - Delete Network Data.md
+2-Areas/Code/CMD/CMD - Create a Network Performance Windows Report.md
+2-Areas/Code/GitHub Actions/README.md
+2-Areas/Code/GitHub Actions/GitHub Actions.md
+2-Areas/Code/GitHub Actions/GHA - Stale Issues.md
+2-Areas/Code/GitHub Actions/GHA - Release.md
+2-Areas/Code/GitHub Actions/GHA - R Test Coverage.md
+2-Areas/Code/GitHub Actions/GHA - R Spelling.md
+2-Areas/Code/GitHub Actions/GHA - R Spelling Checks.md
+2-Areas/Code/GitHub Actions/GHA - R ShinyApp Deploy.md
+2-Areas/Code/GitHub Actions/GHA - R roxygen.md
+2-Areas/Code/GitHub Actions/GHA - R Render RMD.md
+2-Areas/Code/GitHub Actions/GHA - R pkgdown.md
+2-Areas/Code/GitHub Actions/GHA - R pkgcheck.md
+2-Areas/Code/GitHub Actions/GHA - R Package Validation.md
+2-Areas/Code/GitHub Actions/GHA - R Lint.md
+2-Areas/Code/GitHub Actions/GHA - R Docker.md
+2-Areas/Code/GitHub Actions/GHA - R Code Coverage.md
+2-Areas/Code/GitHub Actions/GHA - R Check (Standard).md
+2-Areas/Code/GitHub Actions/GHA - R Build-Check-Install.md
+2-Areas/Code/GitHub Actions/GHA - R Build Bookdown.md
+2-Areas/Code/GitHub Actions/GHA - R Build Blogdown.md
+2-Areas/Code/GitHub Actions/GHA - Labeler.md
+2-Areas/Code/GitHub Actions/GHA - GitHub Actions for R.md
+2-Areas/Code/GitHub Actions/GHA - Git-Cliff.md
+2-Areas/Code/GitHub Actions/GHA - Code Coverage for R.md
+2-Areas/Code/GitHub Actions/GHA - Build-Check-Install R Package.md
+2-Areas/Code/GitHub Actions/GHA - Azure Container WebApp Deployment.md
+2-Areas/Code/GitHub Actions/GHA - AWS Deployment.md
+3-Resources/Tools/Developer Tools/README.md
+3-Resources/Tools/Developer Tools/Terminal/README.md
+3-Resources/Tools/Developer Tools/Terminal/iTerm.md
+3-Resources/Tools/Developer Tools/Terminal/Fluent Terminal.md
+3-Resources/Tools/Developer Tools/Terminal/Terminal.md
+3-Resources/Tools/Developer Tools/Terminal/Windows Terminal.md
+3-Resources/Tools/Developer Tools/Data Stack/README.md
+3-Resources/Tools/Developer Tools/Docker/README.md
+3-Resources/Tools/Developer Tools/Docker/Dockerfiles.md
+3-Resources/Tools/Developer Tools/Docker/Docker.md
+3-Resources/Tools/Developer Tools/Docker/Docker Compose.md
+3-Resources/Tools/Developer Tools/Docker/Docker CLI.md
+3-Resources/Tools/Developer Tools/Linux/Linux.md
+3-Resources/Tools/Developer Tools/Linux/Windows Subsystem for Linux.md
+3-Resources/Tools/Developer Tools/Linux/README.md
+3-Resources/Tools/Developer Tools/Documentation/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Winget.md
+3-Resources/Tools/Developer Tools/Shell/zsh.md
+3-Resources/Tools/Developer Tools/Shell/Shell.md
+3-Resources/Tools/Developer Tools/Shell/README.md
+3-Resources/Tools/Developer Tools/Shell/powerlevel10k.md
+3-Resources/Tools/Developer Tools/Shell/oh-my-zsh.md
+3-Resources/Tools/Developer Tools/Shell/Nerdfont.md
+3-Resources/Tools/Developer Tools/Shell/Microsoft DOS.md
+3-Resources/Tools/Developer Tools/Shell/Bash.md
+3-Resources/Tools/Developer Tools/Infrastructure/Terraform.md
+3-Resources/Tools/Developer Tools/Infrastructure/Infrastructure.md
+2-Areas/Code/Bash/README.md
+2-Areas/Code/Bash/Bash.md
+2-Areas/Code/Bash/Bash - WSL - Set Default Browser to Windows Host.md
+2-Areas/Code/Bash/Bash - Install WSLU.md
+2-Areas/Code/Bash/Bash - Install oh-my-zsh.md
+2-Areas/Code/Bash/Bash - Install NVM.md
+2-Areas/Code/Bash/Bash - GitHub Downloader.md
+2-Areas/Code/Bash/Bash - Git-Auto.md
+2-Areas/Code/Bash/Bash - Function to Show Website Certificate from Hostname.md
+2-Areas/Code/Bash/Bash - Function to Interactively Export AWS Profile.md
+2-Areas/Code/Bash/Bash - Download Private GitHub Repo Release Assets.md
+3-Resources/Tools/Developer Tools/Package Managers/Package Managers.md
+3-Resources/Tools/Developer Tools/Package Managers/OneGet.md
+3-Resources/Tools/Developer Tools/Package Managers/Node - npm.md
+2-Areas/Code/CSS/README.md
+2-Areas/Code/CSS/CSS.md
+2-Areas/Code/CSS/CSS - Obsidian Dashboard.md
+2-Areas/Code/CSS/CSS - GitHub Obsidian Theme.md
+2-Areas/Code/CSS/CSS - Default Obsidian Theme Styling.md
+2-Areas/Code/Excel/Excel.md
+2-Areas/Code/Excel/Excel - Formula to get ActiveSheet Name.md
+2-Areas/Code/Excel/README.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Nativefier.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/MEGA CMD.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI Extension - gh-dash.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GCalCLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GAM - Google Workspace Admin CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/ffsend.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/doctoc.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/dbml-renderer.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/dbatools (PowerShell).md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Command Line Utilities.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Utility.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/README.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Quarto.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Mermaid.js.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/markdown-notes-tree.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Git-Cliff.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Youtube-DL.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/wsh.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/trellocli.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Todoist-CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/to-ico-cli.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/SqlPackage.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/sqlfluff (Python).md
+3-Resources/Tools/Developer Tools/Command Line Utilities/SophiScript and SophiApp.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/sncli - Simple Note CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/README.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Pyrseas (Python).md
+3-Resources/Tools/Developer Tools/Command Line Utilities/organize.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/nostalgic - Bash Script to Manage Dotfiles.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/T-SQL.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/Procedural Languages.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/PLPGSQL.md
+3-Resources/Tools/Developer Tools/Languages/Languages.md
+3-Resources/Tools/Developer Tools/Languages/README.md
+2-Areas/Code/Cloud SDKs/Azure/Azure CLI - Whitelist IP for SQL Server.md
+3-Resources/Tools/Developer Tools/Data Stack/Data Stack.md
+3-Resources/Tools/Developer Tools/IDE/Visual Studio.md
+3-Resources/Tools/Developer Tools/IDE/Visual Studio Code.md
+3-Resources/Tools/Developer Tools/IDE/RStudio.md
+3-Resources/Tools/Developer Tools/IDE/README.md
+3-Resources/Tools/Developer Tools/IDE/PyCharm.md
+3-Resources/Tools/Developer Tools/IDE/IDE.md
+2-Areas/Code/Cloud SDKs/AWS/README.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - Validate and Verify Credential Setup.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - DynamoDB Queries.md
+2-Areas/Code/Cloud SDKs/AWS/AWS - Authentication and Configuration.md
+3-Resources/Tools/Developer Tools/Cloud Services/Cloud Services.md
+3-Resources/Tools/Developer Tools/Package Managers/Scoop/Scoop.md
+3-Resources/Tools/Developer Tools/Package Managers/Rust - Cargo.md
+3-Resources/Tools/Developer Tools/Package Managers/RIM - R Installation Manager CLI.md
+3-Resources/Tools/Developer Tools/Package Managers/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Python - pip.md
+3-Resources/Tools/Developer Tools/Cloud Services/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/INSTChoco.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/Chocolatey.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-package-list-backup.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-cleaner.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-archiver.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/VSCode.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Typora.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Text Editors.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/README.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Obsidian.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Notepad++.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQLFlow.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQL Server - DBA MultiTool.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Pyrseas.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/pgAudit.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Miscellaneous.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Great Expectations.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/franchise.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbt - Data Build Tool.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbhub.io.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/README.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/Reactjs.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/JavaScript.md
+3-Resources/Tools/Developer Tools/Languages/R/README.md
+3-Resources/Tools/Developer Tools/Languages/R/R.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Business Intelligence.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Alteryx.md
+3-Resources/Tools/Developer Tools/Languages/DotNet/DotNet.md
+3-Resources/Tools/Developer Tools/Documentation/Help Docs/Help Docs.md
+3-Resources/Tools/Developer Tools/Documentation/Help Docs/DrExplain.md
+3-Resources/Tools/Developer Tools/Documentation/Documentation.md
+3-Resources/Tools/Developer Tools/APIs/OpenAPI Specification.md
+3-Resources/Tools/Developer Tools/APIs/APIs.md
+3-Resources/Tools/Developer Tools/APIs/Swagger.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Machine Learning.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Key Vault.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps Pipelines.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Data Studio.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Container Registry.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Container Instances.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure CLI.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure SQL Databases.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure MLOps.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure ML Compute Instances.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure Data Lake Store.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/README.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Leapp.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/MultiCloud.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Serverless.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Dbgate.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DBeaver.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DB Browser for SQLite - sqlitebrowser.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Database GUI.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/PgAdmin.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/SQL Server Management Studio.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS CLI.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Aurora.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Athena.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS - Amazon RedShift Serverless.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Redshift.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon OpenSearch Service.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis Data Firehose.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EMR.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EC2.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Athena.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Jekyll.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hugo.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hexo.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/GitBook.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/README.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/MkDocs.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/ReadTheDocs.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Static Site Generators.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS S3.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Redshift.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS RDS.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS QuickSight.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Lake Formation.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Glue.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Schema Conversion Tool.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Sagemaker.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/localstack.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/PostgreSQL.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/MariaDB.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/Hadoop.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/Elasticsearch.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/Databases.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/Snowflake.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/SQL Server.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/SQLite.md
+3-Resources/Tools/Developer Tools/Languages/HTML/HTML.md
+3-Resources/Tools/Developer Tools/Languages/HTML/README.md
+3-Resources/Tools/Developer Tools/Languages/CSS/CSS.md
+3-Resources/Tools/Developer Tools/Languages/CSS/README.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Packages.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - psake.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - PoshCode.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Plaster.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Pester.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - ModuleBuilder.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - devblackops.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Core.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Modules.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Stucco.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - PSScaffold.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/README.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/Windows PowerShell.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/README.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Storage.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Services Table.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Instance Groups.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP API Service Accounts.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP - Google Cloud SDK - gcloud.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Cloud SDK.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Cloud BigQuery.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/README.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python.md
+3-Resources/Tools/Developer Tools/Languages/Python/README.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdbr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - implyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ibmdbR.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - filehashSQLite.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - elastic.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dittodb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbx.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbreport.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbplyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBITest.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBI.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbcooper.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBconnectR.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DatabaseConnector.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - connections.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - bigrquery.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - aws.dynamodb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - arkdb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/Database R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RcppRedis.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RCassandra.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - R4CouchDB.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pool.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pointblank.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - odbc.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MsSqlTools.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mssqlR.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MSSQL.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mongolite.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - liteq.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RJDBC.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RH2.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RGreenplum.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - redux.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RDruid.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker 1.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMySQL.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMariaDB.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RODBC.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/R Package - gh.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/API R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/R Package - plumber.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/Data Manipulation Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dplyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - usethis.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - covr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package Tools.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/RStudio Package Manager.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - SciDB.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RSQLite.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rscontract.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rrocksdb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPresto.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgres.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rpostgis.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ROracle.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - tfio.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqlpetr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqldf.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sparklyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - uptasticsearch.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - TScompare.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validate.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validatedb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - Hmisc.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - config.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - callr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/General R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - pkgsearch.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - keyring.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - qs.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - vembedr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Shiny R Packages/Shiny R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - conjuror.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - ChainLadder.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdown.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdata.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - cascsim.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - actuar.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/Actuarial R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - insurancerating.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - imaginator.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - deeptriangle.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - rsvr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - raw.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - simulationmachine.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - Flask.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - ChainLadder.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - tryangle.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - SQLAlchemy.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Packages.md

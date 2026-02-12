@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager
 
 ## Metadata
@@ -88,3 +100,11 @@
 * Based on the determined status, course corrections are often in order. Ensure they are planned appropriately—try to anticipate where things are headed.
 * Follow up with your team:
   We can’t assume that our team will remember every request or wise piece of advice that we give them. You will have to dispense a lot of friendly reminders like “hey, sorry to be a pain, but did you get to X yet?” or “don’t forget about Y.” This will give you some peace of mind that people are on track as well as giving a quick pulse check on how things are going overall. It’s often during those brief check-ins that you’ll discover something isn’t quite going to plan.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

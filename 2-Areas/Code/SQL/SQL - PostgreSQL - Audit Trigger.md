@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Audit Trigger
 
 *Source: https://wiki.postgresql.org/wiki/Audit_trigger*
@@ -124,7 +136,6 @@ It's fairly trivial to extend the above trigger function so you can turn query t
  AFTER INSERT OR UPDATE OR DELETE ON t
  FOR EACH ROW EXECUTE PROCEDURE audit.if_modified_func();
 
-
  -- Some sample updates, deletes, and inserts to illustrate the points
  select * from t; select * from audit.logged_actions;
 
@@ -172,3 +183,11 @@ It's fairly trivial to extend the above trigger function so you can turn query t
 ````dataview
 list from [[SQL - PostgreSQL Audit Trigger]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

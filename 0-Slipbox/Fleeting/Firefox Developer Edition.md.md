@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Firefox Developer Edition
 
  > 
@@ -11,8 +23,6 @@ The key killer feature of Firefox is *containers*.
 
 * General:
   * Enable `Ctrl + Tab` to cycle through tabs in recently used order:
-
-
 
 ````
 - 
@@ -51,3 +61,11 @@ Sources:
 * [Mozilla Github Organization Account Home Page](https://github.com/mozilla)
 * [Calling all web developers: hereâs why you should be using Firefox](https://stories.jotform.com/calling-all-web-developers-heres-why-you-should-be-using-firefox-983f012d4aec?source=search_post---------0&gi=644a2b41bbe0)
 * [Firefox is the best browser for web-developers](https://dev.to/krishnakakade/firefox-is-the-best-browser-for-web-developers-49i7)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

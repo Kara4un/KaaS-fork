@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Re-build all Indexes
 
 *Source: [Rebuild all indexes online | thiscodeWorks](https://www.thiscodeworks.com/61faf2fab783be0015bbaf82)*
@@ -28,3 +40,11 @@ GO
 ````dataview
 list from [[SQL - Re-build all Indexes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

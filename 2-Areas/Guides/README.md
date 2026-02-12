@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Guides
 
 * [WSL Terminal and Shell Setup Guide](WSL%20Terminal%20and%20Shell%20Setup%20Guide.md)
@@ -20,3 +32,11 @@ list from "2-Areas/Content/Guides" AND !#Type/Readme
 ````dataview
 list from [[_README]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

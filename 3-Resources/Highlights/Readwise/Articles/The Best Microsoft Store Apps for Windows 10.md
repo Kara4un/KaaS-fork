@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best Microsoft Store Apps for Windows 10
 
 ## Metadata
@@ -24,3 +36,11 @@
   It’s frustrating to try and build up a body of evidence to present to them. Speed test websites are full of adverts and they don’t log your historical results.
   Network Speed Test rectifies the problem. It’s got a clean interface, it’s lightning fast, and it logs past network performance history in easy-to-understand charts.
 * Tubecast for YouTube
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

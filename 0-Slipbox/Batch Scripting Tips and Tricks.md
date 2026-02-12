@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Batch Scripting Tips and Tricks
 
 Batch Scripts (i.e. `.bat`) represents a collection [Microsoft DOS](../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md) and [Windows Command Line](../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md) commands used on a computer running a *Windows* Operating System.
@@ -111,3 +123,11 @@ Used to open Windows programs. For example, **START C:\WINDOW\CALC** would run t
 ````dataview
 list from [[Batch Scripts]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

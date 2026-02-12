@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Make Your Developer On-Boarding Process Idiot Proof
 
 ## Metadata
@@ -32,3 +44,11 @@
 * Encourage fixable mistakes:
 * Conclusion:
   Building a scalable dev team capable of hammering out a functional app at break neck speed is not an easy task. These are just some of my tips and tricks. Please feel free to post/email me your own tips and trick on the topic. Good luck to you, now get back out there and ship your product.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

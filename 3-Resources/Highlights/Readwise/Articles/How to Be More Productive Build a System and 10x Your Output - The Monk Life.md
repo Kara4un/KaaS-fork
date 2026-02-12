@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Be More Productive: Build a System and 10x Your Output - The Monk Life
 
 ## Metadata
@@ -44,3 +56,11 @@
 * Step 5: Schedule Time to Work on Your Specific Tasks
   In my habits guide, I talk a lot about making time for your goals.
   Since I use my calendar for everything – you guessed it – I plug my specific tasks in there as well.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

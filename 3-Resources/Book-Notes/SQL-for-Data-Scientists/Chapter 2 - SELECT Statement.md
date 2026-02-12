@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Chapter 2 - The `SELECT` Statement
 
 `SELECT` = [3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL](../../Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/SQL.md) Code to retrieve data from database
@@ -79,3 +91,11 @@ LIMIT 5
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R - Retrieve GitHub Starred Repo Data
 
 *Source: [\[Github Stars\] Pull Github Starred Repositories using Github API and gh R Packages](https://gist.github.com/jimbrig/75fd952bad479737dc7b32b6ec203652#file-get_github_stars-r)*
@@ -58,3 +70,11 @@ qs::qsave(out, paste0("data/", Sys.Date(), "-jimbrig-github-starred-repos.qs"))
 ````dataview
 list from [[R - Retrieve GitHub Starred Repo Data]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

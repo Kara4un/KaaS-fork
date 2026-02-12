@@ -1,0 +1,20 @@
+2-Areas/Code/CSS/README.md
+2-Areas/Code/CSS/CSS.md
+2-Areas/Code/CSS/CSS - Obsidian Dashboard.md
+2-Areas/Code/CSS/CSS - GitHub Obsidian Theme.md
+2-Areas/Code/CSS/CSS - Default Obsidian Theme Styling.md
+2-Areas/Code/Excel/Excel.md
+2-Areas/Code/Excel/Excel - Formula to get ActiveSheet Name.md
+2-Areas/Code/Excel/README.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Nativefier.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/MEGA CMD.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI Extension - gh-dash.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GCalCLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/GAM - Google Workspace Admin CLI.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/ffsend.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/doctoc.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/dbml-renderer.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/dbatools (PowerShell).md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Command Line Utilities.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Utility.md

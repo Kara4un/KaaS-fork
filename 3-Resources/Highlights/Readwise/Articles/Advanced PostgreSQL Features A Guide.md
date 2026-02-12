@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Advanced PostgreSQL Features: A Guide
 
 ## Metadata
@@ -14,3 +26,11 @@
 * It is possible to create tables with fields as arrays of any data type.
 * This needs two functions. The to_tsvector function converts the values to their lexeme and the to_tsquery function will try to match the words.
 * SELECT * FROM LOG WHERE to_tsvector(description) @@ to_tsquery('miss');
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

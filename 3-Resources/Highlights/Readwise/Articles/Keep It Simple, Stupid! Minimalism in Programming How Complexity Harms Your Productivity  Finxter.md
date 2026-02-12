@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Keep It Simple, Stupid! Minimalism in Programming: How Complexity Harms Your Productivity | Finxter
 
 ## Metadata
@@ -81,3 +93,11 @@
   At the end of your life, you won’t judge whether you’ve led a meaningful life based on how many emails you’ve replied to, how many hours of computer games you’ve played, or how many Sudokus you’ve solved. ([View Highlight](https://instapaper.com/read/1353715471/14341782))
 * As the 80/20 principle, complexity is everywhere, and you constantly need to think about how to reduce complexity and simplify things. Keep it simple, stupid! ([View Highlight](https://instapaper.com/read/1353715471/14341788))
 * This article is based on a draft of a new chapter of my upcoming book “From One to Zero: A Minimalistic Approach to Programming” ([View Highlight](https://instapaper.com/read/1353715471/14341789))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

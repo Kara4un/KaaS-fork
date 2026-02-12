@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Art of Routing in Flask
 
 ## Metadata
@@ -52,3 +64,11 @@
 * @login_required (from Flask-Login): Slap this before any route to immediately protect it from being accessed from logged-out users. If the user is logged in, @login_required lets them in accordingly. If you're interested in user account management in Flask, check our post about Flask-Login.
 * @expose (from Flask-Admin): Allows views to be created for a custom admin panel.
 * @cache.cached() (from Flask-Cache): Cache routes for a set period of time, ie: @cache.cached(timeout=50).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

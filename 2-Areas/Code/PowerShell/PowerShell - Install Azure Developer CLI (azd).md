@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Install Azure Developer CLI (azd)
 
 *Source: https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=baremetal%2Cwindows*
@@ -39,3 +51,11 @@ list from [[PowerShell - Install Azure Developer CLI (azd)]] AND -"Changelog"
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
 ---
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

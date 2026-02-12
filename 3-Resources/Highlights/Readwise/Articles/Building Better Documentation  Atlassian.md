@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building Better Documentation | Atlassian
 
 ## Metadata
@@ -56,3 +68,11 @@
   Take a walk in the user's shoes. Know your reader, take a stroll through their user journey of your product and your documentation. This should always guide how and what you write.
   Hit the ground running
   The best documentation is clear, concise, informative, and most importantly, adds value for its audience. Explore team collaboration software like Confluence for your documentation, and spend less time hunting things down, and more time making things happen
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

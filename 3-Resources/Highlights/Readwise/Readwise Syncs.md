@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 * [2022-02-06](../../../2-Areas/Daily-Notes/2022/2022-02/2022-02-06.md) 6:46 PM — Synced 3616 highlights from 497 documents.
   
   * 3 highlights from Why Organising Your To-Dos by Project Does Not Work.
@@ -278,7 +290,7 @@
   * 1 highlights from 5 Useful Golang Modules Developers Should Know in 2021
   * 2 highlights from Services in Systemd: In-Depth Tutorial
   * 9 highlights from #5: 8 Tips for a Production-Ready Shiny Application
-  * 5 highlights from System Design Basics: Load Balancer 101
+  * 5 highlights from [[System Design]] Basics: Load Balancer 101
   * 1 highlights from Why Programmers Should Write Tutorials
   * 1 highlights from How to Learn Linux and Git
   * 2 highlights from How a Single Freelancer Outperforms a Whole Team
@@ -338,11 +350,11 @@
   * 1 highlights from CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.
   * 2 highlights from Quick Passages
   * 1 highlights from 5 Useful Golang Modules Developers Should Know in 2021
-  * 3 highlights from RESTful API Design — Step by Step Guide
+  * 3 highlights from RESTful [[API Design]] — Step by Step Guide
   * 4 highlights from The 2 Types of Technical Documentation That  Developers Love
   * 1 highlights from Event-Driven APIs — Understanding the Principles
   * 4 highlights from 9 Tricks for Boosting SQL Query Performance
-  * 1 highlights from System Design Paradigm: Caching
+  * 1 highlights from [[System Design]] Paradigm: [[Caching]]
   * 6 highlights from Software Roles and Titles
   * 1 highlights from Zen to Done: The Habit-Building Productivity System
   * 8 highlights from One Productivity System to Rule Them All
@@ -365,7 +377,7 @@
   * 7 highlights from Pay Off Your Debt: Tools and Tips
   * 5 highlights from How to Handle Inbox Infinity
   * 4 highlights from A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
-  * 11 highlights from Cloud Computing: 8 Benefits for Your Software Developers - Dice Insights
+  * 11 highlights from [[Cloud Computing]]: 8 Benefits for Your Software Developers - Dice Insights
   * 1 highlights from The Impact of the Cloud on Software Development | Developer.com
   * 2 highlights from Cloud Based Computing Business Ideas for 2021 \[Top 50 Picks\]
   * 2 highlights from How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File
@@ -440,7 +452,7 @@
   * 12 highlights from The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail
   * 8 highlights from Email Inbox Management: Why and How?
   * 29 highlights from The Art of Routing in Flask
-  * 4 highlights from Microservices Architecture on Google Cloud | Google Cloud Blog
+  * 4 highlights from [[Microservices Architecture]] on Google Cloud | Google Cloud Blog
   * 2 highlights from What Is Cloud CDN and How Does It Work? | Google Cloud Blog
   * 2 highlights from Traffic Director Explained! | Google Cloud Blog
   * 2 highlights from PostgreSQL Extension Turned Cloud Microservice | Google Cloud Blog
@@ -471,7 +483,7 @@
   * 2 highlights from Embracing Einstein Time
   * 1 highlights from A Detailed Guide to User Registration, Login, and Logout in Flask
   * 1 highlights from Three Systems I Use to Organize My Life
-  * 2 highlights from Web Application Architecture
+  * 2 highlights from [[Web Application Architecture]]
   * 1 highlights from Data Engineering Explained: Data Models
   * 11 highlights from Part I-I : Data Warehouse Modelling Concept
   * 1 highlights from Data Engineering — ETL or ELT
@@ -685,3 +697,11 @@
   * 1 highlights from The Many Layers of Data Lineage
   * 10 highlights from Minimum Viable PKM
   * 8 highlights from How to Design Better Data Pipelines? Start With the Basics
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Structure
 
 ### Regular Daily Notes
@@ -87,7 +99,7 @@ As you gain more experience you can update these plans and maybe even pivot towa
       * React
       * Javascript
       * Databases
-      * System Design
+      * [[System Design]]
       * Regular Expressions
       * Shell
       * Networking
@@ -108,3 +120,11 @@ As you gain more experience you can update these plans and maybe even pivot towa
 ````dataview
 list from [[Structure]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

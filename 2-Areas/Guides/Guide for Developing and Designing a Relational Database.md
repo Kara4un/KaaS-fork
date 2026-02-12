@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Guide for Developing and Designing a Relational Database
 
 ## Overview
@@ -84,3 +96,11 @@ Step two: Optimize Toad’s Code Analysis feature and SQL Optimizer component ma
 * [Design Your Work](../../3-Resources/Highlights/Readwise/Books/Design%20Your%20Work.md)
 
 **See Also:**
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

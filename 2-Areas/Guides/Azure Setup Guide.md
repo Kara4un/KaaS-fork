@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Azure Setup Guide
 
 *Source: [Azure setup guide overview - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/)*
@@ -127,3 +139,11 @@ list from [[Azure Setup Guide]] AND -"Changelog"
 \| Azure Analysis Services server | `Microsoft.AnalysisServices/servers` | `as` |
 
 \| Azure Databricks workspace | `Microsoft.Databricks/workspaces` | `dbw-` |
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

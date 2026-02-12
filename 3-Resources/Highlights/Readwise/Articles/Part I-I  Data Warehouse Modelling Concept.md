@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Part I-I : Data Warehouse Modelling Concept
 
 ## Metadata
@@ -20,3 +32,11 @@
 * In star schema design, a measure is a fact table column that stores values to be summarized. Here, our fact table store 5 different types of measure from each product from an order :
 * To connect data between fact table and dimension table, we need a surrogate key. A surrogate key is a unique identifier that you add to a table to support star schema modeling. By definition, it’s not defined or stored in the source data. Commonly, surrogate keys are added to relational data warehouse dimension tables to provide a unique identifier for each dimension table row.
 * To load data from our OLTP (Database) into OLAP (Data Warehouse) we need a pipeline for ETL. To do that, we need to create an ETL process for each dimension and fact table.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Package Managers/RIM - R Installation Manager CLI.md
+3-Resources/Tools/Developer Tools/Package Managers/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Python - pip.md
+3-Resources/Tools/Developer Tools/Cloud Services/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/INSTChoco.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/Chocolatey.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-package-list-backup.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-cleaner.md
+3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-archiver.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/VSCode.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Typora.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Text Editors.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/README.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Obsidian.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Notepad++.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQLFlow.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQL Server - DBA MultiTool.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Pyrseas.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/pgAudit.md

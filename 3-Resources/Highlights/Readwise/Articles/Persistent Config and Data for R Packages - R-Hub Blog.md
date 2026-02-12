@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Persistent Config and Data for R Packages - R-Hub Blog
 
 ## Metadata
@@ -26,17 +38,25 @@
   The batchtools package expect its users to setup a config file somewhere if they don’t want to use the defaults. That somewhere can be several locations, as explained in the batchtools::findConfFile() manual page. Two of the possibilities are rappdirs::user_config_dir("batchtools", expand = FALSE) and rappdirs::site_config_dir("batchtools") which refer to standard locations that are different depending on the operating system.
 * the gert package can find and return Git’s preferences via gert::git_config_global()
   * Tags: [2-Areas/MOCs/R](../../../../2-Areas/MOCs/R.md) *favorite* 
-* recommend using such standard locations when caching data.
+* recommend using such standard locations when [[Caching]] data.
 * Persist as much relevant and fresh data as possible.
 * A package that exemplifies doing so is getlandsat that downloads “Landsat 8 data from AWS public data sets” from the web. The first time the user downloads an image, the result is cached so next time no query needs to be made. A very nice aspect of getlandsat is its providing cache management functions
 * If you hesitate to use e.g. rappdirs::user_cache_dir() vs rappdirs::user_data_dir(), use a GitHub code search.
 * Package developers might also like the hoardr package that basically creates an R6 object building on rappdirs with a few more methods (directory creation, deletion).
   * Tags: *favorite* 
 * R-devel “just gained support for OS-agile user-specific `#rstats` cache/config/data folders” which is big (but if you use the base R implementation available after R 4.x.y, unless your package depends on R above that version you’ll need to backport the functionality ).
-* Caching results within an R session
+* [[Caching]] results within an R session
   To cache results within an R session, you could use a temporary directory for data. For any function call you could use memoise that supports, well memoization which is best explained with an example.
 * Only the first call to time() actually calls Sys.time(), after that the results is saved for the entire session unless memoise::forget() is called. It is great for speeding up code, and for not abusing internet resources which is why the polite package wraps memoise.
 * Providing a ready-to-use dataset in a non-CRAN package
   If your package depends on the use of a huge dataset, the same for all users, that is by definition too huge for CRAN, you can use a setup like the one presented by Brooke Anderson and Dirk Eddelbuettel in which the data is packaged up in a separate package not on CRAN, that the user will install therefore saving the data on disk somewhere where you can find it easily.
 * Conclusion
-  In this blog post we presented ways of saving configuration options and data in a not so temporary way in R packages. We mentioned R startup files (options in .Rprofile and secrets in .Renviron, the startup package); the rappdirs and hoardr packages as well as an exciting similar feature in R devel; the keyring package. Writing in the user home directory can be viewed as invasive (and can trigger CRAN archival), hence there is a need for a good package design (asking for confirmation; providing cache management functions like getlandsat does) and documentation for transparency. Do you use any form of caching on disk with a default location in one of your packages? Do you know where your rhub email token lives? 😉
+  In this blog post we presented ways of saving configuration options and data in a not so temporary way in R packages. We mentioned R startup files (options in .Rprofile and secrets in .Renviron, the startup package); the rappdirs and hoardr packages as well as an exciting similar feature in R devel; the keyring package. Writing in the user home directory can be viewed as invasive (and can trigger CRAN archival), hence there is a need for a good package design (asking for confirmation; providing cache management functions like getlandsat does) and documentation for transparency. Do you use any form of [[Caching]] on disk with a default location in one of your packages? Do you know where your rhub email token lives? 😉
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

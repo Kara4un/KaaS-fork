@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email - Forte Labs
 
 ## Metadata
@@ -43,3 +55,11 @@
 * We can use negative feedback loops to try and restore balance — digital detoxes, work-life balance seminars, meditation retreats, goal-setting and values exercises, New Year’s Resolutions— but none of these will be enough if we keep pouring the fuel of reactivity on the fire of runaway positive feedback loops.
 * That is our real goal — lowering our reactivity is an end in itself, because anything that forces you to react controls you.
 * And you will need this new low reactivity superpower, because if you learn to focus your energy instead of dissipating it, and begin offloading the mundane work to tools and habits and systems, and eventually assistants and employees and maybe even someday, intelligent machines, the inevitable result will be that your remaining work will be more intellectually and creatively dense — it will be much, MUCH harder
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DB Browser for SQLite - sqlitebrowser.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Database GUI.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/README.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/PgAdmin.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/SQL Server Management Studio.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS CLI.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Aurora.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Athena.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS - Amazon RedShift Serverless.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Redshift.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon OpenSearch Service.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis Data Firehose.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EMR.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EC2.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Athena.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Jekyll.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hugo.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hexo.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/GitBook.md

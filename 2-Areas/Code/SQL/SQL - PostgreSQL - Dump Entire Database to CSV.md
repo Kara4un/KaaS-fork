@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Dump Entire Database to CSV
 
 *Source: https://gist.github.com/abmmhasan/2f4024922eaea537cd1795223e38c18a*
@@ -47,3 +59,11 @@ SELECT db_to_csv('/path/to/dir/');
 ````dataview
 list from [[SQL - PostgreSQL - Dump Entire Database to CSV]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

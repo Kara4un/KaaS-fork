@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 4 Steps to Organize Your Massive To-Do List
 
 ## Metadata
@@ -24,3 +36,11 @@
   C) Urgent, but Not Important – Tasks that seem urgent {like email and social media}, but really are not that important.
   D) Not Urgent, and Not Important – Consider deleting or adding to your “Someday” list.
 * Migrate all relevant tasks from your Brain Dump over to this Task Management Page. Do this until all tasks are written down in their specific quadrants according to color. If you have a lot of tasks in a specific category {like Home}, you may want to create a single Task Management Page for that category.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

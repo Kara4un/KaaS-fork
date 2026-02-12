@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - Download Private GitHub Repo Release Assets
 
 *Script: [gh-dl-release.sh](https://gist.githubusercontent.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a/raw/6020fd8ddef25b3ed0809c69e6342b769b3c35b5/gh-dl-release)*
@@ -80,3 +92,11 @@ See Also: [PowerShell - Get-GitHubRelease](../PowerShell/PowerShell%20-%20Get-Gi
 ````dataview
 list from [[Bash - Download Private GitHub Repo Release Assets]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

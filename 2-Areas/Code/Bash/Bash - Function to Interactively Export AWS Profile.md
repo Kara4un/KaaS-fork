@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - Function to Interactively Export AWS Profile
 
 ## *Source: https://github.com/rothgar/mastering-zsh/blob/master/docs/helpers/functions.md#interactively-export-aws_profile*
@@ -68,3 +80,11 @@ list from [[Bash - Function to Show Website Certificate from Hostname]] AND -"Ch
 ````dataview
 list from [[Bash - Function to Interactively Export AWS Profile]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

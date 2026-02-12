@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS
 
 ## Metadata
@@ -100,3 +112,11 @@
   with increase
   Speaker 1
   intentional structure to your work. You really got to know what you're about and get after it. ([Time 1:07:12](https://share.snipd.com/snip/5d023fd5-4665-4d10-9f24-13d5f5426efd))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

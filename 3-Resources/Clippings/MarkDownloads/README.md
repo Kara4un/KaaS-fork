@@ -1,8 +1,20 @@
 ---
-Date: 2022-09-23
+Date: 2022-09-23T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["MarkDownloads"]
+Tags:
+  - '#Type/Folder'
+  - '#Type/ReadMe'
+Alias:
+  - MarkDownloads
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # MarkDownloads Overview
@@ -50,7 +62,6 @@ Additionally, you can 'parameterize' any of the text variables (other than date 
 ## My Settings
 *Source: https://gist.github.com/jimbrig/2ac3be895c54ad1672b49b3e6a27f6b7*
 
-
 ```gist
 2ac3be895c54ad1672b49b3e6a27f6b7
 ```
@@ -86,5 +97,10 @@ Additionally, you can 'parameterize' any of the text variables (other than date 
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
 
+## Knowledge Graph Links
 
-
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

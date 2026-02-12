@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Advanced Programming Concepts
 
 ![](https://i.imgur.com/Czw5nkn.png)
@@ -88,3 +100,11 @@
 * [Development](../MOCs/Development.md)
 * [2-Areas/MOCs/Python](../MOCs/Python.md)
 * [Windows PowerShell](../../3-Resources/Tools/Developer%20Tools/Languages/PowerShell/Windows%20PowerShell.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

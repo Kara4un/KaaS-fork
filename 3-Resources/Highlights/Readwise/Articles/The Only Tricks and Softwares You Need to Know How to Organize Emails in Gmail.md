@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail
 
 ## Metadata
@@ -21,3 +33,11 @@
 * Mailmanhq is an email management tool that shades unimportant emails to know how to organize emails in Gmail.
 * Boomerang manages the inbox to schedule the emails and also automate them. This email management tool is an add-on that enables you to organize and send emails at your convenience. It works with both android and ios help you know how to organize emails in Gmail.
 * Blue mail allows you to sync your inbox from various accounts. This email management tool supports a list of email software such as Yahoo Mail, Gmail, AOL, outlook, icloud, exchange, Office 365, and more
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

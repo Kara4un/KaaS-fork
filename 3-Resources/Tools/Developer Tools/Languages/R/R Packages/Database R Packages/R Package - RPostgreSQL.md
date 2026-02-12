@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - RPostgres
 
 *Source: [r-dbi/RPostgres: A DBI-compliant interface to PostgreSQL (github.com)](https://github.com/r-dbi/RPostgres) | [Rcpp Interface to PostgreSQL • RPostgres (r-dbi.org)](https://rpostgres.r-dbi.org/)*
@@ -103,3 +115,11 @@ The original DBI design imagined that each package could instantiate X drivers, 
 ````dataview
 list from [[R Package - RPostgreSQL]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

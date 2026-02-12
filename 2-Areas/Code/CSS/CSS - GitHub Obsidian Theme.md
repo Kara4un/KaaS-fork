@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub Obsidian Theme CSS
 
 *Source: https://github.com/sergey900553/obsidian_githublike_theme*
@@ -72,7 +84,6 @@
   --font-monospace: Consolas;
 }
 
-
 /* search */
 
 .search-result-file-matched-text {
@@ -83,10 +94,6 @@ color: #dedede;
 .search-result-file-title {
   color: var(--blue);
 }
-
-
-
-
 
 /* headings preview-view */
 
@@ -134,8 +141,6 @@ color: #dedede;
   color: var(--text-title-h6);
 }
 
-
-
 /* headings-editor */
 .cm-header-1
 {
@@ -179,14 +184,9 @@ color: #dedede;
   color: var(--text-title-h6);
 }
 
-
-
 .markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6 {
     margin: 0px 0;
 }
-
-
-
 
 /* links */
 a,
@@ -226,8 +226,6 @@ a:hover,
   padding-bottom: var(--bar-vertical-padding) !important;
 }
 
-
-
 /* code block */
 
 /* Code blocks */
@@ -244,9 +242,6 @@ code[class*="language-"] {
     padding: 12px 20px;
 }
 
-
-
-
 /* width of content editor */
 .markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer {
     max-width: 1000px;
@@ -261,7 +256,6 @@ code[class*="language-"] {
     max-width: 1000px;
 }
 
-
 /* width of content preview-view */
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
     max-width: 1000px;
@@ -272,9 +266,6 @@ code[class*="language-"] {
 .markdown-source-view.is-readable-line-width .CodeMirror {
     max-width: 1000px;
 }
-
-
-
 
 /* little change */
 
@@ -325,3 +316,11 @@ ul {
 ````dataview
 list from [[GitHub Obsidian Theme CSS]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

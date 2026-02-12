@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Check Your Windows Experience Score on Windows 10
 
 ## Metadata
@@ -23,3 +35,11 @@
   Overall, the Windows Experience Index isn’t the best way to figure out your system performance, or where you could improve it, either. Here are two alternatives to the Windows Experience Index that give you the information you need.
 * SiSoftware Sandra (System ANaylzer, Diagnostic, and Reporting Assistant) is a system benchmarking tool you can use to test your hardware against other users. Sandra has an online reference database that you can use to compare individual aspects of your system, like your processor or internet connection, then compare against other systems to figure out if a system upgrade is worthwhile.
 * Another useful option is UserBenchmark. UserBenchmark runs a suite of benchmarking tools on your system, then opens the results in your default internet browser. You can then compare your results with the thousands of other UserBenchmark users, figuring out how your system ranks in comparison.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Linux - visudo command
 
 The **visudo command** is a safe and secure way of editing the **/etc/sudoers** file on UNIX and Linux systems. /etc/sudoers is instumental for gaining privileged access via [sudo command](https://www.unixtutorial.org/commands/sudo/).
@@ -111,3 +123,11 @@ These are the basics of using visudo and editing the sudoers file with it. We re
 list from [[Linux - visudo]] AND -"Changelog"
 ```
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

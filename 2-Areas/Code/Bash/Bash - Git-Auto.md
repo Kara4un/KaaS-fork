@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - Git-Auto
 
 *Source: https://gist.github.com/439f74475d36449cc02a1fd1e878e22f#file-git-auto*
@@ -13,7 +25,6 @@
 ##  git-auto -b main -p ;; set git branch
 ##  git-auto -i 30 -p ;; set interval seconds
 ##  git-auto -o -p;; execute once
-
 
 #set -e
 #set -x
@@ -91,3 +102,11 @@ fi
 ````dataview
 list from [[Bash - Git-Auto]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

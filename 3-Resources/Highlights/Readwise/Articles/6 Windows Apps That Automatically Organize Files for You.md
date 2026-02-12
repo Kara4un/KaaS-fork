@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 6 Windows Apps That Automatically Organize Files for You
 
 ## Metadata
@@ -17,3 +29,11 @@
   Use the Quick Switch hotkey to instantly jump to the folder of the file you’re working with. Open files faster without manually navigating the Open File dialog.
   You can set custom keywords for any number of folders. Search for files only in that folder.
   Create shortcuts to files, folders, and apps you use frequently.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

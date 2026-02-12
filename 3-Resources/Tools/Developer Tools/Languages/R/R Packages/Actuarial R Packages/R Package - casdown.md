@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package - casdown
 
 *Source: [casact/casdown: RMarkdown formats for CAS publications](https://github.com/casact/casdown)*
@@ -24,3 +36,11 @@ See the templates here: [casdown/inst/rmarkdown/templates/e-forum at main · cas
 ````dataview
 list from [[R Package - casdown]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

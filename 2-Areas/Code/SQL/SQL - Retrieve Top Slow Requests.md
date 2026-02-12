@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Retrieve Top Slow Requests
 
 *Source: [Retrieve Top Slow Requests | thiscodeWorks](https://www.thiscodeworks.com/61faf178b783be0015bbaf73)*
@@ -38,3 +50,11 @@ ORDER BY total_elapsed_time / execution_count DESC;
 ````dataview
 list from [[SQL - Retrieve Top Slow Requests]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

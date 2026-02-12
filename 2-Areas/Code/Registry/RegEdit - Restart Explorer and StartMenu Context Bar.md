@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # RegEdit - Restart Explorer and StartMenu Context Bar
 
 *Source: [How to Restart File Explorer in Windows 11 (winaero.com)](https://winaero.com/how-to-restart-file-explorer-in-windows-11/?utm_source=software&utm_medium=in-app&utm_campaign=winaerotweaker&utm_content=contextmenurestartexplorer#Restart_Explorerexe_in_Windows_11_using_a_script)*
@@ -81,3 +93,11 @@ Windows Registry Editor Version 5.00
 ````dataview
 list from [[RegEdit - Restart Explorer and StartMenu Context Bar]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

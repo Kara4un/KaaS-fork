@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Concatenate Strings
 
 *Source: [sql-snippets/concatenate-strings.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/mssql/concatenate-strings.md)*
@@ -49,3 +61,11 @@ Output:
 ````dataview
 list from [[SQL - SQL Server - Concatenate Strings]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

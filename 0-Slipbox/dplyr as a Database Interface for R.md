@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # dplyr as a Database Interface for R
 
 *Source: [Overview (rstudio.com)](https://db.rstudio.com/getting-started/overview)*
@@ -53,7 +65,6 @@ library(DBI)
 library(dplyr)
 library(ggplot2)
 
-
 con <- dbConnect(RSQLite::SQLite(), ":memory:")
 copy_to(con, nycflights13::flights, "FLIGHTS")
 
@@ -82,3 +93,11 @@ tbl(con, "FLIGHTS") %>%
 ````dataview
 list from [[dplyr as a Database Interface for R]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

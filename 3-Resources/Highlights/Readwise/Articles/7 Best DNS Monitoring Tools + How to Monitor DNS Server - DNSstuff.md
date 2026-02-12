@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff
 
 ## Metadata
@@ -23,3 +35,11 @@
 * Authoritative name server: The authoritative name server is the last step before the request is resolved. This server contains all the data for specific domains (e.g., google.com). The authoritative server resolves the hostname to the correct IP address, then sends this back to the recursor to be cached. It’s then returned to the user’s browser, so the requested site can be accessed via the IP address. ([View Highlight](https://instapaper.com/read/1448977595/17602439))
 * There is also round-robin DNS, a technique in which load balancing is undertaken by the authoritative name server. Numerous entries are queued for an individual domain name, so when a query arrives, round-robin DNS will identify the first DNS entry and respond with the relevant IP address. This DNS record is then pushed to the end of the queue, and the next time a domain name needs to be resolved, the next entry in the queue is sent. ([View Highlight](https://instapaper.com/read/1448977595/17602443))
 * Round robin is a distinct DNS server methodology used to supply load balancing to a website with numerous redundant servers. The issue with this approach is it doesn’t necessarily recognize when a server is offline and may continue to deliver queries to it. This problem could be resolved by ensuring the name server features built-in fail-safes, which check IP address status ([View Highlight](https://instapaper.com/read/1448977595/17602445))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://docs.aws.amazon.com/athena/latest/ug/other-notable-limitations.html](https://docs.aws.amazon.com/athena/latest/ug/other-notable-limitations.html)
@@ -17,3 +29,11 @@ The following example query lists all columns for all tables in the database web
 ## Highlights
 
 * information_schema – Querying information\_schema is most performant if you have a small to moderate amount of AWS Glue metadata. If you have a large amount of metadata, errors can occur. For information about querying the information\_schema database for AWS Glue metadata, see Querying AWS Glue Data Catalog.
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

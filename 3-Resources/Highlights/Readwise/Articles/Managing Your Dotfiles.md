@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Managing Your Dotfiles
 
 ## Metadata
@@ -104,3 +116,11 @@
   export PATH=~/.dotfiles/bin:${PATH}
 * For this to work properly, make sure you followed the tip above to create ~/.dotfiles as a symbolic link to your dotfiles directory.
 * Tracking Config Files in Other Directories
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

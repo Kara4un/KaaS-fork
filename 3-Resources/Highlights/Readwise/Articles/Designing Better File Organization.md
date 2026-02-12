@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Designing Better File Organization
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Without a good file organization strategy in place before the work begins, inconsistencies in product design and inefficiencies in team collaboration will grow. Simply put, it costs the business money.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

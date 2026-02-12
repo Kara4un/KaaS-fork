@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # What’s on Your Programming Reading List?
 
 ## Metadata
@@ -43,3 +55,11 @@
 * There’s an easy way to do it: start with reading only 30 minutes each day for a month. It’s a small, manageable investment of time. And yet it’s enough to have an impact. ([View Highlight](https://instapaper.com/read/1354410910/14361530))
 * The professor who told me to “read more” ignited my motivation to read, albeit initially to get a good grade. But I quickly saw the benefits. As it turned out, this professor, who I later learned has over 1,000 books in his personal library, gave me some of the best advice I’ve ever received. ([View Highlight](https://instapaper.com/read/1354410910/14361534))
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

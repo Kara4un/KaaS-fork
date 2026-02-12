@@ -1,11 +1,22 @@
 ---
-Date: 2022-09-23
+Date: 2022-09-23T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping"]
+Tags:
+  - '#Type/Clipping'
 Source: https://support.smartbear.com/swaggerhub/getting-started/
-OriginalAuthor: 
+OriginalAuthor: null
 Keywords: []
-Alias: ["Getting Started with SwagerHub"]
+Alias:
+  - Getting Started with SwagerHub
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # Getting Started with SwaggerHub
@@ -14,8 +25,6 @@ Alias: ["Getting Started with SwagerHub"]
 
 > ## Excerpt
 > SwaggerHub is a collaborative platform for defining your APIs using the OpenAPI Specification, and managing them throughout their lifecycle. It integrates the core Swagger tools (UI, Editor, Codegen, and Validator) into a single platform to help you coordinate the entire workflow of an API’s lifecycle. To help get you started, we’ve put together a custom learning path, using just some of the free resources available to customers.
-
-
 
 ## Overview
 
@@ -68,3 +77,11 @@ That’s all there is to it! You’re now all set up to follow along with the re
 ***
 
 Jimmy Briggs | 2022
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

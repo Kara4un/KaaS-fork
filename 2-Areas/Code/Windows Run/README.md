@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Windows Run Dialogue
 
 The *Run Dialogue* in *Windows* allows users a quick interface for running various system commands.
@@ -37,3 +49,11 @@ list from "2-Areas/Code/Windows/Run" AND !#Type/Readme
 list from [[_README]] AND -"Changelog"
 ```
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

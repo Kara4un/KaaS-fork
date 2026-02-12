@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # It's Time to Audit Your Autopay Subscriptions
 
 ## Metadata
@@ -14,3 +26,11 @@
 * How to audit your subscriptions ([View Highlight](https://instapaper.com/read/1481383902/18721575))
 * The first step is to identify recurring charges in your credit card, debit card, or online banking accounts. Set aside an hour to list all of your monthly and annual subscription expenses for the past year. Don’t recognize a few of them? Or maybe there’s a service you like but rarely use? Go ahead and cancel those. Create a calendar reminder for yourself to do this every month or so if you really want to stay on top of it. ([View Highlight](https://instapaper.com/read/1481383902/18721577))
 * Another quick option is to check your iPhone settings for unwanted apps you might be paying for as well. And there are dedicated subscription tracking services found on apps, too, like TrueBill, Bobby, Subscro and others. These apps connect to your bank accounts and automatically identify your subscription services, which you can then track on a custom dashboard. But remember that many of these apps are tiered and additional services might charge you a monthly fee, which makes them… yet another autopay subscription service. ([View Highlight](https://instapaper.com/read/1481383902/18721578))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

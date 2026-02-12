@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Get and Remain Organized During Chaotic Times
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Mizu no Kokoro \[mind like water\] is a Japanese phrase meaning to have a state of mind that is similar to water: Flowing, reflective, and adaptive. Mizo no Kokoro means to adopt a state of calm by trying to keep the mind transparent and clean, like water. By keeping your mind Mizu no Kokoro, you allow yourself to be calm and able to focus on the important things that need your attention.
   “In karate, there is an image that’s used to define the position of perfect readiness: “mind like water.” Imagine throwing a pebble into a still pond. How does the water respond? The answer is, totally appropriately to the force and mass of the input; then it returns to calm. It doesn’t overreact or underreact…Anything that causes you to overreact or underreact can control you, and often does.” David Allen, Getting Things Done
 * Perspective is what encourages you to prioritize your tasks in a way that helps you work towards your overall life goals or long-term tasks. To achieve this perspective David Allen proposes a 6-level altitude model which he calls the “6 Horizons of Focus”.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

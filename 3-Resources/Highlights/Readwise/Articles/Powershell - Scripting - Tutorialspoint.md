@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Powershell - Scripting - Tutorialspoint
 
 ## Metadata
@@ -37,3 +49,11 @@
 * Getting information of variable
   Get-Member cmdlet can tell the type of variable being used. See the example below.
   $location | Get-Member
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

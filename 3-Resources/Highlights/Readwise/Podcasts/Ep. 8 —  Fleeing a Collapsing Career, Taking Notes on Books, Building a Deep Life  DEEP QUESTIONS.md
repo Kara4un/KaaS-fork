@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS
 
 ## Metadata
@@ -54,3 +66,11 @@
   stephen and j my
   Speaker 1
   combined answer to your questions hopefully gives some more insight into how i read and how i go and remember things i learned from what i read ([Time 0:35:38](https://share.snipd.com/snip/1cfb3c29-e409-4278-8caa-3ea53e731a39))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

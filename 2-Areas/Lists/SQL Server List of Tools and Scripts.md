@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL Server List of Tools and Scripts
 
 *Source: [expressdb.io/sql-server-resources.md at master · LowlyDBA/expressdb.io (github.com)](https://github.com/LowlyDBA/expressdb.io/blob/master/sql-server-resources.md)*
@@ -144,3 +156,11 @@ Micosoft curates a list of first and third party extensions [here](https://githu
 ````dataview
 list from [[SQL Server List of Tools and Scripts]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

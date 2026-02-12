@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # XDG Base Directory Specification
 
 *Source: [XDG Base Directory Specification (specifications.freedesktop.org)](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)*
@@ -216,3 +228,11 @@ Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 ````dataview
 list from [[XDG Base Directory Specification]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

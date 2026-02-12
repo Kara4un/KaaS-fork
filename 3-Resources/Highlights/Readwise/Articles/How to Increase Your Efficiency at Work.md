@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Increase Your Efficiency at Work
 
 ## Metadata
@@ -23,3 +35,11 @@
 * The Bottom Line
   Increasing your efficiency at work isn't rock science. In fact, it's downright simple. It's the simplicity that trips people up. Too often people look for new shiny toys when the answers are right in front of them. These concepts transformed my life and those of many entrepreneurs the world over and you'd be foolish not to at least give them a fair shake.
   Remember, like all concepts, applying them once and expecting big results just won't happen. But over time, simple concepts done repeatedly can achieve incredible results.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

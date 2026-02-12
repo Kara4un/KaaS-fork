@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Loss Triangles
 
 *Source: [Loss Triangle |](http://www.hbactuarial.com/274-2/)*
@@ -71,3 +83,11 @@ Read our post on the [loss development factors](http://www.hbactuarial.com/loss-
 ````dataview
 list from [[Loss Triangles]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Crush It at the Start of Your New Developer Job - Small Business Programming
 
 ## Metadata
@@ -20,3 +32,11 @@
   it’s not enough to find something of value to work on. You are looking for the thing that has the most value.
   the most important decisions in your job are rarely 100% technical. Our product owner is an MBA. And he can’t tell the difference between an SQL query and a file full of jQuery but he’s really good at this stuff. His deep domain knowledge, ability to ask us (his programmers) smart questions, and his strong grasp of how value is created (“return” divided by “effort”) are all he needs to make great decisions. Unfortunately for you, this is also a lot harder to learn than the typical things new programming hires ask about such as the mechanics of how we create pull requests or how we name things.
   it’s a mistake to assume you know the best way to make all these decisions as a new hire. But it’s not against the rules to ask a co-worker for help. Hint! ([View Highlight](https://instapaper.com/read/1356332522/14423629))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

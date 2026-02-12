@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Python Package - ChainLadder
 
 *Source: [casact/chainladder-python: Actuarial reserving in Python](https://github.com/casact/chainladder-python)*
@@ -66,3 +78,11 @@ Note: This package requires Python>=3.5 pandas 0.23.0 and later, sparse 0.9 and 
 ````dataview
 list from [[Python Package - ChainLadder]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

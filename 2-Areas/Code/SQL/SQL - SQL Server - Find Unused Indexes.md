@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - SQL Server - Find Unused Indexes
 
 *Source: [Helpful functions when you need to find out what is going on on SQL Server (github.com)](https://gist.github.com/jimbrig/5d91eef57ce1de7d7f799e92d565631d)*
@@ -39,3 +51,11 @@ AND (s.index_id IS NULL) OR
 ````dataview
 list from [[SQL - Find Unused Indexes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package - pkgsearch
 
 *Source: https://r-hub.github.io/pkgsearch/*
@@ -589,3 +601,11 @@ See the [complete documentation](https://r-hub.github.io/pkgsearch/).
 ````dataview
 list from [[R Package - pkgsearch]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

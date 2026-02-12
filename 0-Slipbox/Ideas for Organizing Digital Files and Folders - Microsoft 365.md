@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ideas for Organizing Digital Files and Folders - Microsoft 365
 
 *Source: [11 Ideas for How to Organize Digital Files | Microsoft](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/11-ideas-for-how-to-organize-digital-files)*
@@ -196,3 +208,11 @@ Check in with your team by  [](https://docs.microsoft.com/en-us/microsoftteams/b
 ````dataview
 list from [[Ideas for Organizing Digital Files and Folders - Microsoft 365]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

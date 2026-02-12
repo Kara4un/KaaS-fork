@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Clean Your Windows Computer: The Ultimate Checklist
 
 ## Metadata
@@ -12,3 +24,11 @@
 * If you’ve ever done a clean install of Windows, you’ll know what we’re talking about. Getting rid of all the accumulated junk and starting afresh instantly makes your machine run faster and smoother.
 * 
   1. Delete Unused Software
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

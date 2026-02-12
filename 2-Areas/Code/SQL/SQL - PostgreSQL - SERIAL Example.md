@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - SERIAL Example
 
 *Source: [Using PostgreSQL SERIAL To Create Auto-increment Column - postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-serial/)*
@@ -172,3 +184,11 @@ The sequence generator operation is not *transaction-safe*. It means that if two
 ````dataview
 list from [[SQL - PostgreSQL - SERIAL Example]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

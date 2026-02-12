@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
 
 ## Metadata
@@ -28,3 +40,11 @@
   my name is grace. I'm a ten year business school professor at an r two school, and my background is in the social sciences. The concept of deep work improved my understanding of how i process my work and think about my capabilities. But i struggle with the emotional regulation side of things, more specifically, managing disappointment when i do not or cannot stick to my deep work schedule, and also managing to be, frank, the hies of a great session. After one of those sessions, i get it in my head that i should be doing deep work every day, all day. Well,
   Speaker 1
   grace, i don't know if this is maybe just a professor issue, but i got to tell you, i suffer from both of those issues. So for example, what you're talking about, there this notion of when you have a great deep ork session, it can become frustrating when you are no longer able to replicate that more often. I feel that frustration all the time. I think university life is designed as a sort of cognitive torture chamber. Sometimes when it comes to productive cognitive work, it gives you thes tastes of i'm with my collaborators, i'm at the white board. I'm solving big problems. We made ta break through in the problem. This is great. This is what i've trained for. My brain has been honed into a deadly intellectual weapon to try to solve these proofs. And then the next day it's emale out of your ears its committees, its filling out merit review forms and reimbursements and trying to do journal corrections in the funding for your post stock because money was pulled from the wrong grant and and now people from the grad school need to work with you, understand how that goes. And there's nothing more frustrating. And then i get really mad. And, you know, look, when i get mad, i wrote, last time i got really mad about this, the way i let out my frustration is i wrote a big feature piece for the chronicle of higher education called, is emale making professor stupid? Because i was jus't geting so frustrated by this. It's frustrating exactly because the stakes are so high. I think if i was, if i was in an office job that was normal, not like the stuff you and i do grace, but like a normal job in which you, you, i don't knowyoure you're moving paper more, and you're not really expected to do incredibly high in thinking and belicans the job, whatever. Have too many meetings, but whatever. I'm count aging that done. But in the academic world, you're asked to do these giant feats of intellectual engagement, and in the same breath, make it very difficult to do. So i tryng osay, i think that frustration is justified. So how do we deal with it? Well, i'l tell you what i what i've been working on recently, o i've been working on making sure that i have a sustainable background rate of depth, and from that i draw satisfaction. Now, if i can get periods where i have more, you know, like in georgetown, we don't teach on days, so if there's a friday with no teaching and no faculty meetings, and its kind of open, and i make progress all day on a problem, that's great. But then i try to see that as a bonus and get my satisfaction, slash frustration dampening, from hitting a background rate of x hours of deep work every day. I think two, maybe three hours is a good target. I mean, maybe not right now, exactly now, depending on where you live and the pandemic and child care and home sing buti'm just saying more generally, outside of our exceptional circumstances, i think for most professors, ([Time 0:33:59](https://share.snipd.com/snip/4e626fa6-122b-4984-9e3b-3662014bd3e1))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

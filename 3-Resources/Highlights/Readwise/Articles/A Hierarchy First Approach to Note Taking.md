@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Hierarchy First Approach to Note Taking
 
 ## Metadata
@@ -43,5 +55,13 @@
 * My solution is something I call hierarchal note taking. It’s a system I’ve developed over the past ten years that has allowed me to amass a corpus of +10k notes.
 * If I spent more than 5 minutes figuring something out, those are five minutes I never want to spend again figuring out the same problem
 * My primary use for notes is as a cache. Think Redis, but for humans.
-* I’ve expanded my use cases of note-taking beyond caching to also include journaling, task management, creating writing, keeping track of interactions, and lots more.
-* I’ve expanded my use cases of note-taking beyond caching to also include journaling, task management, creating writing, keeping track of interactions, and lots more.
+* I’ve expanded my use cases of note-taking beyond [[Caching]] to also include journaling, task management, creating writing, keeping track of interactions, and lots more.
+* I’ve expanded my use cases of note-taking beyond [[Caching]] to also include journaling, task management, creating writing, keeping track of interactions, and lots more.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

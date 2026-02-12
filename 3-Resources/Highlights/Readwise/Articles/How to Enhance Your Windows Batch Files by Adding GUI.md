@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Enhance Your Windows Batch Files by Adding GUI
 
 ## Metadata
@@ -30,3 +42,11 @@ powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; Add-Type -A
 Produces the following:
 
 ![](https://i.imgur.com/VjkbjcX.png)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

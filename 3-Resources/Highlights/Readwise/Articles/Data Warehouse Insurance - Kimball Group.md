@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Warehouse Insurance - Kimball Group
 
 ## Metadata
@@ -17,3 +29,11 @@
 * we first tackled the transaction and monthly snapshot views of the business by carefully dimensionalizing the base-level claims processing transactions. Every claims processing transaction was able to fit into the star join schema. ([View Highlight](https://instapaper.com/read/1475732578/18525254))
 * This structure is characteristic of transaction-level data warehouse schemas. The central transaction-level fact table consists almost entirely of keys. Transaction fact tables typically have only one additive fact, which we call Amount. The interpretation of the Amount field depends on the transaction type, which is identified in the transaction dimension. The Time dimension is actually two instances of the same dimension table connecting to the fact table to provide independent constraints on the Transaction Date and the Effective Date ([View Highlight](https://instapaper.com/read/1475732578/18525258))
 * This transaction-level star join schema provided an extremely powerful way for InsureCo to analyze claims. The number of claimants, the timing of claims, the timing of payments made, and the involvement of third parties, such as witnesses and lawyers, were all easily derived from this view of the data. Strangely enough, it was somewhat difficult to derive “claim-to-date” measures, such as monthly snapshots, because of the need to crawl through every detailed transaction from the beginning of history. The solution was to add to InsureCo’s data warehouse a monthly snapshot version of the data. The monthly snapshot removed some of the dimensions, while adding more facts. ([View Highlight](https://instapaper.com/read/1475732578/18525260))
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

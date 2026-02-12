@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Tools
 
 * [Tools](Tools.md)
@@ -419,3 +431,11 @@
   * \[Windows Subsystem for Linux\](Windows%20Subsystem%20for%20Linux.md Subsystem for Linux.md>)
   * \[Windows Terminal\](Windows%20Terminal.md Terminal.md>)
   * [Windows](Windows/Windows.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

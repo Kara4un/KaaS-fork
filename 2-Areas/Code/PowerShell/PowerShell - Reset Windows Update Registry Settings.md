@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Reset Windows Update Registry Settings
 
 *Source: [WinRice/ResetWindowsUpdate.ps1 at main · pratyakshm/WinRice (github.com)](https://github.com/pratyakshm/WinRice/blob/main/files/ResetWindowsUpdate.ps1)*
@@ -23,3 +35,11 @@ Write-Host "Windows Update settings have been reset."
 ````dataview
 list from [[PowerShell - Reset Windows Update Registry Settings]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

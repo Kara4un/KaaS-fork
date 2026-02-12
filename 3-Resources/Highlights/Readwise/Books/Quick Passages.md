@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Quick Passages
 
 ## Metadata
@@ -13,3 +25,11 @@
   * Note: Time Ferris with Bear Grillz
 * A full stack developer is an engineer who can handle all the work of databases, servers, systems engineering, and clients
   * Note: https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

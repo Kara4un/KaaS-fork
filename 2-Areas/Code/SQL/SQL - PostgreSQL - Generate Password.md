@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Generate Password
 
 *Source: [postgres_dba/generate_password.sql at master · NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba/blob/master/misc/generate_password.sql)*
@@ -40,3 +52,11 @@ from res
 ````dataview
 list from [[SQL - PostgreSQL - Generate Password]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

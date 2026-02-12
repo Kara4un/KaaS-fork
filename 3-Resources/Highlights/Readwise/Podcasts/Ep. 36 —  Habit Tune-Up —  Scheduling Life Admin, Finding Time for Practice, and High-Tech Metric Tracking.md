@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking
 
 ## Metadata
@@ -30,3 +42,11 @@
   think this notion of
   Speaker 1
   using a digital format for metrics that allows you to plot, or otherwise quickly summarize trends, is not a bad one. I know there's a lot of people within the life hacker movements, or within the quatified self movements, which overlap, like to do this. They often send me charts, you know, they'll show me their deep work hours over time, or they'll correlate deep work hours with other metric from their life to try to find interesting connections. These type of days i do lest these type o days i do more, ([Time 0:31:51](https://share.snipd.com/snip/3ac6fa0f-336d-4e4e-a0a6-877a1c6b2a74))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

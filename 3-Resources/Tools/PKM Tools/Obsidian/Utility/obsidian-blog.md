@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # obsidian-blog
 
 *Source: [A/obsidian-blog: Work-in-Progress static site/blog generator for obsidian.md (github.com)](https://github.com/A/obsidian-blog)*
@@ -125,3 +137,11 @@ Just text me in [telegram](https://t.me/a_shuvalov) or file an issue. I'd be hap
 ````dataview
 list from [[obsidian-blog]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

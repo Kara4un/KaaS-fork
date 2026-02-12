@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Multi-Process Task Queue in R
 
 *Source: [Multi Process Task Queue in 100 Lines of R Code (tidyverse.org)](https://www.tidyverse.org/blog/2019/09/callr-task-q/)*
@@ -7,7 +19,7 @@ See Also: [R Package - callr](../3-Resources/Tools/Developer%20Tools/Languages/R
 ## Contents
 
 * [Introduction](Multi-Process%20Task%20Queue%20in%20R.md#introduction)
-* [API design](Multi-Process%20Task%20Queue%20in%20R.md#api-design)
+* [[[API Design]]](Multi-Process%20Task%20Queue%20in%20R.md#api-design)
 * [Data structure](Multi-Process%20Task%20Queue%20in%20R.md#data-structure)
 * [Implementation](Multi-Process%20Task%20Queue%20in%20R.md#implementation)
 * [Try it out](Multi-Process%20Task%20Queue%20in%20R.md#try-it-out)
@@ -57,7 +69,7 @@ q$pop()
 #> NULL
 ````
 
-## API design
+## [[API Design]]
 
 The task queue will be an R6 class, with `push()`, `pop()`, `poll()` methods like above, and some other query methods:
 
@@ -599,3 +611,11 @@ Callback: [R Package - callr](../3-Resources/Tools/Developer%20Tools/Languages/R
 ````dataview
 list from [[Multi-Process Task Queue in R]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

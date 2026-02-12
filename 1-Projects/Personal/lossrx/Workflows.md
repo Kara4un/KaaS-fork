@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Workflows
 
 ## I) Acquire Raw Data
@@ -16,7 +28,7 @@ Phases:
   * Compare dimensionality to any prior received data
 * Initial Validation Phase:
 
-* Caching Phase:
+* [[Caching]] Phase:
 
 * Logging
 
@@ -59,3 +71,11 @@ Derive rates and trends
 ````dataview
 list from [[Workflows]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

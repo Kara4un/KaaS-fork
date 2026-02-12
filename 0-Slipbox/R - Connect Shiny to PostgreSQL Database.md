@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R - Connect Shiny to PostgreSQL Database
 
 *Source: [How To Connect R Shiny to Postgres Database - The Definite Guide (appsilon.com)](https://appsilon.com/r-shiny-postgres-database/)*
@@ -73,3 +85,11 @@ DBI::dbGetQuery(conn, "SELECT * FROM <table name> LIMIT 10")
 * [PostgreSQL](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
 * [R - Database Packages List](../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
 * [R Shiny Packages List](../2-Areas/Lists/R%20Shiny%20Packages%20List.md)
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

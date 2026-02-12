@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Importance of Cleaning up Data and Structuring Models
 
 *Source: [The importance of cleaning up data | AccountingWEB](https://www.accountingweb.co.uk/tech/excel/the-importance-of-cleaning-up-data)*
@@ -72,3 +84,11 @@ If for some reason, Get & Transform is not a preferable approach, to periodicall
 ````dataview
 list from [[The Importance of Cleaning up Data and Structuring Models]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GitHub CLI Extension - gh-dash
 
 *Source: [dlvhdr/gh-dash: gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (github.com)](https://github.com/dlvhdr/gh-dash)*
@@ -34,7 +46,6 @@ Installation requires a minimum version (2.0.0) of the the Github CLI to support
 
 <details>
     <summary><strong>Installing Manually</strong></summary>
-
 
  > 
  > if you want to install this extension **manually**, do these steps:
@@ -120,3 +131,11 @@ Dolev Hadar dolevc2@gmail.com
 ````dataview
 list from [[GitHub CLI Extension - gh-dash]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

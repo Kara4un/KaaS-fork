@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # RShiny Authentication With Polished on AWS Kubernetes
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * This same AWS IAM user must have permission to create an EKS cluster. You can use this role, or a user with administrator privileges.
 * If you want to deploy to AWS you’ll need an AWS IAM User, and that user’s API keys. For more information see the AWS docs.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

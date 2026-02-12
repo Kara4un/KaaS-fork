@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Organize Your Writing With Markdown - Redeeming Productivity
 
 ## Metadata
@@ -21,3 +33,11 @@
   There are also lots of online Markdown editors like Dillinger. Or HackMD which allow you to work on Markdown documents collaboratively a la Google Docs. ([View Highlight](https://instapaper.com/read/1358160766/14737233))
 * Another benefit of organizing your writing this way is that your Markdown editor can act like a notebook, similar to how people use Evernote or Microsoft OneNote. For me, that means when I have an idea, I just open up Ulysses and start typing. And if I want to find an old written document, I know it’s somewhere in Ulysses. Using a Markdown editor keeps your writing organized and efficient.
   So, now you’re writing your master documents in Markdown and you’re organizing them with a Markdown editor, but what do you do when it’s time to output that writing to a specific format and apply styling? ([View Highlight](https://instapaper.com/read/1358160766/14737235))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

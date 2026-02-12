@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS
 
 ## Metadata
@@ -40,3 +52,11 @@
   Should i drop out?
   Speaker 1
   Well, zachory, not knowing any of the other details of your situation, so just based on the limited information i have right there in that paragraph. I would say, ye, probably you should drop out. Long time listeners of this pod cast know my theory on graduate school. Graduate school is not a holding pattern. Graduate school is not a time to just expose yourself to interesting ideas and tools that might be useful at some point in the future. Grad school is not a grab bag resehantis. Will probably be interesting opportunities that this opens, i just will have to wait till i'm done with grad school to find out. Tais not how in most circumstances you should use grad school. Grad school should be applied in most circumstances to unlock a specific thing you want to do in your career, for which you have clear evidence that ing the degree of the type you're getting, at the caliber school you can geti at will unlock that opportunity. I want to do this, i have to get this type of degree to do it. And i've an opportunity to get that degree from a good enough place that it will unlock this thing that i want to do. If you want to be a professor, you need to get a ph ([Time 0:15:02](https://share.snipd.com/snip/f08ef525-e412-4889-8dcc-8e3114adac81))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

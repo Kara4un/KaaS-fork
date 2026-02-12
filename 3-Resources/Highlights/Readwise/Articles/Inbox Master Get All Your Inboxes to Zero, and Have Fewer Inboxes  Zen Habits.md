@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Inbox Master: Get All Your Inboxes to Zero, and Have Fewer Inboxes : Zen Habits
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Check and process your inboxes once a day. For some inboxes, you may need to check more than once (I check my email every hour), but don’t check constantly and obsessively. That just wastes your time and cuts into your productivity and real life. But don’t check less than once a day, because otherwise you’ll allow it to pile up. Piles are your enemy.
   Process it from the top down, making quick and immediate decisions. Start with the top item in your inbox, and make an immediate decision. Don’t skip over it or put it back in or delay the decision. Here are your choices: delete, delegate to someone else, do it immediately (if it takes 2 minutes or less), or defer it for later (add it to your to-do list). In all cases, don’t leave the item in your inbox. Delete or file it. Work your way down through each item until your inbox is empty. Note: if you have hundreds of items in your inbox, it might be good to toss them all into a folder to be processed later (and schedule a couple hours to do that), and then start this process with all new items from that point on.
   Repeat this process, to keep your inboxes empty. If you’ve minimized the number of inboxes you have, this shouldn’t be too hard. Celebrate when your inbox is empty! It’s a wonderful feeling. Remember: Don’t check them all day long — schedule your processing time — and definitely don’t have instant notification on.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,18 @@
 ---
-page-title: "Tip: Special Frontmatter Fields · coddingtonbear/obsidian-web Wiki"
+page-title: 'Tip: Special Frontmatter Fields · coddingtonbear/obsidian-web Wiki'
 url: https://github.com/coddingtonbear/obsidian-web/wiki/Tip:-Special-Frontmatter-Fields
-date: "2022-09-23 19:55:12"
+date: '2022-09-23 19:55:12'
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
+
 Obsidian Web treats a few frontmatter fields in a special way. You can find here what these fields mean
 
 ## For Finding Notes for your URL
@@ -29,3 +39,11 @@ url: https://www.amazon.com/Zenkeeper-Obsidian-Tumbling-Meditation-Sculpture/dp/
 web-badge-color: "#5b4965"
 web-badge-message: "A+"
 \---
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

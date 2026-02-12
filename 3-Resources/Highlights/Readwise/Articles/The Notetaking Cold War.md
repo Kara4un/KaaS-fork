@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Notetaking Cold War
 
 ## Metadata
@@ -35,3 +47,11 @@
   If you need more evidence that PARA is pragmatic, you should take a close look at how Tiago talks about it. He’s specifically designed it to be flexible enough for practitioners to pick and choose which parts of the system are worth doing and which ones aren’t. Do you not find Areas useful in your organization system? Throw it away!
 * PARA is exactly what most knowledge workers need. It doesn’t work for everyone, but it does work for a lot of people. And that’s really all Tiago wants to do — he doesn’t need to define the one true and correct system of organization for all time. He just needs one that’s good enough to help his students get organized and get back to doing their work.
   And that’s exactly what he’s done.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

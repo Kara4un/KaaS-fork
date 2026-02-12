@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Workflow automation tools for package developers
 
 ## Metadata
@@ -40,3 +52,11 @@
 * CRAN has a submission checklist, and you could either roll your own or rely on usethis::use_release_issue() creating a GitHub issue with important items. If you don’t develop your package on GitHub you could still have a look at the items for inspiration. The devtools::release() function will ask you whether you ran a spell check.
   * Tags: [r](../../../../2-Areas/Code/R/R.md) 
   * Note: :Favorites
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

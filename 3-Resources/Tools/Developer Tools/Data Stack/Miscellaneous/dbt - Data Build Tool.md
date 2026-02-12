@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # `dbt` - Data Build Tool
 
 **dbt** or *Data Build Tool* is the latest and greatest data engineering tool moving into 2022.
@@ -20,3 +32,11 @@
 ````dataview
 list from [[dbt - Data Build Tool]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

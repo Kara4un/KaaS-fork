@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Data Cataloging
 
 *Source: [What is a Data Catalog? - Alation](https://www.alation.com/blog/what-is-a-data-catalog)*
@@ -52,3 +64,11 @@ The data management benefits of a data catalog become apparent by reflecting on 
 * [Data Warehouse](Data%20Warehouse.md)
 * [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
 * [AWS Glue](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20Glue.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning - Forte Labs
 
 ## Metadata
@@ -46,3 +58,11 @@
   Etc.
   This structure allows your eye to skip quickly from one main point to another to see if they make sense and are in the right order. And if you want to zoom in on any main point, you only have to move your eyes down and to the right.
   Outlining is the only step that I strongly recommend you sit down and complete in one sitting. We’ve postponed it for as long as possible, but at this stage it is necessary to load all the main points into your head all at once. Only then can you compare and contrast and interconnect them into one structure in your mind. To avoid having to do that more than once, it’s a good idea to create the outline in one sitting.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

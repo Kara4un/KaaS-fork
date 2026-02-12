@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 12 Types of Lists You Should Keep to Get Things Done
 
 ## Metadata
@@ -46,3 +58,11 @@
 * 
   12. Grocery list
       Having a dedicated grocery list, and having the discipline to add “oranges” to the list when you take the last one out of the fridge is one of those things that can remove a lot of friction in your life. I have earlier mentioned Listonic, which is my dedicated app for shopping lists.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

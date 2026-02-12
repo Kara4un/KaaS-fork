@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL String Manipulation
 
 *Source: https://gist.github.com/chillahwhale/1f27869ece7f757e0242da94ae696e8e*
@@ -191,3 +203,11 @@ FROM employees;
 ````dataview
 list from [[SQL - PostgreSQL String Manipulation]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # zsh
 
 * zsh is an awesome shell that is nearly identical to [bash](../../../../2-Areas/Code/Bash/Bash.md) (Bourne-again Shell), but allows for much more customization options.
@@ -10,3 +22,11 @@
 ````dataview
 list from [[zsh]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

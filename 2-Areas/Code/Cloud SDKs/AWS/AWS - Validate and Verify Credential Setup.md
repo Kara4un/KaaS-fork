@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # AWS - Validate and Verify Credential Setup
 
 To validate that you are correctly authenticated and connected to [AWS](../../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md) via the [AWS CLI](../../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20CLI.md) run the following:
@@ -33,3 +45,11 @@ which should return your current *AWS IAM* identity used for communicating with 
 ````dataview
 list from [[AWS - Validate and Verify Credential Setup]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

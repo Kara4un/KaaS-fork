@@ -1,0 +1,19 @@
+{
+  "modified_total": 1872,
+  "by_topdir": {
+    "README.md": 1,
+    "Workbench.md": 1,
+    "Changelog.md": 1,
+    "2-Areas": 447,
+    "3-Resources": 1169,
+    "content": 1,
+    "1-Projects": 12,
+    "ontology": 3,
+    "0-Slipbox": 237
+  },
+  "focus": {
+    "code": 267,
+    "dev": 0,
+    "arch": 31
+  }
+}

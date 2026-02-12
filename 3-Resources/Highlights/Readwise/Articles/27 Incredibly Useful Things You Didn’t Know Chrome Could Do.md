@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
 
 ## Metadata
@@ -29,3 +41,11 @@
 * Quiet annoying sites once and for all by right-clicking their tabs (where the title is displayed) and selecting “Mute site.” This recently added option will prevent the site from playing any audio on your computer anytime you visit it.
 * Chrome’s History page—accessible by hitting Ctrl- or Cmd-H or by typing chrome://history into your address bar—has a powerful yet easily overlooked feature: an always-synced list of tabs you have open in Chrome on other devices. Surf over there anytime you want to find what you were last viewing on your phone, your tablet, or another computer.
 * Let Chrome act as your file explorer: Drag and drop any image, video, or audio file into the browser to open it right then and there—and on Windows, try typing C:\ into Chrome’s address bar to browse your hard drive’s contents.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

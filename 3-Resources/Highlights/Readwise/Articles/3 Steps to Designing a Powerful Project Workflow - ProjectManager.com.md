@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 3 Steps to Designing a Powerful Project Workflow
 
 ## Metadata
@@ -22,3 +34,11 @@
   Once you’ve defined your workflow, you’ll want to make it more efficient. One way to do this is through automation. It will help to streamline the internal workflow by getting rid of much of the manual data entry and request handling.
 * Analyze Your Workflow
   By working to identify trends in the performance of your workflow, both in the teams and team members involved, you can tighten up the loose ends over time. One way to do that is by identifying the process redundancies and eliminating them. Software will help you analyze your processes as well.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

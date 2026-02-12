@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Blog Post Ideas List
 
 ## My Top Three
@@ -18,7 +30,7 @@
 1. Learning SQL Server and T-SQL
 1. Learning Advanced PostgreSQL and `plpgsql`
 1. Documenting Complex SQL Procedures with RMarkdown
-1. R Caching Best Practices
+1. R [[Caching]] Best Practices
 1. Mastering the art of Searching as a Developer
 1. Experimenting with Various Static Site Generators
 1. A Developer's Guide to Package Managers

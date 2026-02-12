@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Date Dimension Table
 
 *Source: https://gist.github.com/jpotts18/eaaf18c2b2ffe969f9641c2e05783150*
@@ -246,3 +258,11 @@ UPDATE dates
 ````dataview
 list from [[SQL - PostgreSQL - Date Dimension Table]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

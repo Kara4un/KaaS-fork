@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GTD With Todoist, Evernote and Google Calendar | Dr Veronika CH
 
 ## Metadata
@@ -54,3 +66,11 @@
   A picture of an item I might want to buy
   A picture of an event poster, that I might want to attend
 * Perhaps I should mention here that another rule I have for capturing is that I HAVE to use Todoist or Evernote. Not “leave it on the table where I will see it”, “I’ll just write it down over here” or “I’ll just add it to my favorites”. This part isn’t always perfect, but I’m improving, and writing this post actually helped me identify problem areas (leaving things on the table). Thanks! 🙂
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

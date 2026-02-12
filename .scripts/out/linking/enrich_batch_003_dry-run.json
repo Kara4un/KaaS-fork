@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_003",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 14,
+  "details": [
+    {
+      "file": "2-Areas/MOCs/Mathematics and Statistics.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Frontend Development.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Finance.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Development.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Databases.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Data Science.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Data Engineering.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/MOCs/Actuarial Science.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "0-Slipbox/Zettelkasten.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/XDG Base Directory Specification.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/WSL Initial Setup Notes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Working with the Registry from PowerShell.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Windows Themes.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Windows Shell Commands.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Windows Dotfiles Musings.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Windows Batch Scripting Common Shortcuts.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/What is a Frontend Developer.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Weekly Review Musings.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Web Applications over Excel.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "0-Slipbox/Web Application Architecture.md",
+      "changed": true,
+      "term_changes": 7,
+      "related_added": 1
+    }
+  ]
+}

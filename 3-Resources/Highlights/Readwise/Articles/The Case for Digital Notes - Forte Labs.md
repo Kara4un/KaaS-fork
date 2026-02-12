@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Case for Digital Notes - Forte Labs
 
 ## Metadata
@@ -24,3 +36,11 @@
 * Waiting until you have the whole system perfectly figured out to get started
 * This is perhaps the most common one, and the most problematic, especially among perfectionists. It’s understandable to feel anxiety and fear when embarking on such an important undertaking. It’s so tempting to try and have all the details perfectly worked out before you take the first step.
   But ultimately, you can’t know exactly what will work upfront. An approach that works for someone else may not necessarily work for you. Even this one. The only way to build a second brain is to start small, and make incremental improvements over time. Trust yourself that you will learn and grow right alongside it.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

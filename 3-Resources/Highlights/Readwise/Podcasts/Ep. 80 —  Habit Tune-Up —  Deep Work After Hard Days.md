@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days
 
 ## Metadata
@@ -30,3 +42,11 @@
   you have an idea of
   Speaker 1
   what you want to do, when you get kind of excited about that idea, you're gong to get a lot more relaxation out of it than if you just sort of fall into the couch and say, e whatever. Right? So let's say, for example, what you're going to do as it's a guilty pleasure t v show. There's nothing intellectually demanding about it. But if you just build up with some intention, this anticipation, i'm going to watch this show. It starts at eight a you know, maybe im going to do it with my friend. I'm going to have a drink with it. It's not a hard, commonly demanding thing. But by just anticipating it and sort of building up a little bit of a routine or some special circumstances around it, you'll get more relaxation out of it. Or there's i just gong to read a book that's not very hard, a thrill or a book, or something like this, that's not that demanding, but i'm really looking forward to it. I'm gong to make this snack and go to my chair and put my feet up and just really get into it. Or im gong to do it in the bath. And, you know, whatever i mean, right? You know, you can, you can put some intention in planning, a little bit of intention and planning into a non demanding leisure pursuit, and you'll get o that pursuit. That's a hack. The other thing i would say is, bewary of your phone. In this instance, s i'm completely fine with things that aren't demanding. That's not reading great literature or carving wood, that's fine. You're trying to recharge. But if you go to your phone and say, entertain me, you're putting yourself at the mercy of some pretty merciless algaritms. Right now, you are throwing yourselves into jeron lineer's machine of meshing gears that's going to convert you into a gadget that can be chewed up and sped out the other side in some sort of metaphorical, monetisable soilent. It feels kind of like its react. It's a relaxing but in a manipulative way. It's pushing your buttons. It's showing you outrage. Its showing you humor that then goes into the weird. It's, it's plain, your brain stim like a fiddle, and it's going to keep you on there, and you're going to use it. And it is diverting, and it is distracting, but it's having all these side effects, psychologically and emotionally. Whyle, there's also the the just philosophical side effect of that, you are being converted into a gadge. At your attentions being harvested. All your information is being gathered. And so i put a astric around that one particular activity, numbing with your phone is something that i'm very, very wary about. The internet is fine, right? It's like, o k, a, what i'm going to do during my mindless reaction is i'm going to watch, you twu vidios of, you know, atam savage on tested dot com, building d i y projects, right? I know a lot of people, during the to lock down portions of the pandemic, those brief periods with their shelter and place orders, depend on where you lived. Adam savage, the former myth buster, would lie stream him like building something. And sometimes it would literally be like building legos or a model. And there is a real comfort in that for a lot of people, and they would follow along with hem or just have it on. It was a positive, nice force, like, that's great, like, that's the inner net. But that's no exposing yourself and just saying, let me scrawl, numb me it's like, here's this thing that's accessible through the inner net that i know about and i like, and i'm going to go, it's not that the man dine a. It makes me feel good, and i'm going to go look at that, right? Soter, some intention, some focus on what you're actually looking at. So twitter can be really devastating in this way. It's really hard to do twitter in a way that you don't get as much harm as good insta graham can be pretty devastating in this way. ([Time 0:28:29](https://share.snipd.com/snip/a6456ec5-9cfb-4e69-8faf-6648c507f2c1))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

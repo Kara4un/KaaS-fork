@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Notes and highlights for The Blogging Course Workbook
 
 Link: *Blogging Course Workbook*
@@ -117,3 +129,11 @@ I’m not going to lie to you, it might take you some time for your career to re
 ### Highlight (yellow) - Page 25
 
 Here is the thing. When I first started my blog I was a horrible writer. You may be reading these emails and thinking—dang, he STILL is a horrible writer—and that may very well be the case, but I’ve improved a great deal from some of my first blog posts.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

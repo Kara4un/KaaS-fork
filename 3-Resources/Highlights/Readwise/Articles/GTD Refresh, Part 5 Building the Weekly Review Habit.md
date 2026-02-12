@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GTD Refresh, Part 5: Building the Weekly Review Habit
 
 ## Metadata
@@ -17,3 +29,11 @@
 * As I said at the beginning of this post, weekly reviews are important – rather than being a drain on your available work time, done right the weekly review should add not only to your work time but your confidence and calmness about doing that work ([View Highlight](https://instapaper.com/read/1380884130/15275945))
 * a weekly review is a point of connection between you and your work ([View Highlight](https://instapaper.com/read/1380884130/15275946))
 * A weekly review is about task management and scheduling, but it’s also about reconnecting with our work in a personal way, evaluating our work in terms of higher-purpose goals and life objectives, aligning the work we do today with the dreams we have of tomorrow. We aren’t afforded many moments like that in life, so it’s important that we create them for ourselves. ([View Highlight](https://instapaper.com/read/1380884130/15275949))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

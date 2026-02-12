@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # docker_shiny_mssql
 
 *Source: [viktortat/docker_shiny_mssql: This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server (github.com)](https://github.com/viktortat/docker_shiny_mssql)*
@@ -156,7 +168,6 @@ docker build -t shiny_app .
 
 #run image with app
 docker run --name shiny_container --rm -d -p 3838:3838 shiny_app
-
 
 #pull image for SQL Server
 docker pull mcr.microsoft.com/mssql/server:2017-latest-ubuntu
@@ -379,3 +390,11 @@ shinyApp(ui = ui, server = server)
 ````dataview
 list from [[docker_shiny_mssql]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Getting Things Done With Todoist – My GTD Setup
 
 ## Metadata
@@ -23,3 +35,11 @@
   Focus on the immediate/Now: Your goal is to clear your Now list – so block off a piece of time (with no distractions – AT ALL) and start working through the tasks on your Now list. Experience the endorphin rush as you check off those tasks. Rinse and repeat.
   Conduct Daily Reviews: I set up my daily reviews for the first 10-15 minutes of my day. This lets me gather my thoughts and put together the activities I need to get accomplished that day. It is also a good opportunity to do a review of the task list to make sure there are no pending activities – and also to capture anything else that comes into your mind that needs action. Remember that this is a planning and capture activity – leave the detailing for your periodic sweeps.
   Conduct Weekly Reviews: My weekly reviews are the last thing I do in my work week – and I take 30 minutes for it. It helps me review the progress I made this week and helps me plan out aspects I need to get done next week. It is a good time to be appreciative and self congratulatory of the progress you have made – or contemplative of the lack of progress, and the contributing reasons thereof. Basically, you are focusing on strategy, learning and improvement as a core part of this exercise.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/R Package - plumber.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/Data Manipulation Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dplyr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - usethis.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - covr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package Tools.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/RStudio Package Manager.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - SciDB.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RSQLite.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rscontract.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rrocksdb.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPresto.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgres.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rpostgis.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ROracle.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - tfio.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqlpetr.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqldf.md

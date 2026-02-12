@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Should You Develop Your Shiny App as an R Package?
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Flat files structure. It prevents you from organizing your project into clear, traversable structure. I don’t see a reason for flattening files structure when you develop a complex app that requires a lot of modules.
 * R CMD check as a testing workflow – This is ok for simple apps, but complex apps need significantly more advanced testing (and not only R code needs testing). Linting, unit testing, end to end, performance testing – there are much better project structures that will support these different use cases.
 * Development using an R package structure limits you from thinking about the broader ecosystem of tools available to you. It is a great starting point for those new to Shiny, but soon enough you will notice that Shiny app development is not only about R code. It can be also frontend in React, Python scripts or APIs, infrastructure as a code, data pipelines, data validation workflows, environment settings, docker images and more. It will be hard to maintain all of it as a package, and eventually you will end up wrapping only part of your project as an R package and the rest of it will be outside.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

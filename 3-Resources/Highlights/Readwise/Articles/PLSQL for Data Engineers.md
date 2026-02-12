@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # PL/SQL for Data Engineers
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Data Structures: Unlike SQL, PL/SQL offers few data structures like varray, records, collections that can store collections of elements. Programmers can use them to make code more readable and less complex.
 * Dynamic SQL: A programming technique that enables you to build SQL statements dynamically at runtime. This can be used when your query execution depends upon the user’s input. For eg. on basis of the user’s location, you execute different queries. If the user’s location is India then you execute queries that use the India records.
 * Reduce Network Traffic: As PL/SQL statements are encapsulated into a block that is executed all at once in the oracle engine it helps in reducing the network traffic.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Team Data Science Process
 
 *Source: [What is the Team Data Science Process? - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)*
@@ -82,3 +94,11 @@ Here is an example of a team working on multiple projects and sharing various cl
 ## Tools and Utilities for Project Execution
 
 Introducing processes in most organizations is challenging. Tools provided to implement the data science process and lifecycle help lower the barriers to and increase the consistency of their adoption. TDSP provides an initial set of tools and scripts to jump-start adoption of TDSP within a team. It also helps automate some of the common tasks in the data science lifecycle such as data exploration and baseline modeling. There is a well-defined structure provided for individuals to contribute shared tools and utilities into their team's shared code repository. These resources can then be leveraged by other projects within the team or the organization. Microsoft provides extensive tooling inside [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/) supporting both open-source ([2-Areas/MOCs/Python](../2-Areas/MOCs/Python.md), [2-Areas/MOCs/R](../2-Areas/MOCs/R.md), ONNX, and common deep-learning frameworks) and also Microsoft's own tooling (AutoML).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

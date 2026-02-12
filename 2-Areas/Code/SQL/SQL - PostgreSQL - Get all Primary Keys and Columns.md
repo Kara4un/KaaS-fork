@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Get all Primary Keys and Columns
 
 *Source: https://gist.github.com/abmmhasan/2f4024922eaea537cd1795223e38c18a*
@@ -35,3 +47,11 @@ order by kcu.table_schema,
 ````dataview
 list from [[SQL - PostgreSQL - Get all Primary Keys and Columns]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

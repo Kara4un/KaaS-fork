@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Services in Systemd: In-Depth Tutorial
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * systemd is a suite of computer programs aimed to manage and interconnect different parts of a system. It is designed as a replacement for SystemV and LSB-style startup scripts, which have been prevalent since the 1980s. systemd consists of these components:
 * systemd is the glue that holds Linux systems together. systemd is a collection of building blocks, which handle services, processes, logging, network connectivity, and even authentication. In this article, I will show you how to work with services in systemd.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

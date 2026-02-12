@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # AWS - DynamoDB Queries
 
 *Source: https://dynobase.dev/dynamodb-cli-query-examples*
@@ -48,3 +60,11 @@ aws dynamodb create-table `
 ````dataview
 list from [[AWS - DynamoDB Queries]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

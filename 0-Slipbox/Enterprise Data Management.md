@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Enterprise Data Management
 
 *Source: [What is enterprise data management? | Stitch resource (stitchdata.com)](https://www.stitchdata.com/resources/enterprise-data-management/)*
@@ -64,3 +76,11 @@ Businesses with robust EDM policies, procedures, and tools have a better chance 
 An ETL tool is an important part of the EDM ecosystem that should make the process of moving data from [sources](https://www.stitchdata.com/integrations/sources/) to [destinations](https://www.stitchdata.com/integrations/destinations/) simple.
 
 The Stitch ETL tool can load data to your cloud data warehouse from more than 90 data sources. Stitch provides a secure, easy-to-use data pipeline that’s also a bridge to business intelligence. [Sign up for a free trial](https://www.stitchdata.com/signup) and get data into your data warehouse in minutes.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

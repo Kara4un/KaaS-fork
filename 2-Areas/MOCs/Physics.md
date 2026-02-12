@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Physics - Map of Content
 
 *Physics* Map of Content houses all notes related to Physics in general.
@@ -213,3 +225,11 @@ list from #Category/Physics AND -"Templates" AND -"MOCs" AND -"Changelog"
 ````
 list from [[Physics]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

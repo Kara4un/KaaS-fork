@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Retrieve Who is Doing What
 
 *Source: [Retrieve Who is Doing What | thiscodeWorks](https://www.thiscodeworks.com/61faf2bfb783be0015bbaf80)*
@@ -46,3 +58,11 @@ ORDER BY ExecutionTime_Minutes DESC;
 ````dataview
 list from [[SQL - Retrieve Who is Doing What]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley
 
 ## Metadata
@@ -26,3 +38,11 @@
 * be done at the system level (git config --system core.symlinks true). However, Git for Windows adds an additional “super-system” configuration file, c:\\ProgramData\\Git\\config; this was where I had to update core.symlinks on my system. (This Stack Overflow answer describes c:\\ProgramData\\Git\\config better.) ([View Highlight](https://instapaper.com/read/1355716636/14404508))
 * be done at the system level (git config --system core.symlinks true). However, Git for Windows adds an additional “super-system” configuration file, ([View Highlight](https://instapaper.com/read/1355716636/14404509))
 * Update: If you’re looking for a Windows GUI to help you manage all of these symlinks, the Link Shell Extension is very useful. It allows you to create symlinks, junction points, and more by right-dragging items in Explorer. ([View Highlight](https://instapaper.com/read/1355716636/14404511))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

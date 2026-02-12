@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Getting Things Done: Organize
 
 ## Metadata
@@ -25,3 +37,11 @@
   The original concept behind the Tickler is an intricate system of 43 folders. You name 12 of them after the months and number the remaining 31 for each day of the month. You look at the folder for the month and day for today to see what items you need to see or make a decision on today. It’s a system that worked well when we didn’t have a computer in our pocket at all times.
   Today, we can use reminder applications and calendars to make the Tickler more robust than checking a folder in the morning.
   I’m using a separate calendar in Google for events that I want to remember but haven’t committed to. I set up a reminder on an Evernote note with information I want sent to myself at a specific time. If it’s just a simple reminder, I’ll add it to Apple’s Reminders on the iPhone.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

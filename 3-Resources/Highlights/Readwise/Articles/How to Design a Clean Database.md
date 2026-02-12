@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # How to Design a Clean Database
 
 ## Metadata
@@ -22,3 +34,11 @@
 * If it’s a single column, then it should be named as id
 * It should be the name of the other table and the referred field. For example, if you are referencing a person inside your team_member the table then you can do it like this.
 * If you have boolean type column names, then prefix them with is\_ or has\_ .
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

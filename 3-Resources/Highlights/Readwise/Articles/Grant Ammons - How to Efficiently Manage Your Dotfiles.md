@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Grant Ammons - How to Efficiently Manage Your Dotfiles
 
 ## Metadata
@@ -25,3 +37,11 @@
   Sensible defaults for using git, rspec, tmux and ag.
   When using Thoughtbot’s dotfiles, your own personal configs would go into ~/dotfiles-local.
 * The benefits of using a set of base dotfiles is that someone has already culled together best practices. A drawback, however, is the cognitive load associated with actually learning what is in them, how they work, what shortcuts they provide. If you’re declaring dotfile bankruptcy (which I have, twice), or are just starting out, it’s worth considering base dotfiles that are sensible. I like Thoughtbot, and I consider their dotfiles sensible, which is why I chose them as a good base.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

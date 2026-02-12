@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Organize Your Files for Maximum Productivity
 
 ## Metadata
@@ -21,3 +33,11 @@
 * I currently have only two folders in the Working category: Downloads and Desktop. I recommend that you keep this number to a minimum as well. Having nothing there except the immediately actionable tasks current means never losing a working file from my sight, and thus less time lost searching or trying to remember what I should be working on.
 * As soon as you’re done with a file you kept in your Working directories, feel free to move it to its appropriate spot in Storage, or delete it. The folders in the Storage category should resemble a well-balanced tree, with descriptive and distinct titles for both folders and files.
 * The rule should be that any file which goes into your Storage folders should be renamed to fit your naming style.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

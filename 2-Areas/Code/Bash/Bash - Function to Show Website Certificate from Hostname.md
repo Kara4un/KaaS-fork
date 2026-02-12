@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Bash - Function to Show Website Certificate from Hostname
 
 *Source: https://github.com/rothgar/mastering-zsh/blob/master/docs/helpers/functions.md#show-website-certificate-from-hostname*
@@ -17,7 +29,6 @@ curl-cert jimbrig.com
 ````
 
 <details><summary>Show Output</summary><p>
-
 
 ````bash
 > curl-cert jimbrig.com
@@ -170,3 +181,11 @@ Verify return code: 0 (ok)
 ````dataview
 list from [[Bash - Function to Show Website Certificate from Hostname]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

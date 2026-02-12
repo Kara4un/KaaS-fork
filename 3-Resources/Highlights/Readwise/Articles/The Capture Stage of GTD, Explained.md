@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Capture Stage of GTD, Explained
 
 ## Metadata
@@ -15,3 +27,11 @@
 * A good practice is to capture 100% of your incomplete inputs, even those that seem unimportant, so that your organizational system represents an accurate picture of your real commitments and interests. If your system does not match your reality, your motivation will soon wane.
 * The mind sweep
 * If you are just starting to use GTD, or you have fallen off the board, or you still haven’t fully acquired the habit of capturing, the “mind sweep” is a very useful capture technique that you can use every time you have the feeling that there are still things outside your organizational system.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

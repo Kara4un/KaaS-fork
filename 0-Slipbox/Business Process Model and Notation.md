@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Business Process Model and Notation - BPMN
 
 *Source: [Business Process Model & Notation™ (BPMN™) | Object Management Group](https://www.omg.org/bpmn/index.htm)*
@@ -26,3 +38,11 @@ BPMN is part of the triple crown of process improvement standards: BPMN, CMMN an
 ````dataview
 list from [[Business Process Model and Notation]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

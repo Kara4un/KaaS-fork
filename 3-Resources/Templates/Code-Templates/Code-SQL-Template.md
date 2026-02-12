@@ -1,8 +1,20 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["<% tp.file.title %>"]
+Tags:
+  - '#Type/Code/SQL'
+  - '#Topic/Dev/Database'
+Alias:
+  - <% tp.file.title %>
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # <% tp.file.title %>
@@ -12,7 +24,6 @@ Alias: ["<% tp.file.title %>"]
 ```SQL
 
 ```
-
 
 ***
 
@@ -29,3 +40,11 @@ Alias: ["<% tp.file.title %>"]
 ```dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
 ```
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

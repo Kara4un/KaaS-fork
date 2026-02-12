@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # MEGA CMD
 
 *Source: [MEGAcmd/UserGuide.md · meganz/MEGAcmd](https://github.com/meganz/MEGAcmd/blob/master/UserGuide.md)*
@@ -311,3 +323,11 @@ Verbosity: You can increase the amount of information given by any command by pa
 ````dataview
 list from [[Tool-Template]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

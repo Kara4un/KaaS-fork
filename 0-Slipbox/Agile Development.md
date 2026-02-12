@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Agile Development
 
 *Source: [What is Agile Development? - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-us/devops/plan/what-is-agile-development)*
@@ -99,3 +111,11 @@ As organizations grow, it can be a challenge to stay disciplined. Learn more abo
 ````dataview
 list from [[Agile Development]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

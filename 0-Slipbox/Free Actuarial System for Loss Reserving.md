@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Free Actuarial System for Loss Reserving - FASLR
 
 *Source: [casact/FASLR: Free Actuarial System for Loss Reserving](https://github.com/casact/FASLR)*
@@ -58,3 +70,11 @@ Due to the dominance of Windows in most modern-day actuarial departments, FASLR 
 ````dataview
 list from [[Free Actuarial System for Loss Reserving]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

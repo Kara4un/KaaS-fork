@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Views vs. Materialized Views
 
 What are the major differences between a view and materialized view, and why should you use one over the other?
@@ -22,6 +34,14 @@ A materialized view, on the other hand, is a **physical copy** of those original
 
 ---
 
-Links: [Databases](../2-Areas/MOCs/Databases.md) | [PostgreSQL](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md) | [System Design](System%20Design.md) | [Web Development](../2-Areas/MOCs/Web%20Development.md)
+Links: [Databases](../2-Areas/MOCs/Databases.md) | [PostgreSQL](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md) | [[[System Design]]](System%20Design.md) | [Web Development](../2-Areas/MOCs/Web%20Development.md)
 
 Source: [What are Materialized Views? A 5 Minute Introduction (educative.io)](https://www.educative.io/blog/materialized-view-introduction)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

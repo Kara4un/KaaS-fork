@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 8 Ways to Free Up RAM on Your Windows Computer
 
 ## Metadata
@@ -24,3 +36,11 @@
   While it sounds great, this feature offers limited use today. If your computer has an SSD, ReadyBoost won’t do anything. This is because an SSD is faster than a flash drive.
   Plus, since computers have more RAM installed by default now, you won’t see as much gain from ReadyBoost as you would on an anemic system from many years ago. The “pretend RAM” from ReadyBoost doesn’t offer the same performance gains as actually adding more RAM.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

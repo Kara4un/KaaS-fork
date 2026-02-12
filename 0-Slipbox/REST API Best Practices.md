@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # REST APIs
 
 ## Contents
@@ -122,3 +134,11 @@ Links:
 [REST API Idempotence](REST%20API%20Idempotence.md)
 [R Package - plumber](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20plumber.md)
 *3-Resources/Tools/Python/Python Packages 1/Python Package - Flask*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

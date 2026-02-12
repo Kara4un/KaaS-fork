@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Use APT to Manage Packages in Debian and Ubuntu
 
 ## Metadata
@@ -48,3 +60,11 @@
 
 * Information about repositories that are configured on your system are stored within /etc/apt/sources.list or the directory /etc/apt/sources.list.d/. Repositories can be added manually by editing (or adding) a sources.list configuration file, though most repositories also require adding the GPG public key to APT’s keyring. To automate this process, it’s recommended to use the add-apt-repository utility. — [Updated on 2022-09-16 16:32:39](https://hyp.is/tP-MMjX-Ee25cdPPC3YPWA/www.linode.com/docs/guides/apt-package-manager/)  — Group: #Topic/Dev
   \>>>>>>> origin/develop
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

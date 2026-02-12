@@ -1,4 +1,16 @@
-# API Design
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
+# [[API Design]]
 
 *Source: *Azure_API-Design_Guide_eBook.pdf**
 
@@ -107,3 +119,11 @@ https://api.contoso.com/v1.0/people/7011042402/inbox
 ````dataview
 list from [[API Design]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+2-Areas/MOCs/Mathematics and Statistics.md
+2-Areas/MOCs/Frontend Development.md
+2-Areas/MOCs/Finance.md
+2-Areas/MOCs/Development.md
+2-Areas/MOCs/Databases.md
+2-Areas/MOCs/Data Science.md
+2-Areas/MOCs/Data Engineering.md
+2-Areas/MOCs/Actuarial Science.md
+0-Slipbox/Zettelkasten.md
+0-Slipbox/XDG Base Directory Specification.md
+0-Slipbox/WSL Initial Setup Notes.md
+0-Slipbox/Working with the Registry from PowerShell.md
+0-Slipbox/Windows Themes.md
+0-Slipbox/Windows Shell Commands.md
+0-Slipbox/Windows Dotfiles Musings.md
+0-Slipbox/Windows Batch Scripting Common Shortcuts.md
+0-Slipbox/What is a Frontend Developer.md
+0-Slipbox/Weekly Review Musings.md
+0-Slipbox/Web Applications over Excel.md
+0-Slipbox/Web Application Architecture.md

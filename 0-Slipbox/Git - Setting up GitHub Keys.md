@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Git - Setting up GitHub Keys
 
 *Source: [dev-notes/git-setting-up-github-keys.md at main · brotherkaif/dev-notes](https://github.com/brotherkaif/dev-notes/blob/main/git/git-setting-up-github-keys.md)*
@@ -62,3 +74,11 @@ list from [[Git - Setting up GitHub Keys]] AND -"Changelog"
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

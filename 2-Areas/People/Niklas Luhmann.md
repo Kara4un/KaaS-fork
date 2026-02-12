@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Niklas Luhmann
 
 *Source: [Niklas Luhmann - Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)*
@@ -52,3 +64,11 @@ Luhmann himself described his theory as "labyrinthine" or "non-linear" and claim
 ````dataview
 list from [[Niklas Luhmann]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

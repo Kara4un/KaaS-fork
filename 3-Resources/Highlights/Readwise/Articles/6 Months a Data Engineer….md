@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 6 Months a Data Engineer…
 
 ## Metadata
@@ -29,3 +41,11 @@
 * Learn about yourself, be intentional about identifying what works for you; Maybe you’d find that your day gets messed up if you respond to emails early morning, Or that you thrive with minimal supervision than micromanaging, Or that you tend to do great work when there are no distractions around.
 * Over time you’re going to build a great intuition, which would help inform your next career step.
 * Finally, I really think it is a long road to mastery, and it takes time to build competency. So slow down, browse through some programming memes and laugh at yourself every once in a while.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

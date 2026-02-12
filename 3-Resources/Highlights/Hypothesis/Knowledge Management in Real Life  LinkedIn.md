@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Knowledge Management in Real Life | LinkedIn
 
 ## Metadata
@@ -11,4 +23,12 @@
 
 * Knowledge management is the conscious process of defining, structuring, retaining and sharing the knowledge and experience of employees within an organization. — [Updated on 2022-01-10 20:57:25](https://hyp.is/0xa7tHKBEeywRQvxNzmK0w/www.linkedin.com/pulse/knowledge-management-real-life-abbe-wiesenthal/)
 
-* The main goal of knowledge management is to improve an organization's efficiency and save knowledge within the company. It consists of a cycle of creating, sharing, structuring and auditing knowledge, in order to maximize the effectiveness of an organization’s collective knowledge. — [Updated on 2022-01-10 20:57:30](https://hyp.is/1a_apHKBEey0yk-2lpPphw/www.linkedin.com/pulse/knowledge-management-real-life-abbe-wiesenthal/) 
+* The main goal of knowledge management is to improve an organization's efficiency and save knowledge within the company. It consists of a cycle of creating, sharing, structuring and auditing knowledge, in order to maximize the effectiveness of an organization’s collective knowledge. — [Updated on 2022-01-10 20:57:30](https://hyp.is/1a_apHKBEey0yk-2lpPphw/www.linkedin.com/pulse/knowledge-management-real-life-abbe-wiesenthal/)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

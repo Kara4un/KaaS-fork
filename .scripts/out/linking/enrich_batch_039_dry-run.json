@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_039",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 20,
+  "details": [
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Ranking Data.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Pivot Query.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Normalize Whitespace.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Moving Average.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - MONTH() Equivalent.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Kill Running or Idle Connections.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Information Schema Queries.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Human-Readable Timestamps.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Histogram Bins.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Get the Last Element of an Array.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Get Last Day of Month.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Get Current DB Sessions.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Get all Primary Keys and Columns.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Generate Password.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Formatting Dates and Timestamps.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Find Recent Activity.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Filter for the Last x Days.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Code/SQL/SQL - PostgreSQL - Extracting Values from JSON Strings.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    }
+  ]
+}

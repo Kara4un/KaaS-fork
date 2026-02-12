@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - DBI
 
 *Source: [R Database Interface • DBI (r-dbi.org)](https://dbi.r-dbi.org/) | [r-dbi/DBI: A database interface (DBI) definition for communication between R and RDBMSs (github.com)](https://github.com/r-dbi/DBI)*
@@ -155,3 +167,11 @@ All classes are *virtual*: they cannot be instantiated directly and instead must
 ````dataview
 list from [[R Package - DBI]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

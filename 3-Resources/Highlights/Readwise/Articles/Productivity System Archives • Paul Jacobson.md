@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Productivity System Archives • Paul Jacobson
 
 ## Metadata
@@ -16,3 +28,11 @@
   It empowers you to do the things you want and need to do.
   It aligns with your personality. ([View Highlight](https://instapaper.com/read/1358498641/14488395))
 * The reason I use a pen and paper is because I enjoy it. The analog aspect adds a bit of joy, which, in and of itself, is enough grease for the skids to keep me on track with using my system. ([View Highlight](https://instapaper.com/read/1358498641/14488400))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

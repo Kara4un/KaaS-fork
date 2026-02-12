@@ -1,0 +1,128 @@
+{
+  "batch": "enrich_batch_002",
+  "mode": "dry-run",
+  "total": 20,
+  "modified": 13,
+  "details": [
+    {
+      "file": "2-Areas/People/Ralph Kimball.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Niklas Luhmann.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Nick Janetakis.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Justin DiRose.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/John Sonmez.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Democritas - The Father of Atoms.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/People/Bill Inmon.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Goals/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/Goals/2022 Areas of Focus and Goal Planning.md",
+      "changed": true,
+      "term_changes": 2,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/MOCs/Web Development.md",
+      "changed": true,
+      "term_changes": 1,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Software Development.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/README.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/MOCs/R.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/R Shiny.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Python.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Productivity.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/PowerShell.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/MOCs/Physics.md",
+      "changed": true,
+      "term_changes": 0,
+      "related_added": 1
+    },
+    {
+      "file": "2-Areas/MOCs/Personal Knowledge Management.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    },
+    {
+      "file": "2-Areas/MOCs/Microsoft.md",
+      "changed": false,
+      "term_changes": 0,
+      "related_added": 0
+    }
+  ]
+}

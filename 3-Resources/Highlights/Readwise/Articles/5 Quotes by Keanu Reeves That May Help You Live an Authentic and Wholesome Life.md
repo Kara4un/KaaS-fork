@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * With that in mind, here are some of my favorite quotes from Keanu Reeves that perfectly encapsulates how to live an authentic and wholesome life. Hopefully, by the end, you’ll be moved to apply these lessons to your life as well.
 * “Sometimes we get so caught up in our daily lives that we forget to take the time out to enjoy the beauty in life.”
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

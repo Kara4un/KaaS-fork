@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Python Best Practices.
 
 ## Metadata
@@ -45,3 +57,11 @@
 * Make full use of the unittest functionality or use the pytest library to test your code. Selenium can be used for cross-browser testing and Postman can be used for testing APIs.
 * Structure your project.
 * Your folders structure for your project should be such that navigating through it (searching for any particular file/subfolder) should be easy. Other developers should not have a hard time searching for a particular file. You can help with this by showcasing your project folder structure in your readme file.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

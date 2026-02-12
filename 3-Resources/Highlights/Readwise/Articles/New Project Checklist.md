@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # New Project Checklist
 
 ## Metadata
@@ -25,3 +37,11 @@
 * Turn TODOs Into Actual Tasks
   As you probably know, I like to break my tasks into small chunks (30min each). This is a methodology called Puzzle-Driven-Development of which I made a short analysis a while back. Basically, after I finish part of the task and make sure the codebase works fine, I will leave a TODO in the code, which we call a “puzzle”. This TODO is actually the next task in the project and we should have a new Github Issue opened as soon as it reaches the master branch.
   For this automation, I use 0pdd, a bot that will scan my codebase at each push to master and open/close Github Issue when it finds that a puzzle has been added or removed from the code. See an example here.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

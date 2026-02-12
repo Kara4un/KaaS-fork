@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # GHA - R Build Blogdown
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#build-blogdown-site*
@@ -58,3 +70,11 @@ jobs:
 ````dataview
 list from [[GHA - R Build Blogdown]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

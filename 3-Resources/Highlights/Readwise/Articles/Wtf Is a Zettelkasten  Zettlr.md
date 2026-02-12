@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # "Wtf Is a Zettelkasten?" | Zettlr
 
 ## Metadata
@@ -19,3 +31,11 @@
   Do not overdo the structure. Try to keep it really simple. And by "really" we really mean simple. If the stable structure of your Zettelkasten contains more properties than an ID, some tags (or categories, depending on the system) and internal cross-references to other notes, you will very soon find yourself adapting your Zettelkasten a lot in the early stages, which will drill down on your motivation so hard it is likely going to keep you from keeping up your work. The stable structural elements should be so generic they'll fit to anything.
 * The more important part of a Zettelkasten therefore is self reflection. You need to be constantly on the watch for how you work. This is a habit that you'll need to develop over time and nobody can ease this way with a tutorial. Whenever you are writing or reading a text, you need to develop a way of constantly thinking "what am I doing currently? Is this good?" Additionally, you need to anticipate the future: what problems are you likely going to run into in the future? Of course you shouldn't overdo it with thinking about the future, because nobody can foresee the future; but you will soon spot some bottlenecks that are destined to become a problem. You need to realise these before you are halfway in a solid Zettelkasten. Because changing thousands of files can become a headache very soon.
 * In fact, the more you read on how to do a Zettelkasten, the less you'll actually know, because a lot of it depends on intuition and self-observation. And this is something no tutorial can teach you. You will have to develop faith in yourself that what you do is not bad, but actually quite useful. Do not listen too much to too specific advises on how to start a Zettelkasten. Just start and use the structure you need. And stop reading tutorials on Zettelkästen.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

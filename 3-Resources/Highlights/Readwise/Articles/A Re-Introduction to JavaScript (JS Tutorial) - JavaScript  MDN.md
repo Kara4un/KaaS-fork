@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
 
 ## Metadata
@@ -20,3 +32,11 @@
   Function
   Object
   Symbol (new in ES2015) ([View Highlight](https://instapaper.com/read/1434722668/17131522))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

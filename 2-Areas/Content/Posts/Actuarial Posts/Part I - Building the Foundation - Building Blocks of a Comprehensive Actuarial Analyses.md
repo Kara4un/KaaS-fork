@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Part I - Building the Foundation - The Building Blocks of a Comprehensive Actuarial Analyses
 
 The series *The Building Blocks of a Comprehensive Actuarial Analyses* kicks off with Part I: Building the Foundation.
@@ -186,3 +198,11 @@ Related:
 ````dataview
 list from [[The Building Blocks of a Comprehensive Actuarial Analyses]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Building a Second Brain in Emacs and Org-Mode - Forte Labs
 
 ## Metadata
@@ -27,3 +39,11 @@
 * Software is contingent
   There’s one final thing I’ve learned from using Emacs and Org-mode. I used to primarily use other people’s software. I’d use the available operating system — Windows or MacOS. I’d use the available programs — Microsoft Office, Internet Explorer, Safari, etc. Those were the options. These situations limited my perspective. I could try a new program if it came along, such as Firefox, or LibreOffice, but I only had so many options. If I didn’t like something, or I found a bug, that was it. Software is just the way it is, and you can’t change it.
   But when I started using software that I had to configure, software that I could extend, I saw that there was a far broader range of possibilities. Real people make software, and those people have preferences and priorities, whims, opinions, and needs. If you learn how to make software, or use software that is easy to explore or change, you can align the software with your preferences and priorities. Or not. You are free to choose. Not only do our tools shape us; we shape our tools.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # How to ‘DevOps’ as a Software Developer
 
 ## Metadata
@@ -14,3 +26,11 @@
 * Your application might need client-certs to be installed on the machine to connect and trust remote HTTPS endpoints. Or if you are a server, you might require a server-cert signed by your organization’s root CA.
 * Understand key concepts such as IP subnets, routing policies, firewall and DNS rules. These determine external connectivity — to and from your application.
 * Most modern apps work by exposing HTTP APIs. The webserver that handles this needs to have limits set on important parameters like — incoming_payload_size, max_conncurrent_connectionsand connection-timeoutvalues.
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

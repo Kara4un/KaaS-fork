@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Formatting Dates and Timestamps
 
 *Source: [sql-snippets/dt-formatting.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/dt-formatting.md)*
@@ -95,3 +107,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Formatting Dates and Timestamps]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

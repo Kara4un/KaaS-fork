@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # CAS - Casualty Actuarial Society
 
 * [Casualty Actuarial Society on GitHub](https://github.com/orgs/casact/repositories)
@@ -39,3 +51,11 @@
 ````dataview
 list from [[CAS - Casualty Actuarial Society]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

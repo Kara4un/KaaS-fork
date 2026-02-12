@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # MediaCreationTool.bat
 
 *Source: https://gist.github.com/155b79dba8b8082445cc8587057f932a*
@@ -416,7 +428,6 @@ EXIT/B "ALL DONE!"
 :reg_query [USAGE] call :reg_query "HKCU\Volatile Environment" Value variable
 (for /f "tokens=2*" %%R in ('reg query "%~1" /v "%~2" /se "," 2^>nul') do set "%~3=%%S")& exit/b
 
-
 $:DIR2ISO: #,# [PARAMS] directory file.iso
 set ^ #="$f0=[io.file]::ReadAllText($env:0);$0=($f0-split'\$%0:.*')[1];$1=$env:1-replace'([`@$])','`$1';iex(\"$0 `r`n %0 $1\")"
 set ^ #=& set "0=%~f0"& set 1=%*& powershell -nop -c %#%& exit/b %errorcode%
@@ -442,7 +453,6 @@ function :DIR2ISO ($dir, $iso) { if (!(test-path -Path $dir -pathtype Container)
  $obj=$fsi.CreateResultImage(); [dir2iso]::Create($iso,[ref]$obj.ImageStream,$obj.BlockSize,$obj.TotalBlocks) };[GC]::Collect()
 } $:DIR2ISO: #,# export directory as (bootable) udf iso - lean and mean snippet by AveYo, 2021
 
-
 $:CHOICE: #,# [PARAMS] indexvar "c,h,o,i,c,e,s"  [OPTIONAL]  default-index "title" fontsize backcolor forecolor winsize
 set ^ #="$f0=[io.file]::ReadAllText($env:0);$0=($f0-split'\$%0:.*')[1];$1=$env:1-replace'([`@$])','`$1';iex(\"$0 `r`n %0 $1\")"
 set ^ #=& set "0=%~f0"& set 1=%*& (for /f "usebackq" %%/ in (`powershell -nop -c %#%`) do set "%1=%%/")& exit/bat/ps1
@@ -457,7 +467,6 @@ function :CHOICE ($index,$choices,$def=1,$title='Choices',[int]$sz=12,$bc='Midni
  $null=$f.ShowDialog(); $index=$global:ret; if ($index -eq $ch.length) {return 0} else {return $index}
 } $:CHOICE: #,# gui dialog with inverted focus returning selected index - lean and mean snippet by AveYo, 2018 - 2021
 
-
 $:CHOICE.2x: #,# [INTERNAL]
 set ^ #="$f0=[io.file]::ReadAllText($env:0);$0=($f0-split'\$%0:.*')[1];$1=$env:1-replace'([`@$])','`$1';iex(\"$0 `r`n %0 $1\")"
 set ^ #=&set "0=%~f0"&set 1=%*&(for /f "tokens=1,2 usebackq" %%i in (`powershell -nop -c %#%`) do set %1=%%i&set %5=%%j)& exit/b
@@ -466,7 +475,6 @@ function :CHOICE.2x { if (!(get-command :CHOICE -ea 0)) {iex($f0-split'\$\:CHOIC
  $c2 = @($a[4], $a[5], $a[6], $a[7],  $a[-4], $a[-3], $a[-2], $a[-1]); $2= :CHOICE @c2; if ($2 -ge 1) {return "$1 $2"}
  if ($2 -lt 1) {$a[2]=$1; :LOOP @a} }; :LOOP @args #,# index1 choices1 def1 title1  index2 choices2 def2 title2  font bc tc win
 } $:CHOICE.2x: #,# MediaCreationTool.bat gui pseudo-menu via :CHOICE snippet, streamlined in a single powershell instance
-
 
 $:PRODUCTS_XML: #,# [INTERNAL]
 set ^ #="$f0=[io.file]::ReadAllText($env:0);$0=($f0-split'\$%0:.*')[1];$1=$env:1-replace'([`@$])','`$1';iex(\"$0 `r`n %0 $1\")"
@@ -583,7 +591,6 @@ function :PRODUCTS_XML { [xml]$xml = [IO.File]::ReadAllText("$pwd\products.xml",
  }
  $xml.Save("$pwd\products.xml")
 } $:PRODUCTS_XML: #,# MediaCreationTool.bat configuring products.xml in one go
-
 
 :: Insert business esd links in 1607,1703; UPDATE 1909 and 2004 by hand until an updated products.xml from microsoft
 :: Following are condensed ver,edition,lang,sizes,hashes,dirs to be recomposed into full official ESD links for MCT
@@ -883,3 +890,11 @@ function :PRODUCTS_XML { [xml]$xml = [IO.File]::ReadAllText("$pwd\products.xml",
 ````dataview
 list from [[MediaCreationTool.bat]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

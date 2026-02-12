@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Best  Git Workflow for Your Software Engineering Team
 
 ## Metadata
@@ -52,3 +64,11 @@ Aliases: \["The Best  Git Workflow for Your Software Engineering Team", "The Bes
 * Feature testing servers (usually spun up for each feature), where new features are tested by individual developers before pushing it to the staging server.
 * Every merge to public branches should be reviewed. Whenever you are trying to merge to dev branch or master branch, create a pull request and let your teammates know that you want to merge some of your changes. This will help them take a pull and work with the latest code
 * Do not mess with the history of the branches. Git commits are immutable. But there are certain commands in git which can create commits using the previous commits, making it look like you have reverted to a previous commit. This can cause issues with the working code of other teammates. Do this only if it’s absolutely required. Also, follow tip #1 after you do this.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

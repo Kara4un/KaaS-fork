@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ralph Kimball
 
 *Source: [Ralph Kimball - Wikipedia](https://en.wikipedia.org/wiki/Ralph_Kimball)*
@@ -33,3 +45,11 @@
 * [ETL Data Warehousing Best Practices](../../0-Slipbox/ETL%20Data%20Warehousing%20Best%20Practices.md)
 * [Databases](../MOCs/Databases.md)
 * [The Kimball Lifecycle](../../0-Slipbox/The%20Kimball%20Lifecycle.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

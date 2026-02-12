@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Clean Up Your Productivity System to Be More Productive
 
 ## Metadata
@@ -15,3 +27,11 @@
 * Next, I want you to add a daily review and a monthly review. The daily review will be done at the very end or very beginning of each day, whichever you prefer. It will be a mini-version of the weekly review and will be done the same way, except you are only looking at one day back and one day forward.
 * It is much easier to evaluate the tasks when they are more immediate. It’s easier to understand the impact of something you did yesterday than a week ago. And as you get used to doing these tasks in tandem, they will each make the other more effective.
 * Bad habits are hard to break. But so are good habits
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

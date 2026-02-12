@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Must-Have Productivity Tools
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Kickidler is an innovative employee monitoring and time tracking app, productivity analysis, and efficiency dynamics. Also, the program can notify the employee that they have been reading the news for too long. It will also allow them to see their productivity statistics.
 * ProProfs Project is a project management tool that aids in improving business productivity. With the help of this tool, you can easily deal with all challenges that occur during life. Simply put, it narrows the gap between you and project success.
 * Workzone is a project management and collaboration app for teams. It can help to create reminders and prioritized task lists for added productivity. Any member of the team can view and update the workplace documents according to the requirements.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

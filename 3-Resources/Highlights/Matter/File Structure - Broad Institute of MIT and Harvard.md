@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://mitcommlab.mit.edu/broad/commkit/file-structure/](https://mitcommlab.mit.edu/broad/commkit/file-structure/)
@@ -80,3 +92,11 @@
 * If your group already has an established style, start there, and tailor it to your needs.
 * Ordering the ideas: Choosing descriptive vs. chronological depends on what’s most important.
 * In general, put the most important thing first, whether in a folder hierarchy or an individual filename.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

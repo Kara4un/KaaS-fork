@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # List Making When Overwhelmed: Turn Stress Into Productivity
 
 ## Metadata
@@ -91,3 +103,11 @@
   List making is a powerful thing. It’s a simple, yet effective strategy to reduce overwhelm, get organized, and gain some control over your life.
   So give it a try!
   Go through the steps above and create some to-do lists of your very own. Check back on this post from time to time for a refresher and continue to work on your list making skills until they become habit.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,20 @@
 ---
-Date: 2022-08-26
+Date: 2022-08-26T00:00:00.000Z
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping", "#Topic/Dev/Tools", "#Topic/Dev/SQL"]
-Alias: "SQL Server Command Prompt Utilities"
+Tags:
+  - '#Type/Clipping'
+  - '#Topic/Dev/Tools'
+  - '#Topic/Dev/SQL'
+Alias: SQL Server Command Prompt Utilities
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
 ---
 
 # SQL Command Prompt Utilities (Database Engine) - SQL Server
@@ -67,7 +79,6 @@ For information on the *main* SQL gui and command-line tools, see [SQL Tools Ove
 | *italic* | User-supplied parameters. |
 | **bold** | Commands, parameters, and other syntax that must be typed exactly as shown. |
 	
-
 
 ## See Also
 

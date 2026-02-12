@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The 35 Best Productivity Apps for 2020
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Notion – For creating your own personal wiki
 * Doist’s Growth Marketer, Hugo, relies on Notion to keep his thoughts, ideas, and projects organized:
   Notion is my main place for thinking with words, jotting down ideas, consolidating my learnings, and keeping all of that quite organized. I also use it for personal projects like: what I need to think about for my sister’s wedding ceremony, tracking my Doist perks, or keeping an overview of revenues/expenses for finances (with tables), books I read (with a gallery), and sometimes bookmarking things I’ve read for later reference.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

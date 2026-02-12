@@ -1,0 +1,20 @@
+3-Resources/Highlights/Hypothesis/An Easy 5-Step Guide to Auditing Your Subscriptions, According to Experts.md
+3-Resources/Highlights/Highlights.md
+3-Resources/Tools/Microsoft Office/Excel/Inquire Excel Add-In.md
+3-Resources/Tools/Microsoft Office/Excel/Excel.md
+3-Resources/Tools/Microsoft Office/Excel/Excel - VBA.md
+2-Areas/Code/Code.md
+2-Areas/Code/Javascript/README.md
+2-Areas/Code/Javascript/JS - Remove all YouTube Watch Later Videos.md
+2-Areas/Code/Javascript/JS - Obsidian Web Clipper Bookmarklet.md
+2-Areas/Code/Javascript/Javascript.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-28.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-26.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-25.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-23.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-21.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-17.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-16.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-15.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-12.md
+2-Areas/Daily-Notes/2021/2021-11/2021-11-10.md

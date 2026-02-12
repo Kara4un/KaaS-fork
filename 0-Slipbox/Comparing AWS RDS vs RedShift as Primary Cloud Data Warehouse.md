@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse
 
 ## Contents
@@ -110,7 +122,7 @@ The biggest differentiator between Redshift and RDS is the storage capacity and 
 ## Appendix: Links
 
 * [Development](../2-Areas/MOCs/Development.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * *Databases*
 * [Data Warehouse](Data%20Warehouse.md)
 * [Data Lake](Data%20Lake.md)
@@ -130,3 +142,11 @@ See Also: [Consideration and Concerns Regarding AWS Data Architecture](Considera
 ````dataview
 list from [[Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

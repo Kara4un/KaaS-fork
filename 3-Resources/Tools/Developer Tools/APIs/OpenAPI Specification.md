@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # OpenAPI Specification
 
 *Source: [OpenAPI-Specification/3.0.3.md at main · OAI/OpenAPI-Specification (github.com)](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.3.md)*
@@ -3479,7 +3491,7 @@ Two examples of this:
 
 * *Tools*
 * [Development](../../../../2-Areas/MOCs/Development.md)
-* [API Design](../../../../0-Slipbox/API%20Design.md)
+* [[[API Design]]](../../../../0-Slipbox/API%20Design.md)
 * [API Authentication](../../../../0-Slipbox/API%20Authentication.md)
 * [API Architecture - Performance Best Practices](../../../../0-Slipbox/API%20Architecture%20-%20Performance%20Best%20Practices.md)
 * [REST API Best Practices](../../../../0-Slipbox/REST%20API%20Best%20Practices.md)
@@ -3494,3 +3506,11 @@ Two examples of this:
 ````dataview
 list from [[OpenAPI Specification]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

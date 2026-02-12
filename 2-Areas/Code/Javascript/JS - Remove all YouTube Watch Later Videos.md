@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Javascript - Remove all YouTube Watch Later Videos
 
 *Source: [How to Bulk Delete All Youtube's Watch Later Videos in February 2022 | TL Dev Tech](https://www.tldevtech.com/how-to-bulk-delete-all-youtubes-watch-later-videos/)*
@@ -71,3 +83,11 @@ Notice how the browser starts to automatically remove each video one-by-one afte
 ````dataview
 list from [[Javascript - Remove all YouTube Watch Later Videos]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

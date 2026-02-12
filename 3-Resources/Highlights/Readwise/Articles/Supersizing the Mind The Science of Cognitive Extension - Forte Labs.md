@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Supersizing the Mind: The Science of Cognitive Extension - Forte Labs
 
 ## Metadata
@@ -20,3 +32,11 @@
   What all these principles suggest is that it isn’t the quality or quantity of our knowledge that matters. Nor even our raw intellectual ability. All these pale in comparison to the problem-solving capabilities of our environment. The bottleneck on human performance is our context.
 * Think of a bartender preparing drinks. Taking a list of drink orders, she could easily remember who ordered what if she wanted to. Instead, she positions the glasses in the correct order on the bar, using their location in space to “remember” the orders. This lightweight offloading strategy is less error-prone, makes her actions more efficient, and allows her to dedicate thinking to other things.
 * Our brain “outsources” memory to the external environment, retrieving it back “just-in-time” only when needed. It will do this even when it takes substantial physical effort to do so.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

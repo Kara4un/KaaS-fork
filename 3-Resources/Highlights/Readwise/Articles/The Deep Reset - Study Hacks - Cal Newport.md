@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Deep Reset - Study Hacks - Cal Newport
 
 ## Metadata
@@ -15,3 +27,11 @@
 * To varying degrees of severity, we’re all suffering through some version of Odysseus’s tragic journey. Many — too many — are struggling with devastating consequences to their health or livelihoods. Like Odysseus surviving the storm that destroyed his fleet, for them, all energy is dedicated to perseverance in the moment.
   But for many others, including a large part of my audience here, the moment has brought severe dislocation to much of what we’ve come to trust and expect, but falls short of immediate peril. The question then is what those who find themselves in this situation — marooned on a Netflix-themed island of the lotus eaters — should do about it.
 * Essentially all of philosophy, theology, literature and history implies that the Odysseus approach is the one for which we as humans are wired. The best response to deep disruption, in other words, is often a deep reset.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

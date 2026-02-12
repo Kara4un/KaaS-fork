@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R Package - `dlookr`
 
 *Source: [choonghyunryu/dlookr: Tools for Data Diagnosis, Exploration, Transformation (github.com)](https://github.com/choonghyunryu/dlookr)*
@@ -449,3 +461,11 @@ Looking at the results of the visualization, `arr_delay` shows that the observed
 ````dataview
 list from [[R Package - dlookr]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

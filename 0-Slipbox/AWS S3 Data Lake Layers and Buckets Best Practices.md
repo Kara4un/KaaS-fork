@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # AWS S3 Data Lake Layers and Buckets Best Practices
 
 *Source: [Defining S3 bucket and path names for data lake layers on the AWS Cloud | AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/defining-bucket-names-data-lakes/welcome.html)*
@@ -22,7 +34,7 @@
 
 ## Overview
 
-This guide helps you create a consistent naming standard for [Amazon Simple Storage Service](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md) (Amazon S3) buckets and paths in [data lakes](Data%20Lake.md) hosted on the [Amazon Web Services (AWS) Cloud](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md). The guide's naming standard for S3 buckets and paths helps you to improve governance and observability in your data lakes, identify costs by data layer and AWS account, and provides an approach for naming *AWS Identity and Access Management (IAM)* roles and policies.
+This guide helps you create a consistent naming standard for [Amazon Simple Storage Service](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md) (Amazon S3) buckets and paths in [data lakes](Data%20Lake.md) hosted on the [Amazon Web Services (AWS) Cloud](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md). The guide's naming standard for S3 buckets and paths helps you to improve governance and [[Observability]] in your data lakes, identify costs by data layer and AWS account, and provides an approach for naming *AWS Identity and Access Management (IAM)* roles and policies.
 
 ### Data Layers
 
@@ -52,7 +64,7 @@ The guide contains the following sections:
 
 You should expect the following five outcomes after implementing a naming standard for S3 buckets and paths in data lakes on the AWS Cloud:
 
-* Improved governance and observability in your data lake.
+* Improved governance and [[Observability]] in your data lake.
 
 * Increased visibility into your overall costs for individual AWS accounts by using the relevant AWS account ID in the S3 bucket name and for data layers by using [cost allocation tags](https://docs.aws.amazon.com/AmazonS3/latest/userguide/CostAllocTagging.html) for the S3 buckets.
 
@@ -232,11 +244,11 @@ We recommend that you map the data lake’s Amazon Simple Storage Service (Amazo
 ## Appendix: Links
 
 * [Development](../2-Areas/MOCs/Development.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [AWS](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md)
 * [AWS S3](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md)
 * [Data Lake](Data%20Lake.md)
-* [Cloud Computing](Cloud%20Computing.md)
+* [[[Cloud Computing]]](Cloud%20Computing.md)
 * [Data Science](../2-Areas/MOCs/Data%20Science.md)
 * [Data Engineers](Data%20Engineers.md)
 * [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
@@ -246,10 +258,16 @@ We recommend that you map the data lake’s Amazon Simple Storage Service (Amazo
 
 ## Appendix: PDF
 
-
-
 *Backlinks:*
 
 ````dataview
 list from [[AWS S3 Data Lake Layers and Buckets Best Practices]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

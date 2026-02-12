@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R is for actuaRies
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Actuarial data science lies at the intersection of math and business studies, combining statistical knowledge and methods from insurance and finance areas. Compared to data scientists, actuaries focus more on finance and business knowledge, while still collecting and analyzing data.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

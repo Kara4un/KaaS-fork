@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How To Open Local Drive Index in Web Browser
 
 To open an Index of a local drive on your local computer in the web browser, simply input `file://127.0.0.1/c$` into your browser's address bar (*note in this example I am indexing the `C` drive of my windows machine*) - [Index of C: Drive](file://127.0.0.1/c$/)
@@ -17,3 +29,11 @@ You can also click on folders and files and launch them from the browser as well
 ````dataview
 list from [[How To Open Local Drive Index in Web Browser]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

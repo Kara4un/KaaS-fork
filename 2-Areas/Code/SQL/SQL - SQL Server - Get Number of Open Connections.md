@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Get Number of Open Connections
 
 *Source: [Retrieve Number of Open Connections | thiscodeWorks](https://www.thiscodeworks.com/61faf143b783be0015bbaf71)*
@@ -27,3 +39,11 @@ For [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Datab
 ````dataview
 list from [[SQL - Get Number of Open Connections]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

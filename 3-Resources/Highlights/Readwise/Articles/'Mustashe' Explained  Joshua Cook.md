@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 'Mustashe' Explained | Joshua Cook
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * The purpose of the ‘mustashe’ R package is to save objects that result from some computation, then load the object from file the next time the computation is performed. In other words, the first time a chunk of code is evaluated, the output can be stashed for the next time the code chunk is run.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

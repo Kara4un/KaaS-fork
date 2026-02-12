@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Warehouse for Insurance
 
 *Source: [How to Build a Data Warehouse for Insurance | Blog Post (aptitive.com)](https://aptitive.com/blog/how-to-build-a-data-warehouse-for-insurance/)*
@@ -48,3 +60,11 @@ By combining your sources into a centralized data warehouse for insurance, the b
 * [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 * [Data Science](../2-Areas/MOCs/Data%20Science.md)
 * [Databases](../2-Areas/MOCs/Databases.md)
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

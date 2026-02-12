@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Dashboard++ — a Simple Organization and Navigation Method for Obsidian Vaults
 
 ## Metadata
@@ -18,3 +30,11 @@
 * As you will see, Dashboard++ is made up of two simple things:
 * A CSS style sheet you add to your vault that provides some missing formatting powers
 * The use of markdown lists for creating structured indexes
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

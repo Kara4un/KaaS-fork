@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Warehousing for Data Engineering
 
 ## Metadata
@@ -19,3 +31,11 @@
 * Streams of data can be directly loaded into data structures.
 * Enhanced management of unstructured data.
 * The objective of a data platform is to provide timely and reliable data while being able to rapidly adapt to the changes in data. Keep this in mind while building yours and try to dig into the requirements of your process to find the solution that works best for you.
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

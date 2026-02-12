@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ultimate Personal Management Systems - The Startup - Medium
 
 ## Metadata
@@ -60,3 +72,11 @@
   The easiest hack is to follow the 80/20 rule. Focus 20% of your efforts on 80% of the items so you clear the way to work on things that demand your attention. Those are the 20% of items which are the really important ones.
   Start by processing larger items. Then batch the remaining ones by grouping them into related categories as you process them.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

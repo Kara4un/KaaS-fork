@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Goals of a Note Taking System
 
 A goal of a note taking system should be to *store information, so that your brain can do more useful stuff*.
@@ -23,3 +35,11 @@ Lastly, the note organizing system should help you organize and browse your note
 ````dataview
 list from [[Goals of a Note Taking System]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,0 +1,20 @@
+2-Areas/Daily-Notes/2022/2022-08/2022-08-11.md
+3-Resources/Templates/Code-Templates/Code-VBA-Template.md
+3-Resources/Templates/Code-Templates/Code-Template.md
+3-Resources/Templates/Code-Templates/Code-SQL-Template.md
+3-Resources/Templates/Code-Templates/Code-Registry-Template.md
+3-Resources/Templates/Code-Templates/Code-R-Template.md
+3-Resources/Templates/Code-Templates/Code-Python-Template.md
+3-Resources/Templates/Code-Templates/Code-PowerShell-Template.md
+3-Resources/Templates/Code-Templates/Code-GHA-Template.md
+3-Resources/Citations/README.md
+3-Resources/Citations/Citations.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Actuarial-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-R-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Python-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-PowerShell-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Data-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Cloud-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-CLI-Template.md
+3-Resources/Tools/Web Browsers/Edge/Microsoft Edge.md

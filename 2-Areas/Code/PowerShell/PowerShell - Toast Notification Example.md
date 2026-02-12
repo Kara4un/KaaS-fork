@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # PowerShell - Toast Notification Example
 
 *Source: https://gist.github.com/ac3e2e3a4005b65f61b6261919eb0672#file-toastnotification_windows10-ps1*
@@ -44,3 +56,11 @@ $notifier.Show($toast);
 ````dataview
 list from [[PowerShell - Toast Notification Example]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

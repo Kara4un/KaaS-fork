@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # \#494: Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Speaker 0: You know, if you skip a few of those classes like you're missing key steps that are gonna help you at the very top level when the lights are on, when you know you might have had a bad night's sleep or your roommate might be sick. Or maybe the food in the dining hall wasn't very good or your air conditioning doesn't work, you know? So it's like all of the things that you're doing daily are prepping you for any kind of situation that you're gonna face at the Olympics at World Championships, whatever your big event is, totally. 
   Speaker 1: And I suppose that's that's something that wasn't in my mind when I asked the question. And that is, it's not just about developing more strength. It's not just about developing the brute attributes. It's also about thes smallest technical details that you have to trained to be second nature for competition. ([Time 0:30:07](https://www.airr.io/quote/60123f58c9f3ab58a5f39cf5))
   * Note: Daily Preparation
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

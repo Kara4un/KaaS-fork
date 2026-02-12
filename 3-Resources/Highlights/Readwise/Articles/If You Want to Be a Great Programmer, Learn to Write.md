@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # If You Want to Be a Great Programmer, Learn to Write
 
 ## Metadata
@@ -11,3 +23,11 @@
 
 * Writing as a Tool of Career Advancement
 * The better way was to turn the static site into a dynamic site where the content was pulled from a database. Again, for you new people, this was before WordPress. I had to write a content management system from scratch. This involved numerous massive and expensive technological shifts in the I.T. department. However, I knew that the investment would be worth it in the time saved from having to manage so many HTML files.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

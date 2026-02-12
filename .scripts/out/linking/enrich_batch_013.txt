@@ -1,0 +1,20 @@
+2-Areas/Meta/How I Take Notes.md
+2-Areas/Meta/About.md
+2-Areas/Content/Posts/README.md
+1-Projects/Personal/Record Collection.md
+3-Resources/Dictionary/VOBA.md
+3-Resources/Dictionary/Synapse.md
+3-Resources/Dictionary/README.md
+3-Resources/Dictionary/Polymath.md
+3-Resources/Dictionary/Liaise (en-US).md
+3-Resources/Dictionary/Disparate.md
+3-Resources/Dictionary/Dictionary.md
+3-Resources/Dictionary/Augment (en-US).md
+3-Resources/Tools/Web Browsers/Web Browsers.md
+3-Resources/Tools/Web Browsers/README.md
+3-Resources/Tools/Web Browsers/Microsoft Edge.md
+3-Resources/Tools/Web Browsers/Google Chrome.md
+3-Resources/Tools/Web Browsers/Firefox Developer.md
+3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md
+0-Slipbox/Fleeting/Views vs. Materialized Views.md.md
+0-Slipbox/Fleeting/PostgreSQL.md.md

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
 
 ## Metadata
@@ -30,3 +42,11 @@
   for my birthday, so in june of two thousand and nineteen, i launched at initiative where i closed all f the open loops in what we could call like household management. Little
   Speaker 1
   background, every every year at my birthday, i usually launched some sort of self improvement ([Time 0:17:58](https://share.snipd.com/snip/dc280dd9-d0af-4ead-a429-dc3a0ec572eb))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Methods Bites
 
 ## Metadata
@@ -59,3 +71,11 @@
   Create a renv::snapshot() to save all the packages you used to your local package directory.
   Commit all your changes to git. This can be easily done by using the Git pane in RStudio.
   Push everything to GitHub.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

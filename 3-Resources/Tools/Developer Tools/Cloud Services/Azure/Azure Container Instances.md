@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Azure Container Instances
 
 \*Source: *
@@ -159,7 +171,7 @@ az group delete --name az204-aci-rg --no-wait
 ## Appendix: Links
 
 * [Development](../../../../../2-Areas/MOCs/Development.md)
-* [Cloud Computing](../../../../../0-Slipbox/Cloud%20Computing.md)
+* [[[Cloud Computing]]](../../../../../0-Slipbox/Cloud%20Computing.md)
 * [Azure CLI](Azure%20CLI.md)
 * [Azure Container Registry](Azure%20Container%20Registry.md)
 * *3-Resources/Highlights/Readwise 1/Articles/Dev Environments as Code With Containers and Visual Studio Code*
@@ -172,3 +184,11 @@ az group delete --name az204-aci-rg --no-wait
 ````dataview
 list from [[Azure Container Instances]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

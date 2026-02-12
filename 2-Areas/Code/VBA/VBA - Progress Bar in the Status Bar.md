@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - Progress Bar in the Status Bar
 
 *Source: [Display a progressbar on the statusbar - Erlandsen Data Consulting](https://erlandsendata.no/?t=vbatips&c=application&p=4060#main)*
@@ -67,3 +79,11 @@ End Sub
 ````dataview
 list from [[VBA - Progress Bar in the Status Bar]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

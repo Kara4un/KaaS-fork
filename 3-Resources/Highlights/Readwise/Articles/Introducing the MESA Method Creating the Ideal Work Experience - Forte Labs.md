@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Introducing the MESA Method: Creating the Ideal Work Experience - Forte Labs
 
 ## Metadata
@@ -18,3 +30,11 @@
 * Day 3 is for prototyping, which includes small groups writing copy, making mockups or landing pages, building demos, or producing short videos or presentations to demonstrate the viability of the ideas from the day before. It is on Day 3, once people have to start making real tradeoffs in the making of the product, that the real constraints arise.
 * Day 4 is focused on more advanced prototyping, taking the most viable prototypes to a basic level of functionality. The leader pushes to bring the fidelity of the prototype as close to reality as possible, including real code and functional backends whenever possible. The further toward reality it moves, the more hidden constraints and priorities will come to the surface.
 * But where MESA shines is not in the explicit – the rules, structures, schedule, checklists – but in the tacit, the subtle, and the sublime. They have found a way to use these subtle touches not just to create a memorable experience, but to produce results that more heavy-handed methods can only dream of.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [http://www.greatachievements.org/Object.File/Master/4/254/na_speech.pdf](http://www.greatachievements.org/Object.File/Master/4/254/na_speech.pdf)
@@ -13,3 +25,11 @@
 * When knowledge, facts, or solutions are sought, there are a number of techniques available from which to select. These techniques can be ranked according to their effectiveness, from the most certain to the most uncertain.
 * Engineering is a profession which leaves its imprint on our society in countless ways. We all intuitively understand the term “quality of life,” but we have difficulty in attempting to define it.
 * Truly, it has been a magical century.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

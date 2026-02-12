@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Articles/Why I Use a Cloud-Based Development Environment and How You Can Too.md
+3-Resources/Highlights/Readwise/Articles/Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali.md
+3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List.md
+3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List-2.md
+3-Resources/Highlights/Readwise/Articles/What's a Successful Shiny Application - Rtask.md
+3-Resources/Highlights/Readwise/Articles/What Is Data Modeling.md
+3-Resources/Highlights/Readwise/Articles/What Is Data Dictionary - Data Terminology.md
+3-Resources/Highlights/Readwise/Articles/What Is Cloud CDN and How Does It Work  Google Cloud Blog.md
+3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md
+3-Resources/Highlights/Readwise/Articles/What in the World Is Data Engineering.md
+3-Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md
+3-Resources/Highlights/Readwise/Articles/Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software.md
+3-Resources/Highlights/Readwise/Articles/Weekly Reset System for Increased Productivity  Mystigal.md
+3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md
+3-Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md
+3-Resources/Highlights/Readwise/Articles/Variable and Value Labels Support in Base R and Other Packages.md
+3-Resources/Highlights/Readwise/Articles/Using Todoist for GTD  GTD Method.md
+3-Resources/Highlights/Readwise/Articles/Using Redo to Manage R Data Analysis Workflow.md
+3-Resources/Highlights/Readwise/Articles/Usethis Workflow for Package Development  Emil Hvitfeldt.md
+3-Resources/Highlights/Readwise/Articles/Useful DatabaseSql Tricks for Data Engineering.md

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # R/Datascience - Career Tips From an Old Timer
 
 ## Metadata
@@ -17,3 +29,11 @@
 * Focus on quality of life: Remember that I have had over 12 years to do this, and I’m not even half-way into my career. Careers span 30+ years. Learn to take a breather, take vacations, take breaks and disconnect from it all once in a while. An endless rat-race will leave you burned out and unable to focus. It happened to me 5-6 years into my career where I felt overwhelmed everyday. It’s not good for you in the long run. I know this point sounds contradictory to everything I’ve said above about constantly having to learn, but it really isn’t if you put it into a 30+ year time-span. You don’t have to be the best analyst, best machine learning engineer, the best story teller, and the best leader in year 2. You can pick and choose what you want to learn based on your environment and what’s needed immediately.
   * Note: Yup. Thats me 5-6 years in.
 * Don’t gatekeep, don’t look down on others, help those who ask: Nothing bothers me more than seeing young Data Scientists/ML Engineers looking down on Data Analysts, calling them SQL monkeys. A lot of them also look down on people who do sales and marketing.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

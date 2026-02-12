@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Publish Workflow
 
 * This repository has three main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main), [develop](https://github.com/jimbrig/KaaS-New/tree/develop), and [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages). 
@@ -18,3 +30,11 @@
 ````dataview
 list from [[Publish Workflow]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

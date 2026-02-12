@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://mishacreatrix.com/inboxes-to-manage-thoughts-and-ideas](https://mishacreatrix.com/inboxes-to-manage-thoughts-and-ideas)
@@ -18,3 +30,11 @@
 * Daily Review Process At the end of each day, part of my daily shutdown routine is to clear my inboxes.
 * For Todoist, I look through each item and determine if it’s still something I should work on, then move it to the appropriate list. For example, if I’ve gotten a book recommendation, that will go into my Books list.
 * If you find yourself completely taken up by things you need to remember, simply capture those things into a system you trust to review as frequently as you need. It can be pen and paper, or it can be a digital task manager, or it can even be both so long as you don’t overcomplicate things and are sure to review them frequently.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

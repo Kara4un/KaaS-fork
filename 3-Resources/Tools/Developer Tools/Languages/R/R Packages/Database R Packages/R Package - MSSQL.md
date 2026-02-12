@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # R Package - MSSQL
 
 *Source: [gfcm/MSSQL: Tools to Work with Microsoft SQL Server Databases via RODBC (github.com)](https://github.com/gfcm/MSSQL)*
@@ -55,3 +67,11 @@ install_github("gfcm/MSSQL")
 ````dataview
 list from [[R Package - MSSQL]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

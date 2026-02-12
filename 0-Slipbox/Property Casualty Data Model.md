@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Property Casualty Data Model (PCDM)
 
 *Source: [casact/PCDM: Property Casualty Data Model Specification](https://github.com/casact/PCDM)*
@@ -37,8 +49,6 @@ Part of the [CAS GitHub Organization - casact](CAS%20-%20Casualty%20Actuarial%20
 * http://www.omg.org/spec/PC/1.0/PhysicalDataModel.xls
 
 #### PDF
-
-
 
 ## Notes
 
@@ -135,3 +145,11 @@ pip3 install pcdm
 ````dataview
 list from [[Property Casualty Data Model]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

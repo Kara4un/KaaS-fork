@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # PostgreSQL Stored Procedures and Functions Notes
 
 *Source: [Everything you need to know about Postgres stored procedures and functions ](https://www.enterprisedb.com/postgres-tutorials/everything-you-need-know-about-postgres-stored-procedures-and-functions)*
@@ -217,3 +229,11 @@ Functions can have many more options, including whether it's a WINDOW function (
 ````dataview
 list from [[PostgreSQL Stored Procedures Notes]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

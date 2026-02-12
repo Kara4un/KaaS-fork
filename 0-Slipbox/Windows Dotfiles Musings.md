@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Windows Dotfiles Musings
 
 *Source: [CMCDragonkai/.dotfiles: Personal Configuration Management](https://github.com/CMCDragonkai/.dotfiles)*
@@ -33,3 +45,11 @@ To take advantage of Home paths in CMD, make sure to set startup task to: `cmd /
 ````dataview
 list from [[Windows Dotfiles Musings]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

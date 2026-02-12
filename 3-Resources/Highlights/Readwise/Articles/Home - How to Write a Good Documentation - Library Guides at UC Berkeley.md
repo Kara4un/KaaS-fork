@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Home - How to Write a Good Documentation - Library Guides at UC Berkeley
 
 ## Metadata
@@ -26,3 +38,11 @@
   Include licensing information
   Link to your e-mail address at the end
   List all the version of the files along with the major edits you did in each version
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Improve the Performance of Your Windows Computer Fundamentally?
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Slow PC: is it a virus?
   Much more likely a PC slow-down is caused by a malware infection of some kind. You should of course have a robust internet security package running on your PC or laptop. If you don't, buy and install one today for advice on which one to choose.
   Scan and clean your PC and you should find that things improve. If you have an existing security program it is still worth updating the virus definitions and running a scan, but it is likely that the infection has found a way around your chosen program. You can add a further layer of protection by using a free product to do a further scan and clean up any problems.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

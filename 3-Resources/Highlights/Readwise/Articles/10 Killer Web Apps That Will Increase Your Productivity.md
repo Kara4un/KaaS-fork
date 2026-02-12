@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 10 Killer Web Apps That Will Increase Your Productivity
 
 ## Metadata
@@ -18,3 +30,11 @@
 * When eager to get a placeholder logo, go ahead and use Logo Ipsum with tons of available choices and different logo plans fitting each need.
 * 
   6. Carbon
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

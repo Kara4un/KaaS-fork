@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Quick Start Guide: How to Start Implementing GTD Successfully
 
 ## Metadata
@@ -26,3 +38,11 @@
 * First of all, you need to have a first inventory of incomplete elements in your personal and professional life. Do a mental sweep following this list of possibilities: Incompletion Trigger List.
 * Define the right contexts for your specific situation, which will help you have situation-specific Next Actions lists: @calls, @computer, @office, @home, @errands, @Evernote, @Mary, etc.
 * Once that first big catch has been made, clarify each of the items and organize them, putting reminders in the appropriate lists.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

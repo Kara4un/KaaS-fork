@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 \#Status/Todo 
 
 See: https://github.com/corysauve/sql_for_data_scientists/tree/main/notes
@@ -5,7 +17,6 @@ See: https://github.com/corysauve/sql_for_data_scientists/tree/main/notes
 # SQL for Data Scientists Book Notes
 
 <!-- optional markdown-notes-tree directory description starts here -->
-
 
  > 
  > *[SQL-for-Data-Scientists](https://sqlfordatascientists.com/) by *Renee M.P. Teate* Book Notes*
@@ -33,3 +44,11 @@ See: https://github.com/corysauve/sql_for_data_scientists/tree/main/notes
 ---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

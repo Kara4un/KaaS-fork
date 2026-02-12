@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Development Best Practices - Follow Defined Standards
 
 ## Contents
@@ -63,3 +75,11 @@ Your target should be to stop the bugs at first place and create a BUG-FREE code
 ````dataview
 list from [[Development Best Practices - Follow Defined Standards]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

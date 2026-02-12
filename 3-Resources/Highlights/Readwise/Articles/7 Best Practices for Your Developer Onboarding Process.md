@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 7 Best Practices for Your Developer Onboarding Process
 
 ## Metadata
@@ -42,3 +54,11 @@
   What information, hardware, software, etc. do I need to provide prior to day 1?
   What are the biggest time consumers with new hires?
   What are the most frequent mistakes made by, or in connection with, new hires?
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

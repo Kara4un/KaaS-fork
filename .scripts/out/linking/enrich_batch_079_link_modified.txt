@@ -1,0 +1,20 @@
+3-Resources/Tools/Developer Tools/Terminal/README.md
+3-Resources/Tools/Developer Tools/Terminal/iTerm.md
+3-Resources/Tools/Developer Tools/Terminal/Fluent Terminal.md
+3-Resources/Tools/Developer Tools/Terminal/Terminal.md
+3-Resources/Tools/Developer Tools/Terminal/Windows Terminal.md
+3-Resources/Tools/Developer Tools/Data Stack/README.md
+3-Resources/Tools/Developer Tools/Docker/README.md
+3-Resources/Tools/Developer Tools/Docker/Dockerfiles.md
+3-Resources/Tools/Developer Tools/Docker/Docker.md
+3-Resources/Tools/Developer Tools/Docker/Docker Compose.md
+3-Resources/Tools/Developer Tools/Docker/Docker CLI.md
+3-Resources/Tools/Developer Tools/Linux/Linux.md
+3-Resources/Tools/Developer Tools/Linux/Windows Subsystem for Linux.md
+3-Resources/Tools/Developer Tools/Linux/README.md
+3-Resources/Tools/Developer Tools/Documentation/README.md
+3-Resources/Tools/Developer Tools/Package Managers/Winget.md
+3-Resources/Tools/Developer Tools/Shell/zsh.md
+3-Resources/Tools/Developer Tools/Shell/Shell.md
+3-Resources/Tools/Developer Tools/Shell/README.md
+3-Resources/Tools/Developer Tools/Shell/powerlevel10k.md

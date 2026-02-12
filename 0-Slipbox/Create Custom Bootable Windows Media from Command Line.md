@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Create Custom Bootable Windows Media from Command Line
 
 *Source: [Create Bootable USB For Windows 10 Install.wim Larger Than 4GB (winaero.com)](https://winaero.com/create-bootable-usb-for-windows-10-install-wim-larger-than-4gb/)*
@@ -83,3 +95,11 @@ Now you will be able to install Windows using the flash drive you just created w
 ````dataview
 list from [[Create Custom Bootable Windows Media from Command Line]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

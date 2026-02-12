@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # PostgreSQL Procedural Language - `PLPGSQL`
 
 `PLPGSQL` is the native *procedural language* for [PostgreSQL](../Databases/PostgreSQL.md) Databases.
@@ -17,3 +29,11 @@
 ````dataview
 list from [[plpgsql]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

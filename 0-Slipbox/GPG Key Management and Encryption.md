@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # GPG Key Management and Encryption
 
 *Source: [dev-notes/git-setting-up-github-keys.md at main · brotherkaif/dev-notes](https://github.com/brotherkaif/dev-notes/blob/main/gpg/gpg-key-management.md)*
@@ -123,3 +135,11 @@ Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 ````dataview
 list from [[GPG Key Management and Encryption]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

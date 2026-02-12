@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # VBA - Save All
 
 ## Contents
@@ -266,7 +278,6 @@ Application.DisplayAlerts = True
 
 End Sub
 
-
 Sub CloseWithoutSave(Optional bForceClose As Boolean = False)
 ' Closes excel without saving any of the open files
 ' Created on: 3/13/12
@@ -347,3 +358,11 @@ End Sub
 ````dataview
 list from [[VBA - Save All]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

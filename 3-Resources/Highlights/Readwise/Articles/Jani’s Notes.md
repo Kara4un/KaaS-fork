@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Jani’s Notes
 
 ## Metadata
@@ -29,3 +41,11 @@
   While Foam does install its own extension, most of the value comes from installing other existing extensions and choosing good default settings. For example, it installs a few extensions that provide a nicer Markdown writing experience, and that tweak lots of things about how Markdown docs link to each other. And it picks a color theme well suited to writing Markdown. I would have never come across this whole configuration on my own, but I’m glad that someone else figured it out for me.
   The piece is very good (and not too rosy-eyed about Foam’s approach, either, which I appreciated), but it ascribes to me, the curator, too much prescience: I didn’t build Foam out of existing extensions because I have faith in Software as a Curation. I did so because it was the easiest way to get it done.
   Hard things are hard. I, personally, have always been a big fan of the easy road, especially when the payoff of the work is uncertain, as it is with ideas. Building Foam by combining existing extensions was an act of prototyping, not a philosophy.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # 9 Tricks for Boosting SQL Query Performance
 
 ## Metadata
@@ -13,3 +25,11 @@
 * Performance tuning in SQL can be done by indexing properly, which translates to quicker access to the database during critical times. This
 * It is highly recommended to avoid using temp tables if your code can be written simply
 * Create Joins With INNER JOIN (not WHERE)
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

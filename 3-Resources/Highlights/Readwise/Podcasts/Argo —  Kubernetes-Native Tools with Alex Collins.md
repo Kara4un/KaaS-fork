@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Argo —  Kubernetes-Native Tools with Alex Collins
 
 ## Metadata
@@ -44,3 +56,11 @@
   And i
   Speaker 1
   don't want to spend too much time an effort on that. And i think that's how we're ging to see it evolve overtime. And i think it'll become like a stable platform as well. I could see fewer cubinenies releases overtime. Because when an application is mature and stable ad it doesn't need too many new features. You don't actually often need musof releases of it. ([Time 0:23:24](https://share.snipd.com/snip/960a306d-ef01-4076-b616-4dfe14c2023f))
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

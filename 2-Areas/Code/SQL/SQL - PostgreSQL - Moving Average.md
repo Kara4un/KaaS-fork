@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - PostgreSQL - Moving Average
 
 *Source: [sql-snippets/moving-average.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/moving-average.md)*
@@ -76,3 +88,11 @@ Output:
 ````dataview
 list from [[SQL - PostgreSQL - Moving Average]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

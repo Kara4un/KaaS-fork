@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Database Connection Pooling
 
 *Source: [How to preserve database connection in a python web server](https://stackoverflow.com/questions/6688413/how-to-preserve-database-connection-in-a-python-web-server)*
@@ -35,7 +47,7 @@ Backlinks:
 
 * *3-Resources/Tools/Python/Python Packages 1/Python Package - Flask*
 * *3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy*
-* [System Design](System%20Design.md)
+* [[[System Design]]](System%20Design.md)
 * [Web Development](../2-Areas/MOCs/Web%20Development.md)
 
 *Backlinks:*
@@ -43,3 +55,11 @@ Backlinks:
 ````dataview
 list from [[Database Connection Pooling]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

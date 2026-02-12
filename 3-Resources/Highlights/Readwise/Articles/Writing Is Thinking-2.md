@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Writing Is Thinking
 
 ## Metadata
@@ -22,3 +34,11 @@
 * Secondly, why do you think things turned out the way they did? Were you surprised? Do you do things differently now as a result? When you spell this out, it’s the difference between journaling for yourself and writing for an audience. ([View Highlight](https://instapaper.com/read/1354459832/14362988))
 * Finally, is this something others in your line of work are prone to miss? Is it a rookie error, or something more like an industry-wide oversight? If you’ve tried to search online for similar opinions, do you get a lot of misinformation? Or is the good information simply not in a place where others in your field are likely to see it? ([View Highlight](https://instapaper.com/read/1354459832/14362990))
 * Supporting your readers ([View Highlight](https://instapaper.com/read/1354459832/14362991))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

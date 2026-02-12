@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Batch - Python Virtual Environment
 
 *Source: [Windows batch file for quick virtualenv creation (github.com)](https://gist.github.com/bskinn/eb4a30aaac418b63e602ad3dba4c727c)*
@@ -32,3 +44,11 @@ if [%2]==[] (
 ````dataview
 list from [[Batch - Python Virtual Environment]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

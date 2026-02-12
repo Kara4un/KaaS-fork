@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/05/20/rbuildignore/](https://blog.r-hub.io/2020/05/20/rbuildignore/)
@@ -16,3 +28,11 @@
 * Often, you’ll see stuff is stored in inst/: classic elements such as citation information in inst/CITATION, raw data in inst/extdata/ but also more modern or exotic elements such as RStudio addins.
 * What about .Rinstignore? .Rbuildignore has a sibling called .Rinstignore for another use case: “The contents of the inst subdirectory will be copied recursively to the installation directory. Subdirectories of inst should not interfere with those used by R (currently, R, data, demo, exec, libs, man, help, html and Meta, and earlier versions used latex, R-ex). The copying of the inst happens after src is built so its Makefile can create files to be installed. To exclude files from being installed, one can specify a list of exclude patterns in file .Rinstignore in the top-level source directory. These patterns should be Perl-like regular expressions (see the help for regexp in R for the precise details), one per line, to be matched case-insensitively against the file and directory paths, e.g. doc/.\*\[.\]png$ will exclude all PNG files in inst/doc based on the extension."
 * “Keep only those things that speak to your heart.” … that we need to amend… “Keep only those things that speak to your R CMD check.”
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

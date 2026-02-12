@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Boost your career as a software developer through blogging
 
 *Source: [Jimmy Briggs Mail - \[Lesson 0\] A blog that boosts your career (google.com)](https://mail.google.com/mail/u/0/?ik=52b8569fb7&view=pt&search=all&permmsgid=msg-f%3A1725961616694387940&simpl=msg-f%3A1725961616694387940)*
@@ -66,3 +78,11 @@ Just a heads-up though. The lessons are pretty packed with information, so you m
 ````dataview
 list from [[Boost your career as a software developer through blogging]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

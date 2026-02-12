@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Retrieve Stored Wi-Fi Passwords
 
 \*Source: *
@@ -22,3 +34,11 @@ netsh wlan show profile name=fossbytes key=clear
 ````dataview
 list from [[Retrieve Stored Wi-Fi Passwords]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

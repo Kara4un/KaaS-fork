@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Mindsweeps
 
 ## Flow Chart
@@ -7,8 +19,6 @@
 * Refer to the *Mind_Sweep_Trigger_List.pdf* for determining what's on my mind.
 
 ## Incompletion Trigger List
-
-
 
 ## See Also
 

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 113 —  ADHD and Cognitive Science, with Brittany Smith
 
 ## Metadata
@@ -24,3 +36,11 @@
   so if i'm hearing you correctly, it sounds like h when it comes to habits, maybe the creation of them, let's just talk about the creation of a new positive habit. The creation of that habit, getting it to the point where you don't really have to think about it as much, that's going to take longer, perhaps. But then once you get to that point, it'll be easier be to stick with it than it would be otherwisey.
   Speaker 1
   And it depends on how much is physical versus mental. I don't know how to go into more detail than that, but it's differently something i've noticed. Not read any papers on. Um. The biggest hurdle to starting a habit with folks i'm working with is usually that they're trying to do too much. If i'm going tostart a morning routine, i'd better add exercise, better add meditation, i'd better add all the things, until suddenly it's not possible. So why start? And so i'll see that a lot. And so one of the things i'll work with is like, let's start what's minimum viable habit. And you know, if they can really buy in at that level, you can always build on more later. But right now, if doing that big one isn't working, let's try the smaller one. Cause we, our eyes are bigger than our stomach when it comes to tackling things a lot of the time. ([Time 0:37:42](https://share.snipd.com/snip/00fb2c94-d7b6-426d-81ec-aa03b04305de))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

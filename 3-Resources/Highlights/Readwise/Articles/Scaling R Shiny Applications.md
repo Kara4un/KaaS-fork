@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Scaling R Shiny Applications:
 
 ## Metadata
@@ -15,3 +27,11 @@
   * Tags: *favorite* 
 * Deploy the containerized application to a Kubernetes cluster and configure to run multiple replica instances.
 * Configure a load balancer service to distribute the incoming requests across the collection of pods
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,8 +1,19 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Person"]
-Aliases: ["<% tp.file.cursor(8) %>"]
+Tags:
+  - '#Type/Person'
+Aliases:
+  - <% tp.file.cursor(8) %>
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # <% tp.file.title %>
@@ -45,3 +56,10 @@ FILL IN HREF BELOW
 list from [[<% tp.file.title %>]] AND -"Meta/Changelog"
 ```
 
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

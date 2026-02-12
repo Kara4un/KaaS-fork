@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office](url)
@@ -34,3 +46,11 @@
 * Going further with programming Although this article is short and only scratches the surface of VBA and programming, it is hopefully enough to get you started.
 * Variables In the simple examples in this article you manipulated objects that the application had already created. You might want to create your own objects to store values or references to other objects for temporary use in your application. These are called variables. To use a variable in VBA, must tell VBA which type of object the variable represents by using the Dim statement. You then set its value and use it to set other variables or properties.
 * Branching and looping The simple programs in this article execute one line at a time, from the top down. The real power in programming comes from the options that you have to determine which lines of code to execute, based on one or more conditions that you specify. You can extend those capabilities even further when you can repeat an operation many times.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

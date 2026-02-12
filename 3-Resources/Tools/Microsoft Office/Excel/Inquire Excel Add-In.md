@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Inquire Excel Add-In
 
 *Source: [Excel 2020: Audit a Worksheet With Spreadsheet Inquire - Excel Tips - MrExcel Publishing](https://www.mrexcel.com/excel-tips/excel-2020-audit-a-worksheet-with-spreadsheet-inquire/)*
@@ -42,3 +54,11 @@ Once you enable Inquire, you have a new tab in the Ribbon called Inquire that pr
 ````dataview
 list from [[Inquire Excel Add-In]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Actuarial Claims Data - Simulation R Script
 
 ## Simulation Script (Transactional)
@@ -58,7 +70,6 @@ trans_lag <- lapply(trans_lag, function(x) {
   if(length(x) == 0) 0 else x
 })
 
-
 for (i in seq_len(n_claims)) {
   trans_lag[[i]] <- data_frame(
     "trans_lag" = trans_lag[[i]],
@@ -72,7 +83,6 @@ trans_tbl <- trans_tbl %>%
                # switch from incremental to cumulative lag
                mutate(trans_lag = cumsum(trans_lag)) %>%
                ungroup()
-
 
 # separate all zero claims from the claims that have payments
 
@@ -123,3 +133,11 @@ saveRDS(trans, file = "trans.RDS")
 ````gist
 jimbrig/30262ae72e1ba20d0235fdedcc435150
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

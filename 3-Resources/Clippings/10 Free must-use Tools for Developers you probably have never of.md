@@ -1,9 +1,18 @@
 ---
 Author: AB Satyaprakash
-Date: 2022-03-23
-Tags: ["#Type/Clipping"]
+Date: 2022-03-23T00:00:00.000Z
+Tags:
+  - '#Type/Clipping'
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
-
 
 # Boost your productivity 10x with these 10 tools
 
@@ -78,3 +87,11 @@ Go ahead and try these tools out! The cover image for this article was also made
 Feel free to reach out to me for any questions or suggestions that you might have. You can follow me on these social media platforms — [LinkedIn](https://www.linkedin.com/in/ab-satyaprakash/), [YouTube](https://www.youtube.com/channel/UCJ6D0HS8c9Il-eX5lGbAyGg), [Twitter](https://twitter.com/AbSatyaprakash), [Instagram](https://www.instagram.com/absatyaprakash/) for more updated content!
 
 **As always! Happy Hacking! 😇**
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

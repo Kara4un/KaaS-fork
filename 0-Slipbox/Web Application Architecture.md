@@ -1,7 +1,19 @@
-# Web Application Architecture
+---
+type: Atomic-Note
+domain: System-Design
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/System-Design
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
+# [[Web Application Architecture]]
 
  > 
- > A web application architecture describes the layout of all the component of a web application and also highlights the interactions between various application components, third-party middleware systems, web services, and databases. This provides a snapshot of interaction between a number of applications working together simultaneously to provide service to end users
+ > A [[Web Application Architecture]] describes the layout of all the component of a web application and also highlights the interactions between various application components, third-party middleware systems, web services, and databases. This provides a snapshot of interaction between a number of applications working together simultaneously to provide service to end users
 
 ![](https://i.imgur.com/0OLf55k.png)
 
@@ -35,9 +47,9 @@ Webserver processes a user’s request and sends a response that includes data (
 
 The database provides tools for organizing, adding, searching, updating, deleting, and performing computations on the data. There are generally relational databases — MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, and Microsoft Access, etc and non-relational databases — MongoDB, Dynamo DB, etc.
 
-## Caching Service
+## [[Caching]] Service
 
-Caching service provides storage for data, which allows storing and searching data. Caching allows you to refer to the previous result to make computation much faster. Caches can be applied and leveraged throughout various layers of technology including Operating Systems, Networking layers including Content Delivery Networks (CDN) and DNS, web applications, and Databases.
+[[Caching]] service provides storage for data, which allows storing and searching data. [[Caching]] allows you to refer to the previous result to make computation much faster. Caches can be applied and leveraged throughout various layers of technology including Operating Systems, Networking layers including Content Delivery Networks (CDN) and DNS, web applications, and Databases.
 
  > 
  > Client-Side — HTTP Cache Headers, Browsers  
@@ -54,7 +66,7 @@ A content delivery network, or content distribution network (CDN), is a geograph
 
 External Storages are used to store assets including images, videos, documents, and other large files. In many cases, there are also operations performed on these files. Example — Youtube auto converts videos uploaded by users in multiple resolutions. Facebook converts user images and videos into a mobile-friendly format. Because storing these data on a VM local disk can be costly and can consume large computation resources, they are generally stored in external storage. Cloud Storage is one of the most popular options.
 
-**Cloud storage** is a cloud computing model that stores data on the Internet through a cloud computing provider that manages and operates data storage as a service. It’s delivered on-demand with just-in-time capacity and costs and eliminates buying and managing your own data storage infrastructure
+**Cloud storage** is a [[Cloud Computing]] model that stores data on the Internet through a [[Cloud Computing]] provider that manages and operates data storage as a service. It’s delivered on-demand with just-in-time capacity and costs and eliminates buying and managing your own data storage infrastructure
 
 ## Web Services
 
@@ -115,3 +127,11 @@ Useful resources:
 ````dataview
 list from [[Web Application Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

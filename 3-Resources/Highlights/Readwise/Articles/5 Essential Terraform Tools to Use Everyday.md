@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 5 Essential Terraform Tools to Use Everyday
 
 ## Metadata
@@ -15,3 +27,11 @@
 * Terraform is based on the HCL (HashiCorp Language), a language describing the state of your infrastructure. TFLint is a pluggable linter supporting Terraform and its language. In addition to linting, it is also a framework with expandable features through plugins.
 * Documenting your code is an important point for teamwork and reusability. Terraform-docs is a quick utility to generate docs from Terraform modules in various output formats.
 * Infracost: Estimate Cloud Cost From Your Code
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

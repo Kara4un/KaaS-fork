@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Can't Stay Focused While Processing - Have Tried for Months
 
 ## Metadata
@@ -70,3 +82,11 @@
   every few minutes. You can do the processing at a time of day
   when you have lots of energy, or split it up to do a few minutes
   at a time on different days.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

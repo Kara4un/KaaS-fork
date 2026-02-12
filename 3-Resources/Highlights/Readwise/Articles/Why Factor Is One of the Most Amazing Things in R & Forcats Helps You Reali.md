@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali
 
 ## Metadata
@@ -22,3 +34,11 @@
 * If we want to show the US Presidents from the latest to the oldest, then we can simply use ‘fct_rev’ from ‘forcats’ package to reverse the original order we have set above.
 * This is when the ‘fct_lump’ function from ‘forcats’ package comes to rescue. It keeps only a top N number of the categories, in this case, that is US states, and moves everything else into an ‘Other’ bucket.
   * Tags: *favorite*
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

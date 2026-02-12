@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Highlights
 
 *Take a gander at my *Readwise* Highlights Broadcast Site: [📚 James's Highlights (readwise.io)](https://readwise.io/@james688)*
@@ -36,3 +48,11 @@ The [Readwise Folder](3-Resources/Highlights/Readwise/_README.md) contains my hi
 ````dataview
 list from [[_README]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

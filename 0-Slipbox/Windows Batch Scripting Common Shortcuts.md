@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Windows Batch Scripting Common Shortcuts
 
 *Sources: https://ss64.com/nt/syntax-args.html | https://superuser.com/questions/224416/what-do-df0-and-df1-mean-in-a-batch-file*
@@ -52,3 +64,11 @@ The modifiers above can be combined:
 ````dataview
 list from [[Windows Batch Scripting Common Shortcuts.md]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

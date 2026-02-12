@@ -1,0 +1,20 @@
+3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Create modified_at columns and triggers.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Count NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Clone Schema.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Calculating the Median.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Basic Instance Information.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Audit Trigger.md
+2-Areas/Code/SQL/SQL - POST HTTP API Request with SQL Server.md
+2-Areas/Code/SQL/SQL - Monitor Query Plans.md
+2-Areas/Code/SQL/SQL - Get Number of Open Connections.md
+2-Areas/Code/SQL/SQL - Find Unused Indexes.md
+2-Areas/Code/SQL/SQL - Crosstab Query.md
+2-Areas/Code/SQL/SQL - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/SQL/SQL - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/SQL/SQL - Check Size of DB Objects.md
+2-Areas/Code/SQL/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/SQL/README.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md
+3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md

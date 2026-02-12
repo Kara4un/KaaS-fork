@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Kimball Lifecycle
 
 *Source: [The Kimball Lifecycle - Wikipedia](https://en.wikipedia.org/wiki/The_Kimball_Lifecycle)*
@@ -44,3 +56,11 @@ The top track holds two milestones:
 
 * [Ralph Kimball](../2-Areas/People/Ralph%20Kimball.md)
 * [Kimball Techniques for Data Warehousing](Kimball%20Techniques%20for%20Data%20Warehousing.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

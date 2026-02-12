@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Questions to Ask Yourself Before Starting
 
 ## Metadata
@@ -40,3 +52,11 @@
   In an ideal world, what kind of life would I want to live, and what kind of person would I be?
   What would I like to change about the world around me?
   What parts of running a business scare or worry me? What parts excite me? ([View Highlight](https://instapaper.com/read/1472429217/18403407))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

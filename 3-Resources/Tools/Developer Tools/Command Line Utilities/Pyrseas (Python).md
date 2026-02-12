@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Pyrseas (Python)
 
 *Source: https://github.com/perseas/Pyrseas*
@@ -179,3 +191,11 @@ The behavior and options of `dbtoyaml` are patterned after the [pg_dump utili
 ````dataview
 list from [[Pyrseas (Python)]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

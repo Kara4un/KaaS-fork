@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Highlights Overview
 
 %% Begin Waypoint %%
@@ -21,7 +33,7 @@
   * [Knowledge Management in Real Life  LinkedIn](Hypothesis/Knowledge%20Management%20in%20Real%20Life%20%20LinkedIn.md)
   * [Learn about Cloud Functions events and triggers  Google Cloud Blog](Hypothesis/Learn%20about%20Cloud%20Functions%20events%20and%20triggers%20%20Google%20Cloud%20Blog.md)
   * [List of shell commands in Windows 10](Hypothesis/List%20of%20shell%20commands%20in%20Windows%2010.md)
-  * [Microservices architecture on Google Cloud  Google Cloud Blog](Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
+  * [[[Microservices Architecture]] on Google Cloud  Google Cloud Blog](Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
   * [Perfect Fantasy Football Draft Strategy (2022)](Hypothesis/Perfect%20Fantasy%20Football%20Draft%20Strategy%20%282022%29.md)
   * [PostgreSQL extension turned Cloud microservice  Google Cloud Blog](Hypothesis/PostgreSQL%20extension%20turned%20Cloud%20microservice%20%20Google%20Cloud%20Blog.md)
   * [PowerShell Tips & Tricks • Jeffery Hicks](Hypothesis/PowerShell%20Tips%20&%20Tricks%20%E2%80%A2%20Jeffery%20Hicks.md)
@@ -37,7 +49,7 @@
   * [34 Workflow - Big Book of R](Matter/34%20Workflow%20-%20Big%20Book%20of%20R.md)
   * [Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain](Matter/Actuarial%20Process%20Optimization-A%20Case%20for%20Using%20Modern%20Technology%20in%20Actuarial%20Domain.md)
   * [BEGIN-PROCESS-END - You Can Do Better](Matter/BEGIN-PROCESS-END%20-%20You%20Can%20Do%20Better.md)
-  * [Caching the results of functions of your R package](Matter/Caching%20the%20results%20of%20functions%20of%20your%20R%20package.md)
+  * [[[Caching]] the results of functions of your R package](Matter/[[Caching]]%20the%20results%20of%20functions%20of%20your%20R%20package.md)
   * [Considerations and limitations for SQL queries in Amazon Athena](Matter/Considerations%20and%20limitations%20for%20SQL%20queries%20in%20Amazon%20Athena.md)
   * [Don’t default to Shiny. Go Quarto instead](Matter/Don%E2%80%99t%20default%20to%20Shiny.%20Go%20Quarto%20instead.md)
   * [File Structure - Broad Institute of MIT and Harvard](Matter/File%20Structure%20-%20Broad%20Institute%20of%20MIT%20and%20Harvard.md)
@@ -45,7 +57,7 @@
   * [Getting started with VBA in Office](Matter/Getting%20started%20with%20VBA%20in%20Office.md)
   * [Globals and Ambient Context](Matter/Globals%20and%20Ambient%20Context.md)
   * [How I Redesigned over 100 ETL into ELT Data Pipelines](Matter/How%20I%20Redesigned%20over%20100%20ETL%20into%20ELT%20Data%20Pipelines.md)
-  * [How to use event storming to achieve domain-driven design](Matter/How%20to%20use%20event%20storming%20to%20achieve%20domain-driven%20design.md)
+  * [How to use event storming to achieve [[Domain-Driven Design]]](Matter/How%20to%20use%20event%20storming%20to%20achieve%20domain-driven%20design.md)
   * [How to write effective Stored Procedures in PostgreSQL](Matter/How%20to%20write%20effective%20Stored%20Procedures%20in%20PostgreSQL.md)
   * [Identify source schema changes using AWS Glue](Matter/Identify%20source%20schema%20changes%20using%20AWS%20Glue.md)
   * [Internal functions in R packages](Matter/Internal%20functions%20in%20R%20packages.md)
@@ -187,7 +199,7 @@
     * [Change Data Capture in DWBI](Readwise/Articles/Change%20Data%20Capture%20in%20DWBI.md)
     * [Clean Up Your Productivity System to Be More Productive](Readwise/Articles/Clean%20Up%20Your%20Productivity%20System%20to%20Be%20More%20Productive.md)
     * *Cloud Based Computing Business Ideas for 2021 [Top 50 Picks*\]
-    * [Cloud Computing 8 Benefits for Your Software Developers - Dice Insights](Readwise/Articles/Cloud%20Computing%208%20Benefits%20for%20Your%20Software%20Developers%20-%20Dice%20Insights.md)
+    * [[[Cloud Computing]] 8 Benefits for Your Software Developers - Dice Insights](Readwise/Articles/Cloud%20Computing%208%20Benefits%20for%20Your%20Software%20Developers%20-%20Dice%20Insights.md)
     * [Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog](Hypothesis/Cloud%20Run%20gets%20always-on%20CPU%20allocation%20%20Google%20Cloud%20Blog.md)
     * [CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.](Readwise/Articles/CloudRun%20With%20Serverless%20VPC%20Access%20+%20CloudSQL%20With%20Private%20Service%20Connect..md)
     * [Cloudwards.net's Backup and Storage Strategy 2017](Readwise/Articles/Cloudwards.net's%20Backup%20and%20Storage%20Strategy%202017.md)
@@ -367,7 +379,7 @@
     * [Managing Your Project - How to Make Your Research Reproducible - Library Gu](Readwise/Articles/Managing%20Your%20Project%20-%20How%20to%20Make%20Your%20Research%20Reproducible%20-%20Library%20Gu.md)
     * [Managing Yourself Extreme Productivity](Readwise/Articles/Managing%20Yourself%20Extreme%20Productivity.md)
     * [Methods Bites](Readwise/Articles/Methods%20Bites.md)
-    * [Microservices Architecture on Google Cloud  Google Cloud Blog](Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
+    * [[[Microservices Architecture]] on Google Cloud  Google Cloud Blog](Hypothesis/Microservices%20architecture%20on%20Google%20Cloud%20%20Google%20Cloud%20Blog.md)
     * [Minimum Viable PKM](Readwise/Articles/Minimum%20Viable%20PKM.md)
     * [Modernize Your ETL Processes to Unleash Better Business Intelligence](Readwise/Articles/Modernize%20Your%20ETL%20Processes%20to%20Unleash%20Better%20Business%20Intelligence.md)
     * [More Solutions for Taking Podcast Notes An App Overview](Readwise/Articles/More%20Solutions%20for%20Taking%20Podcast%20Notes%20An%20App%20Overview.md)
@@ -421,7 +433,7 @@
     * [Re-Share Vtreat Data Preparation Documentation and Video – Win-Vector Blog](Readwise/Articles/Re-Share%20Vtreat%20Data%20Preparation%20Documentation%20and%20Video%20%E2%80%93%20Win-Vector%20Blog.md)
     * [Rebooting Your Productivity System](Readwise/Articles/Rebooting%20Your%20Productivity%20System.md)
     * [Reflect, Recover, Reset – Your Life Plan 2021](Readwise/Articles/Reflect,%20Recover,%20Reset%20%E2%80%93%20Your%20Life%20Plan%202021.md)
-    * [RESTful API Design — Step by Step Guide](Readwise/Articles/RESTful%20API%20Design%20%E2%80%94%20Step%20by%20Step%20Guide.md)
+    * [RESTful [[API Design]] — Step by Step Guide](Readwise/Articles/RESTful%20API%20Design%20%E2%80%94%20Step%20by%20Step%20Guide.md)
     * [Robert Myles McDonnell](Readwise/Articles/Robert%20Myles%20McDonnell.md)
     * [RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas](Readwise/Articles/RopenscilabsDataspice%20Create%20Lightweight%20schema.org%20Descriptions%20of%20Datas.md)
     * [RShiny Authentication With Polished on AWS Kubernetes](Readwise/Articles/RShiny%20Authentication%20With%20Polished%20on%20AWS%20Kubernetes.md)
@@ -448,8 +460,8 @@
     * [Supercharge Your Git Experience](Readwise/Articles/Supercharge%20Your%20Git%20Experience.md)
     * [Supersizing the Mind The Science of Cognitive Extension - Forte Labs](Readwise/Articles/Supersizing%20the%20Mind%20The%20Science%20of%20Cognitive%20Extension%20-%20Forte%20Labs.md)
     * [Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley](Readwise/Articles/Symlinks%20in%20Windows,%20MinGW,%20Git,%20and%20Cygwin%20%C2%B7%20Josh%20Kelley.md)
-    * [System Design Basics Load Balancer 101](Readwise/Articles/System%20Design%20Basics%20Load%20Balancer%20101.md)
-    * [System Design Paradigm Caching](Readwise/Articles/System%20Design%20Paradigm%20Caching.md)
+    * [[[System Design]] Basics Load Balancer 101](Readwise/Articles/System%20Design%20Basics%20Load%20Balancer%20101.md)
+    * [[[System Design]] Paradigm [[Caching]]](Readwise/Articles/System%20Design%20Paradigm%20Caching.md)
     * [Take the First Step](Readwise/Articles/Take%20the%20First%20Step.md)
     * [Taking Notes for Yourself Best Practices for the Personal Notebook](Readwise/Articles/Taking%20Notes%20for%20Yourself%20Best%20Practices%20for%20the%20Personal%20Notebook.md)
     * [Templates for R Markdown  Jianghao](Readwise/Articles/Templates%20for%20R%20Markdown%20%20Jianghao.md)
@@ -522,7 +534,7 @@
     * [Using Todoist for GTD  GTD Method](Readwise/Articles/Using%20Todoist%20for%20GTD%20%20GTD%20Method.md)
     * [Variable and Value Labels Support in Base R and Other Packages](Readwise/Articles/Variable%20and%20Value%20Labels%20Support%20in%20Base%20R%20and%20Other%20Packages.md)
     * [Want to Get Organized Start With the Mind Sweep](Readwise/Articles/Want%20to%20Get%20Organized%20Start%20With%20the%20Mind%20Sweep.md)
-    * [Web Application Architecture](../../0-Slipbox/Web%20Application%20Architecture.md)
+    * [[[Web Application Architecture]]](../../0-Slipbox/Web%20Application%20Architecture.md)
     * [Weekly Reset System for Increased Productivity  Mystigal](Readwise/Articles/Weekly%20Reset%20System%20for%20Increased%20Productivity%20%20Mystigal.md)
     * [Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software](Readwise/Articles/Weekly%20Review%20Checklist%20An%20Insanely%20Productive%20Week%20in%2014%20Steps%20%20Process%20Street%20%20Checklist,%20Workflow%20and%20SOP%20Software.md)
     * [What I've Learnt About Making an R Package](Readwise/Articles/What%20I've%20Learnt%20About%20Making%20an%20R%20Package.md)
@@ -665,3 +677,11 @@ type: folder_brief_live
 ---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

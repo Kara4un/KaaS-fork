@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://appsilon.com/r-markdown-reporting-best-practices/](https://appsilon.com/r-markdown-reporting-best-practices/)
@@ -15,3 +27,11 @@
 * Leverage Rstudio UI and package templates When rendering new R Markdown documents, you can use templates from Rstudio UI and leverage the options that new packages can have.
 * Create your own templates for R Markdown Making your own templates will boost your productivity and keep you with steady-state documents. This can be used through many types of documents such as word documents or even HMTL documents, including slides, by setting your own HTML and/or CSS template. Bslibs is a great resource when setting the UI design since it allows you to dynamically set the CSS components:
 * Separate the document into different pieces This is not only important to make your code cleaner but also reusable. Let’s take the {xaringan} package as an example:
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

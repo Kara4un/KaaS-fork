@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Get Started with Obsidian as a Developer
 
 ## Metadata
@@ -32,3 +44,11 @@
 * The Obsidian 2020 Story of the Year nomination thread contains lots of helpful examples of how Obsidian is helping people do better work. — [Updated on 2022-02-27 15:16:24](https://hyp.is/Iv0LJpgKEey6xCNH6bZfZA/www.samjulien.com/get-started-with-obsidian-as-a-developer)  — Group: #PKM
 
 * Obsidian Roundup is a weekly roundup of Obsidian.md tips, news and resources via Eleanor Konik. — [Updated on 2022-02-27 15:16:27](https://hyp.is/JI4lGpgKEeypPXu_yrq13Q/www.samjulien.com/get-started-with-obsidian-as-a-developer)  — Group: #PKM
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

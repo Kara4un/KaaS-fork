@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Reproducible Data Science with Azure Machine Learning
 
 *Source: [Reproducible Data Science with Machine Learning](https://www.youtube.com/watch?v=NyWOfYKScUk)*
@@ -35,3 +47,11 @@ Follow Rafal [https://twitter.com/rafaldotnet](https://twitter.com/rafaldotnet)
 ````dataview
 list from [[Reproducible Data Science with Azure Machine Learning]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

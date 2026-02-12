@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Create an Effective Productivity Plan - Optimize Time
 
 ## Metadata
@@ -71,3 +83,11 @@
   Because remember, you read this post for a reason.
   You’re driven and have a lot to do. Maybe you’re even looking to add more to your plate. You’re busy and need a thorough plan for your time.
   So go ahead and create a productivity plan of your very own and start moving faster and more effectively towards your goals.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

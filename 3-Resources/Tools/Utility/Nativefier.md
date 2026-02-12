@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Nativefier
 
 *Source: [nativefier/nativefier: Make any web page a desktop application (github.com)](https://github.com/nativefier/nativefier)*
@@ -197,3 +209,11 @@ and this is what the application looks like while running:
 * *Nodejs* | [Node - npm](../Developer%20Tools/Package%20Managers/Node%20-%20npm.md)
 * [Electron](Electron.md)
 * [Portable Apps](../../../0-Slipbox/Portable%20Apps.md)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

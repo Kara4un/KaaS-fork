@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # One Productivity System to Rule Them All
 
 ## Metadata
@@ -17,3 +29,11 @@
 * The system consists on three sub-systems: modes, tools, and activities.
 * There are three possible modes you can engage through this system: signaling, executing, and reflecting.
 * Signaling means being aware of potential new tasks or work you need to take ownership of. Whether it’s through meetings, slack threads, or emails, you will need to translate requests into tasks you can track and prioritize
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

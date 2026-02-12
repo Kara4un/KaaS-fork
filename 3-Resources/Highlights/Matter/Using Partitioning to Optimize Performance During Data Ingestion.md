@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://www.bluegranite.com/blog/using-partitioning-to-optimize-performance-during-data-ingestion](https://www.bluegranite.com/blog/using-partitioning-to-optimize-performance-during-data-ingestion)
@@ -19,3 +31,11 @@
 * Applying Partitioning to a Growing Dataset In many cases, you won’t ingest your data from the start using partitioning. Over time, your data set will grow and eventually reach the point where it can no longer run in the necessary time frame. To implement the partitioning method, how do you handle all the data that has already been ingested in order for it to be compatible with the partitioned data?
 * The data that has already been ingested will need to be transformed to include a partition and a PartitionedBy column. This transformation will provide seamless integration with your incoming data.
 * The finished product will be a partitioned table that incorporates the data that existed before the partitioning pattern was applied and efficiently ingests data partitioned by YEAR(LaunchDate).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

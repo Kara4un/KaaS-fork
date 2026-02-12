@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
 
 ## Metadata
@@ -76,3 +88,11 @@
   kind of philosophically speaking,
   Speaker 1
   sort of putting aside here, parenthetically, teres a lot of technical advantages people like in terms of transcripts and been able to a search and be ablo have a record of interactions that various stake holders can look at. The're some technical benefits that are very important for certain organizations. ([Time 0:51:14](https://share.snipd.com/snip/1f140cc4-7e13-446f-98ba-713964a953c0))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

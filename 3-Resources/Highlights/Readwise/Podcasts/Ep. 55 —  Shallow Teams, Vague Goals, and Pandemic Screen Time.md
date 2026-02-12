@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time
 
 ## Metadata
@@ -38,3 +50,11 @@
   efficient. But
   Speaker 1
   as i write about my new book coming out in march, even that often had unexpected side effects. So a emale, for example, made it easier to communicate. It was literally less friction for me to send you an email than to leave you a voice message. But then it had the unintentional side effect of making us communicate a lot more, which actually made work much more difficult and made us less happy. So it's really been a mixed reaction what kek has brought into the ([Time 0:47:36](https://share.snipd.com/snip/772d0989-c5dd-4bbb-a3d7-3a7f97bf3bbf))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

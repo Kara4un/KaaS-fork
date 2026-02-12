@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # Data Engineering and Its Main Concepts
 
 *Source: [Data Engineering: Data Warehouse, Data Pipeline and Data Engineer Role | AltexSoft](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)*
@@ -175,3 +187,11 @@ A **Data lake** is a vast pool for saving data in its native, unprocessed form. 
 ````dataview
 list from [[Data Engineering and Its Main Concepts]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

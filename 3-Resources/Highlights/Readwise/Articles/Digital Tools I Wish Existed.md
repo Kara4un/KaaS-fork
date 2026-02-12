@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Digital Tools I Wish Existed
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Part of the problem here is metadata is hard. Someone has to sit there and fill out the author, title, subtitle, summary, page count - and they’re probably not going to do it for free. Amazon is a good at it but is hostile to publishers. Goodreads has much potential but seems to have stagnated. Linking to the book’s Wikipedia entry would be my preference but very few books have an entry.
 * Intelligent PDF viewers, eBook readers, audiobook & podcast players #
 * A centralized search interface for my digital brain (memex)
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

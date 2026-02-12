@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # 6 YAML Features Most Programmers Don’t Know
 
 ## Metadata
@@ -12,3 +24,11 @@
 * This no is interpreted as false . You need to write "no" or 'no' .
 * Now you might want to insert a password to the dev and prod settings. You can do that by using the merge key\<\< :
 * The double bang !! has a special meaning in YAML. It is called “secondary tag handle” and a shorthand for !tag:yaml.org,2002: (source).
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

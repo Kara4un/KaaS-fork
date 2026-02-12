@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # An Easy 5-Step Guide to Auditing Your Subscriptions, According to Experts
 
 ## Metadata
@@ -51,3 +63,11 @@
 * Bonus step: Make calendar reminders to cancel free trials.
 * Many subscriptions have free trials or offer low introductory rates. “As soon as you sign up for a free trial, put the date you want to cancel on your calendar, so you remember to cancel,” Lonie says.
 * Also, make sure you understand the policy for canceling the free trial. Can you cancel online, or do you have to call? Regardless, be ready for the sales pitch about why you should stay and expect some lower rates to be offered to keep you as an active subscriber.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Just-In-Time Project Management: A Digital-First Framework for Modern Projects - Forte Labs
 
 ## Metadata
@@ -14,3 +26,11 @@
   The challenge of modern work is how to create systems that free up attention, instead of consuming more of it.
   In other words, we need systems for managing our attention that produce value now, not eventually. We can’t be “investing” our most valuable asset today in hopes of a distant future that may never come.
 * Personal knowledge management (PKM) is the key capability in modern work, because it allows us to continuously make use of attention we’ve already deployed. But for it to be viable in the short term, PKM must also be integrated into how we manage day-to-day projects.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Data-Engineering
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Data-Engineering
+status: living
+related_moc: '[[Data Engineering]]'
+updated: '2026-02-12'
+---
+
 # ELT Cloud Based Pipeline Architecture
 
 *Sources: [ELT Architecture in the Azure Cloud | by Greg Marsh | Aptitive](https://blog.aptitive.com/elt-architecture-in-the-azure-cloud-50a90681036b) | [How to Build a Data Warehouse for the Insurance Industry | by Greg Marsh | Aptitive](https://blog.aptitive.com/how-to-build-a-data-warehouse-for-the-insurance-industry-adb6399ddb89)*
@@ -37,3 +49,11 @@ There needs to a mechanism in place to orchestrate the transition from the colle
 ````dataview
 list from [[ELT Cloud Based Pipeline Architecture]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Data Engineering]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

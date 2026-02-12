@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # SSH Key Best Practices
 
 ## Metadata
@@ -16,3 +28,11 @@
 * Adding comments to keys can allow you to organize your keys more easily. The comments are stored in end of the public key file and can be viewed in clear text. For example:
   cat ~/.ssh/{keyservice}\_rsa.pub
   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDG..........qiaWxRUdk0UKU0c5ZqQYHRCw== username@hostname ([View Highlight](https://instapaper.com/read/1439398212/17289761))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Pattern
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Pattern
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # SQL - Clone Schema
 
 *Source: https://wiki.postgresql.org/wiki/Clone_schema*
@@ -92,3 +104,11 @@ $$ LANGUAGE plpgsql VOLATILE;
 ````dataview
 list from [[SQL - Clone Schema]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

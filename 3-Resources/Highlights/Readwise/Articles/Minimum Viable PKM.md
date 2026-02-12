@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Minimum Viable PKM
 
 ## Metadata
@@ -19,3 +31,11 @@
 * 4 Connecting notes — This is where the magic happens. When you spend time connecting notes, those neurons in your brain fire up. Once you start doing this consistently, you’re expanding your thinking and becoming smarter 🙂. I wish they taught this in school.
 * 5 Reviewing and Updating Notes: This is where the Digital Gardener mindset will be useful — every note is W.I.P. Don’t let the term “Permanent Note” fool you. It isn’t permanent (like everything else).
 * As mentioned in “Connecting Notes”, notes (and your PKM system) should be regularly edited and connected. Make time to review notes without connections and see if there is something relevant you can connect it with. Of course, the connection must be logical and shouldn’t be forced. Regularly spending time in “connecting notes” will make you good at it.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

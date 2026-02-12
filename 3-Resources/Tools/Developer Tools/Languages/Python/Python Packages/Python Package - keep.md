@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Python Package - keep
 
 *Source: [OrkoHunter/keep: A Meta CLI toolkit : Personal shell command keeper and snippets manager (github.com)](https://github.com/OrkoHunter/keep)*
@@ -133,3 +145,11 @@ Not a command line fanatic? Here are some resources for you :
 ````dataview
 list from [[Python Package - keep]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

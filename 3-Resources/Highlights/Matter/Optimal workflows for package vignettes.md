@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 ## Metadata
 
 * URL: [https://blog.r-hub.io/2020/06/03/vignettes/](https://blog.r-hub.io/2020/06/03/vignettes/)
@@ -18,3 +30,11 @@
 * Vignette metadata is important. A non place-holder title in VignetteIndexEntry is compulsory! Vignettes with a place-holder title are even called bad_vignettes in R source. 😱
 * Based on what we said in the previous subsection, R CMD build builds vignettes from vignettes/ whereas R CMD check checks they can be rebuilt from inst/doc/. So if there were data in vignettes/, given it’s not copied to inst/doc/… R CMD check will error!
 * It’s also useful to know that there are options related to vignette building and checking in R CMD build and R CMD check. Of course you don’t control these options for CRAN but you do control them when sending your packages to R-hub package builder, and when setting up continuous integration. See for instance this great tip by John Blischak, “checking the package while ignoring the vignettes can be done with the following steps:"
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

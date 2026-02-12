@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 # Kubernetes Explained to Product Managers
 
 ## Metadata
@@ -50,3 +62,11 @@
   More about Kubernetes components
   A Youtube Kubernetes tutorial for beginners
   The illustrated children's guide to Kubernetes ([View Highlight](https://instapaper.com/read/1354348908/14361598))
+
+## Knowledge Graph Links
+
+- [[Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
 
 ## Metadata
@@ -20,3 +32,11 @@
 * DNS Jumper is a portable freeware tool which tests multiple public DNS services to find out which delivers the best performance for you.
   The program has a lot of options, but isn't difficult to use. Launch it, click Fastest DNS > Start DNS Test, and within a few seconds you'll be looking at a list of DNS services sorted by speed.
   DNS Jumper can be useful, in particular because it's checking how servers perform from your location, but it doesn't run enough tests over a long enough period to give you a definitive answer. ([View Highlight](https://instapaper.com/read/1451022743/17670969))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

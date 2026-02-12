@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Export Evernote to Google Drive?
 
 ## Metadata
@@ -10,3 +22,11 @@
 ## Highlights
 
 * Suppose that you want to export all your Evernote data to Google Drive in a way that you can view them as you did in Evernote - a text file note would just be a text file, a PDF would just be a PDF, and a jpg would just be a jpg. In this situation, you need to migrate Evernote to Google Drive, and MultCloud is helpful.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

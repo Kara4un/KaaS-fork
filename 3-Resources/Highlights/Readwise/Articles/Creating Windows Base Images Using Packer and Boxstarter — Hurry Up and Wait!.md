@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!
 
 ## Metadata
@@ -17,3 +29,11 @@
   Optimize the image with Boxstarter, installing all windows updates, and shrinking as much as possible.
   Output a vagrant .box file for creating new VirtualBox VMs with this image.
   Sharing the box with others using Atlas.Hashicorp.com ([View Highlight](https://instapaper.com/read/1430577427/17062492))
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

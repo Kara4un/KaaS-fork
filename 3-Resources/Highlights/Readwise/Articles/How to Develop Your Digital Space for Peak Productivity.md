@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # How to Develop Your Digital Space for Peak Productivity
 
 ## Metadata
@@ -25,3 +37,11 @@
   As more and more people are working online today, learning how to design a good digital space gives you an advantage. If you’re a knowledge worker, this skill becomes crucial to your day-to-day productivity and performance.
   Personally, I see technology — the Internet and digital tools — as a great advancement in human evolution. But like anything that creates leaps and bounds of progress, it has the potential to destroy us if we’re not being careful.
   Whether you like it or not, the environment — both physical and digital — you’re in is going to shape you and your life outcomes. The goal is not trying to escape from them. Instead, learn to make the best use of what you’ve got to develop a winning environment for yourself.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

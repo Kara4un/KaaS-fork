@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester
 
 ## Metadata
@@ -57,3 +69,11 @@
 * To quote:
   “To get a good paper written, you only have to rewrite a good draft; to get a good draft written, you only have to turn a series of notes into a continuous text. And as a series of notes is just the rearrangement of notes you already have in your slip-box, all you really have to do is have a pen in your hand when you read.” (p. 75)
 * Conclusion: To be creative, follow your interests, take notes, and trust in a process
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

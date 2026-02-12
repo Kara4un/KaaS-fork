@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
+---
+
 # My Personal Knowledge Management System — Moby Diction
 
 ## Metadata
@@ -16,3 +28,11 @@
   These notes either represent strong opinions or strong facts. I've taken inspiration from Andy Matuschak's idea of evergreen notes. I see them as the place in which I develop my personal perspective on the kinds of things I read. I try to write these in something approaching final copy, including extensive links to other evergreen notes.
   I'll also sometimes compile Maps of Content (MOC) notes, which curate and comment on relationships between notes on a related topic. They often start as a hypothetical outline that will help guide my future self.
   Per Ahrens' advice, I keep my zettelkasten notes separate from the fleeting notes I take in Evernote. For now, I am using Obsidian. One of Evernote's weaknesses is how it handles linking. You can create links to individual notes, but it's quite effortful compared to markdown or wiki-based approaches like Obsidian or Bear. And, Obsidian offers the additional ability to quickly see what notes link to one another. This can help to identify unexpected connections and foster serendipitous discovery of new ideas.
+
+## Knowledge Graph Links
+
+- [[Software Development]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]

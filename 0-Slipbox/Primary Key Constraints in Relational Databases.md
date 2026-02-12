@@ -1,3 +1,15 @@
+---
+type: Atomic-Note
+domain: Databases
+tags:
+  - kb/ontology
+  - type/Atomic-Note
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Primary Key Constraints in Relational Databases
 
 *Source: [Primary and Foreign Key Constraints - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-ver15#PKeys)*
@@ -41,3 +53,11 @@ As shown in the following illustration, the `ProductID` and `VendorID` columns i
 ````dataview
 list from [[Primary Key Constraints in Relational Databases]] AND -"Changelog"
 ````
+
+## Knowledge Graph Links
+
+- [[Databases]]
+- [[Ontology-Overview]]
+- [[Document-Types]]
+- [[Core-Domains]]
+- [[Glossary-Key-Terms]]
