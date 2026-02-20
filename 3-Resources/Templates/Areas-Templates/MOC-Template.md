@@ -1,8 +1,18 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "<% tp.file.title %>"
+Tags:
+  - '#Type/MOC'
+Alias: <% tp.file.title %>
+type: MOC
+domain: Software-Development
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Software-Development
+status: living
+related_moc: '[[Software Development]]'
+updated: '2026-02-12'
 ---
 
 # <% tp.file.title %>

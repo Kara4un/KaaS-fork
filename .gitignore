@@ -1,13 +1,49 @@
-# Obsidian
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Obsidian local state
 desktop.files.json
 .vault-stats
 .trash
 .archive
+.obsidian/
 
-# Node
-/node_modules
-/npm-debug.log
+# Secrets and local env
+.env
+.env/
+.env.*
+.npmrc
 
-# Cargo
-/target
-/src
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+venv-fresh/
+
+# Node / Quartz build artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+
+# Local scripts output and runtime logs
+.scripts/out/
+*.log
+*.pid
+
+# Local data stores
+storage_graph/
+storage_vector/
+
+# Rust
+target/

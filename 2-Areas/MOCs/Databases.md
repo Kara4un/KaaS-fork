@@ -1,3 +1,15 @@
+---
+type: MOC
+domain: Databases
+tags:
+  - kb/ontology
+  - type/MOC
+  - domain/Databases
+status: living
+related_moc: '[[Databases]]'
+updated: '2026-02-12'
+---
+
 # Databases
 
 *Backlink: [KaaS](../../0-Slipbox/README.md)*

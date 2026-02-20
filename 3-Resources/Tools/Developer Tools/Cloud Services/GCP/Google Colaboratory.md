@@ -1,3 +1,15 @@
+---
+type: Guide
+domain: DevOps
+tags:
+  - kb/ontology
+  - type/Guide
+  - domain/DevOps
+status: living
+related_moc: '[[Development]]'
+updated: '2026-02-12'
+---
+
 <h1>Google Colaboratory</h1><p><img style="float" href="https://colab.research.google.com/" src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45px"></p>
 
 Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with 
